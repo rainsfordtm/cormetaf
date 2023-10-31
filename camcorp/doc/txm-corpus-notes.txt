@@ -1,0 +1,28 @@
+TXM corpus
+**********
+
+- Adapt XSLs to allow filtering out of some fields from the CSV file
+	- i.e. lex_id not required; syllabized field not required either
+	
+- ch_id / chapter_id field to simplify
+
+ANNIS corpus
+************
+- Work out why the word to syllable alignment is broken in some but not all
+texts (which and why?)
+- Tidy up:
+	- add metadata (if possible)
+	- simplify spans so that one unit has multiple properties
+	- come up with a way to add the prose texts so that the corpora are
+	homogeneous.
+	
+Next stages
+***********
+- Update old analysis scripts to allow them to access the new format .csv files.
+- Work out how to integrate the syntactic annotation:
+	- output: in ANNIS as a standardized "simplified" bare constituency
+	annotation
+	- analysis: perhaps use the old method with _disc files (quickest) for stress
+	clash analysis
+
+
