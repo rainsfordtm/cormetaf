@@ -1,0 +1,24 @@
+Rules applied: R1, R8
+Lines correct: 512 of 518
+Pass history:
+Tried rules R1; 511 lines correct.
+Tried rules R11; 476 lines correct.
+Tried rules R2; 466 lines correct.
+Tried rules R30; 478 lines correct.
+Tried rules R8; 479 lines correct.
+Tried rules R1, R11; 509 lines correct.
+Tried rules R1, R2; 497 lines correct.
+Tried rules R1, R30; 511 lines correct.
+Tried rules R1, R8; 512 lines correct.
+Tried rules R1, R8, R11; 510 lines correct.
+Tried rules R1, R8, R2; 498 lines correct.
+Tried rules R1, R8, R30; 512 lines correct.
+OPTIMIZED LINES
+81    82     - sire , or les nos montrez donc ,
+230    231     le cuide il vers nos tensser ?
+310    311     que son frere a conseu :
+335    334     sa chemise ot despoilliee ,
+455    446     cele veille et cil se dort ,
+490    481     s' aloit la teste enbrunchant .
+
+BAD LINES

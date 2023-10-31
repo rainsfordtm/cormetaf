@@ -1,0 +1,188 @@
+Rules applied: R1, R2
+Lines correct: 331 of 500
+Pass history:
+Tried rules R1; 329 lines correct.
+Tried rules R11; 306 lines correct.
+Tried rules R2; 319 lines correct.
+Tried rules R30; 311 lines correct.
+Tried rules R8; 310 lines correct.
+Tried rules R1, R11; 324 lines correct.
+Tried rules R1, R2; 331 lines correct.
+Tried rules R1, R30; 329 lines correct.
+Tried rules R1, R8; 328 lines correct.
+Tried rules R1, R2, R11; 326 lines correct.
+Tried rules R1, R2, R30; 331 lines correct.
+Tried rules R1, R2, R8; 330 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES
+0    1     adam sire fourmé te ai
+3    5     a ma imagene t ai feit de terre
+4    6     ne moi devez ja mais mover guere
+5    7     nen frai ge mais te crerrai
+8    10     ce est ta femme eva a noun
+9    11     ce est ta femme e tun pareil
+11    13     tu aime lui e ele ame tei
+12    14     si serez ben ambedui de moi
+13    15     ele soit a tun comandement
+14    16     e vus ambedeus a mun talent
+15    17     de ta coste l' ai fourmee
+16    18     n est pas estrange de tei est nee
+17    19     jo la plasmai de ton cors
+20    22     n ait entre vus ja tencon
+23    25     a tei parlerai evain
+24    26     co garde tu ne l' tenez en vain
+30    32     tut ta force e tot tun sens
+31    33     adam aime et lui tien chier
+32    34     il est marid e tu sa mullier
+39    41     jo l' frai sire a ton plaisir
+41    43     toi conustrai a seignor
+44    46     de moi avra bon conseil
+46    48     frai sire en tote guise
+48    118     por quei non rien ne me valt
+51    121     or le me di non frai pas
+55    125     tu as li bien ne seiez joir
+69    139     quant creiez mal te poisse venir
+70    140     n es tu en gloire nen poez morir
+81    151     li quels est co veez le tu la
+89    159     se tu le manjues bon le fras
+93    163     quanque vuldras porras faire
+95    165     manjue le si fras bien
+98    168     por co le quidat veer
+100    170     no el frai pas or oez deduit
+102    172     encore te membrera des moz
+103    173     adam que fais changeras tun sens
+108    178     as tu donch altre deduit
+109    179     jo oïl ne me falt
+116    186     altre honor ne te voldra atraire
+122    192     si tu manjues la pome
+124    194     od deu poez partir poesté
+127    197     mal conseil dones e jo coment
+130    200     tolir de joie mettre en dolor
+137    207     jo vois querant tun pru tun honor
+139    209     molt a grant tens que jo ai apris
+142    212     ore le comence e jo l' orrai
+143    213     orras me tu si frai bien
+144    214     ne te curcerai de rien
+165    235     por co fait bon traire a toi
+167    237     nen sache nuls ki le deit saver
+178    248     il ad en soi grant vertu
+181    251     de tut saver bien e mal
+187    257     e seusez quanque a estre
+193    263     primes le pren e a adam le done
+194    264     del ciel averez sempres corone
+199    269     o deus serrez sanz faillance
+202    272     ne creire adam jo l' ferai
+204    274     tant que adam soit en recoi
+215    285     ne l' fra pas car ne l' crerai
+222    292     ne voil que vers vus ait nul retrait
+223    293     manjue adam ne sez que est
+225    295     est il tant bon tu le saveras
+226    296     ne l' poez saver si n gusteras
+227    297     j en duit lai le nen frai pas
+229    299     e jo le prendrai manjue ten
+230    300     par co saveras e mal e bien
+231    301     jo en manjerai premirement
+233    303     gusté en ai deus quele savor
+239    309     quanque fu quanque doit estre
+245    315     allas pecchor que ai jo fait
+246    316     or sui mort sanz nul retrait
+247    317     senz nul rescus sui jo mort
+248    318     tant est chaite mal ma sort
+253    323     allas pecchable que frai
+256    326     que jo ai guerpi por ma folor
+258    328     or sai jo ja que est pecchié
+260    330     que n est li monde de moi delivre
+271    341     non iert nul que gaires vaille
+274    344     nen puis contre lui entrer em plait
+276    346     deu tant a ci mal plait
+277    347     chi avrad mais de moi memorie
+282    352     qui me trai del plait a fin
+284    354     quant ma femme m' a traït
+288    358     mal fussez vus de moi nee
+289    359     car fust arse iceste coste
+295    365     la coste ad tut le cors trai
+301    371     ai eve cum a mal ore
+302    372     cume grant peine me curut sore
+304    374     ore sui perriz par ton conseil
+306    376     de grant haltesce sui mis aval
+309    379     que di jo las por quoi le nomai
+317    387     ci sui jo beal sire
+319    389     e por co que sui tut nuz
+321    391     ke as tu fet cum as erré
+323    393     que as tu fet por quei as honte
+325    395     tu n avois rien l' autrier
+326    396     dunt tu duses vergunder
+327    397     or te voi mult triste et morne
+328    398     mal sen joist qui ensi sojorne
+329    399     tel vergoine ai jo sire de toi
+332    402     ne t os veer en la face
+334    404     as tu gaires gaainnié
+336    406     ne l' te puis pas contredire
+339    409     jo toi plasmai dreit a ma ymage
+340    410     por co me fis cel oltrage
+350    420     or m' est avis que tornez est a gwai
+353    423     ta moiller creistes plus que moi
+356    426     la terre avrat maleicon
+362    432     espines e chardons te rendrat
+364    434     malait iert por ta sentence
+367    437     od grant paine od grant suor
+368    438     vivras tu noit e jor
+370    440     tost me comencas de guerreer
+374    444     ses tu ja bien deviner
+376    446     de quanque doit estre en vie
+379    449     as tu fait gain ou perte
+380    450     jo toi rendrai ta deserte
+384    454     e em paine vivront tot lor anz
+386    456     e en grant anguisse finerunt
+388    458     as mis toi e tun lignage
+389    459     toit ceals qui de toi istront
+390    460     li ton pecché ploreront
+391    461     go sui mesfait co fu par folage
+392    462     por une pome soffrirai si grant damage
+393    463     que en paine met moi e mon lignage
+394    464     petit aquest me rent grant trauage
+395    465     si jo mesfis ne fu merveille grant
+396    466     quant trai moi le serpent suduiant
+397    467     mult set de mal nen semble pas oeille
+398    468     mal est bailliz qui a lui se conseille
+399    469     la pome pris or sai que fis folie
+400    470     sor ton defens de co fis folonie
+401    471     mal en gustai or sui de toi haïe
+402    472     por poi de froit moi covient perdre la vie
+405    475     sor ton piz te traineras
+406    476     a tuz les jors que ja viveras
+408    478     en bois en plain en lande
+415    485     encore en prendra bien conrei
+416    486     cum porra vengier de toi
+417    487     mal acointas tu sun train
+423    493     en terre vus frez maison
+426    496     fors isterez sen recoverer
+430    500     ne vus falt mais faim ne lasseté
+442    512     se moi n en prenge pité de vus
+448    518     si li defendez tres bien la voie
+449    623     chaim bel frere entent a moi
+451    625     co est de ton pru tant m' est plus bel
+452    626     nen fai ja vers deu revel
+455    629     creez mon conseil aloms offrir
+457    631     s il est vers nos apaiez
+458    632     ja ne nus prendra pecchiez
+464    638     e nus defende de mal noit e jor
+469    643     quoi offriras tu jo un aignel
+473    647     si lui offrirai encens
+478    652     de cel frai jo pain al soir
+479    653     tel offrende n est pas aceptable
+482    656     si ai por quei ne contes toit par testes
+484    658     si offriras a deu maimes
+485    659     offrez le lui de bon cuer
+486    660     si recevras bon luer
+487    661     fras le tu ensi or oez furor
+489    664     icist conseil ne vealt un oef
+490    665     alom offrir de ca chescons par soi
+491    666     qu il voldra e jo l' otrei
+494    669     e por reguarder nostre labor
+496    671     as prez puis en irrums
+497    672     plus leegier aprés en serroms
+498    673     jo irrai ovec toi ou tu voldras
+499    674     or en vien donc bon le fras

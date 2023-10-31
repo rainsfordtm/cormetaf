@@ -1,0 +1,23 @@
+Rules applied: R1, R8
+Lines correct: 397 of 402
+Pass history:
+Tried rules R1; 393 lines correct.
+Tried rules R11; 354 lines correct.
+Tried rules R2; 345 lines correct.
+Tried rules R30; 360 lines correct.
+Tried rules R8; 368 lines correct.
+Tried rules R1, R11; 387 lines correct.
+Tried rules R1, R2; 374 lines correct.
+Tried rules R1, R30; 393 lines correct.
+Tried rules R1, R8; 397 lines correct.
+Tried rules R1, R8, R11; 391 lines correct.
+Tried rules R1, R8, R2; 376 lines correct.
+Tried rules R1, R8, R30; 397 lines correct.
+OPTIMIZED LINES
+208    209     getai le el toivre se l mengierent poisson
+236    237     a haute voiz forment escriiez
+288    289     se tant et plus ne vos ai deviez
+358    359     por son segnor secorre et aidier
+383    384     ge vos dorrai de france un quartier
+
+BAD LINES

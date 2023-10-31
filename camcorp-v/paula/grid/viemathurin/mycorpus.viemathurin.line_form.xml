@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.viemathurin_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.viemathurin.line.xml">
+<feat xlink:href="#line_0" value=" En l&apos; honneur de Sainct Mathurin ,"/><!--  En l' honneur de Sainct Mathurin , -->
+<feat xlink:href="#line_1" value=" Afin que chascun pèlerin"/><!--  Afin que chascun pèlerin -->
+<feat xlink:href="#line_2" value=" Sa vie puisse mieulx entendre ,"/><!--  Sa vie puisse mieulx entendre , -->
+<feat xlink:href="#line_3" value=" Aussi la sache mieulx comprendre ,"/><!--  Aussi la sache mieulx comprendre , -->
+<feat xlink:href="#line_4" value=" Pour les simples gens seullement ,"/><!--  Pour les simples gens seullement , -->
+<feat xlink:href="#line_5" value=" Selon mon povre entendement ,"/><!--  Selon mon povre entendement , -->
+<feat xlink:href="#line_6" value=" Ay mis de latin en françoys ,"/><!--  Ay mis de latin en françoys , -->
+<feat xlink:href="#line_7" value=" Nompas que si grant clerc je soys"/><!--  Nompas que si grant clerc je soys -->
+<feat xlink:href="#line_8" value=" Que de moy je vueil estimer"/><!--  Que de moy je vueil estimer -->
+<feat xlink:href="#line_9" value=" Que je la sçeusse bien rimer"/><!--  Que je la sçeusse bien rimer -->
+<feat xlink:href="#line_10" value=" Ne mettre aussi de point en point"/><!--  Ne mettre aussi de point en point -->
+<feat xlink:href="#line_11" value=" Sans faillir ; je ne le dis point ,"/><!--  Sans faillir ; je ne le dis point , -->
+<feat xlink:href="#line_12" value=" Et , se vous y trouvez langage"/><!--  Et , se vous y trouvez langage -->
+<feat xlink:href="#line_13" value=" Qui en ce pays n&apos; ait usage"/><!--  Qui en ce pays n' ait usage -->
+<feat xlink:href="#line_14" value=" Ou se j&apos; espelle aucunement"/><!--  Ou se j' espelle aucunement -->
+<feat xlink:href="#line_15" value=" Ung mot qui doit estre aultrement ,"/><!--  Ung mot qui doit estre aultrement , -->
+<feat xlink:href="#line_16" value=" Ne le prenez en cas de crime ;"/><!--  Ne le prenez en cas de crime ; -->
+<feat xlink:href="#line_17" value=" Tout est pour obeir à la rime ,"/><!--  Tout est pour obeir à la rime , -->
+<feat xlink:href="#line_18" value=" Car je n&apos; ai pas [les] mots exquis"/><!--  Car je n' ai pas [les] mots exquis -->
+<feat xlink:href="#line_19" value=" Qu&apos; en telz cas seroient bien requis ,"/><!--  Qu' en telz cas seroient bien requis , -->
+<feat xlink:href="#line_20" value=" Ne je ne suis pas du degré"/><!--  Ne je ne suis pas du degré -->
+<feat xlink:href="#line_21" value=" D&apos; en parler , mais prenez en gré ;"/><!--  D' en parler , mais prenez en gré ; -->
+<feat xlink:href="#line_22" value=" Je l&apos; ay fait par affection ,"/><!--  Je l' ay fait par affection , -->
+<feat xlink:href="#line_23" value=" Pour mieulx donner devotion"/><!--  Pour mieulx donner devotion -->
+<feat xlink:href="#line_24" value=" Aux pèlerins de s&apos; esjouyr"/><!--  Aux pèlerins de s' esjouyr -->
+<feat xlink:href="#line_25" value=" A la regarder et ouyr ,"/><!--  A la regarder et ouyr , -->
+<feat xlink:href="#line_26" value=" Car plusieurs demandent la vie ,"/><!--  Car plusieurs demandent la vie , -->
+<feat xlink:href="#line_27" value=" Qui le latin n&apos; entendent mye ."/><!--  Qui le latin n' entendent mye . -->
+<feat xlink:href="#line_28" value=" Mais , premier , pour donner l&apos; entente ,"/><!--  Mais , premier , pour donner l' entente , -->
+<feat xlink:href="#line_29" value=" Vient l&apos; hystoire qui represente"/><!--  Vient l' hystoire qui represente -->
+<feat xlink:href="#line_30" value=" Larchant , où se tenoit le père"/><!--  Larchant , où se tenoit le père -->
+<feat xlink:href="#line_31" value=" Du doulx Mathurin et sa mère ."/><!--  Du doulx Mathurin et sa mère . -->
+<feat xlink:href="#line_32" value=" A genoulx devant les ydolles"/><!--  A genoulx devant les ydolles -->
+<feat xlink:href="#line_33" value=" Sont tous deux ; mais , par les parolles"/><!--  Sont tous deux ; mais , par les parolles -->
+<feat xlink:href="#line_34" value=" Ensuyvantes , pourrez sçavoir"/><!--  Ensuyvantes , pourrez sçavoir -->
+<feat xlink:href="#line_35" value=" Du bon maistre Larchant le sçavoir ."/><!--  Du bon maistre Larchant le sçavoir . -->
+<feat xlink:href="#line_36" value=" S&apos; il vous plaist , tous si escoutez"/><!--  S' il vous plaist , tous si escoutez -->
+<feat xlink:href="#line_37" value=" Et voz entendemens boutez"/><!--  Et voz entendemens boutez -->
+<feat xlink:href="#line_38" value=" A retenir la saincte vie"/><!--  A retenir la saincte vie -->
+<feat xlink:href="#line_39" value=" Du très noble Saint Mathurin ."/><!--  Du très noble Saint Mathurin . -->
+<feat xlink:href="#line_40" value=" Sainct Mathurin , pour bref langaige ,"/><!--  Sainct Mathurin , pour bref langaige , -->
+<feat xlink:href="#line_41" value=" Fut natif du très beau villaige"/><!--  Fut natif du très beau villaige -->
+<feat xlink:href="#line_42" value=" Nommé Larchant par son droit nom ,"/><!--  Nommé Larchant par son droit nom , -->
+<feat xlink:href="#line_43" value=" Lequel villaige a grant renom ;"/><!--  Lequel villaige a grant renom ; -->
+<feat xlink:href="#line_44" value=" C&apos; est du dyocèse de Sens ."/><!--  C' est du dyocèse de Sens . -->
+<feat xlink:href="#line_45" value=" Il fut extraict de nobles gens ,"/><!--  Il fut extraict de nobles gens , -->
+<feat xlink:href="#line_46" value=" Du plus grant et du plus beau prince"/><!--  Du plus grant et du plus beau prince -->
+<feat xlink:href="#line_47" value=" Qui fut en toute la province ."/><!--  Qui fut en toute la province . -->
+<feat xlink:href="#line_48" value=" Son père estoit duc et gouverneur"/><!--  Son père estoit duc et gouverneur -->
+<feat xlink:href="#line_49" value=" De Gaulle , par l&apos; Empereur"/><!--  De Gaulle , par l' Empereur -->
+<feat xlink:href="#line_50" value=" De Romme , pour persecuter"/><!--  De Romme , pour persecuter -->
+<feat xlink:href="#line_51" value=" Crestiens et executer ,"/><!--  Crestiens et executer , -->
+<feat xlink:href="#line_52" value=" Mettre à mort , sans nul delay ,"/><!--  Mettre à mort , sans nul delay , -->
+<feat xlink:href="#line_53" value=" Tous ceux qui ne tenoient leur loy"/><!--  Tous ceux qui ne tenoient leur loy -->
+<feat xlink:href="#line_54" value=" Et qui vouloient celle tenir"/><!--  Et qui vouloient celle tenir -->
+<feat xlink:href="#line_55" value=" De Jesu-Crist et soustenir ."/><!--  De Jesu-Crist et soustenir . -->
+<feat xlink:href="#line_56" value=" Son père eut nom , n&apos; en doubtez mye ,"/><!--  Son père eut nom , n' en doubtez mye , -->
+<feat xlink:href="#line_57" value=" Marin , et sa mère Euphemie ."/><!--  Marin , et sa mère Euphemie . -->
+<feat xlink:href="#line_58" value=" En ce temps ilz estoient payens ,"/><!--  En ce temps ilz estoient payens , -->
+<feat xlink:href="#line_59" value=" Idolatres , pires que chiens ;"/><!--  Idolatres , pires que chiens ; -->
+<feat xlink:href="#line_60" value=" Mais lors Mathurin desprisoit"/><!--  Mais lors Mathurin desprisoit -->
+<feat xlink:href="#line_61" value=" Idolatrie et refusoit"/><!--  Idolatrie et refusoit -->
+<feat xlink:href="#line_62" value=" A leur faire nul sacrifice ,"/><!--  A leur faire nul sacrifice , -->
+<feat xlink:href="#line_63" value=" Mais à Dieu de cueur tout service ;"/><!--  Mais à Dieu de cueur tout service ; -->
+<feat xlink:href="#line_64" value=" Ainsi que voyez par l&apos; hystoire"/><!--  Ainsi que voyez par l' hystoire -->
+<feat xlink:href="#line_65" value=" De devant , qui le monstre encore ,"/><!--  De devant , qui le monstre encore , -->
+<feat xlink:href="#line_66" value=" Il s&apos; en alloit par son bon sens"/><!--  Il s' en alloit par son bon sens -->
+<feat xlink:href="#line_67" value=" Vers l&apos; archevesque de Sens ,"/><!--  Vers l' archevesque de Sens , -->
+<feat xlink:href="#line_68" value=" Alors Policarpe nommé ,"/><!--  Alors Policarpe nommé , -->
+<feat xlink:href="#line_69" value=" Un saint homme bien renommé ,"/><!--  Un saint homme bien renommé , -->
+<feat xlink:href="#line_70" value=" Pour aprendre de Dieu la loy ,"/><!--  Pour aprendre de Dieu la loy , -->
+<feat xlink:href="#line_71" value=" Les commandemens et la foy"/><!--  Les commandemens et la foy -->
+<feat xlink:href="#line_72" value=" Crestienne , pour en user"/><!--  Crestienne , pour en user -->
+<feat xlink:href="#line_73" value=" Sainctement sans en abuser ,"/><!--  Sainctement sans en abuser , -->
+<feat xlink:href="#line_74" value=" Et par luy se fist baptiser"/><!--  Et par luy se fist baptiser -->
+<feat xlink:href="#line_75" value=" Saint Mathurin , sans en parler"/><!--  Saint Mathurin , sans en parler -->
+<feat xlink:href="#line_76" value=" A son père ne à sa mère ,"/><!--  A son père ne à sa mère , -->
+<feat xlink:href="#line_77" value=" De peur d&apos; ensuyvir mort amère ,"/><!--  De peur d' ensuyvir mort amère , -->
+<feat xlink:href="#line_78" value=" Ainsi que voyez par exemple"/><!--  Ainsi que voyez par exemple -->
+<feat xlink:href="#line_79" value=" Ceste hystoire , qui le fait remple ."/><!--  Ceste hystoire , qui le fait remple . -->
+<feat xlink:href="#line_80" value=" Après , en l&apos; aage de duze ans ,"/><!--  Après , en l' aage de duze ans , -->
+<feat xlink:href="#line_81" value=" Qu&apos; il vit ses parens ensuivans"/><!--  Qu' il vit ses parens ensuivans -->
+<feat xlink:href="#line_82" value=" Le chemin de damnation ,"/><!--  Le chemin de damnation , -->
+<feat xlink:href="#line_83" value=" Eut pitié et compassion"/><!--  Eut pitié et compassion -->
+<feat xlink:href="#line_84" value=" De son père , et de sa mère ,"/><!--  De son père , et de sa mère , -->
+<feat xlink:href="#line_85" value=" Pensant qu&apos; ilz auroient douleur amère"/><!--  Pensant qu' ilz auroient douleur amère -->
+<feat xlink:href="#line_86" value=" S&apos; ilz mouroient en celle industrie"/><!--  S' ilz mouroient en celle industrie -->
+<feat xlink:href="#line_87" value=" Et faulce loy d&apos; ydolatrie ."/><!--  Et faulce loy d' ydolatrie . -->
+<feat xlink:href="#line_88" value=" Alors se mist à Dieu prier"/><!--  Alors se mist à Dieu prier -->
+<feat xlink:href="#line_89" value=" Humblement et luy supplier ,"/><!--  Humblement et luy supplier , -->
+<feat xlink:href="#line_90" value=" A mains jointes et grans pleurs ,"/><!--  A mains jointes et grans pleurs , -->
+<feat xlink:href="#line_91" value=" Qu&apos; i luy pleust de muer les cueurs"/><!--  Qu' i luy pleust de muer les cueurs -->
+<feat xlink:href="#line_92" value=" De père et mère assemblement"/><!--  De père et mère assemblement -->
+<feat xlink:href="#line_93" value=" Et leur donnast entendement"/><!--  Et leur donnast entendement -->
+<feat xlink:href="#line_94" value=" De congnoistre de Dieu la voye"/><!--  De congnoistre de Dieu la voye -->
+<feat xlink:href="#line_95" value=" Et laisser celle qui devoye"/><!--  Et laisser celle qui devoye -->
+<feat xlink:href="#line_96" value=" L&apos; ame maine à damnation ,"/><!--  L' ame maine à damnation , -->
+<feat xlink:href="#line_97" value=" Où n&apos; a point de remission ."/><!--  Où n' a point de remission . -->
+<feat xlink:href="#line_98" value=" Adonc qu&apos; il eust fait sa prière"/><!--  Adonc qu' il eust fait sa prière -->
+<feat xlink:href="#line_99" value=" Par grant dévotion entière ,"/><!--  Par grant dévotion entière , -->
+<feat xlink:href="#line_100" value=" Il s&apos; endormit au propre lieu ."/><!--  Il s' endormit au propre lieu . -->
+<feat xlink:href="#line_101" value=" Là vint ung Ange de par Dieu"/><!--  Là vint ung Ange de par Dieu -->
+<feat xlink:href="#line_102" value=" Qui sainct Mathurin conforta"/><!--  Qui sainct Mathurin conforta -->
+<feat xlink:href="#line_103" value=" Et nouvelles luy apporta ,"/><!--  Et nouvelles luy apporta , -->
+<feat xlink:href="#line_104" value=" [E]n disant que Dieu luy mandoit"/><!--  [E]n disant que Dieu luy mandoit -->
+<feat xlink:href="#line_105" value=" Que ainsi estoit qu&apos; il demandoit"/><!--  Que ainsi estoit qu' il demandoit -->
+<feat xlink:href="#line_106" value=" Et que sa prière exaulcée"/><!--  Et que sa prière exaulcée -->
+<feat xlink:href="#line_107" value=" Luy estoit et non pas faulcée ."/><!--  Luy estoit et non pas faulcée . -->
+<feat xlink:href="#line_108" value=" Si s&apos; esveilla incontinent"/><!--  Si s' esveilla incontinent -->
+<feat xlink:href="#line_109" value=" Merciant Dieu devotement"/><!--  Merciant Dieu devotement -->
+<feat xlink:href="#line_110" value=" De celle revellation"/><!--  De celle revellation -->
+<feat xlink:href="#line_111" value=" Dont l&apos; Ange fist mention ."/><!--  Dont l' Ange fist mention . -->
+<feat xlink:href="#line_112" value=" L&apos; endemain , de assez bon matin ,"/><!--  L' endemain , de assez bon matin , -->
+<feat xlink:href="#line_113" value=" Vint la mère Sainct Mathurin"/><!--  Vint la mère Sainct Mathurin -->
+<feat xlink:href="#line_114" value=" Parler à luy courtoisement ,"/><!--  Parler à luy courtoisement , -->
+<feat xlink:href="#line_115" value=" En le saluant doulcement ,"/><!--  En le saluant doulcement , -->
+<feat xlink:href="#line_116" value=" Luy demandant : « Helas , mon filz ,"/><!--  Luy demandant : « Helas , mon filz , -->
+<feat xlink:href="#line_117" value=" « Quelz pourraient estre les prouffitz"/><!--  « Quelz pourraient estre les prouffitz -->
+<feat xlink:href="#line_118" value=" « De chrestienté recevoir ,"/><!--  « De chrestienté recevoir , -->
+<feat xlink:href="#line_119" value=" « Ainsi que je congnois de voir ,"/><!--  « Ainsi que je congnois de voir , -->
+<feat xlink:href="#line_120" value=" « Que pour nous souvent fais prière"/><!--  « Que pour nous souvent fais prière -->
+<feat xlink:href="#line_121" value=" « A ton Dieu en mainte manière ?"/><!--  « A ton Dieu en mainte manière ? -->
+<feat xlink:href="#line_122" value=" « Car je congnois que tu es crestien"/><!--  « Car je congnois que tu es crestien -->
+<feat xlink:href="#line_123" value=" « Secret ; ton père n&apos; en sçet rien ."/><!--  « Secret ; ton père n' en sçet rien . -->
+<feat xlink:href="#line_124" value=" « Car je sçay bien , s&apos; il le sçavoit"/><!--  « Car je sçay bien , s' il le sçavoit -->
+<feat xlink:href="#line_125" value=" « Et vraye congnoissance en avoit ,"/><!--  « Et vraye congnoissance en avoit , -->
+<feat xlink:href="#line_126" value=" « Mourir te feroit en destresse ,"/><!--  « Mourir te feroit en destresse , -->
+<feat xlink:href="#line_127" value=" « Dont j&apos; auroye au cueur grant tristesse . »"/><!--  « Dont j' auroye au cueur grant tristesse . » -->
+<feat xlink:href="#line_128" value=" Saint Mathurin luy respond :"/><!--  Saint Mathurin luy respond : -->
+<feat xlink:href="#line_129" value=" « Les biens que les Crestiens ont"/><!--  « Les biens que les Crestiens ont -->
+<feat xlink:href="#line_130" value=" « Qui servent Dieu entièrement ?"/><!--  « Qui servent Dieu entièrement ? -->
+<feat xlink:href="#line_131" value=" « En la fin ont sauvement ,"/><!--  « En la fin ont sauvement , -->
+<feat xlink:href="#line_132" value=" « Joye sans fin , tousjours lyesse ."/><!--  « Joye sans fin , tousjours lyesse . -->
+<feat xlink:href="#line_133" value=" « Et tous autres qui , par simplesse ,"/><!--  « Et tous autres qui , par simplesse , -->
+<feat xlink:href="#line_134" value=" « Servent et prient les ydolles ,"/><!--  « Servent et prient les ydolles , -->
+<feat xlink:href="#line_135" value=" « Ont leurs opinio[n]s si folles"/><!--  « Ont leurs opinio[n]s si folles -->
+<feat xlink:href="#line_136" value=" « Qu&apos; ilz font des grands Dyables leurs dieux"/><!--  « Qu' ilz font des grands Dyables leurs dieux -->
+<feat xlink:href="#line_137" value=" « Tant sont aveuglez en leurs yeulx ,"/><!--  « Tant sont aveuglez en leurs yeulx , -->
+<feat xlink:href="#line_138" value=" « Car nul ne doit pour nul office"/><!--  « Car nul ne doit pour nul office -->
+<feat xlink:href="#line_139" value=" « Fors à Dieu faire sacrifice ,"/><!--  « Fors à Dieu faire sacrifice , -->
+<feat xlink:href="#line_140" value=" « Et quiconques fait autrement ,"/><!--  « Et quiconques fait autrement , -->
+<feat xlink:href="#line_141" value=" « Se ainsi meurt , va à damnement"/><!--  « Se ainsi meurt , va à damnement -->
+<feat xlink:href="#line_142" value=" « En toute douleur et peine ;"/><!--  « En toute douleur et peine ; -->
+<feat xlink:href="#line_143" value=" « La chose en est toute certaine . »"/><!--  « La chose en est toute certaine . » -->
+<feat xlink:href="#line_144" value=" Adonc sa mère le reprist"/><!--  Adonc sa mère le reprist -->
+<feat xlink:href="#line_145" value=" A luy monstrer sur ce passage"/><!--  A luy monstrer sur ce passage -->
+<feat xlink:href="#line_146" value=" Qu&apos; il se teust , il feroit que sage ;"/><!--  Qu' il se teust , il feroit que sage ; -->
+<feat xlink:href="#line_147" value=" Que son père n&apos; eust congnoissance"/><!--  Que son père n' eust congnoissance -->
+<feat xlink:href="#line_148" value=" De son fait ou appercevance"/><!--  De son fait ou appercevance -->
+<feat xlink:href="#line_149" value=" Par aucune voye ou moyen"/><!--  Par aucune voye ou moyen -->
+<feat xlink:href="#line_150" value=" Qu&apos; il tenist foy de crestien ,"/><!--  Qu' il tenist foy de crestien , -->
+<feat xlink:href="#line_151" value=" Affin qu&apos; il ne le fist mourir"/><!--  Affin qu' il ne le fist mourir -->
+<feat xlink:href="#line_152" value=" Sans ce qu&apos; elle en peult secourir ,"/><!--  Sans ce qu' elle en peult secourir , -->
+<feat xlink:href="#line_153" value=" Et luy disoit en ses regretz ,"/><!--  Et luy disoit en ses regretz , -->
+<feat xlink:href="#line_154" value=" Eulx deux tous ceulx comme secrez :"/><!--  Eulx deux tous ceulx comme secrez : -->
+<feat xlink:href="#line_155" value=" « Mon très cher enfant , que ferois - je"/><!--  « Mon très cher enfant , que ferois - je -->
+<feat xlink:href="#line_156" value=" « En ce monde , que deviendrois - je"/><!--  « En ce monde , que deviendrois - je -->
+<feat xlink:href="#line_157" value=" « Si je te véoye souffrir mort ?"/><!--  « Si je te véoye souffrir mort ? -->
+<feat xlink:href="#line_158" value=" « Jamais mon cueur n&apos; auroit confort ;"/><!--  « Jamais mon cueur n' auroit confort ; -->
+<feat xlink:href="#line_159" value=" « Tout le surplus de ma vieillesse"/><!--  « Tout le surplus de ma vieillesse -->
+<feat xlink:href="#line_160" value=" « Hors seroit de toute lyesse ,"/><!--  « Hors seroit de toute lyesse , -->
+<feat xlink:href="#line_161" value=" « Car je fineroye en douleurs ,"/><!--  « Car je fineroye en douleurs , -->
+<feat xlink:href="#line_162" value=" « En tous gemissemens et pleurs . »"/><!--  « En tous gemissemens et pleurs . » -->
+<feat xlink:href="#line_163" value=" Le doulx Mathurin , son enfant ,"/><!--  Le doulx Mathurin , son enfant , -->
+<feat xlink:href="#line_164" value=" Ne se voulut pas taire pourtant ,"/><!--  Ne se voulut pas taire pourtant , -->
+<feat xlink:href="#line_165" value=" Mais il monstra à sa mère"/><!--  Mais il monstra à sa mère -->
+<feat xlink:href="#line_166" value=" Nompas d&apos; une façon amère ,"/><!--  Nompas d' une façon amère , -->
+<feat xlink:href="#line_167" value=" Mais humblement ; il luy disoit"/><!--  Mais humblement ; il luy disoit -->
+<feat xlink:href="#line_168" value=" Que pour luy seul pas ne faisoit"/><!--  Que pour luy seul pas ne faisoit -->
+<feat xlink:href="#line_169" value=" Ses oraisons tant seullement ,"/><!--  Ses oraisons tant seullement , -->
+<feat xlink:href="#line_170" value=" Mais pour eulx deux semblablement ;"/><!--  Mais pour eulx deux semblablement ; -->
+<feat xlink:href="#line_171" value=" Il demandoit misericorde"/><!--  Il demandoit misericorde -->
+<feat xlink:href="#line_172" value=" A Dieu , pour les oster de sordre[=orde]"/><!--  A Dieu , pour les oster de sordre[=orde] -->
+<feat xlink:href="#line_173" value=" Et faulce loy de ydolatrie ,"/><!--  Et faulce loy de ydolatrie , -->
+<feat xlink:href="#line_174" value=" Dont leur povre ame estoit meurtrie ,"/><!--  Dont leur povre ame estoit meurtrie , -->
+<feat xlink:href="#line_175" value=" Affin qu&apos; ilz péussent congnoistre"/><!--  Affin qu' ilz péussent congnoistre -->
+<feat xlink:href="#line_176" value=" Le Dieu qui les avoit fait naistre"/><!--  Le Dieu qui les avoit fait naistre -->
+<feat xlink:href="#line_177" value=" Et de tous faitz redemption ,"/><!--  Et de tous faitz redemption , -->
+<feat xlink:href="#line_178" value=" Par sa digne redemption ;"/><!--  Par sa digne redemption ; -->
+<feat xlink:href="#line_179" value=" Et , en soupirant , il disoit"/><!--  Et , en soupirant , il disoit -->
+<feat xlink:href="#line_180" value=" A sa mère qu&apos; il advisoit :"/><!--  A sa mère qu' il advisoit : -->
+<feat xlink:href="#line_181" value=" « Comment vous pourroye soustenir"/><!--  « Comment vous pourroye soustenir -->
+<feat xlink:href="#line_182" value=" « Ne bien voz faitz entretenir ,"/><!--  « Ne bien voz faitz entretenir , -->
+<feat xlink:href="#line_183" value=" « En tel danger constituez"/><!--  « En tel danger constituez -->
+<feat xlink:href="#line_184" value=" « Ou vous vous damnez et tuez ?"/><!--  « Ou vous vous damnez et tuez ? -->
+<feat xlink:href="#line_185" value=" « Quel joye jamais ne peult venir ,"/><!--  « Quel joye jamais ne peult venir , -->
+<feat xlink:href="#line_186" value=" « Ne quelle plaisance advenir ,"/><!--  « Ne quelle plaisance advenir , -->
+<feat xlink:href="#line_187" value=" « Quant je voy mes très chers parens ,"/><!--  « Quant je voy mes très chers parens , -->
+<feat xlink:href="#line_188" value=" « Père et mère , estre diligens"/><!--  « Père et mère , estre diligens -->
+<feat xlink:href="#line_189" value=" « De mettre leurs cueurs aux iniques"/><!--  « De mettre leurs cueurs aux iniques -->
+<feat xlink:href="#line_190" value=" « Faulx serviteurs dyabolicques ,"/><!--  « Faulx serviteurs dyabolicques , -->
+<feat xlink:href="#line_191" value=" « Ignorer de Dieu la puissance"/><!--  « Ignorer de Dieu la puissance -->
+<feat xlink:href="#line_192" value=" « Et suyvre du Dyable la dance"/><!--  « Et suyvre du Dyable la dance -->
+<feat xlink:href="#line_193" value=" « Et ne quérir pas la vraye gloire ,"/><!--  « Et ne quérir pas la vraye gloire , -->
+<feat xlink:href="#line_194" value=" « Dont chascun doit avoir memoire ?"/><!--  « Dont chascun doit avoir memoire ? -->
+<feat xlink:href="#line_195" value=" « Jamais en moy n&apos; aura lyesse"/><!--  « Jamais en moy n' aura lyesse -->
+<feat xlink:href="#line_196" value=" « Que Dieu par sa pitié l&apos; adr[e]sse . »"/><!--  « Que Dieu par sa pitié l' adr[e]sse . » -->
+<feat xlink:href="#line_197" value=" Ainsi comme ilz parloient ensemble ,"/><!--  Ainsi comme ilz parloient ensemble , -->
+<feat xlink:href="#line_198" value=" Arriva sur eulx , ce me semble ,"/><!--  Arriva sur eulx , ce me semble , -->
+<feat xlink:href="#line_199" value=" Le père de Sainct Mathurin ,"/><!--  Le père de Sainct Mathurin , -->
+<feat xlink:href="#line_200" value=" Icy devant nommé , Marin ,"/><!--  Icy devant nommé , Marin , -->
+<feat xlink:href="#line_201" value=" Et leur demanda qu&apos; ilz disoient"/><!--  Et leur demanda qu' ilz disoient -->
+<feat xlink:href="#line_202" value=" Ainsi ensemble et devisoient"/><!--  Ainsi ensemble et devisoient -->
+<feat xlink:href="#line_203" value=" Entre eulx de la foy chrestienne ,"/><!--  Entre eulx de la foy chrestienne , -->
+<feat xlink:href="#line_204" value=" En desprisant la loy payenne ."/><!--  En desprisant la loy payenne . -->
+<feat xlink:href="#line_205" value=" La mère jà acquiesser"/><!--  La mère jà acquiesser -->
+<feat xlink:href="#line_206" value=" Vouloit à son filz et laisser"/><!--  Vouloit à son filz et laisser -->
+<feat xlink:href="#line_207" value=" Le service de ydolatrie ,"/><!--  Le service de ydolatrie , -->
+<feat xlink:href="#line_208" value=" Que avoit tenu toute sa vie ,"/><!--  Que avoit tenu toute sa vie , -->
+<feat xlink:href="#line_209" value=" Mais , pour la grant grace divine ,"/><!--  Mais , pour la grant grace divine , -->
+<feat xlink:href="#line_210" value=" Non pas celuy qui devine ,"/><!--  Non pas celuy qui devine , -->
+<feat xlink:href="#line_211" value=" Elle congneut veritablement"/><!--  Elle congneut veritablement -->
+<feat xlink:href="#line_212" value=" Que son mary semblablement"/><!--  Que son mary semblablement -->
+<feat xlink:href="#line_213" value=" Estoit desjà en sa pensée ,"/><!--  Estoit desjà en sa pensée , -->
+<feat xlink:href="#line_214" value=" Frappé que telle loy fut laissée ;"/><!--  Frappé que telle loy fut laissée ; -->
+<feat xlink:href="#line_215" value=" Par quoy parla plus hardiment"/><!--  Par quoy parla plus hardiment -->
+<feat xlink:href="#line_216" value=" A son mari et seurement ."/><!--  A son mari et seurement . -->
+<feat xlink:href="#line_217" value=" Et luy a dit : « Mon très cher seigneur ,"/><!--  Et luy a dit : « Mon très cher seigneur , -->
+<feat xlink:href="#line_218" value=" « Je vous supplye de tout mon cueur"/><!--  « Je vous supplye de tout mon cueur -->
+<feat xlink:href="#line_219" value=" « Qu&apos; il vous plaise ouyr nostre filz"/><!--  « Qu' il vous plaise ouyr nostre filz -->
+<feat xlink:href="#line_220" value=" « Comme il pourchasse noz proffitz ,"/><!--  « Comme il pourchasse noz proffitz , -->
+<feat xlink:href="#line_221" value=" « Car il ce dit ce[r]tainement"/><!--  « Car il ce dit ce[r]tainement -->
+<feat xlink:href="#line_222" value=" « Du Dieu que les Crestiens tiennent"/><!--  « Du Dieu que les Crestiens tiennent -->
+<feat xlink:href="#line_223" value=" « Et duquel la loy ilz maintiennent ,"/><!--  « Et duquel la loy ilz maintiennent , -->
+<feat xlink:href="#line_224" value=" « Car il dit que c&apos; est le vray Dieu"/><!--  « Car il dit que c' est le vray Dieu -->
+<feat xlink:href="#line_225" value=" « Vivant et regnant en tout lieu ."/><!--  « Vivant et regnant en tout lieu . -->
+<feat xlink:href="#line_226" value=" « Des ydolles que nous servons"/><!--  « Des ydolles que nous servons -->
+<feat xlink:href="#line_227" value=" « Damnation en desservons ,"/><!--  « Damnation en desservons , -->
+<feat xlink:href="#line_228" value=" « Car ce sont tous Dyables cornus ,"/><!--  « Car ce sont tous Dyables cornus , -->
+<feat xlink:href="#line_229" value=" « Qu&apos; avons tousjours entretenus ,"/><!--  « Qu' avons tousjours entretenus , -->
+<feat xlink:href="#line_230" value=" « Et , pour ce , il nous admonneste"/><!--  « Et , pour ce , il nous admonneste -->
+<feat xlink:href="#line_231" value=" « Et nous supplie que , à sa requeste ,"/><!--  « Et nous supplie que , à sa requeste , -->
+<feat xlink:href="#line_232" value=" « Laissons ces ydolles infaictes ,"/><!--  « Laissons ces ydolles infaictes , -->
+<feat xlink:href="#line_233" value=" « Lesquelles sont des hommes faictes ,"/><!--  « Lesquelles sont des hommes faictes , -->
+<feat xlink:href="#line_234" value=" « Et qui est la perdition"/><!--  « Et qui est la perdition -->
+<feat xlink:href="#line_235" value=" « De l&apos; ame et la damnation ."/><!--  « De l' ame et la damnation . -->
+<feat xlink:href="#line_236" value=" « Adorons et portons honneur"/><!--  « Adorons et portons honneur -->
+<feat xlink:href="#line_237" value=" « Au vray Dieu , nostre créateur ,"/><!--  « Au vray Dieu , nostre créateur , -->
+<feat xlink:href="#line_238" value=" « Qui habite là sus aux cieulx ."/><!--  « Qui habite là sus aux cieulx . -->
+<feat xlink:href="#line_239" value=" « Nous ne pourrions faire mieulx ;"/><!--  « Nous ne pourrions faire mieulx ; -->
+<feat xlink:href="#line_240" value=" « C&apos; est celluy qui a fait la terre ,"/><!--  « C' est celluy qui a fait la terre , -->
+<feat xlink:href="#line_241" value=" « La mer et tout ce que devons croire ,"/><!--  « La mer et tout ce que devons croire , -->
+<feat xlink:href="#line_242" value=" « Et nous peult donner joye parfaicte ,"/><!--  « Et nous peult donner joye parfaicte , -->
+<feat xlink:href="#line_243" value=" « Après ceste vie imparfaicte ,"/><!--  « Après ceste vie imparfaicte , -->
+<feat xlink:href="#line_244" value=" « Car je croy veritablement"/><!--  « Car je croy veritablement -->
+<feat xlink:href="#line_245" value=" « Que ce n&apos; est que tout damnement"/><!--  « Que ce n' est que tout damnement -->
+<feat xlink:href="#line_246" value=" « Aux Dyables sanctifier"/><!--  « Aux Dyables sanctifier -->
+<feat xlink:href="#line_247" value=" « Et tout danger de s&apos; i fier . »"/><!--  « Et tout danger de s' i fier . » -->
+<feat xlink:href="#line_248" value=" Ceste hystoire sans contredit"/><!--  Ceste hystoire sans contredit -->
+<feat xlink:href="#line_249" value=" Monstre ce que dessus est dit ."/><!--  Monstre ce que dessus est dit . -->
+<feat xlink:href="#line_250" value=" Si parla lors Saint Mathurin"/><!--  Si parla lors Saint Mathurin -->
+<feat xlink:href="#line_251" value=" A son père , de cueur enclin ,"/><!--  A son père , de cueur enclin , -->
+<feat xlink:href="#line_252" value=" Et luy monstrant par grand sagesse ,"/><!--  Et luy monstrant par grand sagesse , -->
+<feat xlink:href="#line_253" value=" Le chemin qui vers Dieu s&apos; adresse ,"/><!--  Le chemin qui vers Dieu s' adresse , -->
+<feat xlink:href="#line_254" value=" Luy enseignant par beau moyen"/><!--  Luy enseignant par beau moyen -->
+<feat xlink:href="#line_255" value=" Que pour Dieu se fist crestien ;"/><!--  Que pour Dieu se fist crestien ; -->
+<feat xlink:href="#line_256" value=" Et luy prescha moult doulcement ,"/><!--  Et luy prescha moult doulcement , -->
+<feat xlink:href="#line_257" value=" En luy monstrant son sauvement ,"/><!--  En luy monstrant son sauvement , -->
+<feat xlink:href="#line_258" value=" Tant que à Dieu fut converty"/><!--  Tant que à Dieu fut converty -->
+<feat xlink:href="#line_259" value=" Et de son erreur diverty ,"/><!--  Et de son erreur diverty , -->
+<feat xlink:href="#line_260" value=" Car Dieu l&apos; avoit jà visité"/><!--  Car Dieu l' avoit jà visité -->
+<feat xlink:href="#line_261" value=" En son courage et excité"/><!--  En son courage et excité -->
+<feat xlink:href="#line_262" value=" De laisser toute ydolatrie ,"/><!--  De laisser toute ydolatrie , -->
+<feat xlink:href="#line_263" value=" Telle erreur et telle follie ."/><!--  Telle erreur et telle follie . -->
+<feat xlink:href="#line_264" value=" A celle heure , le duc Marin ,"/><!--  A celle heure , le duc Marin , -->
+<feat xlink:href="#line_265" value=" Ledit père Saint Mathurin ,"/><!--  Ledit père Saint Mathurin , -->
+<feat xlink:href="#line_266" value=" Leur compta une advision ,"/><!--  Leur compta une advision , -->
+<feat xlink:href="#line_267" value=" Comme une revellation"/><!--  Comme une revellation -->
+<feat xlink:href="#line_268" value=" De par Dieu , qu&apos; il avoit eue devant"/><!--  De par Dieu , qu' il avoit eue devant -->
+<feat xlink:href="#line_269" value=" Dedans son lict , comme en dormant ,"/><!--  Dedans son lict , comme en dormant , -->
+<feat xlink:href="#line_270" value=" Et leur dist , selon son devis ,"/><!--  Et leur dist , selon son devis , -->
+<feat xlink:href="#line_271" value=" Qu&apos; il véoit , ce luy fut advis ,"/><!--  Qu' il véoit , ce luy fut advis , -->
+<feat xlink:href="#line_272" value=" Son filz Mathurin , qui estoit"/><!--  Son filz Mathurin , qui estoit -->
+<feat xlink:href="#line_273" value=" En ung grant parc , où il gardoit"/><!--  En ung grant parc , où il gardoit -->
+<feat xlink:href="#line_274" value=" De brebis à grant habondance ,"/><!--  De brebis à grant habondance , -->
+<feat xlink:href="#line_275" value=" Malades de malle meschanse ,"/><!--  Malades de malle meschanse , -->
+<feat xlink:href="#line_276" value=" Et tout ce qu&apos; il en visitoit"/><!--  Et tout ce qu' il en visitoit -->
+<feat xlink:href="#line_277" value=" Et garissoit dedans leur toit ,"/><!--  Et garissoit dedans leur toit , -->
+<feat xlink:href="#line_278" value=" Et les rendoit saines et garies ,"/><!--  Et les rendoit saines et garies , -->
+<feat xlink:href="#line_279" value=" Sans ce que elles ne fussent peries ;"/><!--  Sans ce que elles ne fussent peries ; -->
+<feat xlink:href="#line_280" value=" Et dist adonc qu&apos; il vouloit faire"/><!--  Et dist adonc qu' il vouloit faire -->
+<feat xlink:href="#line_281" value=" Au temps advenir sans contraire"/><!--  Au temps advenir sans contraire -->
+<feat xlink:href="#line_282" value=" Par le conseil Saint Mathurin"/><!--  Par le conseil Saint Mathurin -->
+<feat xlink:href="#line_283" value=" A jamais jusques à la fin ."/><!--  A jamais jusques à la fin . -->
+<feat xlink:href="#line_284" value=" Si fist la Duchesse , sa mère ,"/><!--  Si fist la Duchesse , sa mère , -->
+<feat xlink:href="#line_285" value=" Donc Saint Mathurin fist grant chère ."/><!--  Donc Saint Mathurin fist grant chère . -->
+<feat xlink:href="#line_286" value=" L&apos; hystoire , dont voicy le monstre ,"/><!--  L' hystoire , dont voicy le monstre , -->
+<feat xlink:href="#line_287" value=" Tout son convertissement monstre ."/><!--  Tout son convertissement monstre . -->
+<feat xlink:href="#line_288" value=" Aucuns sotz ont opinion ,"/><!--  Aucuns sotz ont opinion , -->
+<feat xlink:href="#line_289" value=" Pour cause de l&apos; advision"/><!--  Pour cause de l' advision -->
+<feat xlink:href="#line_290" value=" Que le duc Marin racompta ,"/><!--  Que le duc Marin racompta , -->
+<feat xlink:href="#line_291" value=" Alors que le faict il compta"/><!--  Alors que le faict il compta -->
+<feat xlink:href="#line_292" value=" Au doulx Mathurin et sa mère ,"/><!--  Au doulx Mathurin et sa mère , -->
+<feat xlink:href="#line_293" value=" Que la chose est toute clère ,"/><!--  Que la chose est toute clère , -->
+<feat xlink:href="#line_294" value=" Qu&apos; il fut ung droit bergier des champs ."/><!--  Qu' il fut ung droit bergier des champs . -->
+<feat xlink:href="#line_295" value=" Ceulx qui le croyent sont bien meschans"/><!--  Ceulx qui le croyent sont bien meschans -->
+<feat xlink:href="#line_296" value=" Et n&apos; ont pas vray entendement"/><!--  Et n' ont pas vray entendement -->
+<feat xlink:href="#line_297" value=" Qu&apos; i fut nourry si doulcement"/><!--  Qu' i fut nourry si doulcement -->
+<feat xlink:href="#line_298" value=" Comme le filz , sans plus enquerre ,"/><!--  Comme le filz , sans plus enquerre , -->
+<feat xlink:href="#line_299" value=" Du plus grant seigneur de la terre ,"/><!--  Du plus grant seigneur de la terre , -->
+<feat xlink:href="#line_300" value=" Et n&apos; avoit que luy seullement ,"/><!--  Et n' avoit que luy seullement , -->
+<feat xlink:href="#line_301" value=" Par quoy l&apos; aymoit moult chèrement ."/><!--  Par quoy l' aymoit moult chèrement . -->
+<feat xlink:href="#line_302" value=" Qu&apos; on l&apos; envoyast , en sa jeunesse ,"/><!--  Qu' on l' envoyast , en sa jeunesse , -->
+<feat xlink:href="#line_303" value=" Garder les brebis , c&apos; est simplesse"/><!--  Garder les brebis , c' est simplesse -->
+<feat xlink:href="#line_304" value=" De le croire , car c&apos; est mensonge ;"/><!--  De le croire , car c' est mensonge ; -->
+<feat xlink:href="#line_305" value=" Ce fut advision ou songe ."/><!--  Ce fut advision ou songe . -->
+<feat xlink:href="#line_306" value=" Et , pour ce , doit sçavoir tout homme"/><!--  Et , pour ce , doit sçavoir tout homme -->
+<feat xlink:href="#line_307" value=" Que le parc est entendu Romme ,"/><!--  Que le parc est entendu Romme , -->
+<feat xlink:href="#line_308" value=" Les brebis le Peuple rommain ,"/><!--  Les brebis le Peuple rommain , -->
+<feat xlink:href="#line_309" value=" Qui fut tout guary soubz la main"/><!--  Qui fut tout guary soubz la main -->
+<feat xlink:href="#line_310" value=" De Sainct Mathurin , de par Dieu"/><!--  De Sainct Mathurin , de par Dieu -->
+<feat xlink:href="#line_311" value=" Envoyé jusques au dit lieu ,"/><!--  Envoyé jusques au dit lieu , -->
+<feat xlink:href="#line_312" value=" Pour les garder comme pasteur"/><!--  Pour les garder comme pasteur -->
+<feat xlink:href="#line_313" value=" Et leur oster la faulce erreur"/><!--  Et leur oster la faulce erreur -->
+<feat xlink:href="#line_314" value=" D&apos; ydolatrie dont ilz usoient"/><!--  D' ydolatrie dont ilz usoient -->
+<feat xlink:href="#line_315" value=" Pouvrement et s&apos; en abusoient ."/><!--  Pouvrement et s' en abusoient . -->
+<feat xlink:href="#line_316" value=" Pour retourner à nostre fait ,"/><!--  Pour retourner à nostre fait , -->
+<feat xlink:href="#line_317" value=" Quant Saint Mathurin sçeut le fait ,"/><!--  Quant Saint Mathurin sçeut le fait , -->
+<feat xlink:href="#line_318" value=" Et congneut le vouloir de son père"/><!--  Et congneut le vouloir de son père -->
+<feat xlink:href="#line_319" value=" Pareillement et de sa mère ,"/><!--  Pareillement et de sa mère , -->
+<feat xlink:href="#line_320" value=" Sans tarder , tout hastivement"/><!--  Sans tarder , tout hastivement -->
+<feat xlink:href="#line_321" value=" Envoya tout et batamment"/><!--  Envoya tout et batamment -->
+<feat xlink:href="#line_322" value=" Sainct Mathurin quérir son maistre"/><!--  Sainct Mathurin quérir son maistre -->
+<feat xlink:href="#line_323" value=" Policarpe à Sens , en son estre ,"/><!--  Policarpe à Sens , en son estre , -->
+<feat xlink:href="#line_324" value=" Pour venir baptiser son père ,"/><!--  Pour venir baptiser son père , -->
+<feat xlink:href="#line_325" value=" Qui le vouloit estre , et sa mère ;"/><!--  Qui le vouloit estre , et sa mère ; -->
+<feat xlink:href="#line_326" value=" Et luy envoya ung homme sage ,"/><!--  Et luy envoya ung homme sage , -->
+<feat xlink:href="#line_327" value=" Qui sagement fist le message ,"/><!--  Qui sagement fist le message , -->
+<feat xlink:href="#line_328" value=" Tant qu&apos; avec luy l&apos; amena"/><!--  Tant qu' avec luy l' amena -->
+<feat xlink:href="#line_329" value=" Et tout son fait bien ordonna ,"/><!--  Et tout son fait bien ordonna , -->
+<feat xlink:href="#line_330" value=" Puis s&apos; en vint à coup chevauchant ,"/><!--  Puis s' en vint à coup chevauchant , -->
+<feat xlink:href="#line_331" value=" Sans repaistre , jusques à Larchant ."/><!--  Sans repaistre , jusques à Larchant . -->
+<feat xlink:href="#line_332" value=" Là baptiza le duc Marin ,"/><!--  Là baptiza le duc Marin , -->
+<feat xlink:href="#line_333" value=" Le père au bon Mathurin ;"/><!--  Le père au bon Mathurin ; -->
+<feat xlink:href="#line_334" value=" La duchesse aussi , Eufemie ,"/><!--  La duchesse aussi , Eufemie , -->
+<feat xlink:href="#line_335" value=" La mère , qui ne l&apos; estoit mie ,"/><!--  La mère , qui ne l' estoit mie , -->
+<feat xlink:href="#line_336" value=" Et tous leurs gens entièrement"/><!--  Et tous leurs gens entièrement -->
+<feat xlink:href="#line_337" value=" Reçeurent ce beau sacrement"/><!--  Reçeurent ce beau sacrement -->
+<feat xlink:href="#line_338" value=" A grant joye et à grant honneur ,"/><!--  A grant joye et à grant honneur , -->
+<feat xlink:href="#line_339" value=" Se rendans à Dieu de bon cueur ."/><!--  Se rendans à Dieu de bon cueur . -->
+<feat xlink:href="#line_340" value=" L&apos; hystoire après suffisamment"/><!--  L' hystoire après suffisamment -->
+<feat xlink:href="#line_341" value=" Monstre ce beau baptizement ."/><!--  Monstre ce beau baptizement . -->
+<feat xlink:href="#line_342" value=" Quant chascun d&apos; eulx fut baptizé ,"/><!--  Quant chascun d' eulx fut baptizé , -->
+<feat xlink:href="#line_343" value=" Le duc Marin bien advisé ,"/><!--  Le duc Marin bien advisé , -->
+<feat xlink:href="#line_344" value=" Ainsi que Dieu l&apos; admonnesta ,"/><!--  Ainsi que Dieu l' admonnesta , -->
+<feat xlink:href="#line_345" value=" Le bon Policarpe arresta"/><!--  Le bon Policarpe arresta -->
+<feat xlink:href="#line_346" value=" Par grant prière et doulx langaige ,"/><!--  Par grant prière et doulx langaige , -->
+<feat xlink:href="#line_347" value=" En l&apos; entretenant au village"/><!--  En l' entretenant au village -->
+<feat xlink:href="#line_348" value=" De Larchant , où il se tenoit"/><!--  De Larchant , où il se tenoit -->
+<feat xlink:href="#line_349" value=" Au dit Larchant fut voulentiers"/><!--  Au dit Larchant fut voulentiers -->
+<feat xlink:href="#line_350" value=" L&apos; espace de huyt ans tout entiers ,"/><!--  L' espace de huyt ans tout entiers , -->
+<feat xlink:href="#line_351" value=" Preschant et faisant sacrifice"/><!--  Preschant et faisant sacrifice -->
+<feat xlink:href="#line_352" value=" Au vray Dieu , et selon son office ."/><!--  Au vray Dieu , et selon son office . -->
+<feat xlink:href="#line_353" value=" Se tint avec le duc Marin"/><!--  Se tint avec le duc Marin -->
+<feat xlink:href="#line_354" value=" Et avec Sainct Mathurin ,"/><!--  Et avec Sainct Mathurin , -->
+<feat xlink:href="#line_355" value=" Tout ce temps , pour les affermer"/><!--  Tout ce temps , pour les affermer -->
+<feat xlink:href="#line_356" value=" En la foy et mieulx confermer ."/><!--  En la foy et mieulx confermer . -->
+<feat xlink:href="#line_357" value=" Ainçoys qu&apos; il s&apos; en voulsist partir ,"/><!--  Ainçoys qu' il s' en voulsist partir , -->
+<feat xlink:href="#line_358" value=" Ne d&apos; avec eulx departir ,"/><!--  Ne d' avec eulx departir , -->
+<feat xlink:href="#line_359" value=" Fist le bon sainct Mathurin prestre ,"/><!--  Fist le bon sainct Mathurin prestre , -->
+<feat xlink:href="#line_360" value=" Pour plus en grant vertu le croistre ;"/><!--  Pour plus en grant vertu le croistre ; -->
+<feat xlink:href="#line_361" value=" Si n&apos; avoit il que vingt ans d&apos; aage ,"/><!--  Si n' avoit il que vingt ans d' aage , -->
+<feat xlink:href="#line_362" value=" Mais il estoit prudent et sage"/><!--  Mais il estoit prudent et sage -->
+<feat xlink:href="#line_363" value=" Et d&apos; un très bel entendement ,"/><!--  Et d' un très bel entendement , -->
+<feat xlink:href="#line_364" value=" Pour gouverner tel sacrement ."/><!--  Pour gouverner tel sacrement . -->
+<feat xlink:href="#line_365" value=" L&apos; aage ne luy fut prejudice"/><!--  L' aage ne luy fut prejudice -->
+<feat xlink:href="#line_366" value=" De recevoir ce digne office ,"/><!--  De recevoir ce digne office , -->
+<feat xlink:href="#line_367" value=" Car toute plaisance de corps"/><!--  Car toute plaisance de corps -->
+<feat xlink:href="#line_368" value=" Corrigoit et mettoit dehors"/><!--  Corrigoit et mettoit dehors -->
+<feat xlink:href="#line_369" value=" Par grans jeusnes et abstinences ,"/><!--  Par grans jeusnes et abstinences , -->
+<feat xlink:href="#line_370" value=" Dont il usoit à grans prudences ;"/><!--  Dont il usoit à grans prudences ; -->
+<feat xlink:href="#line_371" value=" Faisoit aumosnes et oraisons ,"/><!--  Faisoit aumosnes et oraisons , -->
+<feat xlink:href="#line_372" value=" Pour quoy avoit maintes raisons"/><!--  Pour quoy avoit maintes raisons -->
+<feat xlink:href="#line_373" value=" De povoir l&apos; aage supporter ."/><!--  De povoir l' aage supporter . -->
+<feat xlink:href="#line_374" value=" Car la saincte vie dont il vivoit"/><!--  Car la saincte vie dont il vivoit -->
+<feat xlink:href="#line_375" value=" Supporta l&apos; aage qu&apos; il avoit ."/><!--  Supporta l' aage qu' il avoit . -->
+<feat xlink:href="#line_376" value=" L&apos; hystoire après est pour congnoistre"/><!--  L' hystoire après est pour congnoistre -->
+<feat xlink:href="#line_377" value=" Comme on fist sainct Mathurin prestre ."/><!--  Comme on fist sainct Mathurin prestre . -->
+<feat xlink:href="#line_378" value=" Alors Policarpe , son maistre ,"/><!--  Alors Policarpe , son maistre , -->
+<feat xlink:href="#line_379" value=" Se voulut retraire à son estre ;"/><!--  Se voulut retraire à son estre ; -->
+<feat xlink:href="#line_380" value=" Print congé d&apos; eulx honnestement"/><!--  Print congé d' eulx honnestement -->
+<feat xlink:href="#line_381" value=" Et eulx de luy semblablement ;"/><!--  Et eulx de luy semblablement ; -->
+<feat xlink:href="#line_382" value=" Si s&apos; en alla ailleurs parfaire"/><!--  Si s' en alla ailleurs parfaire -->
+<feat xlink:href="#line_383" value=" Les choses qu&apos; il avoit à faire ."/><!--  Les choses qu' il avoit à faire . -->
+<feat xlink:href="#line_384" value=" En ce temps vint grant maladie"/><!--  En ce temps vint grant maladie -->
+<feat xlink:href="#line_385" value=" A Romme et grant epydimie"/><!--  A Romme et grant epydimie -->
+<feat xlink:href="#line_386" value=" Et gens tous plains d&apos; infection ,"/><!--  Et gens tous plains d' infection , -->
+<feat xlink:href="#line_387" value=" De toute malediction ,"/><!--  De toute malediction , -->
+<feat xlink:href="#line_388" value=" Borgnes , bossus et contrefaitz ,"/><!--  Borgnes , bossus et contrefaitz , -->
+<feat xlink:href="#line_389" value=" Aveugles et meseaulx parfaitz ,"/><!--  Aveugles et meseaulx parfaitz , -->
+<feat xlink:href="#line_390" value=" Fièvres , langueurs , de maulx chargez ,"/><!--  Fièvres , langueurs , de maulx chargez , -->
+<feat xlink:href="#line_391" value=" Plains de Dyables , tous enragés ;"/><!--  Plains de Dyables , tous enragés ; -->
+<feat xlink:href="#line_392" value=" Mesmes la fille à l&apos; Empereur"/><!--  Mesmes la fille à l' Empereur -->
+<feat xlink:href="#line_393" value=" Maximien , persecuteur"/><!--  Maximien , persecuteur -->
+<feat xlink:href="#line_394" value=" Des Crestiens , fut tourmentée"/><!--  Des Crestiens , fut tourmentée -->
+<feat xlink:href="#line_395" value=" Du Dyable et fut persecutée ;"/><!--  Du Dyable et fut persecutée ; -->
+<feat xlink:href="#line_396" value=" Devint folle et demoniacle ."/><!--  Devint folle et demoniacle . -->
+<feat xlink:href="#line_397" value=" Le Dyable fist son habitacle"/><!--  Le Dyable fist son habitacle -->
+<feat xlink:href="#line_398" value=" En son corps pour la tourmenter ;"/><!--  En son corps pour la tourmenter ; -->
+<feat xlink:href="#line_399" value=" On le cuyda bien hors bouter"/><!--  On le cuyda bien hors bouter -->
+<feat xlink:href="#line_400" value=" Par force d&apos; un enchantement ,"/><!--  Par force d' un enchantement , -->
+<feat xlink:href="#line_401" value=" Mais le Dyable dist haultement"/><!--  Mais le Dyable dist haultement -->
+<feat xlink:href="#line_402" value=" Par contrainte que de ce corpz"/><!--  Par contrainte que de ce corpz -->
+<feat xlink:href="#line_403" value=" Jamais ne fauldroit dehors ,"/><!--  Jamais ne fauldroit dehors , -->
+<feat xlink:href="#line_404" value=" Tant que ung nommé Mathurin"/><!--  Tant que ung nommé Mathurin -->
+<feat xlink:href="#line_405" value=" Iroit le chasser en la fin"/><!--  Iroit le chasser en la fin -->
+<feat xlink:href="#line_406" value=" Et que par luy il s&apos; en yroit"/><!--  Et que par luy il s' en yroit -->
+<feat xlink:href="#line_407" value=" Et tout le peuple gueriroit ;"/><!--  Et tout le peuple gueriroit ; -->
+<feat xlink:href="#line_408" value=" Dist que en Gaulle se tenoit ,"/><!--  Dist que en Gaulle se tenoit , -->
+<feat xlink:href="#line_409" value=" Mais ne nomma pas où c&apos; estoit ,"/><!--  Mais ne nomma pas où c' estoit , -->
+<feat xlink:href="#line_410" value=" Ne le village , ne le lieu"/><!--  Ne le village , ne le lieu -->
+<feat xlink:href="#line_411" value=" Où se tenoit l&apos; homme de Dieu ,"/><!--  Où se tenoit l' homme de Dieu , -->
+<feat xlink:href="#line_412" value=" Mais en parla couvertement ,"/><!--  Mais en parla couvertement , -->
+<feat xlink:href="#line_413" value=" Sans rien declairer autrement ."/><!--  Sans rien declairer autrement . -->
+<feat xlink:href="#line_414" value=" Cy après verrez par figure"/><!--  Cy après verrez par figure -->
+<feat xlink:href="#line_415" value=" L&apos; Enchanteur qui le Dyable adjure ."/><!--  L' Enchanteur qui le Dyable adjure . -->
+<feat xlink:href="#line_416" value=" La responce du Dyable ouye ,"/><!--  La responce du Dyable ouye , -->
+<feat xlink:href="#line_417" value=" Fut parmy Rome espanouie"/><!--  Fut parmy Rome espanouie -->
+<feat xlink:href="#line_418" value=" Et en peu d&apos; heure tout à coup ,"/><!--  Et en peu d' heure tout à coup , -->
+<feat xlink:href="#line_419" value=" Par quoy il se assembla beaucoup"/><!--  Par quoy il se assembla beaucoup -->
+<feat xlink:href="#line_420" value=" De peuple en grant affection ."/><!--  De peuple en grant affection . -->
+<feat xlink:href="#line_421" value=" Pleurans par grant affliction ,"/><!--  Pleurans par grant affliction , -->
+<feat xlink:href="#line_422" value=" Allèrent à l&apos; Empereur dire"/><!--  Allèrent à l' Empereur dire -->
+<feat xlink:href="#line_423" value=" Qu&apos; il luy pleust tout ce fait conduyre ,"/><!--  Qu' il luy pleust tout ce fait conduyre , -->
+<feat xlink:href="#line_424" value=" En disant : « O Imperateur ,"/><!--  En disant : « O Imperateur , -->
+<feat xlink:href="#line_425" value=" Tu congnois bien nostre douleur ,"/><!--  Tu congnois bien nostre douleur , -->
+<feat xlink:href="#line_426" value=" « Noz pestes , noz afflictions ,"/><!--  « Noz pestes , noz afflictions , -->
+<feat xlink:href="#line_427" value=" « Où il convient que nous soyons"/><!--  « Où il convient que nous soyons -->
+<feat xlink:href="#line_428" value=" « Jusques à tant que ce saint homme"/><!--  « Jusques à tant que ce saint homme -->
+<feat xlink:href="#line_429" value=" « Nous soit venu à Romme ."/><!--  « Nous soit venu à Romme . -->
+<feat xlink:href="#line_430" value=" « Envoye embassades le querir"/><!--  « Envoye embassades le querir -->
+<feat xlink:href="#line_431" value=" « Jusques en Gaulle et enquerir"/><!--  « Jusques en Gaulle et enquerir -->
+<feat xlink:href="#line_432" value=" « Tout le pays et la region"/><!--  « Tout le pays et la region -->
+<feat xlink:href="#line_433" value=" « Où peult faire sa mension ,"/><!--  « Où peult faire sa mension , -->
+<feat xlink:href="#line_434" value=" « Tant qu&apos; on le face à toy venir ,"/><!--  « Tant qu' on le face à toy venir , -->
+<feat xlink:href="#line_435" value=" « Àffin qu&apos; il puisse soustenir"/><!--  « Àffin qu' il puisse soustenir -->
+<feat xlink:href="#line_436" value=" « A ta fille et ses douleurs ,"/><!--  « A ta fille et ses douleurs , -->
+<feat xlink:href="#line_437" value=" « Et nous , qui en avons plusieurs ,"/><!--  « Et nous , qui en avons plusieurs , -->
+<feat xlink:href="#line_438" value=" « Par adventure , que par luy ,"/><!--  « Par adventure , que par luy , -->
+<feat xlink:href="#line_439" value=" » De tous nous il n&apos; y a celluy"/><!--  » De tous nous il n' y a celluy -->
+<feat xlink:href="#line_440" value=" « Que Dieu , par amour et concorde ,"/><!--  « Que Dieu , par amour et concorde , -->
+<feat xlink:href="#line_441" value=" « Au moyen du doulx Mathurin . »"/><!--  « Au moyen du doulx Mathurin . » -->
+<feat xlink:href="#line_442" value=" L&apos; Empereur eust le cueur enclin"/><!--  L' Empereur eust le cueur enclin -->
+<feat xlink:href="#line_443" value=" D&apos; envoyer tantost embassades ,"/><!--  D' envoyer tantost embassades , -->
+<feat xlink:href="#line_444" value=" Pour guérir tous ses gens malades"/><!--  Pour guérir tous ses gens malades -->
+<feat xlink:href="#line_445" value=" Et sa fille en especial ,"/><!--  Et sa fille en especial , -->
+<feat xlink:href="#line_446" value=" Qu&apos; il véoit souffrir tant de mal ."/><!--  Qu' il véoit souffrir tant de mal . -->
+<feat xlink:href="#line_447" value=" En France vindrent chevauchant ,"/><!--  En France vindrent chevauchant , -->
+<feat xlink:href="#line_448" value=" Qui se nommoit Gaulle devant ,"/><!--  Qui se nommoit Gaulle devant , -->
+<feat xlink:href="#line_449" value=" Et se misrent en trois parties ,"/><!--  Et se misrent en trois parties , -->
+<feat xlink:href="#line_450" value=" Qui par eulx furent departies ,"/><!--  Qui par eulx furent departies , -->
+<feat xlink:href="#line_451" value=" Car ilz ne pouvoient pas prouver"/><!--  Car ilz ne pouvoient pas prouver -->
+<feat xlink:href="#line_452" value=" Qu&apos; ilz pourroient le bon Saint trouver ."/><!--  Qu' ilz pourroient le bon Saint trouver . -->
+<feat xlink:href="#line_453" value=" L&apos; hystoire après fait mention"/><!--  L' hystoire après fait mention -->
+<feat xlink:href="#line_454" value=" Comme il bailla commission ."/><!--  Comme il bailla commission . -->
+<feat xlink:href="#line_455" value=" A Larchant les ungz arrivèrent ,"/><!--  A Larchant les ungz arrivèrent , -->
+<feat xlink:href="#line_456" value=" Qui saint Mathurin y trouvèrent ;"/><!--  Qui saint Mathurin y trouvèrent ; -->
+<feat xlink:href="#line_457" value=" Le saluèrent hautement ,"/><!--  Le saluèrent hautement , -->
+<feat xlink:href="#line_458" value=" Si fist il eulx pareillement ;"/><!--  Si fist il eulx pareillement ; -->
+<feat xlink:href="#line_459" value=" Puis luy comptèrent , en effect ,"/><!--  Puis luy comptèrent , en effect , -->
+<feat xlink:href="#line_460" value=" Ce que à Romme avoit esté faict ,"/><!--  Ce que à Romme avoit esté faict , -->
+<feat xlink:href="#line_461" value=" Les maladies et les tourmens"/><!--  Les maladies et les tourmens -->
+<feat xlink:href="#line_462" value=" En quoy estoient les povres gens ,"/><!--  En quoy estoient les povres gens , -->
+<feat xlink:href="#line_463" value=" Et , s&apos; il n&apos; alloit les secourir"/><!--  Et , s' il n' alloit les secourir -->
+<feat xlink:href="#line_464" value=" Ilz estoient tous presque au mourir ,"/><!--  Ilz estoient tous presque au mourir , -->
+<feat xlink:href="#line_465" value=" Et l&apos; Empereur luy prioit"/><!--  Et l' Empereur luy prioit -->
+<feat xlink:href="#line_466" value=" Par amour luy supplioit"/><!--  Par amour luy supplioit -->
+<feat xlink:href="#line_467" value=" Qu&apos; il allast sa fille visiter"/><!--  Qu' il allast sa fille visiter -->
+<feat xlink:href="#line_468" value=" Et d&apos; elle le Dyable gecter ,"/><!--  Et d' elle le Dyable gecter , -->
+<feat xlink:href="#line_469" value=" Et qu&apos; il croyoit certainement"/><!--  Et qu' il croyoit certainement -->
+<feat xlink:href="#line_470" value=" Qu&apos; il n&apos; en sauldroit point autrement ,"/><!--  Qu' il n' en sauldroit point autrement , -->
+<feat xlink:href="#line_471" value=" S&apos; il n&apos; avoit par amictié"/><!--  S' il n' avoit par amictié -->
+<feat xlink:href="#line_472" value=" D&apos; elle et de son peuple pitié ."/><!--  D' elle et de son peuple pitié . -->
+<feat xlink:href="#line_473" value=" L&apos; Ange avoit la nuyt visité"/><!--  L' Ange avoit la nuyt visité -->
+<feat xlink:href="#line_474" value=" Saint Mathurin et recité"/><!--  Saint Mathurin et recité -->
+<feat xlink:href="#line_475" value=" Qu&apos; il venoit vers luy embassades"/><!--  Qu' il venoit vers luy embassades -->
+<feat xlink:href="#line_476" value=" De Romme , à cause des malades ,"/><!--  De Romme , à cause des malades , -->
+<feat xlink:href="#line_477" value=" Et qu&apos; il allast vers eulx seurement ,"/><!--  Et qu' il allast vers eulx seurement , -->
+<feat xlink:href="#line_478" value=" Car c&apos; estoit le commandement"/><!--  Car c' estoit le commandement -->
+<feat xlink:href="#line_479" value=" De Dieu , que tout gariroit"/><!--  De Dieu , que tout gariroit -->
+<feat xlink:href="#line_480" value=" Et Dieu tousjours avec luy seroit ;"/><!--  Et Dieu tousjours avec luy seroit ; -->
+<feat xlink:href="#line_481" value=" Par quoy tost il se disposa ,"/><!--  Par quoy tost il se disposa , -->
+<feat xlink:href="#line_482" value=" Et chacun d&apos; eulx se reposa ,"/><!--  Et chacun d' eulx se reposa , -->
+<feat xlink:href="#line_483" value=" Et leur fist grant chère Marin ,"/><!--  Et leur fist grant chère Marin , -->
+<feat xlink:href="#line_484" value=" Pour l&apos; amour de Sainct Mathurin ."/><!--  Pour l' amour de Sainct Mathurin . -->
+<feat xlink:href="#line_485" value=" Ce nonobstant qu&apos; ilz estoient doulens"/><!--  Ce nonobstant qu' ilz estoient doulens -->
+<feat xlink:href="#line_486" value=" Sachans que leur filz Mathurin"/><!--  Sachans que leur filz Mathurin -->
+<feat xlink:href="#line_487" value=" A Romme vouloit prendre chemin ."/><!--  A Romme vouloit prendre chemin . -->
+<feat xlink:href="#line_488" value=" Chascun d&apos; eulx se print à plourer ,"/><!--  Chascun d' eulx se print à plourer , -->
+<feat xlink:href="#line_489" value=" Père et mère à se doulourer ,"/><!--  Père et mère à se doulourer , -->
+<feat xlink:href="#line_490" value=" Disant que jamais ne verr(o)oient"/><!--  Disant que jamais ne verr(o)oient -->
+<feat xlink:href="#line_491" value=" Leur enfant que tant ilz aymoient ."/><!--  Leur enfant que tant ilz aymoient . -->
+<feat xlink:href="#line_492" value=" Sainct Mathurin , pour paix y mettre ,"/><!--  Sainct Mathurin , pour paix y mettre , -->
+<feat xlink:href="#line_493" value=" Aux ambassades fist promettre"/><!--  Aux ambassades fist promettre -->
+<feat xlink:href="#line_494" value=" Sur le sacrement de la messe"/><!--  Sur le sacrement de la messe -->
+<feat xlink:href="#line_495" value=" Que , ains qu&apos; il partist , feroient promesses"/><!--  Que , ains qu' il partist , feroient promesses -->
+<feat xlink:href="#line_496" value=" Vif ou mort de le ramener"/><!--  Vif ou mort de le ramener -->
+<feat xlink:href="#line_497" value=" A Larchant sans ensejourner"/><!--  A Larchant sans ensejourner -->
+<feat xlink:href="#line_498" value=" Et luy promirent pour tout voir"/><!--  Et luy promirent pour tout voir -->
+<feat xlink:href="#line_499" value=" Qu&apos; en feroient leur loyal devoir ."/><!--  Qu' en feroient leur loyal devoir . -->
+</featList>
+</paula>

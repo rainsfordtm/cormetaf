@@ -1,0 +1,11 @@
+Camcorp 0.71V
+=============
+
+Updated version of the camcorp designed to be used in the revised (2022) book study.
+
+Changes from v0.7:
+
+- "Unstressed" list of monosyllables restricts stressed monosyllables to *lexical categories* only.
+        - policy of conservative tagging to reduce overgeneration of "possible" stress.
+        - also excludes monosyllabic forms of *estre* and *avoir*.
+        

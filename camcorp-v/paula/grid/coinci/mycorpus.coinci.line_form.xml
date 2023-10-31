@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.coinci_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.coinci.line.xml">
+<feat xlink:href="#line_0" value=" se diex m&apos; aït hui et demain"/><!--  se diex m' aït hui et demain -->
+<feat xlink:href="#line_1" value=" tanz myracles me vient a main"/><!--  tanz myracles me vient a main -->
+<feat xlink:href="#line_2" value=" en un grant livre ou je les puis"/><!--  en un grant livre ou je les puis -->
+<feat xlink:href="#line_3" value=" que je ne sai ne je ne puis"/><!--  que je ne sai ne je ne puis -->
+<feat xlink:href="#line_4" value=" les plus plaisans chosir n eslire"/><!--  les plus plaisans chosir n eslire -->
+<feat xlink:href="#line_5" value=" quant a la fois repreng a lire"/><!--  quant a la fois repreng a lire -->
+<feat xlink:href="#line_6" value=" cialz qu arriere ai entrelaissiez"/><!--  cialz qu arriere ai entrelaissiez -->
+<feat xlink:href="#line_7" value=" lors m&apos; est avis que j ai laissiez"/><!--  lors m' est avis que j ai laissiez -->
+<feat xlink:href="#line_8" value=" et les milleurs et les plus bialz"/><!--  et les milleurs et les plus bialz -->
+<feat xlink:href="#line_9" value=" or vos reveil conter de cialz"/><!--  or vos reveil conter de cialz -->
+<feat xlink:href="#line_10" value=" qu entrelaissiez arriere avoie"/><!--  qu entrelaissiez arriere avoie -->
+<feat xlink:href="#line_11" value=" et nepourquant j en troveroie"/><!--  et nepourquant j en troveroie -->
+<feat xlink:href="#line_12" value=" et d&apos; ausi bialz et d&apos; ausi grans"/><!--  et d' ausi bialz et d' ausi grans -->
+<feat xlink:href="#line_13" value=" mais pour ce un peu en sui engrans"/><!--  mais pour ce un peu en sui engrans -->
+<feat xlink:href="#line_14" value=" que la contesse ade m&apos; en prie"/><!--  que la contesse ade m' en prie -->
+<feat xlink:href="#line_15" value=" de soissonz qui mout est m&apos; amie"/><!--  de soissonz qui mout est m' amie -->
+<feat xlink:href="#line_16" value=" et qui mout aimme de cuer fin"/><!--  et qui mout aimme de cuer fin -->
+<feat xlink:href="#line_17" value=" la mere dieu qui bonne fin"/><!--  la mere dieu qui bonne fin -->
+<feat xlink:href="#line_18" value=" li daint doner et bone vie"/><!--  li daint doner et bone vie -->
+<feat xlink:href="#line_19" value=" et mes cuers plus tost s i raplie"/><!--  et mes cuers plus tost s i raplie -->
+<feat xlink:href="#line_20" value=" pour ce qu avinrent a soissonz"/><!--  pour ce qu avinrent a soissonz -->
+<feat xlink:href="#line_21" value=" ou me norri de ses poissonz"/><!--  ou me norri de ses poissonz -->
+<feat xlink:href="#line_22" value=" de ses flaons et de ses miches"/><!--  de ses flaons et de ses miches -->
+<feat xlink:href="#line_23" value=" mes sires sains maars li riches"/><!--  mes sires sains maars li riches -->
+<feat xlink:href="#line_24" value=" quant a soissons tant de gens vinrent"/><!--  quant a soissons tant de gens vinrent -->
+<feat xlink:href="#line_25" value=" as granz miracles qui avinrent"/><!--  as granz miracles qui avinrent -->
+<feat xlink:href="#line_26" value=" au saint soller la bele dame"/><!--  au saint soller la bele dame -->
+<feat xlink:href="#line_27" value=" de vaus une mout povre fame"/><!--  de vaus une mout povre fame -->
+<feat xlink:href="#line_28" value=" i aporta un sien enfant"/><!--  i aporta un sien enfant -->
+<feat xlink:href="#line_29" value=" qui maladie avoit si grant"/><!--  qui maladie avoit si grant -->
+<feat xlink:href="#line_30" value=" que feuz d&apos; enfer ses piez ardoit"/><!--  que feuz d' enfer ses piez ardoit -->
+<feat xlink:href="#line_31" value=" cil enfes les porcialz gardoit"/><!--  cil enfes les porcialz gardoit -->
+<feat xlink:href="#line_32" value=" en vax qui est soz gonfroicort"/><!--  en vax qui est soz gonfroicort -->
+<feat xlink:href="#line_33" value=" lés fontenoi ou aisne cort"/><!--  lés fontenoi ou aisne cort -->
+<feat xlink:href="#line_34" value=" petis estoit ne mie grans"/><!--  petis estoit ne mie grans -->
+<feat xlink:href="#line_35" value=" li livres dit n avoit qu onze anz"/><!--  li livres dit n avoit qu onze anz -->
+<feat xlink:href="#line_36" value=" dou puant feu qui art sanz flame"/><!--  dou puant feu qui art sanz flame -->
+<feat xlink:href="#line_37" value=" mout tost gari l&apos; eut nostre dame"/><!--  mout tost gari l' eut nostre dame -->
+<feat xlink:href="#line_38" value=" qui est soutilz cyrurgienne"/><!--  qui est soutilz cyrurgienne -->
+<feat xlink:href="#line_39" value=" en vauz la povre crestienne"/><!--  en vauz la povre crestienne -->
+<feat xlink:href="#line_40" value=" atout son enfant s en revint"/><!--  atout son enfant s en revint -->
+<feat xlink:href="#line_41" value=" en l&apos; an aprés grans voloirs vint"/><!--  en l' an aprés grans voloirs vint -->
+<feat xlink:href="#line_42" value=" a l&apos; enfant de raler arriere"/><!--  a l' enfant de raler arriere -->
+<feat xlink:href="#line_43" value=" sa mere en fait mainte priere"/><!--  sa mere en fait mainte priere -->
+<feat xlink:href="#line_44" value=" souvent li prie a jointes mains"/><!--  souvent li prie a jointes mains -->
+<feat xlink:href="#line_45" value=" que chasc an une fois au mains"/><!--  que chasc an une fois au mains -->
+<feat xlink:href="#line_46" value=" a nostre dame le remaint"/><!--  a nostre dame le remaint -->
+<feat xlink:href="#line_47" value=" que feuz d&apos; enfer ne le mesmaint"/><!--  que feuz d' enfer ne le mesmaint -->
+<feat xlink:href="#line_48" value=" chasqu an ce dit la vielt requerre"/><!--  chasqu an ce dit la vielt requerre -->
+<feat xlink:href="#line_49" value=" que sainz ses menbres gart sor terre"/><!--  que sainz ses menbres gart sor terre -->
+<feat xlink:href="#line_50" value=" mais sa mere de ceste chose"/><!--  mais sa mere de ceste chose -->
+<feat xlink:href="#line_51" value=" assez souvent le blasme et chose"/><!--  assez souvent le blasme et chose -->
+<feat xlink:href="#line_52" value=" et dist qu il ne porroit pour cialz"/><!--  et dist qu il ne porroit pour cialz -->
+<feat xlink:href="#line_53" value=" qui bestes garde et cui pourcialz"/><!--  qui bestes garde et cui pourcialz -->
+<feat xlink:href="#line_54" value=" souvent prieres l&apos; en fait grans"/><!--  souvent prieres l' en fait grans -->
+<feat xlink:href="#line_55" value=" mais la vieille est mout ahurtanz"/><!--  mais la vieille est mout ahurtanz -->
+<feat xlink:href="#line_56" value=" ausi com sont teles i a"/><!--  ausi com sont teles i a -->
+<feat xlink:href="#line_57" value=" se li respont « ya ya"/><!--  se li respont « ya ya -->
+<feat xlink:href="#line_58" value=" or dou roter or dou roter"/><!--  or dou roter or dou roter -->
+<feat xlink:href="#line_59" value=" trop te puis bien amignoter"/><!--  trop te puis bien amignoter -->
+<feat xlink:href="#line_60" value=" s un petitet me vois irier"/><!--  s un petitet me vois irier -->
+<feat xlink:href="#line_61" value=" je te cuit ja si atirier"/><!--  je te cuit ja si atirier -->
+<feat xlink:href="#line_62" value=" que tu d&apos; aler n aras corage"/><!--  que tu d' aler n aras corage -->
+<feat xlink:href="#line_63" value=" a soissons en pelerinage »"/><!--  a soissons en pelerinage » -->
+<feat xlink:href="#line_64" value=" li valletons forment s aïre"/><!--  li valletons forment s aïre -->
+<feat xlink:href="#line_65" value=" des paroles qu il li ot dire"/><!--  des paroles qu il li ot dire -->
+<feat xlink:href="#line_66" value=" et se respont ireement"/><!--  et se respont ireement -->
+<feat xlink:href="#line_67" value=" « or doinst li sires qui ne ment"/><!--  « or doinst li sires qui ne ment -->
+<feat xlink:href="#line_68" value=" quant mener saim ne m&apos; i volez"/><!--  quant mener saim ne m' i volez -->
+<feat xlink:href="#line_69" value=" qu a vostre col si com solez"/><!--  qu a vostre col si com solez -->
+<feat xlink:href="#line_70" value=" m&apos; i reportez par estevoir"/><!--  m' i reportez par estevoir -->
+<feat xlink:href="#line_71" value=" si ferez vos ce croy je voir »"/><!--  si ferez vos ce croy je voir » -->
+<feat xlink:href="#line_72" value=" ainsqu ait pardite sa parole"/><!--  ainsqu ait pardite sa parole -->
+<feat xlink:href="#line_73" value=" li feuz d&apos; enfer qui genz afole"/><!--  li feuz d' enfer qui genz afole -->
+<feat xlink:href="#line_74" value=" es piez li rest maintenant pris"/><!--  es piez li rest maintenant pris -->
+<feat xlink:href="#line_75" value=" et si griement le ra espris"/><!--  et si griement le ra espris -->
+<feat xlink:href="#line_76" value=" qu il brait et crie toute jor"/><!--  qu il brait et crie toute jor -->
+<feat xlink:href="#line_77" value=" lors n i vielt metre nul sejor"/><!--  lors n i vielt metre nul sejor -->
+<feat xlink:href="#line_78" value=" ne le report a nostre dame"/><!--  ne le report a nostre dame -->
+<feat xlink:href="#line_79" value=" tot em plorant la povre fame"/><!--  tot em plorant la povre fame -->
+<feat xlink:href="#line_80" value=" la letre dit se bien m&apos; en membre"/><!--  la letre dit se bien m' en membre -->
+<feat xlink:href="#line_81" value=" quant il vint la qu il n avoit membre"/><!--  quant il vint la qu il n avoit membre -->
+<feat xlink:href="#line_82" value=" que tant ne quant peust mouvoir"/><!--  que tant ne quant peust mouvoir -->
+<feat xlink:href="#line_83" value=" pres d&apos; un dez wis par estevoir"/><!--  pres d' un dez wis par estevoir -->
+<feat xlink:href="#line_84" value=" la povre fame jus le couche"/><!--  la povre fame jus le couche -->
+<feat xlink:href="#line_85" value=" la gist ausi comme une couche"/><!--  la gist ausi comme une couche -->
+<feat xlink:href="#line_86" value=" la pleure assez et brait et crie"/><!--  la pleure assez et brait et crie -->
+<feat xlink:href="#line_87" value=" mais ma dame sainte marie"/><!--  mais ma dame sainte marie -->
+<feat xlink:href="#line_88" value=" la grans royne glorieuse"/><!--  la grans royne glorieuse -->
+<feat xlink:href="#line_89" value=" la douce dame la piteuse"/><!--  la douce dame la piteuse -->
+<feat xlink:href="#line_90" value=" de cele ardeur de cele rage"/><!--  de cele ardeur de cele rage -->
+<feat xlink:href="#line_91" value=" si l&apos; adoucist si l&apos; assouage"/><!--  si l' adoucist si l' assouage -->
+<feat xlink:href="#line_92" value=" que maintenant s est endormis"/><!--  que maintenant s est endormis -->
+<feat xlink:href="#line_93" value=" si con dieu pleut ses esperiz"/><!--  si con dieu pleut ses esperiz -->
+<feat xlink:href="#line_94" value=" ou ciel monta isnelement"/><!--  ou ciel monta isnelement -->
+<feat xlink:href="#line_95" value=" ne dormi pas mout longuement"/><!--  ne dormi pas mout longuement -->
+<feat xlink:href="#line_96" value=" car la grant presse et la grant torbe"/><!--  car la grant presse et la grant torbe -->
+<feat xlink:href="#line_97" value=" si le grieve si le destorbe"/><!--  si le grieve si le destorbe -->
+<feat xlink:href="#line_98" value=" que maintenant s est esperis"/><!--  que maintenant s est esperis -->
+<feat xlink:href="#line_99" value=" a l&apos; esvillier n est pas seris"/><!--  a l' esvillier n est pas seris -->
+<feat xlink:href="#line_100" value=" mais a vois clere et haute s escrie"/><!--  mais a vois clere et haute s escrie -->
+<feat xlink:href="#line_101" value=" « douce dame sainte marie"/><!--  « douce dame sainte marie -->
+<feat xlink:href="#line_102" value=" glorifiee soies tu"/><!--  glorifiee soies tu -->
+<feat xlink:href="#line_103" value=" de ce qu estaint as le grief fu"/><!--  de ce qu estaint as le grief fu -->
+<feat xlink:href="#line_104" value=" dont si griement estoye espris"/><!--  dont si griement estoye espris -->
+<feat xlink:href="#line_105" value=" en paradys ai bien apris"/><!--  en paradys ai bien apris -->
+<feat xlink:href="#line_106" value=" la ou tu as portee m&apos; ame"/><!--  la ou tu as portee m' ame -->
+<feat xlink:href="#line_107" value=" que de terre iez et de ciel dame »"/><!--  que de terre iez et de ciel dame » -->
+<feat xlink:href="#line_108" value=" entor li vienent clerc et lai"/><!--  entor li vienent clerc et lai -->
+<feat xlink:href="#line_109" value=" et il lor conte sanz delai"/><!--  et il lor conte sanz delai -->
+<feat xlink:href="#line_110" value=" qu en paradys a esté s ame"/><!--  qu en paradys a esté s ame -->
+<feat xlink:href="#line_111" value=" et qu a veue nostre dame"/><!--  et qu a veue nostre dame -->
+<feat xlink:href="#line_112" value=" qui deprioit nostre seigneur"/><!--  qui deprioit nostre seigneur -->
+<feat xlink:href="#line_113" value=" qu oster daignast par sa douceur"/><!--  qu oster daignast par sa douceur -->
+<feat xlink:href="#line_114" value=" de son pueple ceste grief plaie"/><!--  de son pueple ceste grief plaie -->
+<feat xlink:href="#line_115" value=" ce feu d&apos; enfer qui tant em plaie"/><!--  ce feu d' enfer qui tant em plaie -->
+<feat xlink:href="#line_116" value=" qui tant en a ars et espris"/><!--  qui tant en a ars et espris -->
+<feat xlink:href="#line_117" value=" et tel responz en avoit pris"/><!--  et tel responz en avoit pris -->
+<feat xlink:href="#line_118" value=" que respondi li tres doz pere"/><!--  que respondi li tres doz pere -->
+<feat xlink:href="#line_119" value=" « bele tres douce chiere mere"/><!--  « bele tres douce chiere mere -->
+<feat xlink:href="#line_120" value=" vous estes estoyle de mer"/><!--  vous estes estoyle de mer -->
+<feat xlink:href="#line_121" value=" seur toute rien vos doy amer"/><!--  seur toute rien vos doy amer -->
+<feat xlink:href="#line_122" value=" seur toute riens vos ai eslite"/><!--  seur toute riens vos ai eslite -->
+<feat xlink:href="#line_123" value=" quanque vous plaist tot me delite"/><!--  quanque vous plaist tot me delite -->
+<feat xlink:href="#line_124" value=" vo volentez en toz endroys"/><!--  vo volentez en toz endroys -->
+<feat xlink:href="#line_125" value=" veil que soit faite et il est drois »"/><!--  veil que soit faite et il est drois » -->
+<feat xlink:href="#line_126" value=" la douce mere jhesucrist"/><!--  la douce mere jhesucrist -->
+<feat xlink:href="#line_127" value=" refait li enfes adonc dist"/><!--  refait li enfes adonc dist -->
+<feat xlink:href="#line_128" value=" « bialz tres dox fielz mout me desplait"/><!--  « bialz tres dox fielz mout me desplait -->
+<feat xlink:href="#line_129" value=" quant a soissons n est s il vous plaist"/><!--  quant a soissons n est s il vous plaist -->
+<feat xlink:href="#line_130" value=" assez plus bele ma maisonz"/><!--  assez plus bele ma maisonz -->
+<feat xlink:href="#line_131" value=" bialz tres dox fiex n est pas raisonz"/><!--  bialz tres dox fiex n est pas raisonz -->
+<feat xlink:href="#line_132" value=" qu ele des autres soit la pire"/><!--  qu ele des autres soit la pire -->
+<feat xlink:href="#line_133" value=" ― douce mere fait nostre sire"/><!--  ― douce mere fait nostre sire -->
+<feat xlink:href="#line_134" value=" d&apos; outre la mer d&apos; outre le rin"/><!--  d' outre la mer d' outre le rin -->
+<feat xlink:href="#line_135" value=" venront par tanz li pelerin"/><!--  venront par tanz li pelerin -->
+<feat xlink:href="#line_136" value=" de cui aport vostre chapele"/><!--  de cui aport vostre chapele -->
+<feat xlink:href="#line_137" value=" faite sera plaisanz et bele"/><!--  faite sera plaisanz et bele -->
+<feat xlink:href="#line_138" value=" et pour ce qu en si grant poverte"/><!--  et pour ce qu en si grant poverte -->
+<feat xlink:href="#line_139" value=" cil de soissons l&apos; ont tant sofferte"/><!--  cil de soissons l' ont tant sofferte -->
+<feat xlink:href="#line_140" value=" a mautalent m&apos; ont escité"/><!--  a mautalent m' ont escité -->
+<feat xlink:href="#line_141" value=" s envoiera sour la cité"/><!--  s envoiera sour la cité -->
+<feat xlink:href="#line_142" value=" si grant flael tuit crieront"/><!--  si grant flael tuit crieront -->
+<feat xlink:href="#line_143" value=" et tuit merci vous prieront »"/><!--  et tuit merci vous prieront » -->
+<feat xlink:href="#line_144" value=" « seigneur ce dist li enfecons"/><!--  « seigneur ce dist li enfecons -->
+<feat xlink:href="#line_145" value=" a ce sachiez que la leçons"/><!--  a ce sachiez que la leçons -->
+<feat xlink:href="#line_146" value=" est toute vraie que j aie dite"/><!--  est toute vraie que j aie dite -->
+<feat xlink:href="#line_147" value=" que par tanz rendrai l&apos; esperite"/><!--  que par tanz rendrai l' esperite -->
+<feat xlink:href="#line_148" value=" a ce sachiez sanz contredit"/><!--  a ce sachiez sanz contredit -->
+<feat xlink:href="#line_149" value=" qu il est toz voirs quanque j ai dit"/><!--  qu il est toz voirs quanque j ai dit -->
+<feat xlink:href="#line_150" value=" que plus d&apos; un mois ne viverai"/><!--  que plus d' un mois ne viverai -->
+<feat xlink:href="#line_151" value=" sanz revenir lors m&apos; en irai »"/><!--  sanz revenir lors m' en irai » -->
+<feat xlink:href="#line_152" value=" maistres huëz li farsis dit"/><!--  maistres huëz li farsis dit -->
+<feat xlink:href="#line_153" value=" qui i parla et qui le vit"/><!--  qui i parla et qui le vit -->
+<feat xlink:href="#line_154" value=" c&apos; onques lettre n ot conneue"/><!--  c' onques lettre n ot conneue -->
+<feat xlink:href="#line_155" value=" n onques lettre n avoit veue"/><!--  n onques lettre n avoit veue -->
+<feat xlink:href="#line_156" value=" et luëz que s ame dou ciel vint"/><!--  et luëz que s ame dou ciel vint -->
+<feat xlink:href="#line_157" value=" telz clers et telz devinz devint"/><!--  telz clers et telz devinz devint -->
+<feat xlink:href="#line_158" value=" que toute seut divinité"/><!--  que toute seut divinité -->
+<feat xlink:href="#line_159" value=" tuit li bon cler de la cité"/><!--  tuit li bon cler de la cité -->
+<feat xlink:href="#line_160" value=" son parfont senz oïr venoyent"/><!--  son parfont senz oïr venoyent -->
+<feat xlink:href="#line_161" value=" et lor doutances demandoient"/><!--  et lor doutances demandoient -->
+<feat xlink:href="#line_162" value=" tant ert bons clers c&apos; en est la somme"/><!--  tant ert bons clers c' en est la somme -->
+<feat xlink:href="#line_163" value=" qu a trop grant painne a nul lai homme"/><!--  qu a trop grant painne a nul lai homme -->
+<feat xlink:href="#line_164" value=" se trop soutilz n estoit d&apos; entendre"/><!--  se trop soutilz n estoit d' entendre -->
+<feat xlink:href="#line_165" value=" daignoit parler ne raison rendre"/><!--  daignoit parler ne raison rendre -->
+<feat xlink:href="#line_166" value=" mout par amoit lettree gent"/><!--  mout par amoit lettree gent -->
+<feat xlink:href="#line_167" value=" latin parloit si biau si gent"/><!--  latin parloit si biau si gent -->
+<feat xlink:href="#line_168" value=" tuit li bon clerc s en merviloient"/><!--  tuit li bon clerc s en merviloient -->
+<feat xlink:href="#line_169" value=" et a merveilles l&apos; escoutoyent"/><!--  et a merveilles l' escoutoyent -->
+<feat xlink:href="#line_170" value=" le viez testament le novel"/><!--  le viez testament le novel -->
+<feat xlink:href="#line_171" value=" en rime et en metre trop bel"/><!--  en rime et en metre trop bel -->
+<feat xlink:href="#line_172" value=" contoit si bel si a delivre"/><!--  contoit si bel si a delivre -->
+<feat xlink:href="#line_173" value=" com s il le leust en un livre"/><!--  com s il le leust en un livre -->
+<feat xlink:href="#line_174" value=" quant parla de la sainteé"/><!--  quant parla de la sainteé -->
+<feat xlink:href="#line_175" value=" joseph qui ert de grant aé"/><!--  joseph qui ert de grant aé -->
+<feat xlink:href="#line_176" value=" quant en sa garde eut nostre dame"/><!--  quant en sa garde eut nostre dame -->
+<feat xlink:href="#line_177" value=" comme s espouse et con sa fame"/><!--  comme s espouse et con sa fame -->
+<feat xlink:href="#line_178" value=" mout grant loenge de lui fist"/><!--  mout grant loenge de lui fist -->
+<feat xlink:href="#line_179" value=" avec pluiseurs choses en dist"/><!--  avec pluiseurs choses en dist -->
+<feat xlink:href="#line_180" value=" si grant clarté lassus amont"/><!--  si grant clarté lassus amont -->
+<feat xlink:href="#line_181" value=" veue avoit que de cest mont"/><!--  veue avoit que de cest mont -->
+<feat xlink:href="#line_182" value=" la grant clarté et la lumiere"/><!--  la grant clarté et la lumiere -->
+<feat xlink:href="#line_183" value=" ausi haoit comme fumiere"/><!--  ausi haoit comme fumiere -->
+<feat xlink:href="#line_184" value=" nes regarder ne la pooit"/><!--  nes regarder ne la pooit -->
+<feat xlink:href="#line_185" value=" mais tout adez les ielz clooit"/><!--  mais tout adez les ielz clooit -->
+<feat xlink:href="#line_186" value=" sainz esperites ses grans dons"/><!--  sainz esperites ses grans dons -->
+<feat xlink:href="#line_187" value=" renouvela et fist adons"/><!--  renouvela et fist adons -->
+<feat xlink:href="#line_188" value=" ce myracle tieng a mout bel"/><!--  ce myracle tieng a mout bel -->
+<feat xlink:href="#line_189" value=" cil qui david le pastourel"/><!--  cil qui david le pastourel -->
+<feat xlink:href="#line_190" value=" le harpeur le citariste"/><!--  le harpeur le citariste -->
+<feat xlink:href="#line_191" value=" fist son prophete et son psalmiste"/><!--  fist son prophete et son psalmiste -->
+<feat xlink:href="#line_192" value=" de cestui pastourel refist"/><!--  de cestui pastourel refist -->
+<feat xlink:href="#line_193" value=" son prophete quar quanqu il dist"/><!--  son prophete quar quanqu il dist -->
+<feat xlink:href="#line_194" value=" avint aprés isnelement"/><!--  avint aprés isnelement -->
+<feat xlink:href="#line_195" value=" et saichiez bien certainnement"/><!--  et saichiez bien certainnement -->
+<feat xlink:href="#line_196" value=" qu esclairier volt li tres doz pere"/><!--  qu esclairier volt li tres doz pere -->
+<feat xlink:href="#line_197" value=" qu on honourast sa douce mere"/><!--  qu on honourast sa douce mere -->
+<feat xlink:href="#line_198" value=" seur toutes chosëz doucement"/><!--  seur toutes chosëz doucement -->
+<feat xlink:href="#line_199" value=" quant vint a son definement"/><!--  quant vint a son definement -->
+<feat xlink:href="#line_200" value=" et departir l&apos; ame en couvint"/><!--  et departir l' ame en couvint -->
+<feat xlink:href="#line_201" value=" si bialz si blans si clers devint"/><!--  si bialz si blans si clers devint -->
+<feat xlink:href="#line_202" value=" qu il resembla un angelot"/><!--  qu il resembla un angelot -->
+<feat xlink:href="#line_203" value=" trestout ainsi comme il dit l&apos; ot"/><!--  trestout ainsi comme il dit l' ot -->
+<feat xlink:href="#line_204" value=" li feuz d&apos; enfer par soissonz prist"/><!--  li feuz d' enfer par soissonz prist -->
+<feat xlink:href="#line_205" value=" et d&apos; uns et d&apos; autres tant esprist"/><!--  et d' uns et d' autres tant esprist -->
+<feat xlink:href="#line_206" value=" non a soissonz tant seulement"/><!--  non a soissonz tant seulement -->
+<feat xlink:href="#line_207" value=" mais loins et pres communement"/><!--  mais loins et pres communement -->
+<feat xlink:href="#line_208" value=" qu a grans torbes criant venoient"/><!--  qu a grans torbes criant venoient -->
+<feat xlink:href="#line_209" value=" a soissonz ou tuit garissoient"/><!--  a soissonz ou tuit garissoient -->
+<feat xlink:href="#line_210" value=" au saint soller la bele dame"/><!--  au saint soller la bele dame -->
+<feat xlink:href="#line_211" value=" si com li fiex la povre fame"/><!--  si com li fiex la povre fame -->
+<feat xlink:href="#line_212" value=" dire l&apos; ot oï vraiement"/><!--  dire l' ot oï vraiement -->
+<feat xlink:href="#line_213" value=" li vrais des vrais qui pas ne ment"/><!--  li vrais des vrais qui pas ne ment -->
+<feat xlink:href="#line_214" value=" d&apos; outre le rin et de l&apos; empire"/><!--  d' outre le rin et de l' empire -->
+<feat xlink:href="#line_215" value=" ainsi com dit l&apos; eut nostre sire"/><!--  ainsi com dit l' eut nostre sire -->
+<feat xlink:href="#line_216" value=" grant et petit i acouroient"/><!--  grant et petit i acouroient -->
+<feat xlink:href="#line_217" value=" dou grant aport qu il aportoient"/><!--  dou grant aport qu il aportoient -->
+<feat xlink:href="#line_218" value=" edefiee fu l&apos; eglyse"/><!--  edefiee fu l' eglyse -->
+<feat xlink:href="#line_219" value=" qui bele et gente est a devise"/><!--  qui bele et gente est a devise -->
+<feat xlink:href="#line_220" value=" ou il a or mout bel convent"/><!--  ou il a or mout bel convent -->
+<feat xlink:href="#line_221" value=" des beles dames qui souvent"/><!--  des beles dames qui souvent -->
+<feat xlink:href="#line_222" value=" non pas souvent mais sanz sejor"/><!--  non pas souvent mais sanz sejor -->
+<feat xlink:href="#line_223" value=" servent et loent nuit et jor"/><!--  servent et loent nuit et jor -->
+<feat xlink:href="#line_224" value=" la douce mere au roi celestre"/><!--  la douce mere au roi celestre -->
+<feat xlink:href="#line_225" value=" avec eles weille et daint estre"/><!--  avec eles weille et daint estre -->
+<feat xlink:href="#line_226" value=" la douce mere au creatour"/><!--  la douce mere au creatour -->
+<feat xlink:href="#line_227" value=" mout par sont sages quant l&apos; ator"/><!--  mout par sont sages quant l' ator -->
+<feat xlink:href="#line_228" value=" et le beuban dou mont gerpissent"/><!--  et le beuban dou mont gerpissent -->
+<feat xlink:href="#line_229" value=" et les joies qui tost fenissent"/><!--  et les joies qui tost fenissent -->
+<feat xlink:href="#line_230" value=" pour les joies qui n aront fin"/><!--  pour les joies qui n aront fin -->
+<feat xlink:href="#line_231" value=" s eles bien servent de cuer fin"/><!--  s eles bien servent de cuer fin -->
+<feat xlink:href="#line_232" value=" celi qui espure et affine"/><!--  celi qui espure et affine -->
+<feat xlink:href="#line_233" value=" toz cialz qui l&apos; aimment d&apos; amor fine"/><!--  toz cialz qui l' aimment d' amor fine -->
+<feat xlink:href="#line_234" value=" chascune si affinera"/><!--  chascune si affinera -->
+<feat xlink:href="#line_235" value=" que de fine fin finera"/><!--  que de fine fin finera -->
+<feat xlink:href="#line_236" value=" ci leur depri mout finement"/><!--  ci leur depri mout finement -->
+<feat xlink:href="#line_237" value=" quant saront mon definement"/><!--  quant saront mon definement -->
+<feat xlink:href="#line_238" value=" finement prient l&apos; afinee"/><!--  finement prient l' afinee -->
+<feat xlink:href="#line_239" value=" joie me doinst qui n iert finee"/><!--  joie me doinst qui n iert finee -->
+<feat xlink:href="#line_240" value=" diex qui seur toz est purs et fins"/><!--  diex qui seur toz est purs et fins -->
+<feat xlink:href="#line_241" value=" si finement affint leurs fins"/><!--  si finement affint leurs fins -->
+<feat xlink:href="#line_242" value=" que quant venra au definer"/><!--  que quant venra au definer -->
+<feat xlink:href="#line_243" value=" de fine fin puissent finer"/><!--  de fine fin puissent finer -->
+<feat xlink:href="#line_244" value=" ici aprés weil remoller"/><!--  ici aprés weil remoller -->
+<feat xlink:href="#line_245" value=" un myracle dou saint soller"/><!--  un myracle dou saint soller -->
+<feat xlink:href="#line_246" value=" qui assez est et bialz et briez"/><!--  qui assez est et bialz et briez -->
+<feat xlink:href="#line_247" value=" ce me raconte et dist mes briez"/><!--  ce me raconte et dist mes briez -->
+<feat xlink:href="#line_248" value=" qu au tans qu avoit si grant alee"/><!--  qu au tans qu avoit si grant alee -->
+<feat xlink:href="#line_249" value=" a soissons la bonne valee"/><!--  a soissons la bonne valee -->
+<feat xlink:href="#line_250" value=" un chevalier avoit i prez"/><!--  un chevalier avoit i prez -->
+<feat xlink:href="#line_251" value=" qui un bouvier gros et espés"/><!--  qui un bouvier gros et espés -->
+<feat xlink:href="#line_252" value=" avoit qui avoit non buesars"/><!--  avoit qui avoit non buesars -->
+<feat xlink:href="#line_253" value=" estalufrez ert et buisnars"/><!--  estalufrez ert et buisnars -->
+<feat xlink:href="#line_254" value=" li fol vilainz de fol affaire"/><!--  li fol vilainz de fol affaire -->
+<feat xlink:href="#line_255" value=" les festes quant n avoit que faire"/><!--  les festes quant n avoit que faire -->
+<feat xlink:href="#line_256" value=" avec compaignonz qu il avoit"/><!--  avec compaignonz qu il avoit -->
+<feat xlink:href="#line_257" value=" au saint soller souvent aloit"/><!--  au saint soller souvent aloit -->
+<feat xlink:href="#line_258" value=" au saint soller adez offroient"/><!--  au saint soller adez offroient -->
+<feat xlink:href="#line_259" value=" si compaignon quant le baissoient"/><!--  si compaignon quant le baissoient -->
+<feat xlink:href="#line_260" value=" il n offrist ja tant i venist"/><!--  il n offrist ja tant i venist -->
+<feat xlink:href="#line_261" value=" por nule rien qui avenist"/><!--  por nule rien qui avenist -->
+<feat xlink:href="#line_262" value=" un jor avint quant repairoient"/><!--  un jor avint quant repairoient -->
+<feat xlink:href="#line_263" value=" que des myracles mout parloient"/><!--  que des myracles mout parloient -->
+<feat xlink:href="#line_264" value=" que diex faisoit a nostre dame"/><!--  que diex faisoit a nostre dame -->
+<feat xlink:href="#line_265" value=" ce dist li uns « foi que doy m&apos; ame"/><!--  ce dist li uns « foi que doy m' ame -->
+<feat xlink:href="#line_266" value=" a soissons en pelerinage"/><!--  a soissons en pelerinage -->
+<feat xlink:href="#line_267" value=" fait bon aler par bon corage"/><!--  fait bon aler par bon corage -->
+<feat xlink:href="#line_268" value=" au saint soller meesmement"/><!--  au saint soller meesmement -->
+<feat xlink:href="#line_269" value=" ou li ardant communement"/><!--  ou li ardant communement -->
+<feat xlink:href="#line_270" value=" restaignent tuit et jor et nuit »"/><!--  restaignent tuit et jor et nuit » -->
+<feat xlink:href="#line_271" value=" li uns respont si com je cuit"/><!--  li uns respont si com je cuit -->
+<feat xlink:href="#line_272" value=" « qui par bon cuer au main le baise"/><!--  « qui par bon cuer au main le baise -->
+<feat xlink:href="#line_273" value=" toute jor en est plus aaise"/><!--  toute jor en est plus aaise -->
+<feat xlink:href="#line_274" value=" et plus hatiez et plus seürs"/><!--  et plus hatiez et plus seürs -->
+<feat xlink:href="#line_275" value=" et si l&apos; en vient plus tost eurs"/><!--  et si l' en vient plus tost eurs -->
+<feat xlink:href="#line_276" value=" ― par le cuer bieu ce dit buesars"/><!--  ― par le cuer bieu ce dit buesars -->
+<feat xlink:href="#line_277" value=" trestoz li siecles est musars"/><!--  trestoz li siecles est musars -->
+<feat xlink:href="#line_278" value=" par les costez par les mameles"/><!--  par les costez par les mameles -->
+<feat xlink:href="#line_279" value=" par le pomon par les boueles"/><!--  par le pomon par les boueles -->
+<feat xlink:href="#line_280" value=" ne par les dens sainte warie"/><!--  ne par les dens sainte warie -->
+<feat xlink:href="#line_281" value=" je ne pris un oef de blarie"/><!--  je ne pris un oef de blarie -->
+<feat xlink:href="#line_282" value=" ce soller dont alez rotant"/><!--  ce soller dont alez rotant -->
+<feat xlink:href="#line_283" value=" ces nonains noz vont asotant"/><!--  ces nonains noz vont asotant -->
+<feat xlink:href="#line_284" value=" qui d&apos; un soller font saintuaire"/><!--  qui d' un soller font saintuaire -->
+<feat xlink:href="#line_285" value=" pour nostre argent sachier et traire"/><!--  pour nostre argent sachier et traire -->
+<feat xlink:href="#line_286" value=" pour la geule pour la gargate"/><!--  pour la geule pour la gargate -->
+<feat xlink:href="#line_287" value=" d&apos; un viez soller d&apos; une çavate"/><!--  d' un viez soller d' une çavate -->
+<feat xlink:href="#line_288" value=" si faites ore si grant feste"/><!--  si faites ore si grant feste -->
+<feat xlink:href="#line_289" value=" par la gorge ne par la teste"/><!--  par la gorge ne par la teste -->
+<feat xlink:href="#line_290" value=" ne par le cuer sainte warie"/><!--  ne par le cuer sainte warie -->
+<feat xlink:href="#line_291" value=" li maufez noz i acharie"/><!--  li maufez noz i acharie -->
+<feat xlink:href="#line_292" value=" onques n i vieng qu il n i ait presse"/><!--  onques n i vieng qu il n i ait presse -->
+<feat xlink:href="#line_293" value=" cele vielle cele abbeesse"/><!--  cele vielle cele abbeesse -->
+<feat xlink:href="#line_294" value=" tout l&apos; avoir dieu met en sa borse"/><!--  tout l' avoir dieu met en sa borse -->
+<feat xlink:href="#line_295" value=" et jor et nuit adez emborse"/><!--  et jor et nuit adez emborse -->
+<feat xlink:href="#line_296" value=" mais que que facent fole gent"/><!--  mais que que facent fole gent -->
+<feat xlink:href="#line_297" value=" ja n i ara de mon argent"/><!--  ja n i ara de mon argent -->
+<feat xlink:href="#line_298" value=" une maaille toute seule"/><!--  une maaille toute seule -->
+<feat xlink:href="#line_299" value=" ma borse tieng si par la gueule"/><!--  ma borse tieng si par la gueule -->
+<feat xlink:href="#line_300" value=" que ja deniers fors n en saurra"/><!--  que ja deniers fors n en saurra -->
+<feat xlink:href="#line_301" value=" mais au moré qui mielz vaurra"/><!--  mais au moré qui mielz vaurra -->
+<feat xlink:href="#line_302" value=" ou au bon vin l&apos; envoyerai"/><!--  ou au bon vin l' envoyerai -->
+<feat xlink:href="#line_303" value=" la assez mielz l&apos; employerai"/><!--  la assez mielz l' employerai -->
+<feat xlink:href="#line_304" value=" se ce fust sollers nostre dame"/><!--  se ce fust sollers nostre dame -->
+<feat xlink:href="#line_305" value=" diex ne dyables hom ne fame"/><!--  diex ne dyables hom ne fame -->
+<feat xlink:href="#line_306" value=" si ne l&apos; gardast en fer n en fust"/><!--  si ne l' gardast en fer n en fust -->
+<feat xlink:href="#line_307" value=" que mil anz a porris ne fust"/><!--  que mil anz a porris ne fust -->
+<feat xlink:href="#line_308" value=" par le foye sainte warie"/><!--  par le foye sainte warie -->
+<feat xlink:href="#line_309" value=" li dyables bien noz tarye"/><!--  li dyables bien noz tarye -->
+<feat xlink:href="#line_310" value=" et bien noz deçoit et barate"/><!--  et bien noz deçoit et barate -->
+<feat xlink:href="#line_311" value=" quant noz baisonz cele çavate »"/><!--  quant noz baisonz cele çavate » -->
+<feat xlink:href="#line_312" value=" li folz bouviers li folz bobers"/><!--  li folz bouviers li folz bobers -->
+<feat xlink:href="#line_313" value=" li folz vilains li quoquebers"/><!--  li folz vilains li quoquebers -->
+<feat xlink:href="#line_314" value=" ainzqu ait pardite la merveille"/><!--  ainzqu ait pardite la merveille -->
+<feat xlink:href="#line_315" value=" li tuert la bouche seur l&apos; oreille"/><!--  li tuert la bouche seur l' oreille -->
+<feat xlink:href="#line_316" value=" et la langue li sailli fors"/><!--  et la langue li sailli fors -->
+<feat xlink:href="#line_317" value=" si tormentez fu luëz ses cors"/><!--  si tormentez fu luëz ses cors -->
+<feat xlink:href="#line_318" value=" et li maufez qui mal souffle a"/><!--  et li maufez qui mal souffle a -->
+<feat xlink:href="#line_319" value=" si malement luëz le souffla"/><!--  si malement luëz le souffla -->
+<feat xlink:href="#line_320" value=" qu ausi fu gros con une çoche"/><!--  qu ausi fu gros con une çoche -->
+<feat xlink:href="#line_321" value=" ne n i parut iex nez ne bouche"/><!--  ne n i parut iex nez ne bouche -->
+<feat xlink:href="#line_322" value=" li dyables si l&apos; envaÿ"/><!--  li dyables si l' envaÿ -->
+<feat xlink:href="#line_323" value=" geule baee luëz chaÿ"/><!--  geule baee luëz chaÿ -->
+<feat xlink:href="#line_324" value=" com enragiez se degetoyt"/><!--  com enragiez se degetoyt -->
+<feat xlink:href="#line_325" value=" et de sa bouche fors getoit"/><!--  et de sa bouche fors getoit -->
+<feat xlink:href="#line_326" value=" tant de venim et tant d&apos; escume"/><!--  tant de venim et tant d' escume -->
+<feat xlink:href="#line_327" value=" qu il resambloit pot qui escume"/><!--  qu il resambloit pot qui escume -->
+<feat xlink:href="#line_328" value=" quant longement eut escumé"/><!--  quant longement eut escumé -->
+<feat xlink:href="#line_329" value=" et li dyables l&apos; eut tumé"/><!--  et li dyables l' eut tumé -->
+<feat xlink:href="#line_330" value=" sus et jus par ci et par la"/><!--  sus et jus par ci et par la -->
+<feat xlink:href="#line_331" value=" a mout grant painne un peu parla"/><!--  a mout grant painne un peu parla -->
+<feat xlink:href="#line_332" value=" et dit si com il peut parler"/><!--  et dit si com il peut parler -->
+<feat xlink:href="#line_333" value=" qu a nostre dame au saint soller"/><!--  qu a nostre dame au saint soller -->
+<feat xlink:href="#line_334" value=" le portast on isnelement"/><!--  le portast on isnelement -->
+<feat xlink:href="#line_335" value=" si compaignon mout belement"/><!--  si compaignon mout belement -->
+<feat xlink:href="#line_336" value=" luëz l&apos; ont saisi et encharchié"/><!--  luëz l' ont saisi et encharchié -->
+<feat xlink:href="#line_337" value=" porté l&apos; en ont et descharchié"/><!--  porté l' en ont et descharchié -->
+<feat xlink:href="#line_338" value=" devant l&apos; autel a nostre dame"/><!--  devant l' autel a nostre dame -->
+<feat xlink:href="#line_339" value=" maint homme i a et mainte fame"/><!--  maint homme i a et mainte fame -->
+<feat xlink:href="#line_340" value=" qui le regardent a merveille"/><!--  qui le regardent a merveille -->
+<feat xlink:href="#line_341" value=" chascuns se saingne et esmerveille"/><!--  chascuns se saingne et esmerveille -->
+<feat xlink:href="#line_342" value=" pour ce qu ainsi li anemis"/><!--  pour ce qu ainsi li anemis -->
+<feat xlink:href="#line_343" value=" dedenz lui s est muciez et mis"/><!--  dedenz lui s est muciez et mis -->
+<feat xlink:href="#line_344" value=" li anemis si le demainne"/><!--  li anemis si le demainne -->
+<feat xlink:href="#line_345" value=" que si tres fort souffle et alainne"/><!--  que si tres fort souffle et alainne -->
+<feat xlink:href="#line_346" value=" que trop grant hide est dou veoir"/><!--  que trop grant hide est dou veoir -->
+<feat xlink:href="#line_347" value=" et sue de si grant pooir"/><!--  et sue de si grant pooir -->
+<feat xlink:href="#line_348" value=" d&apos; une sueur si tres pullente"/><!--  d' une sueur si tres pullente -->
+<feat xlink:href="#line_349" value=" tout le moustier en empullente"/><!--  tout le moustier en empullente -->
+<feat xlink:href="#line_350" value=" com uns tors crie muit et brait"/><!--  com uns tors crie muit et brait -->
+<feat xlink:href="#line_351" value=" si sont hideuz et grant si brait"/><!--  si sont hideuz et grant si brait -->
+<feat xlink:href="#line_352" value=" pluiseur en ont si grant freur"/><!--  pluiseur en ont si grant freur -->
+<feat xlink:href="#line_353" value=" le mostier wident de peeur"/><!--  le mostier wident de peeur -->
+<feat xlink:href="#line_354" value=" ne puet seoir ne puet ester"/><!--  ne puet seoir ne puet ester -->
+<feat xlink:href="#line_355" value=" ne puet en nul liu arester"/><!--  ne puet en nul liu arester -->
+<feat xlink:href="#line_356" value=" mais ça et la se va tumant"/><!--  mais ça et la se va tumant -->
+<feat xlink:href="#line_357" value=" la bouche ausi li va fumant"/><!--  la bouche ausi li va fumant -->
+<feat xlink:href="#line_358" value=" com se c&apos; estoit une fornaise"/><!--  com se c' estoit une fornaise -->
+<feat xlink:href="#line_359" value=" c&apos; est a bon droit s est a malaise"/><!--  c' est a bon droit s est a malaise -->
+<feat xlink:href="#line_360" value=" quant il ciffla dou saint soller"/><!--  quant il ciffla dou saint soller -->
+<feat xlink:href="#line_361" value=" son hauberc bien li fist roller"/><!--  son hauberc bien li fist roller -->
+<feat xlink:href="#line_362" value=" la mere dieu a cele foys"/><!--  la mere dieu a cele foys -->
+<feat xlink:href="#line_363" value=" quequ il estoit si tres destroys"/><!--  quequ il estoit si tres destroys -->
+<feat xlink:href="#line_364" value=" et jetoit brais et cris si hax"/><!--  et jetoit brais et cris si hax -->
+<feat xlink:href="#line_365" value=" la seurvint la bonne mehauz"/><!--  la seurvint la bonne mehauz -->
+<feat xlink:href="#line_366" value=" qui a ce jor ert abbeesse"/><!--  qui a ce jor ert abbeesse -->
+<feat xlink:href="#line_367" value=" entor lui fait rompre la presse"/><!--  entor lui fait rompre la presse -->
+<feat xlink:href="#line_368" value=" qui mout estoit espesse et grans"/><!--  qui mout estoit espesse et grans -->
+<feat xlink:href="#line_369" value=" com cele qui mout est engrans"/><!--  com cele qui mout est engrans -->
+<feat xlink:href="#line_370" value=" de la santé a ce malade"/><!--  de la santé a ce malade -->
+<feat xlink:href="#line_371" value=" dou saint soller dou dox dou sade"/><!--  dou saint soller dou dox dou sade -->
+<feat xlink:href="#line_372" value=" pour cui diex fait tantes merveilles"/><!--  pour cui diex fait tantes merveilles -->
+<feat xlink:href="#line_373" value=" les ielz la bouche les oreilles"/><!--  les ielz la bouche les oreilles -->
+<feat xlink:href="#line_374" value=" et tot le cors entierement"/><!--  et tot le cors entierement -->
+<feat xlink:href="#line_375" value=" saignier li fait mout doucement"/><!--  saignier li fait mout doucement -->
+<feat xlink:href="#line_376" value=" dou saint soller et des reliques"/><!--  dou saint soller et des reliques -->
+<feat xlink:href="#line_377" value=" quant saigniez fu li frenetiques"/><!--  quant saigniez fu li frenetiques -->
+<feat xlink:href="#line_378" value=" li fors dou senz li enragiez"/><!--  li fors dou senz li enragiez -->
+<feat xlink:href="#line_379" value=" maintenant est assouagiez"/><!--  maintenant est assouagiez -->
+<feat xlink:href="#line_380" value=" et luëz s en fuit li anemis"/><!--  et luëz s en fuit li anemis -->
+<feat xlink:href="#line_381" value=" devant l&apos; autel en crois s est mis"/><!--  devant l' autel en crois s est mis -->
+<feat xlink:href="#line_382" value=" assez gemist et assez pleure"/><!--  assez gemist et assez pleure -->
+<feat xlink:href="#line_383" value=" et nostre dame mout aeure"/><!--  et nostre dame mout aeure -->
+<feat xlink:href="#line_384" value=" de ce qu ainsi l&apos; a visité"/><!--  de ce qu ainsi l' a visité -->
+<feat xlink:href="#line_385" value=" grant joie i ot par verité"/><!--  grant joie i ot par verité -->
+<feat xlink:href="#line_386" value=" la mere dieu glorefierent"/><!--  la mere dieu glorefierent -->
+<feat xlink:href="#line_387" value=" et cil et celes qui la erent"/><!--  et cil et celes qui la erent -->
+<feat xlink:href="#line_388" value=" onques puis li bouviers buesars"/><!--  onques puis li bouviers buesars -->
+<feat xlink:href="#line_389" value=" si soz ne fu ne si musars"/><!--  si soz ne fu ne si musars -->
+<feat xlink:href="#line_390" value=" dou saint soller qu il mesdisist"/><!--  dou saint soller qu il mesdisist -->
+<feat xlink:href="#line_391" value=" puis ne fu jors bien ne disist"/><!--  puis ne fu jors bien ne disist -->
+<feat xlink:href="#line_392" value=" que dou saint soller nostre dame"/><!--  que dou saint soller nostre dame -->
+<feat xlink:href="#line_393" value=" ne devoit mais douter nule ame"/><!--  ne devoit mais douter nule ame -->
+<feat xlink:href="#line_394" value=" au chevalier merci cria"/><!--  au chevalier merci cria -->
+<feat xlink:href="#line_395" value=" tant le servi tant le pria"/><!--  tant le servi tant le pria -->
+<feat xlink:href="#line_396" value=" qu il le cuita et fu delivres"/><!--  qu il le cuita et fu delivres -->
+<feat xlink:href="#line_397" value=" tant con vesqui ce dist li livres"/><!--  tant con vesqui ce dist li livres -->
+<feat xlink:href="#line_398" value=" a nostre dame se voa"/><!--  a nostre dame se voa -->
+<feat xlink:href="#line_399" value=" ainc puis ailleurs ne se loa"/><!--  ainc puis ailleurs ne se loa -->
+<feat xlink:href="#line_400" value=" mais ou labeur de l&apos; abbeye"/><!--  mais ou labeur de l' abbeye -->
+<feat xlink:href="#line_401" value=" laboura tant com fu en vie"/><!--  laboura tant com fu en vie -->
+<feat xlink:href="#line_402" value=" et traveilla li bons bouviers"/><!--  et traveilla li bons bouviers -->
+<feat xlink:href="#line_403" value=" bien se conroie de plouviers"/><!--  bien se conroie de plouviers -->
+<feat xlink:href="#line_404" value=" et bien saoule et refait s ame"/><!--  et bien saoule et refait s ame -->
+<feat xlink:href="#line_405" value=" qui aimme et sert bien nostre dame"/><!--  qui aimme et sert bien nostre dame -->
+<feat xlink:href="#line_406" value=" et qui bien l&apos; aimme bien la doute"/><!--  et qui bien l' aimme bien la doute -->
+<feat xlink:href="#line_407" value=" mais pluseurs sont ce n est pas doute"/><!--  mais pluseurs sont ce n est pas doute -->
+<feat xlink:href="#line_408" value=" qui des sainz welent coppoier"/><!--  qui des sainz welent coppoier -->
+<feat xlink:href="#line_409" value=" celui doit on les iex poier"/><!--  celui doit on les iex poier -->
+<feat xlink:href="#line_410" value=" voire crever foi que doi m&apos; ame"/><!--  voire crever foi que doi m' ame -->
+<feat xlink:href="#line_411" value=" qui coppoie seur nostre dame"/><!--  qui coppoie seur nostre dame -->
+<feat xlink:href="#line_412" value=" qui en coppoie qui en jure"/><!--  qui en coppoie qui en jure -->
+<feat xlink:href="#line_413" value=" il fait a dieu plus grant injure"/><!--  il fait a dieu plus grant injure -->
+<feat xlink:href="#line_414" value=" et plus la chose li est pesme"/><!--  et plus la chose li est pesme -->
+<feat xlink:href="#line_415" value=" que s il juroit de lui meesme"/><!--  que s il juroit de lui meesme -->
+<feat xlink:href="#line_416" value=" de lui meesme si fait il"/><!--  de lui meesme si fait il -->
+<feat xlink:href="#line_417" value=" et d&apos; autre part certes tuit cil"/><!--  et d' autre part certes tuit cil -->
+<feat xlink:href="#line_418" value=" sont bien venchu et recreant"/><!--  sont bien venchu et recreant -->
+<feat xlink:href="#line_419" value=" ne cler ne sont il pas veant"/><!--  ne cler ne sont il pas veant -->
+<feat xlink:href="#line_420" value=" cui la honte c&apos; on fait lor mere"/><!--  cui la honte c' on fait lor mere -->
+<feat xlink:href="#line_421" value=" n est assez plus aigre et amere"/><!--  n est assez plus aigre et amere -->
+<feat xlink:href="#line_422" value=" que ne soit cele c&apos; on leur fait"/><!--  que ne soit cele c' on leur fait -->
+<feat xlink:href="#line_423" value=" or i pensommes tout affait"/><!--  or i pensommes tout affait -->
+<feat xlink:href="#line_424" value=" et a noz cuers prenons l&apos; autrui"/><!--  et a noz cuers prenons l' autrui -->
+<feat xlink:href="#line_425" value=" se diex m&apos; aïst demain et hui"/><!--  se diex m' aïst demain et hui -->
+<feat xlink:href="#line_426" value=" de moi sai bien sanz nule trufe"/><!--  de moi sai bien sanz nule trufe -->
+<feat xlink:href="#line_427" value=" qui me donroit une grant bufe"/><!--  qui me donroit une grant bufe -->
+<feat xlink:href="#line_428" value=" ne me pourroit mie a nul fuer"/><!--  ne me pourroit mie a nul fuer -->
+<feat xlink:href="#line_429" value=" d&apos; assez si croupir seur le cuer"/><!--  d' assez si croupir seur le cuer -->
+<feat xlink:href="#line_430" value=" ne tant ne m&apos; en forseneroie"/><!--  ne tant ne m' en forseneroie -->
+<feat xlink:href="#line_431" value=" de la moitié com je feroie"/><!--  de la moitié com je feroie -->
+<feat xlink:href="#line_432" value=" de ma mere se vive estoit"/><!--  de ma mere se vive estoit -->
+<feat xlink:href="#line_433" value=" se qui que soit la molestoit"/><!--  se qui que soit la molestoit -->
+<feat xlink:href="#line_434" value=" et qui li porteroit onneur"/><!--  et qui li porteroit onneur -->
+<feat xlink:href="#line_435" value=" gré l&apos; en saroie assez greigneur"/><!--  gré l' en saroie assez greigneur -->
+<feat xlink:href="#line_436" value=" et assez plus l&apos; en ameroie"/><!--  et assez plus l' en ameroie -->
+<feat xlink:href="#line_437" value=" de moi meisme ne feroie"/><!--  de moi meisme ne feroie -->
+<feat xlink:href="#line_438" value=" de ce se tienent bien a moi"/><!--  de ce se tienent bien a moi -->
+<feat xlink:href="#line_439" value=" tout li pluseur si con je croi"/><!--  tout li pluseur si con je croi -->
+<feat xlink:href="#line_440" value=" dou grant seigneur que dirons donques"/><!--  dou grant seigneur que dirons donques -->
+<feat xlink:href="#line_441" value=" n est ne ja n iert ne ne fu onques"/><!--  n est ne ja n iert ne ne fu onques -->
+<feat xlink:href="#line_442" value=" nus qui sa mere amer peust"/><!--  nus qui sa mere amer peust -->
+<feat xlink:href="#line_443" value=" autant con il ne ne seüst"/><!--  autant con il ne ne seüst -->
+<feat xlink:href="#line_444" value=" quant li douz rois li tres douz pere"/><!--  quant li douz rois li tres douz pere -->
+<feat xlink:href="#line_445" value=" qu onneur portons et pere et mere"/><!--  qu onneur portons et pere et mere -->
+<feat xlink:href="#line_446" value=" nos dist et commande en la loi"/><!--  nos dist et commande en la loi -->
+<feat xlink:href="#line_447" value=" dont seroit ce bien a besloi"/><!--  dont seroit ce bien a besloi -->
+<feat xlink:href="#line_448" value=" s il n onneroit ausi la siue"/><!--  s il n onneroit ausi la siue -->
+<feat xlink:href="#line_449" value=" qui plus est douce et plus est piue"/><!--  qui plus est douce et plus est piue -->
+<feat xlink:href="#line_450" value=" et qui mieuz vaut toutes ne font"/><!--  et qui mieuz vaut toutes ne font -->
+<feat xlink:href="#line_451" value=" celles qui furent et qui sunt"/><!--  celles qui furent et qui sunt -->
+<feat xlink:href="#line_452" value=" saichiez que diex sanz nule doute"/><!--  saichiez que diex sanz nule doute -->
+<feat xlink:href="#line_453" value=" a toz cialz donne s amor toute"/><!--  a toz cialz donne s amor toute -->
+<feat xlink:href="#line_454" value=" qui honeurent sa douce mere"/><!--  qui honeurent sa douce mere -->
+<feat xlink:href="#line_455" value=" mais sa douceur li tres doz pere"/><!--  mais sa douceur li tres doz pere -->
+<feat xlink:href="#line_456" value=" en mautalent mue et en ire"/><!--  en mautalent mue et en ire -->
+<feat xlink:href="#line_457" value=" tantost comme oit de li mesdire"/><!--  tantost comme oit de li mesdire -->
+<feat xlink:href="#line_458" value=" puisque sa mere oit desmenbrer"/><!--  puisque sa mere oit desmenbrer -->
+<feat xlink:href="#line_459" value=" de douceur ne li puet menbrer"/><!--  de douceur ne li puet menbrer -->
+<feat xlink:href="#line_460" value=" puisque sa mere oit depecier"/><!--  puisque sa mere oit depecier -->
+<feat xlink:href="#line_461" value=" il le convient luëz correcier"/><!--  il le convient luëz correcier -->
+<feat xlink:href="#line_462" value=" il sueffre assez de lui meisme"/><!--  il sueffre assez de lui meisme -->
+<feat xlink:href="#line_463" value=" mais a sa mere faut la rime"/><!--  mais a sa mere faut la rime -->
+<feat xlink:href="#line_464" value=" puisqu a li vient c&apos; est tot alé"/><!--  puisqu a li vient c' est tot alé -->
+<feat xlink:href="#line_465" value=" tout respandu et tout kalé"/><!--  tout respandu et tout kalé -->
+<feat xlink:href="#line_466" value=" diex pour sa mere c&apos; est la somme"/><!--  diex pour sa mere c' est la somme -->
+<feat xlink:href="#line_467" value=" si fort s aïre tout assomme"/><!--  si fort s aïre tout assomme -->
+<feat xlink:href="#line_468" value=" forsenez est qui li mesfait"/><!--  forsenez est qui li mesfait -->
+<feat xlink:href="#line_469" value=" quar c&apos; est cele qui les pais fait"/><!--  quar c' est cele qui les pais fait -->
+<feat xlink:href="#line_470" value=" entre dieu et home est moianne"/><!--  entre dieu et home est moianne -->
+<feat xlink:href="#line_471" value=" toutes les pais fait et moianne"/><!--  toutes les pais fait et moianne -->
+<feat xlink:href="#line_472" value=" qui que vers dieu est en descorde"/><!--  qui que vers dieu est en descorde -->
+<feat xlink:href="#line_473" value=" se sa mere ne li acorde"/><!--  se sa mere ne li acorde -->
+<feat xlink:href="#line_474" value=" n est sainz ne sainte qui peust"/><!--  n est sainz ne sainte qui peust -->
+<feat xlink:href="#line_475" value=" faire la pais ne ne seüst"/><!--  faire la pais ne ne seüst -->
+<feat xlink:href="#line_476" value=" uns ribaus c&apos; om tenoit por sot"/><!--  uns ribaus c' om tenoit por sot -->
+<feat xlink:href="#line_477" value=" une fois dist un trop bon mot"/><!--  une fois dist un trop bon mot -->
+<feat xlink:href="#line_478" value=" or m&apos; est mout bel qu il m&apos; en souvient"/><!--  or m' est mout bel qu il m' en souvient -->
+<feat xlink:href="#line_479" value=" vos savez bien qu assez avient"/><!--  vos savez bien qu assez avient -->
+<feat xlink:href="#line_480" value=" que ribaut et tremeleur"/><!--  que ribaut et tremeleur -->
+<feat xlink:href="#line_481" value=" sont mout desloial jureur"/><!--  sont mout desloial jureur -->
+<feat xlink:href="#line_482" value=" cilz ribaus qu ai ramenteu"/><!--  cilz ribaus qu ai ramenteu -->
+<feat xlink:href="#line_483" value=" avec un autre durfeu"/><!--  avec un autre durfeu -->
+<feat xlink:href="#line_484" value=" en une place d&apos; une part"/><!--  en une place d' une part -->
+<feat xlink:href="#line_485" value=" as dez jooit et a hasart"/><!--  as dez jooit et a hasart -->
+<feat xlink:href="#line_486" value=" mais li dez li torna le dos"/><!--  mais li dez li torna le dos -->
+<feat xlink:href="#line_487" value=" si qu il perdi tout dusqu as os"/><!--  si qu il perdi tout dusqu as os -->
+<feat xlink:href="#line_488" value=" tantost sanz nule demorance"/><!--  tantost sanz nule demorance -->
+<feat xlink:href="#line_489" value=" ou par assise ou par cheance"/><!--  ou par assise ou par cheance -->
+<feat xlink:href="#line_490" value=" ot tout perdu de si as braies"/><!--  ot tout perdu de si as braies -->
+<feat xlink:href="#line_491" value=" foye pomon boieles plaies"/><!--  foye pomon boieles plaies -->
+<feat xlink:href="#line_492" value=" et quanqu en la bouche li chiet"/><!--  et quanqu en la bouche li chiet -->
+<feat xlink:href="#line_493" value=" jure pour ce qu il li meschiet"/><!--  jure pour ce qu il li meschiet -->
+<feat xlink:href="#line_494" value=" desloiauté i jure mainte"/><!--  desloiauté i jure mainte -->
+<feat xlink:href="#line_495" value=" n espargne dieu ne saint ne sainte"/><!--  n espargne dieu ne saint ne sainte -->
+</featList>
+</paula>

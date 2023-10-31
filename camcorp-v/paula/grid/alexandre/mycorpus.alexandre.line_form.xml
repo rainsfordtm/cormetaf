@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.alexandre_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.alexandre.line.xml">
+<feat xlink:href="#line_0" value=" la bataille est jostee des grigeis et des lor ."/><!--  la bataille est jostee des grigeis et des lor . -->
+<feat xlink:href="#line_1" value=" ainsi com dayres ot devisé celui jor"/><!--  ainsi com dayres ot devisé celui jor -->
+<feat xlink:href="#line_2" value=" sont li curre meu et courent par l&apos; estor ;"/><!--  sont li curre meu et courent par l' estor ; -->
+<feat xlink:href="#line_3" value=" li olifant ques mainent vont de si grant fieror"/><!--  li olifant ques mainent vont de si grant fieror -->
+<feat xlink:href="#line_4" value=" que nus ques encontrast n&apos; eust vers aus vigor ."/><!--  que nus ques encontrast n' eust vers aus vigor . -->
+<feat xlink:href="#line_5" value=" mais li grieu s&apos; en partirent sagement sans folor ,"/><!--  mais li grieu s' en partirent sagement sans folor , -->
+<feat xlink:href="#line_6" value=" que gaires n&apos; i perdirent li grant ne li mener ;"/><!--  que gaires n' i perdirent li grant ne li mener ; -->
+<feat xlink:href="#line_7" value=" et qant il furent outre , n&apos; eurent tant de laisser"/><!--  et qant il furent outre , n' eurent tant de laisser -->
+<feat xlink:href="#line_8" value=" c&apos; onques en la bataille repreissent puis tor ,"/><!--  c' onques en la bataille repreissent puis tor , -->
+<feat xlink:href="#line_9" value=" car li grieu o les ars ne sont mie a sejor ,"/><!--  car li grieu o les ars ne sont mie a sejor , -->
+<feat xlink:href="#line_10" value=" en courant les ocient o les brans de couler ;"/><!--  en courant les ocient o les brans de couler ; -->
+<feat xlink:href="#line_11" value=" d&apos; olifans et de curres lor ont fait tel atour"/><!--  d' olifans et de curres lor ont fait tel atour -->
+<feat xlink:href="#line_12" value=" tout ocient a glaive et metent a dolor ."/><!--  tout ocient a glaive et metent a dolor . -->
+<feat xlink:href="#line_13" value=" cis plais torna a joie au roi mascedonor ,"/><!--  cis plais torna a joie au roi mascedonor , -->
+<feat xlink:href="#line_14" value=" et dayres li persans en ot duel et iror ."/><!--  et dayres li persans en ot duel et iror . -->
+<feat xlink:href="#line_15" value=" qant dayres vit ses curres chaoir a tel martire"/><!--  qant dayres vit ses curres chaoir a tel martire -->
+<feat xlink:href="#line_16" value=" et les chevaliers ens trebuchier et ocire ,"/><!--  et les chevaliers ens trebuchier et ocire , -->
+<feat xlink:href="#line_17" value=" fiert sa main a sa cuisse si taint et s&apos; esprent d&apos; ire ,"/><!--  fiert sa main a sa cuisse si taint et s' esprent d' ire , -->
+<feat xlink:href="#line_18" value=" tant redoute les grieus que forment les remire ,"/><!--  tant redoute les grieus que forment les remire , -->
+<feat xlink:href="#line_19" value=" les regnes de son fraim a ambedeus mains tire ,"/><!--  les regnes de son fraim a ambedeus mains tire , -->
+<feat xlink:href="#line_20" value=" vers senestre se torne , sor son escu se vire ,"/><!--  vers senestre se torne , sor son escu se vire , -->
+<feat xlink:href="#line_21" value=" lors regarde ses homes , sous son elme souspire ."/><!--  lors regarde ses homes , sous son elme souspire . -->
+<feat xlink:href="#line_22" value=" quarante et deus batailles a ordené a tire ,"/><!--  quarante et deus batailles a ordené a tire , -->
+<feat xlink:href="#line_23" value=" as barons de sa terre les commande a conduire"/><!--  as barons de sa terre les commande a conduire -->
+<feat xlink:href="#line_24" value=" et apele ses homes si lor commence a dire :"/><!--  et apele ses homes si lor commence a dire : -->
+<feat xlink:href="#line_25" value=" &quot; qui or iert chevaliers de m&apos; amor sera sire ,"/><!--  " qui or iert chevaliers de m' amor sera sire , -->
+<feat xlink:href="#line_26" value=" car molt ai grant paor de perdre mon enpire . &quot;"/><!--  car molt ai grant paor de perdre mon enpire . " -->
+<feat xlink:href="#line_27" value=" molt fu liés alixandres et ses gens plus haities"/><!--  molt fu liés alixandres et ses gens plus haities -->
+<feat xlink:href="#line_28" value=" qant il orent des curres les batailles vuidies"/><!--  qant il orent des curres les batailles vuidies -->
+<feat xlink:href="#line_29" value=" et a ciaus qui ens furent ont les testes trenchies ."/><!--  et a ciaus qui ens furent ont les testes trenchies . -->
+<feat xlink:href="#line_30" value=" vit les batailles daire toutes apareillies ,"/><!--  vit les batailles daire toutes apareillies , -->
+<feat xlink:href="#line_31" value=" qui venoient vers aus le pas , lances drecies ."/><!--  qui venoient vers aus le pas , lances drecies . -->
+<feat xlink:href="#line_32" value=" li rois ra douze eschieles jostees et rengies ,"/><!--  li rois ra douze eschieles jostees et rengies , -->
+<feat xlink:href="#line_33" value=" as douze pers de gresce les a par non baillies ."/><!--  as douze pers de gresce les a par non baillies . -->
+<feat xlink:href="#line_34" value=" adont les veissiés venir bien arengies ,"/><!--  adont les veissiés venir bien arengies , -->
+<feat xlink:href="#line_35" value=" chascune devant l&apos; autre , duites et afaities ,"/><!--  chascune devant l' autre , duites et afaities , -->
+<feat xlink:href="#line_36" value=" si com li maines rois les avoit ensegnies ."/><!--  si com li maines rois les avoit ensegnies . -->
+<feat xlink:href="#line_37" value=" les ensegnes au vent ont li grieu desploïes ,"/><!--  les ensegnes au vent ont li grieu desploïes , -->
+<feat xlink:href="#line_38" value=" onques jusqu&apos; au ferir n&apos; i ot resnes sachies ."/><!--  onques jusqu' au ferir n' i ot resnes sachies . -->
+<feat xlink:href="#line_39" value=" la ot molt grant meschief , mais les gens sont proisies ,"/><!--  la ot molt grant meschief , mais les gens sont proisies , -->
+<feat xlink:href="#line_40" value=" qant a quarante eschieles se sont douze apoies ,"/><!--  qant a quarante eschieles se sont douze apoies , -->
+<feat xlink:href="#line_41" value=" mais , s&apos; alixandres puet , anqui seront percies"/><!--  mais , s' alixandres puet , anqui seront percies -->
+<feat xlink:href="#line_42" value=" et les compaignes daire matees et brisies ."/><!--  et les compaignes daire matees et brisies . -->
+<feat xlink:href="#line_43" value=" en la premiere eschiele , emenidus d&apos; arcage ,"/><!--  en la premiere eschiele , emenidus d' arcage , -->
+<feat xlink:href="#line_44" value=" vint li rois tous armés , espris de vasselage ."/><!--  vint li rois tous armés , espris de vasselage . -->
+<feat xlink:href="#line_45" value=" el chief de la bataille vit le roi de cartage ,"/><!--  el chief de la bataille vit le roi de cartage , -->
+<feat xlink:href="#line_46" value=" qui la premiere eschiele daire ot par segnorage ."/><!--  qui la premiere eschiele daire ot par segnorage . -->
+<feat xlink:href="#line_47" value=" alixandres le fiert par le hardi corage ;"/><!--  alixandres le fiert par le hardi corage ; -->
+<feat xlink:href="#line_48" value=" tous li conrois qu&apos; il porte ne li vaut un formage ."/><!--  tous li conrois qu' il porte ne li vaut un formage . -->
+<feat xlink:href="#line_49" value=" si grant caup li dona que trestout le sorbarge ,"/><!--  si grant caup li dona que trestout le sorbarge , -->
+<feat xlink:href="#line_50" value=" toute plaine sa lance l&apos; abat mort en l&apos; erbage ."/><!--  toute plaine sa lance l' abat mort en l' erbage . -->
+<feat xlink:href="#line_51" value=" puis a traite l&apos; espee , fors du fuerre la sache ,"/><!--  puis a traite l' espee , fors du fuerre la sache , -->
+<feat xlink:href="#line_52" value=" au torner de sa joste fiert balot de valage ,"/><!--  au torner de sa joste fiert balot de valage , -->
+<feat xlink:href="#line_53" value=" que la teste li trenche par desous le visage ."/><!--  que la teste li trenche par desous le visage . -->
+<feat xlink:href="#line_54" value=" et li grieu les ferirent qui sont cortois et sage ;"/><!--  et li grieu les ferirent qui sont cortois et sage ; -->
+<feat xlink:href="#line_55" value=" la veissiés morir la gent dayre el rivage ,"/><!--  la veissiés morir la gent dayre el rivage , -->
+<feat xlink:href="#line_56" value=" autresi les ocient comme beste salvage ."/><!--  autresi les ocient comme beste salvage . -->
+<feat xlink:href="#line_57" value=" de la premiere eschiele lor ont fait tel damage"/><!--  de la premiere eschiele lor ont fait tel damage -->
+<feat xlink:href="#line_58" value=" quatre cens en ont mort a dolor et a rage ."/><!--  quatre cens en ont mort a dolor et a rage . -->
+<feat xlink:href="#line_59" value=" et qant dayres le voit , a poi que il n&apos; esrage ."/><!--  et qant dayres le voit , a poi que il n' esrage . -->
+<feat xlink:href="#line_60" value=" l&apos; eschiele tholomé vint aprés la premiere"/><!--  l' eschiele tholomé vint aprés la premiere -->
+<feat xlink:href="#line_61" value=" a une autre bataille dayron grant et pleniere ;"/><!--  a une autre bataille dayron grant et pleniere ; -->
+<feat xlink:href="#line_62" value=" perchael la conduit , qui fu nés de valmiere ,"/><!--  perchael la conduit , qui fu nés de valmiere , -->
+<feat xlink:href="#line_63" value=" et portoit en sa lance l&apos; oriflambe baniere ."/><!--  et portoit en sa lance l' oriflambe baniere . -->
+<feat xlink:href="#line_64" value=" les deus batailles hurtent par si faite maniere"/><!--  les deus batailles hurtent par si faite maniere -->
+<feat xlink:href="#line_65" value=" ce n&apos; est mie mençoigne que chascuns bien n&apos; i fiere ,"/><!--  ce n' est mie mençoigne que chascuns bien n' i fiere , -->
+<feat xlink:href="#line_66" value=" de sanc et de cervel est tainte la bruiere ;"/><!--  de sanc et de cervel est tainte la bruiere ; -->
+<feat xlink:href="#line_67" value=" mais la gent tholomé estoit hardie et fiere"/><!--  mais la gent tholomé estoit hardie et fiere -->
+<feat xlink:href="#line_68" value=" et li persant bahif comme cerf en gaschiere ,"/><!--  et li persant bahif comme cerf en gaschiere , -->
+<feat xlink:href="#line_69" value=" et li grieu les feroient comme gent costumiere ,"/><!--  et li grieu les feroient comme gent costumiere , -->
+<feat xlink:href="#line_70" value=" derompue l&apos; en mainent sor les autres arriere ."/><!--  derompue l' en mainent sor les autres arriere . -->
+<feat xlink:href="#line_71" value=" ce fu une aventure que dayres n&apos; ot pas chiere ."/><!--  ce fu une aventure que dayres n' ot pas chiere . -->
+<feat xlink:href="#line_72" value=" aprés la tholomé joint l&apos; eschiele cliçon"/><!--  aprés la tholomé joint l' eschiele cliçon -->
+<feat xlink:href="#line_73" value=" a une autre bataille mervelleuse mabon ,"/><!--  a une autre bataille mervelleuse mabon , -->
+<feat xlink:href="#line_74" value=" tant i ot des armés que je n&apos; en sai le non ;"/><!--  tant i ot des armés que je n' en sai le non ; -->
+<feat xlink:href="#line_75" value=" onques tresq&apos; au joster n&apos; i ot arestison ."/><!--  onques tresq' au joster n' i ot arestison . -->
+<feat xlink:href="#line_76" value=" dans clins fiert le premier , qui tint le gonfanon , —"/><!--  dans clins fiert le premier , qui tint le gonfanon , — -->
+<feat xlink:href="#line_77" value=" de s&apos; ensegne porter li a fait daires don , —"/><!--  de s' ensegne porter li a fait daires don , — -->
+<feat xlink:href="#line_78" value=" par mi toutes les armes li trencha le raignon ."/><!--  par mi toutes les armes li trencha le raignon . -->
+<feat xlink:href="#line_79" value=" cil voient lor baniere chaoir et lor guion"/><!--  cil voient lor baniere chaoir et lor guion -->
+<feat xlink:href="#line_80" value=" et les autres batailles desconfire environ ;"/><!--  et les autres batailles desconfire environ ; -->
+<feat xlink:href="#line_81" value=" onques puis cele eschiele n&apos; i fist arestison ,"/><!--  onques puis cele eschiele n' i fist arestison , -->
+<feat xlink:href="#line_82" value=" desrompue s&apos; en torne fuiant a esperon ."/><!--  desrompue s' en torne fuiant a esperon . -->
+<feat xlink:href="#line_83" value=" licanor et filotes , aristé et caulon ,"/><!--  licanor et filotes , aristé et caulon , -->
+<feat xlink:href="#line_84" value=" o lor quatre batailles qu&apos; il mainent a bandon ,"/><!--  o lor quatre batailles qu' il mainent a bandon , -->
+<feat xlink:href="#line_85" value=" a quatre des eschieles josterent a dayron ;"/><!--  a quatre des eschieles josterent a dayron ; -->
+<feat xlink:href="#line_86" value=" hauberc rompent et fausent et percent li blason ,"/><!--  hauberc rompent et fausent et percent li blason , -->
+<feat xlink:href="#line_87" value=" des hiaumes , des espees oissiés grant tençon ,"/><!--  des hiaumes , des espees oissiés grant tençon , -->
+<feat xlink:href="#line_88" value=" le veissiés gesir tant vassal el sablon ."/><!--  le veissiés gesir tant vassal el sablon . -->
+<feat xlink:href="#line_89" value=" les eschieles de persse n&apos; i font se perdre non ,"/><!--  les eschieles de persse n' i font se perdre non , -->
+<feat xlink:href="#line_90" value=" toutes desbaretees les mainent sor dayron ."/><!--  toutes desbaretees les mainent sor dayron . -->
+<feat xlink:href="#line_91" value=" lors josterent les os si hurtent li dragon ,"/><!--  lors josterent les os si hurtent li dragon , -->
+<feat xlink:href="#line_92" value=" or n&apos; i avra parlé mais se de ferir non ."/><!--  or n' i avra parlé mais se de ferir non . -->
+<feat xlink:href="#line_93" value=" les deus os sont jostees , li persant et li gri ;"/><!--  les deus os sont jostees , li persant et li gri ; -->
+<feat xlink:href="#line_94" value=" qant les lances baissierent , si leverent li cri ."/><!--  qant les lances baissierent , si leverent li cri . -->
+<feat xlink:href="#line_95" value=" li rois point bucifal et ot mort salatri ;"/><!--  li rois point bucifal et ot mort salatri ; -->
+<feat xlink:href="#line_96" value=" mist l&apos; escu devant soi et tint le branc forbi ,"/><!--  mist l' escu devant soi et tint le branc forbi , -->
+<feat xlink:href="#line_97" value=" car sa lance ot perdue el cors d&apos; un arrabi ,"/><!--  car sa lance ot perdue el cors d' un arrabi , -->
+<feat xlink:href="#line_98" value=" et consieut perchael en son elme burni ."/><!--  et consieut perchael en son elme burni . -->
+<feat xlink:href="#line_99" value=" l&apos; espee fu trenchans et li rois le fiert si"/><!--  l' espee fu trenchans et li rois le fiert si -->
+<feat xlink:href="#line_100" value=" que desi es espaulles le trencha et fendi ;"/><!--  que desi es espaulles le trencha et fendi ; -->
+<feat xlink:href="#line_101" value=" plus de set chevaliers lor a mort autresi ."/><!--  plus de set chevaliers lor a mort autresi . -->
+<feat xlink:href="#line_102" value=" emenidus d&apos; arcage i fu preus , jel vos di ;"/><!--  emenidus d' arcage i fu preus , jel vos di ; -->
+<feat xlink:href="#line_103" value=" molt grant pris en porterent tholomés et dans clin ;"/><!--  molt grant pris en porterent tholomés et dans clin ; -->
+<feat xlink:href="#line_104" value=" perdicas le cortois i tienent a hardi ."/><!--  perdicas le cortois i tienent a hardi . -->
+<feat xlink:href="#line_105" value=" les compaignes se mellent et li renc sont fremi ,"/><!--  les compaignes se mellent et li renc sont fremi , -->
+<feat xlink:href="#line_106" value=" li douze per de gresce ne sont mie en oubli ,"/><!--  li douze per de gresce ne sont mie en oubli , -->
+<feat xlink:href="#line_107" value=" as espees trenchans lor ont un gieu parti"/><!--  as espees trenchans lor ont un gieu parti -->
+<feat xlink:href="#line_108" value=" de qoi li desarmé se tinrent por traï ."/><!--  de qoi li desarmé se tinrent por traï . -->
+<feat xlink:href="#line_109" value=" en la melee furent li couart estordi ,"/><!--  en la melee furent li couart estordi , -->
+<feat xlink:href="#line_110" value=" au deffendre lor testes i sont preu li hardi ."/><!--  au deffendre lor testes i sont preu li hardi . -->
+<feat xlink:href="#line_111" value=" par mi les pres de paile fu fiere la bataille ;"/><!--  par mi les pres de paile fu fiere la bataille ; -->
+<feat xlink:href="#line_112" value=" la ou les os s&apos; encontrent , n&apos; est mie devinaille ,"/><!--  la ou les os s' encontrent , n' est mie devinaille , -->
+<feat xlink:href="#line_113" value=" n&apos; i ot ne ris ne gieu ne parlé de gasaille ;"/><!--  n' i ot ne ris ne gieu ne parlé de gasaille ; -->
+<feat xlink:href="#line_114" value=" li couart s&apos; en dessoivrent com li grains de la paille ."/><!--  li couart s' en dessoivrent com li grains de la paille . -->
+<feat xlink:href="#line_115" value=" filardos sist armés sor ferrant de navaille ,"/><!--  filardos sist armés sor ferrant de navaille , -->
+<feat xlink:href="#line_116" value=" n&apos; ot plus fier chevalier desi q&apos; en cornouaille ,"/><!--  n' ot plus fier chevalier desi q' en cornouaille , -->
+<feat xlink:href="#line_117" value=" devant entredeus ieus el front sous la ventaille"/><!--  devant entredeus ieus el front sous la ventaille -->
+<feat xlink:href="#line_118" value=" avoit plain pié de lé , molt cuide que il vaille ;"/><!--  avoit plain pié de lé , molt cuide que il vaille ; -->
+<feat xlink:href="#line_119" value=" tant damage les grieus , nel tenés mie a faille ,"/><!--  tant damage les grieus , nel tenés mie a faille , -->
+<feat xlink:href="#line_120" value=" que autresi l&apos; eschievent com l&apos; ostor fait la quaille ;"/><!--  que autresi l' eschievent com l' ostor fait la quaille ; -->
+<feat xlink:href="#line_121" value=" qui il fiert de son branc n&apos; i a oes mecinaille ,"/><!--  qui il fiert de son branc n' i a oes mecinaille , -->
+<feat xlink:href="#line_122" value=" si l&apos; ocist a un caup que gaires n&apos; i travaille ."/><!--  si l' ocist a un caup que gaires n' i travaille . -->
+<feat xlink:href="#line_123" value=" alixandres le fiert de l&apos; espee qui taille ,"/><!--  alixandres le fiert de l' espee qui taille , -->
+<feat xlink:href="#line_124" value=" tout le cors li fendi desi q&apos; en la coraille ;"/><!--  tout le cors li fendi desi q' en la coraille ; -->
+<feat xlink:href="#line_125" value=" et li grieu li escrient : &quot; ferés i ! dieus i vaille !"/><!--  et li grieu li escrient : " ferés i ! dieus i vaille ! -->
+<feat xlink:href="#line_126" value=" la mort de filardos la lor gent anoaille . &quot;"/><!--  la mort de filardos la lor gent anoaille . " -->
+<feat xlink:href="#line_127" value=" li rois s&apos; en passa outre qant ot mort filardos ,"/><!--  li rois s' en passa outre qant ot mort filardos , -->
+<feat xlink:href="#line_128" value=" et fiert silocien , qui sire iert des herlos , —"/><!--  et fiert silocien , qui sire iert des herlos , — -->
+<feat xlink:href="#line_129" value=" une gent felenesse , orgelleuse et enpos ,"/><!--  une gent felenesse , orgelleuse et enpos , -->
+<feat xlink:href="#line_130" value=" qui ierent du lignage de gos et de magos , —"/><!--  qui ierent du lignage de gos et de magos , — -->
+<feat xlink:href="#line_131" value=" que l&apos; espaulle li trenche , puis li a dit trois mos :"/><!--  que l' espaulle li trenche , puis li a dit trois mos : -->
+<feat xlink:href="#line_132" value=" &quot; nous conoistrons hui mais de vos bien les esclos , &quot;"/><!--  " nous conoistrons hui mais de vos bien les esclos , " -->
+<feat xlink:href="#line_133" value=" et lui et son cheval abati en un flos ;"/><!--  et lui et son cheval abati en un flos ; -->
+<feat xlink:href="#line_134" value=" emenidus d&apos; arcade ra ocis quinargos ."/><!--  emenidus d' arcade ra ocis quinargos . -->
+<feat xlink:href="#line_135" value=" les compaignes se mellent et fremissent les os ,"/><!--  les compaignes se mellent et fremissent les os , -->
+<feat xlink:href="#line_136" value=" or se gart bien chascuns q&apos; au partir ne soit sos ,"/><!--  or se gart bien chascuns q' au partir ne soit sos , -->
+<feat xlink:href="#line_137" value=" ne remandra sans perte et des lor et des nos ."/><!--  ne remandra sans perte et des lor et des nos . -->
+<feat xlink:href="#line_138" value=" la bataille fu fiere , n&apos; i ot ne ris ne gas ;"/><!--  la bataille fu fiere , n' i ot ne ris ne gas ; -->
+<feat xlink:href="#line_139" value=" li douze pers de gresse ne s&apos; aseurent pas ,"/><!--  li douze pers de gresse ne s' aseurent pas , -->
+<feat xlink:href="#line_140" value=" as espees trenchans vont departir le tas ."/><!--  as espees trenchans vont departir le tas . -->
+<feat xlink:href="#line_141" value=" tholomés fiert lion et dans clins gaudias ;"/><!--  tholomés fiert lion et dans clins gaudias ; -->
+<feat xlink:href="#line_142" value=" licanor , osidént et filotes , pilas ;"/><!--  licanor , osidént et filotes , pilas ; -->
+<feat xlink:href="#line_143" value=" perdicas , bosien et leoines , glinas ;"/><!--  perdicas , bosien et leoines , glinas ; -->
+<feat xlink:href="#line_144" value=" aristés , passien et caulus , sathanas ;"/><!--  aristés , passien et caulus , sathanas ; -->
+<feat xlink:href="#line_145" value=" aridés , sarpetus ; antigonus , corbas ;"/><!--  aridés , sarpetus ; antigonus , corbas ; -->
+<feat xlink:href="#line_146" value=" et antiocus fiert et gaugis et brias ;"/><!--  et antiocus fiert et gaugis et brias ; -->
+<feat xlink:href="#line_147" value=" emenidus d&apos; arcade joint o corberias ;"/><!--  emenidus d' arcade joint o corberias ; -->
+<feat xlink:href="#line_148" value=" a terre les abatent des chevaus qui sont cras ."/><!--  a terre les abatent des chevaus qui sont cras . -->
+<feat xlink:href="#line_149" value=" la ot elmes trenchiés et maint fort escu quas ;"/><!--  la ot elmes trenchiés et maint fort escu quas ; -->
+<feat xlink:href="#line_150" value=" sor hiaumes des espees i oissiés grans glas ."/><!--  sor hiaumes des espees i oissiés grans glas . -->
+<feat xlink:href="#line_151" value=" durement se combatent li grieu et li persant ."/><!--  durement se combatent li grieu et li persant . -->
+<feat xlink:href="#line_152" value=" alixandres estoit el premier chief devant ,"/><!--  alixandres estoit el premier chief devant , -->
+<feat xlink:href="#line_153" value=" a l&apos; espee d&apos; acier vait la route fendant ."/><!--  a l' espee d' acier vait la route fendant . -->
+<feat xlink:href="#line_154" value=" dans clins et tholomés vont la presse partant ,"/><!--  dans clins et tholomés vont la presse partant , -->
+<feat xlink:href="#line_155" value=" n&apos; encontrent chevalier qu&apos; il n&apos; aillent abatant ,"/><!--  n' encontrent chevalier qu' il n' aillent abatant , -->
+<feat xlink:href="#line_156" value=" ausi poignent ensamble com dui faucon volant ."/><!--  ausi poignent ensamble com dui faucon volant . -->
+<feat xlink:href="#line_157" value=" emenidus d&apos; arcade a ocis pagorant ."/><!--  emenidus d' arcade a ocis pagorant . -->
+<feat xlink:href="#line_158" value=" tholomés fiert un roi qui sire iert de grant gent"/><!--  tholomés fiert un roi qui sire iert de grant gent -->
+<feat xlink:href="#line_159" value=" et ot trente cités devers soleil levant ,"/><!--  et ot trente cités devers soleil levant , -->
+<feat xlink:href="#line_160" value=" la coraille li perce o sa lance trenchant ,"/><!--  la coraille li perce o sa lance trenchant , -->
+<feat xlink:href="#line_161" value=" mort l&apos; abati a terre , la ot un duel pesant ."/><!--  mort l' abati a terre , la ot un duel pesant . -->
+<feat xlink:href="#line_162" value=" desor lui s&apos; aresterent li petit et li grant ;"/><!--  desor lui s' aresterent li petit et li grant ; -->
+<feat xlink:href="#line_163" value=" karidés d&apos; ethyope le regrete forment ,"/><!--  karidés d' ethyope le regrete forment , -->
+<feat xlink:href="#line_164" value=" ambedui ierent frere et d&apos; un regne tenant ."/><!--  ambedui ierent frere et d' un regne tenant . -->
+<feat xlink:href="#line_165" value=" karidés d&apos; ethyope a son frere esgardé"/><!--  karidés d' ethyope a son frere esgardé -->
+<feat xlink:href="#line_166" value=" qu&apos; il vit mort a la terre sor son escu bouclé ,"/><!--  qu' il vit mort a la terre sor son escu bouclé , -->
+<feat xlink:href="#line_167" value=" durement le regrete qant bien l&apos; ot dolousé ."/><!--  durement le regrete qant bien l' ot dolousé . -->
+<feat xlink:href="#line_168" value=" s&apos; or le pooit vengier , molt li venroit a gré ;"/><!--  s' or le pooit vengier , molt li venroit a gré ; -->
+<feat xlink:href="#line_169" value=" et cuide de cliçon que ce fust tholomé"/><!--  et cuide de cliçon que ce fust tholomé -->
+<feat xlink:href="#line_170" value=" por ce que d&apos; unes armes estoient atorné ,"/><!--  por ce que d' unes armes estoient atorné , -->
+<feat xlink:href="#line_171" value=" li elme sont d&apos; un cuing et li escu bendé ."/><!--  li elme sont d' un cuing et li escu bendé . -->
+<feat xlink:href="#line_172" value=" devers sa lance a destre a cliçon encontré ,"/><!--  devers sa lance a destre a cliçon encontré , -->
+<feat xlink:href="#line_173" value=" si grant caup li dona que tout l&apos; a estouné ;"/><!--  si grant caup li dona que tout l' a estouné ; -->
+<feat xlink:href="#line_174" value=" li chevaus li chancele , car trop l&apos; avoit lassé ;"/><!--  li chevaus li chancele , car trop l' avoit lassé ; -->
+<feat xlink:href="#line_175" value=" cliçon et son destrier abat en mi le pré ."/><!--  cliçon et son destrier abat en mi le pré . -->
+<feat xlink:href="#line_176" value=" plus de set chevaliers sont sor lui aresté ,"/><!--  plus de set chevaliers sont sor lui aresté , -->
+<feat xlink:href="#line_177" value=" la li furent d&apos; espee ne sai qans caus doné ,"/><!--  la li furent d' espee ne sai qans caus doné , -->
+<feat xlink:href="#line_178" value=" mais dans clins se redrece si a l&apos; escu levé"/><!--  mais dans clins se redrece si a l' escu levé -->
+<feat xlink:href="#line_179" value=" et a par quatre fois mascedoine escrié ."/><!--  et a par quatre fois mascedoine escrié . -->
+<feat xlink:href="#line_180" value=" es vos a la rescousse caulon et aristé ,"/><!--  es vos a la rescousse caulon et aristé , -->
+<feat xlink:href="#line_181" value=" emenidus d&apos; arcade et filote abrievé ;"/><!--  emenidus d' arcade et filote abrievé ; -->
+<feat xlink:href="#line_182" value=" au chaple des espees ont cliçon remonté ."/><!--  au chaple des espees ont cliçon remonté . -->
+<feat xlink:href="#line_183" value=" a icele rescouse ot feru et josté"/><!--  a icele rescouse ot feru et josté -->
+<feat xlink:href="#line_184" value=" et vassal abatu et chevalier armé ."/><!--  et vassal abatu et chevalier armé . -->
+<feat xlink:href="#line_185" value=" karidés d&apos; ethyope i ot le poing caupé ,"/><!--  karidés d' ethyope i ot le poing caupé , -->
+<feat xlink:href="#line_186" value=" et maint bon chevalier i furent afolé ."/><!--  et maint bon chevalier i furent afolé . -->
+<feat xlink:href="#line_187" value=" la bataille a duré tant que vespres fu tart ;"/><!--  la bataille a duré tant que vespres fu tart ; -->
+<feat xlink:href="#line_188" value=" dayres vait par l&apos; estor tous armés sor liart ,"/><!--  dayres vait par l' estor tous armés sor liart , -->
+<feat xlink:href="#line_189" value=" plus de quarante dus ot de chascune part ,"/><!--  plus de quarante dus ot de chascune part , -->
+<feat xlink:href="#line_190" value=" quatre roi soustenoient devant lui l&apos; estandart ."/><!--  quatre roi soustenoient devant lui l' estandart . -->
+<feat xlink:href="#line_191" value=" alixandres l&apos; esgarde plus iriés d&apos; un lupart ,"/><!--  alixandres l' esgarde plus iriés d' un lupart , -->
+<feat xlink:href="#line_192" value=" par mi la gregnor presse est venus cele part ,"/><!--  par mi la gregnor presse est venus cele part , -->
+<feat xlink:href="#line_193" value=" autresi s&apos; en aproche com faucons de mallart ;"/><!--  autresi s' en aproche com faucons de mallart ; -->
+<feat xlink:href="#line_194" value=" dayre le roi de perse fiert sor le coenart ,"/><!--  dayre le roi de perse fiert sor le coenart , -->
+<feat xlink:href="#line_195" value=" par mi toutes ses armes li a trenchié le lart ."/><!--  par mi toutes ses armes li a trenchié le lart . -->
+<feat xlink:href="#line_196" value=" qant dayres vit son sanc , n&apos; a oel dont il l&apos; esgart ,"/><!--  qant dayres vit son sanc , n' a oel dont il l' esgart , -->
+<feat xlink:href="#line_197" value=" de paor s&apos; esvanist s&apos; apele satumart"/><!--  de paor s' esvanist s' apele satumart -->
+<feat xlink:href="#line_198" value=" et trois rois d&apos; orient et d&apos; egypte le quart ;"/><!--  et trois rois d' orient et d' egypte le quart ; -->
+<feat xlink:href="#line_199" value=" a la fuie se metent vers le val de pinart ."/><!--  a la fuie se metent vers le val de pinart . -->
+<feat xlink:href="#line_200" value=" la gent dayre s&apos; en fuit toute ensamble une part ,"/><!--  la gent dayre s' en fuit toute ensamble une part , -->
+<feat xlink:href="#line_201" value=" et li grieu les enchaucent , qui ne sont pas couart ,"/><!--  et li grieu les enchaucent , qui ne sont pas couart , -->
+<feat xlink:href="#line_202" value=" autresi les abatent com vilains son essart ."/><!--  autresi les abatent com vilains son essart . -->
+<feat xlink:href="#line_203" value=" dayres fu si navrés tous s&apos; encline et chancele ,"/><!--  dayres fu si navrés tous s' encline et chancele , -->
+<feat xlink:href="#line_204" value=" li sans vermaus li raie sor l&apos; arçon de sa sele ,"/><!--  li sans vermaus li raie sor l' arçon de sa sele , -->
+<feat xlink:href="#line_205" value=" d&apos; une bende s&apos; estraint , car il crient sa boiele ,"/><!--  d' une bende s' estraint , car il crient sa boiele , -->
+<feat xlink:href="#line_206" value=" fuiant s&apos; en est tornés sor liart de castele ;"/><!--  fuiant s' en est tornés sor liart de castele ; -->
+<feat xlink:href="#line_207" value=" la gent dayron s&apos; en fuit vers le val de pinele ."/><!--  la gent dayron s' en fuit vers le val de pinele . -->
+<feat xlink:href="#line_208" value=" sa mere i a perdue et sa feme la bele"/><!--  sa mere i a perdue et sa feme la bele -->
+<feat xlink:href="#line_209" value=" et sa fille au cler vis , qui iert gente pucele ."/><!--  et sa fille au cler vis , qui iert gente pucele . -->
+<feat xlink:href="#line_210" value=" alixandres les prist si les maine et chadele ,"/><!--  alixandres les prist si les maine et chadele , -->
+<feat xlink:href="#line_211" value=" a sa tente de paile les chierist et dansele ,"/><!--  a sa tente de paile les chierist et dansele , -->
+<feat xlink:href="#line_212" value=" gentement les honore et molt bel les apele ."/><!--  gentement les honore et molt bel les apele . -->
+<feat xlink:href="#line_213" value=" dayres en ot tel duel qant en ot la novele"/><!--  dayres en ot tel duel qant en ot la novele -->
+<feat xlink:href="#line_214" value=" que ses cheveus derront et debat sa maissele ."/><!--  que ses cheveus derront et debat sa maissele . -->
+<feat xlink:href="#line_215" value=" molt fu bele aventure alixandre avenue"/><!--  molt fu bele aventure alixandre avenue -->
+<feat xlink:href="#line_216" value=" qant dayre ot desconfit et sa gent derompue ,"/><!--  qant dayre ot desconfit et sa gent derompue , -->
+<feat xlink:href="#line_217" value=" par effors d&apos; armes l&apos; ot en bataille vaincue ."/><!--  par effors d' armes l' ot en bataille vaincue . -->
+<feat xlink:href="#line_218" value=" mais dayres n&apos; ot tel duel de perte q&apos; ait eue"/><!--  mais dayres n' ot tel duel de perte q' ait eue -->
+<feat xlink:href="#line_219" value=" com il ot de sa mere qu&apos; il ot el champ perdue"/><!--  com il ot de sa mere qu' il ot el champ perdue -->
+<feat xlink:href="#line_220" value=" et sa fille et sa feme , que maint jor ot tenue ."/><!--  et sa fille et sa feme , que maint jor ot tenue . -->
+<feat xlink:href="#line_221" value=" molt redoute alixandre qu&apos; il n&apos; en face sa drue ;"/><!--  molt redoute alixandre qu' il n' en face sa drue ; -->
+<feat xlink:href="#line_222" value=" por ce mande sa gent la grant et la menue"/><!--  por ce mande sa gent la grant et la menue -->
+<feat xlink:href="#line_223" value=" de par toute sa terre ou poil d&apos; erbe est creue ;"/><!--  de par toute sa terre ou poil d' erbe est creue ; -->
+<feat xlink:href="#line_224" value=" il en jure ses dieus et sa teste chenue"/><!--  il en jure ses dieus et sa teste chenue -->
+<feat xlink:href="#line_225" value=" s&apos; il en i remaint nus qui ne viegne en s&apos; aiue"/><!--  s' il en i remaint nus qui ne viegne en s' aiue -->
+<feat xlink:href="#line_226" value=" les talons avra cuis et la plante fendue ."/><!--  les talons avra cuis et la plante fendue . -->
+<feat xlink:href="#line_227" value=" nel laissera , ce dist , par la loi q&apos; a creue ,"/><!--  nel laissera , ce dist , par la loi q' a creue , -->
+<feat xlink:href="#line_228" value=" que ne soit alixandre ceste honte rendue ."/><!--  que ne soit alixandre ceste honte rendue . -->
+<feat xlink:href="#line_229" value=" molt fu liés alixandres et ses pris est montés"/><!--  molt fu liés alixandres et ses pris est montés -->
+<feat xlink:href="#line_230" value=" qant il ot les persans de bataille getés"/><!--  qant il ot les persans de bataille getés -->
+<feat xlink:href="#line_231" value=" et dayron desconfit , qui el cors fu navrés ."/><!--  et dayron desconfit , qui el cors fu navrés . -->
+<feat xlink:href="#line_232" value=" li avoirs qu&apos; il i prist ne puet estre nonbrés ,"/><!--  li avoirs qu' il i prist ne puet estre nonbrés , -->
+<feat xlink:href="#line_233" value=" li ors ne li argens ne la grans richetés"/><!--  li ors ne li argens ne la grans richetés -->
+<feat xlink:href="#line_234" value=" que dayres i perdi qant du champ fu getés"/><!--  que dayres i perdi qant du champ fu getés -->
+<feat xlink:href="#line_235" value=" et sa feme et sa fille , qui orent grans biautés ,"/><!--  et sa feme et sa fille , qui orent grans biautés , -->
+<feat xlink:href="#line_236" value=" et sa mere meisme dont il iert molt amés ;"/><!--  et sa mere meisme dont il iert molt amés ; -->
+<feat xlink:href="#line_237" value=" alixandres les prist ses en maine a ses tres ."/><!--  alixandres les prist ses en maine a ses tres . -->
+<feat xlink:href="#line_238" value=" d&apos; une chose fist bien et que cortois provés"/><!--  d' une chose fist bien et que cortois provés -->
+<feat xlink:href="#line_239" value=" que les dames commande a deus de ses chasés ,"/><!--  que les dames commande a deus de ses chasés , -->
+<feat xlink:href="#line_240" value=" et chascuns d&apos; aus l&apos; en est et plevis et jurés"/><!--  et chascuns d' aus l' en est et plevis et jurés -->
+<feat xlink:href="#line_241" value=" que ja nus hom en terre n&apos; en iert tant lor privés"/><!--  que ja nus hom en terre n' en iert tant lor privés -->
+<feat xlink:href="#line_242" value=" que dayres soit par lui honis ne vergondés ."/><!--  que dayres soit par lui honis ne vergondés . -->
+<feat xlink:href="#line_243" value=" ne tarda aprés gaires de ce que vous oés"/><!--  ne tarda aprés gaires de ce que vous oés -->
+<feat xlink:href="#line_244" value=" que morte fu la dame et ses cors deviés ,"/><!--  que morte fu la dame et ses cors deviés , -->
+<feat xlink:href="#line_245" value=" la moillier le roi dayre , dont par force iert sevrés ."/><!--  la moillier le roi dayre , dont par force iert sevrés . -->
+<feat xlink:href="#line_246" value=" alixandres meismes en fu dolens assés ,"/><!--  alixandres meismes en fu dolens assés , -->
+<feat xlink:href="#line_247" value=" et qant dayres le sot s&apos; en fu si adolés"/><!--  et qant dayres le sot s' en fu si adolés -->
+<feat xlink:href="#line_248" value=" il a ses poins destors et ses cheveus tirés"/><!--  il a ses poins destors et ses cheveus tirés -->
+<feat xlink:href="#line_249" value=" et maudist toute l&apos; eure que il onques fu nés ."/><!--  et maudist toute l' eure que il onques fu nés . -->
+<feat xlink:href="#line_250" value=" puis a dit a ses homes : &quot; segnor , nel mescreés ,"/><!--  puis a dit a ses homes : " segnor , nel mescreés , -->
+<feat xlink:href="#line_251" value=" ne pot souffrir la dame les maus ne les viltés"/><!--  ne pot souffrir la dame les maus ne les viltés -->
+<feat xlink:href="#line_252" value=" qu&apos; il li voloient faire et des hontes assés ,"/><!--  qu' il li voloient faire et des hontes assés , -->
+<feat xlink:href="#line_253" value=" par itant si est morte et ses cors deviés ;"/><!--  par itant si est morte et ses cors deviés ; -->
+<feat xlink:href="#line_254" value=" mais par tous les roiaumes dont je sui roi clamés ,"/><!--  mais par tous les roiaumes dont je sui roi clamés , -->
+<feat xlink:href="#line_255" value=" se ne veng ceste honte , ne sui rois coronés . &quot;"/><!--  se ne veng ceste honte , ne sui rois coronés . " -->
+<feat xlink:href="#line_256" value=" dayres fu por sa feme coureceus et pensis ."/><!--  dayres fu por sa feme coureceus et pensis . -->
+<feat xlink:href="#line_257" value=" estes vos un prison qui vint de l&apos; ost des gris ,"/><!--  estes vos un prison qui vint de l' ost des gris , -->
+<feat xlink:href="#line_258" value=" estors de la bataille ou avant ier fu pris ;"/><!--  estors de la bataille ou avant ier fu pris ; -->
+<feat xlink:href="#line_259" value=" voiant toute sa gent a dayre a raison mis :"/><!--  voiant toute sa gent a dayre a raison mis : -->
+<feat xlink:href="#line_260" value=" &quot; eschapés sui au roi a larron et fuitis ."/><!--  " eschapés sui au roi a larron et fuitis . -->
+<feat xlink:href="#line_261" value=" vostre mollier est morte , dont est grains et maris ;"/><!--  vostre mollier est morte , dont est grains et maris ; -->
+<feat xlink:href="#line_262" value=" molt la tint a honor tant com ses cors fu vis ,"/><!--  molt la tint a honor tant com ses cors fu vis , -->
+<feat xlink:href="#line_263" value=" onques par nisun home ne li fu honte quis ."/><!--  onques par nisun home ne li fu honte quis . -->
+<feat xlink:href="#line_264" value=" mais vostre fille est bele si a molt cler le vis ;"/><!--  mais vostre fille est bele si a molt cler le vis ; -->
+<feat xlink:href="#line_265" value=" s&apos; il veut , si la prendra au los de ses amis ,"/><!--  s' il veut , si la prendra au los de ses amis , -->
+<feat xlink:href="#line_266" value=" et s&apos; il ne la veut prendre , ja ne l&apos; en fera pis ;"/><!--  et s' il ne la veut prendre , ja ne l' en fera pis ; -->
+<feat xlink:href="#line_267" value=" donra li a segnor duc ou conte ou marchis . &quot;"/><!--  donra li a segnor duc ou conte ou marchis . " -->
+<feat xlink:href="#line_268" value=" qant dayres l&apos; entendi , si en a fait un ris ."/><!--  qant dayres l' entendi , si en a fait un ris . -->
+<feat xlink:href="#line_269" value=" &quot; alixandre , fait il , molt en avras grant pris ;"/><!--  " alixandre , fait il , molt en avras grant pris ; -->
+<feat xlink:href="#line_270" value=" molt es humeles guerriers et feeus enemis ,"/><!--  molt es humeles guerriers et feeus enemis , -->
+<feat xlink:href="#line_271" value=" de l&apos; onor que m&apos; as faite m&apos; en as si bien conquis ,"/><!--  de l' onor que m' as faite m' en as si bien conquis , -->
+<feat xlink:href="#line_272" value=" se pais voloies faire , par foi le te plevis ,"/><!--  se pais voloies faire , par foi le te plevis , -->
+<feat xlink:href="#line_273" value=" que mes cors t&apos; ameroit plus q&apos; ome qui soit vis ,"/><!--  que mes cors t' ameroit plus q' ome qui soit vis , -->
+<feat xlink:href="#line_274" value=" et durement m&apos; en poise qant de moi es eschis . &quot;"/><!--  et durement m' en poise qant de moi es eschis . " -->
+<feat xlink:href="#line_275" value=" en icele contree sor l&apos; eaue de gangis ,"/><!--  en icele contree sor l' eaue de gangis , -->
+<feat xlink:href="#line_276" value=" la ou fu la bataille des persans et des gris ,"/><!--  la ou fu la bataille des persans et des gris , -->
+<feat xlink:href="#line_277" value=" avoit une cité que on apeloit sis ;"/><!--  avoit une cité que on apeloit sis ; -->
+<feat xlink:href="#line_278" value=" les tours estoient hautes et li murs fu antis ."/><!--  les tours estoient hautes et li murs fu antis . -->
+<feat xlink:href="#line_279" value=" li rois la prist par force , qu&apos; il n&apos; i a gaires sis ,"/><!--  li rois la prist par force , qu' il n' i a gaires sis , -->
+<feat xlink:href="#line_280" value=" dedens s&apos; en est entrés o l&apos; eschec qu&apos; a conquis ."/><!--  dedens s' en est entrés o l' eschec qu' a conquis . -->
+<feat xlink:href="#line_281" value=" tant ot entor la vile des mors qu&apos; il ot ocis"/><!--  tant ot entor la vile des mors qu' il ot ocis -->
+<feat xlink:href="#line_282" value=" q&apos; a mervelleuse paine i duroit nus hom vis ."/><!--  q' a mervelleuse paine i duroit nus hom vis . -->
+<feat xlink:href="#line_283" value=" grieu et mascedonois sont en la vile entré ."/><!--  grieu et mascedonois sont en la vile entré . -->
+<feat xlink:href="#line_284" value=" por ce q&apos; en l&apos; estor furent travellié et pené ,"/><!--  por ce q' en l' estor furent travellié et pené , -->
+<feat xlink:href="#line_285" value=" se sont molt volentiers quatre jors sejorné ."/><!--  se sont molt volentiers quatre jors sejorné . -->
+<feat xlink:href="#line_286" value=" a la mere au roi dayre vienent dui si privé"/><!--  a la mere au roi dayre vienent dui si privé -->
+<feat xlink:href="#line_287" value=" si li ont conseillié belement a celé"/><!--  si li ont conseillié belement a celé -->
+<feat xlink:href="#line_288" value=" que la hors de la vile sont troi baron trové"/><!--  que la hors de la vile sont troi baron trové -->
+<feat xlink:href="#line_289" value=" qui estoient haut home et de son parenté"/><!--  qui estoient haut home et de son parenté -->
+<feat xlink:href="#line_290" value=" et furent ens l&apos; estor ocis et decopé ."/><!--  et furent ens l' estor ocis et decopé . -->
+<feat xlink:href="#line_291" value=" &quot; si requier alixandre par grant humilité"/><!--  " si requier alixandre par grant humilité -->
+<feat xlink:href="#line_292" value=" q&apos; il te donast congié qu&apos; il fuissent enterré , &quot;"/><!--  q' il te donast congié qu' il fuissent enterré , " -->
+<feat xlink:href="#line_293" value=" et la dame respont , qui le cuer ot sené :"/><!--  et la dame respont , qui le cuer ot sené : -->
+<feat xlink:href="#line_294" value=" &quot; li vainquierres du mont fait tant ma volenté"/><!--  " li vainquierres du mont fait tant ma volenté -->
+<feat xlink:href="#line_295" value=" que ne li os requerre noient outre son gré . &quot;"/><!--  que ne li os requerre noient outre son gré . " -->
+<feat xlink:href="#line_296" value=" mais cil li ont tant dit et proié et mostré"/><!--  mais cil li ont tant dit et proié et mostré -->
+<feat xlink:href="#line_297" value=" qu&apos; ele en a alixandre le congié demandé ."/><!--  qu' ele en a alixandre le congié demandé . -->
+<feat xlink:href="#line_298" value=" et li rois li respont bonement et de gré :"/><!--  et li rois li respont bonement et de gré : -->
+<feat xlink:href="#line_299" value=" &quot; por la vostre amor , dame , ne vos iert ja veé ."/><!--  " por la vostre amor , dame , ne vos iert ja veé . -->
+<feat xlink:href="#line_300" value=" faites prendre des mors a vostre volenté"/><!--  faites prendre des mors a vostre volenté -->
+<feat xlink:href="#line_301" value=" et soient par mes homes hautement honoré . &quot;"/><!--  et soient par mes homes hautement honoré . " -->
+<feat xlink:href="#line_302" value=" puis li a cuitement rendue la cité"/><!--  puis li a cuitement rendue la cité -->
+<feat xlink:href="#line_303" value=" si c&apos; onques n&apos; en retint ne tour ne fremeté ."/><!--  si c' onques n' en retint ne tour ne fremeté . -->
+<feat xlink:href="#line_304" value=" molt par fist alixandres que frans rois de bon aire ,"/><!--  molt par fist alixandres que frans rois de bon aire , -->
+<feat xlink:href="#line_305" value=" qant il ot la bataille vaincue es pres de paile ,"/><!--  qant il ot la bataille vaincue es pres de paile , -->
+<feat xlink:href="#line_306" value=" q&apos; il rendi la cité a la mere au roi dayre ."/><!--  q' il rendi la cité a la mere au roi dayre . -->
+<feat xlink:href="#line_307" value=" mais sa fille estoit bele et ot cler le viaire ,"/><!--  mais sa fille estoit bele et ot cler le viaire , -->
+<feat xlink:href="#line_308" value=" sa colour samble rose et soleil qui esclaire ;"/><!--  sa colour samble rose et soleil qui esclaire ; -->
+<feat xlink:href="#line_309" value=" aveuc soi l&apos; en mena , q&apos; en deust il el faire ?"/><!--  aveuc soi l' en mena , q' en deust il el faire ? -->
+<feat xlink:href="#line_310" value=" d&apos; aler aprés dayron ne tardera mais gaire ,"/><!--  d' aler aprés dayron ne tardera mais gaire , -->
+<feat xlink:href="#line_311" value=" ne li vaura laissier ne chastel ne repaire ."/><!--  ne li vaura laissier ne chastel ne repaire . -->
+<feat xlink:href="#line_312" value=" au quint jor est meüs si fait son ator faire ."/><!--  au quint jor est meüs si fait son ator faire . -->
+<feat xlink:href="#line_313" value=" qant li rois ot conquis sulie et les cités"/><!--  qant li rois ot conquis sulie et les cités -->
+<feat xlink:href="#line_314" value=" et dayre desconfit et ses homes matés ,"/><!--  et dayre desconfit et ses homes matés , -->
+<feat xlink:href="#line_315" value=" por aler aprés lui est au quint jor montés ,"/><!--  por aler aprés lui est au quint jor montés , -->
+<feat xlink:href="#line_316" value=" ja mais ne finera s&apos; iert l&apos; uns desiretés ."/><!--  ja mais ne finera s' iert l' uns desiretés . -->
+<feat xlink:href="#line_317" value=" tresq&apos; en la terre dayre ne s&apos; est asseurés ,"/><!--  tresq' en la terre dayre ne s' est asseurés , -->
+<feat xlink:href="#line_318" value=" molt la trova garnie de bones richetés ,"/><!--  molt la trova garnie de bones richetés , -->
+<feat xlink:href="#line_319" value=" de gentes praeries , de vignes et de bles ."/><!--  de gentes praeries , de vignes et de bles . -->
+<feat xlink:href="#line_320" value=" il a dit a ses homes : &quot; segnor , or esgardés"/><!--  il a dit a ses homes : " segnor , or esgardés -->
+<feat xlink:href="#line_321" value=" qels regnes si garnis nos est ci destinés ,"/><!--  qels regnes si garnis nos est ci destinés , -->
+<feat xlink:href="#line_322" value=" la terre sous les nues toute est vostre herités ."/><!--  la terre sous les nues toute est vostre herités . -->
+<feat xlink:href="#line_323" value=" mais d&apos; une riens me poise dont me sui porpensés"/><!--  mais d' une riens me poise dont me sui porpensés -->
+<feat xlink:href="#line_324" value=" q&apos; en si estroite roche est li mondes formés ;"/><!--  q' en si estroite roche est li mondes formés ; -->
+<feat xlink:href="#line_325" value=" dieus a fait trop poi terre a un prodome assés . &quot;"/><!--  dieus a fait trop poi terre a un prodome assés . " -->
+<feat xlink:href="#line_326" value=" de ceste chose rirent caulus et aristés ;"/><!--  de ceste chose rirent caulus et aristés ; -->
+<feat xlink:href="#line_327" value=" n&apos; a home en sa compaigne qui n&apos; en soit effreés ."/><!--  n' a home en sa compaigne qui n' en soit effreés . -->
+<feat xlink:href="#line_328" value=" les douze pers de gresse a li rois apelés :"/><!--  les douze pers de gresse a li rois apelés : -->
+<feat xlink:href="#line_329" value=" &quot; sor l&apos; eaue de gangis faites tendre vos tres"/><!--  " sor l' eaue de gangis faites tendre vos tres -->
+<feat xlink:href="#line_330" value=" et g&apos; irai en riviere o mes faucons müés . &quot;"/><!--  et g' irai en riviere o mes faucons müés . " -->
+<feat xlink:href="#line_331" value=" et cil li respondirent : &quot; si com vos commandés . &quot;"/><!--  et cil li respondirent : " si com vos commandés . " -->
+<feat xlink:href="#line_332" value=" a quinze compaignons s&apos; en est li rois tornés ;"/><!--  a quinze compaignons s' en est li rois tornés ; -->
+<feat xlink:href="#line_333" value=" aristotes ses maistres en est o lui alés ."/><!--  aristotes ses maistres en est o lui alés . -->
+<feat xlink:href="#line_334" value=" qant li solaus torna et midis fu passés ."/><!--  qant li solaus torna et midis fu passés . -->
+<feat xlink:href="#line_335" value=" a sa tente de paile est li rois retornés ."/><!--  a sa tente de paile est li rois retornés . -->
+<feat xlink:href="#line_336" value=" alixandres nos dist , qui de bernai fu nés"/><!--  alixandres nos dist , qui de bernai fu nés -->
+<feat xlink:href="#line_337" value=" et de paris refu ses sornons apelés ,"/><!--  et de paris refu ses sornons apelés , -->
+<feat xlink:href="#line_338" value=" que ci a les siens vers o les lambert jostés ."/><!--  que ci a les siens vers o les lambert jostés . -->
+</featList>
+</paula>

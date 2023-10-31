@@ -1,0 +1,52 @@
+Rules applied: R1, R2
+Lines correct: 470 of 504
+Pass history:
+Tried rules R1; 464 lines correct.
+Tried rules R11; 418 lines correct.
+Tried rules R2; 430 lines correct.
+Tried rules R30; 424 lines correct.
+Tried rules R8; 423 lines correct.
+Tried rules R1, R11; 458 lines correct.
+Tried rules R1, R2; 470 lines correct.
+Tried rules R1, R30; 464 lines correct.
+Tried rules R1, R8; 463 lines correct.
+Tried rules R1, R2, R11; 464 lines correct.
+Tried rules R1, R2, R30; 470 lines correct.
+Tried rules R1, R2, R8; 469 lines correct.
+OPTIMIZED LINES
+8    9     si redit hum que home mu
+21    22     li un vers l' altre ad envie ,
+48    49     que unc pus ne manga ne but ,
+49    50     en bref terme aprés morut ;
+71    72     n' ot plus felon home el munde ,
+180    181     sovent fait ço que um li dit .
+187    188     se ele l' aime d' amur fine .
+195    196     que el mund n' ad tel juvencels ;
+247    248     que en son quer dex ne priast
+291    292     od li jonas , qu' ele ot cher ;
+310    311     par sue amur aim cestui ,
+389    390     n' ad cil dedenz ne se espoent ;
+428    429     se unques ren soi d' aasmer ,
+
+BAD LINES
+4    5     ainz jorz e nuiz e tus tens
+17    18     frailles mult e changables ;
+59    60     a sun fiz pusnee devisa
+63    64     plus bels hom ne fu nez ,
+98    99     bel semblant l' em pot li faire ,
+165    166     ja jor ne serrez sanz guere ,
+181    182     cist reis ad de sens petit ,
+191    192     n' el mund n' ad si bele femme ,
+205    206     pez avrez de vos veisins . "
+226    227     cil li ot granz fius donez
+243    244     vus la defendrez de guere . "
+263    264     " deus vus en doint male honte ! "
+264    265     de la curt part dardanus
+320    321     " jonas , des quant ? " ― " de novel ,
+346    347     la nef est tost apresté ,
+367    368     veit l' en tost le tens trobler ;
+426    427     certes , m' est vis que ces dex
+427    428     nus unt esté trop cruels ;
+433    434     " cheles , gandés , est ço gas ?
+448    449     melz valt vivre en mentir
+461    462     e grant marché en vendrum . "

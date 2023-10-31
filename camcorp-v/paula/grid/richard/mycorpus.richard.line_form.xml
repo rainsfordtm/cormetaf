@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.richard_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.richard.line.xml">
+<feat xlink:href="#line_0" value=" bon est de mettre en escrit"/><!--  bon est de mettre en escrit -->
+<feat xlink:href="#line_1" value=" verai cunte de fet e dit ,"/><!--  verai cunte de fet e dit , -->
+<feat xlink:href="#line_2" value=" ke de oïr dune en quer delit ,"/><!--  ke de oïr dune en quer delit , -->
+<feat xlink:href="#line_3" value=" si aprés en vient le profit"/><!--  si aprés en vient le profit -->
+<feat xlink:href="#line_4" value=" de humilité e de devotiun"/><!--  de humilité e de devotiun -->
+<feat xlink:href="#line_5" value=" parunt averum savatiun ."/><!--  parunt averum savatiun . -->
+<feat xlink:href="#line_6" value=" més retraire cunte de folie ,"/><!--  més retraire cunte de folie , -->
+<feat xlink:href="#line_7" value=" de fol amant e fole amie ,"/><!--  de fol amant e fole amie , -->
+<feat xlink:href="#line_8" value=" pur les jufnes enticer"/><!--  pur les jufnes enticer -->
+<feat xlink:href="#line_9" value=" e les jefnes folement amer ,"/><!--  e les jefnes folement amer , -->
+<feat xlink:href="#line_10" value=" e cunter ausi de chevalerie"/><!--  e cunter ausi de chevalerie -->
+<feat xlink:href="#line_11" value=" que unkes n&apos; avint en ceste vie ,"/><!--  que unkes n' avint en ceste vie , -->
+<feat xlink:href="#line_12" value=" e vies ke d&apos; aukun seit veir le dit ,"/><!--  e vies ke d' aukun seit veir le dit , -->
+<feat xlink:href="#line_13" value=" de l&apos; oïr poi en vendra profit ."/><!--  de l' oïr poi en vendra profit . -->
+<feat xlink:href="#line_14" value=" si l&apos; em cunte romanz d&apos; amur ,"/><!--  si l' em cunte romanz d' amur , -->
+<feat xlink:href="#line_15" value=" k&apos; en vient de l&apos; oïr a chief de tur ?"/><!--  k' en vient de l' oïr a chief de tur ? -->
+<feat xlink:href="#line_16" value=" ne sai , for mettre le penser"/><!--  ne sai , for mettre le penser -->
+<feat xlink:href="#line_17" value=" en folie , folement amer ."/><!--  en folie , folement amer . -->
+<feat xlink:href="#line_18" value=" e quel profit en vient de cunter"/><!--  e quel profit en vient de cunter -->
+<feat xlink:href="#line_19" value=" de la pruesce un chevaler ,"/><!--  de la pruesce un chevaler , -->
+<feat xlink:href="#line_20" value=" for sulement le delit de l&apos; oïr"/><!--  for sulement le delit de l' oïr -->
+<feat xlink:href="#line_21" value=" ke suvent les autres fet esbaudir ?"/><!--  ke suvent les autres fet esbaudir ? -->
+<feat xlink:href="#line_22" value=" més icel esbaudissement ,"/><!--  més icel esbaudissement , -->
+<feat xlink:href="#line_23" value=" d&apos; orguil vient veraiment"/><!--  d' orguil vient veraiment -->
+<feat xlink:href="#line_24" value=" que contraire est a humilité ,"/><!--  que contraire est a humilité , -->
+<feat xlink:href="#line_25" value=" ke veie nus dune a sauveté ."/><!--  ke veie nus dune a sauveté . -->
+<feat xlink:href="#line_26" value=" pur ceo mieuz vaut , c&apos; est la parclose ,"/><!--  pur ceo mieuz vaut , c' est la parclose , -->
+<feat xlink:href="#line_27" value=" de fere romanz de tele chose ,"/><!--  de fere romanz de tele chose , -->
+<feat xlink:href="#line_28" value=" de mettre hume en tel penser ,"/><!--  de mettre hume en tel penser , -->
+<feat xlink:href="#line_29" value=" dunt il s&apos; en puisse bien enformer"/><!--  dunt il s' en puisse bien enformer -->
+<feat xlink:href="#line_30" value=" d&apos; amer deu especiaument ,"/><!--  d' amer deu especiaument , -->
+<feat xlink:href="#line_31" value=" parunt venir poust a sauvement ."/><!--  parunt venir poust a sauvement . -->
+<feat xlink:href="#line_32" value=" l&apos; en dust penser la curtaisie"/><!--  l' en dust penser la curtaisie -->
+<feat xlink:href="#line_33" value=" que fet as seinz en ceste vie ,"/><!--  que fet as seinz en ceste vie , -->
+<feat xlink:href="#line_34" value=" ke leaument issi servi l&apos; unt ,"/><!--  ke leaument issi servi l' unt , -->
+<feat xlink:href="#line_35" value=" parunt en sa joie en ciel sunt ."/><!--  parunt en sa joie en ciel sunt . -->
+<feat xlink:href="#line_36" value=" les miracles ke fet pur eus , muver"/><!--  les miracles ke fet pur eus , muver -->
+<feat xlink:href="#line_37" value=" nus dust de li leaument amer ,"/><!--  nus dust de li leaument amer , -->
+<feat xlink:href="#line_38" value=" cume fet ore veraiement"/><!--  cume fet ore veraiement -->
+<feat xlink:href="#line_39" value=" de seint richard apertement"/><!--  de seint richard apertement -->
+<feat xlink:href="#line_40" value=" que evesque de cycestre esteit ,"/><!--  que evesque de cycestre esteit , -->
+<feat xlink:href="#line_41" value=" ke especiaument muiver nus deit"/><!--  ke especiaument muiver nus deit -->
+<feat xlink:href="#line_42" value=" a mettre ses miracles en remembrance ,"/><!--  a mettre ses miracles en remembrance , -->
+<feat xlink:href="#line_43" value=" a deu loer pur sa fesaunce ,"/><!--  a deu loer pur sa fesaunce , -->
+<feat xlink:href="#line_44" value=" e de sa seinte vie ensement"/><!--  e de sa seinte vie ensement -->
+<feat xlink:href="#line_45" value=" ke mut put enformer la gent ;"/><!--  ke mut put enformer la gent ; -->
+<feat xlink:href="#line_46" value=" pur ceo fet bien de li cunter"/><!--  pur ceo fet bien de li cunter -->
+<feat xlink:href="#line_47" value=" sa vie e ses miracles demustrer ."/><!--  sa vie e ses miracles demustrer . -->
+<feat xlink:href="#line_48" value=" sa vie e ses miracles d&apos; enfance"/><!--  sa vie e ses miracles d' enfance -->
+<feat xlink:href="#line_49" value=" en latin sunt mis en remembrance ,"/><!--  en latin sunt mis en remembrance , -->
+<feat xlink:href="#line_50" value=" més pur ceo de plusurs est desiré"/><!--  més pur ceo de plusurs est desiré -->
+<feat xlink:href="#line_51" value=" que fust en franceis translaté ,"/><!--  que fust en franceis translaté , -->
+<feat xlink:href="#line_52" value=" ke lais entendable pot estre ,"/><!--  ke lais entendable pot estre , -->
+<feat xlink:href="#line_53" value=" m&apos; en pria un chanoine de cycestre ,"/><!--  m' en pria un chanoine de cycestre , -->
+<feat xlink:href="#line_54" value=" par un mestre ke un livre me porteit ,"/><!--  par un mestre ke un livre me porteit , -->
+<feat xlink:href="#line_55" value=" ke de sa vie e ses miracles esteit ,"/><!--  ke de sa vie e ses miracles esteit , -->
+<feat xlink:href="#line_56" value=" ke de translater le m&apos; entremeisse ,"/><!--  ke de translater le m' entremeisse , -->
+<feat xlink:href="#line_57" value=" e ke jeo le latin en franceis feisse ."/><!--  e ke jeo le latin en franceis feisse . -->
+<feat xlink:href="#line_58" value=" e jeo par l&apos; aïe seint richard"/><!--  e jeo par l' aïe seint richard -->
+<feat xlink:href="#line_59" value=" me entremettrai de la deu part ,"/><!--  me entremettrai de la deu part , -->
+<feat xlink:href="#line_60" value=" e de latin le translateray"/><!--  e de latin le translateray -->
+<feat xlink:href="#line_61" value=" en franceis au meuz ke jeo say ;"/><!--  en franceis au meuz ke jeo say ; -->
+<feat xlink:href="#line_62" value=" ore i met entendement"/><!--  ore i met entendement -->
+<feat xlink:href="#line_63" value=" que bien amer deu ad talent !"/><!--  que bien amer deu ad talent ! -->
+<feat xlink:href="#line_64" value=" seint richard l&apos; eveske de cycestre"/><!--  seint richard l' eveske de cycestre -->
+<feat xlink:href="#line_65" value=" en l&apos; evesché fu nee de wirecestre ,"/><!--  en l' evesché fu nee de wirecestre , -->
+<feat xlink:href="#line_66" value=" en une vile ke est wiz apelez"/><!--  en une vile ke est wiz apelez -->
+<feat xlink:href="#line_67" value=" u putz a sel ad desposez ."/><!--  u putz a sel ad desposez . -->
+<feat xlink:href="#line_68" value=" richard aveit a nun son pere ,"/><!--  richard aveit a nun son pere , -->
+<feat xlink:href="#line_69" value=" e aliz aveit a nun sa mere ,"/><!--  e aliz aveit a nun sa mere , -->
+<feat xlink:href="#line_70" value=" bone gent de vie e de naciun ,"/><!--  bone gent de vie e de naciun , -->
+<feat xlink:href="#line_71" value=" e mananz asez sulum resun ."/><!--  e mananz asez sulum resun . -->
+<feat xlink:href="#line_72" value=" aprés le pere out nun le fiz"/><!--  aprés le pere out nun le fiz -->
+<feat xlink:href="#line_73" value=" e pur ceo nun richard de wiz ."/><!--  e pur ceo nun richard de wiz . -->
+<feat xlink:href="#line_74" value=" icest nun richard , dit en latin ,"/><!--  icest nun richard , dit en latin , -->
+<feat xlink:href="#line_75" value=" segnefie &quot; ris &quot; sulum devin"/><!--  segnefie " ris " sulum devin -->
+<feat xlink:href="#line_76" value=" e &quot; cher a deu &quot; , e &quot; duz &quot; ensement ;"/><!--  e " cher a deu " , e " duz " ensement ; -->
+<feat xlink:href="#line_77" value=" ceo put ver ke son livere entent ."/><!--  ceo put ver ke son livere entent . -->
+<feat xlink:href="#line_78" value=" son ris ne esteit pas dehors"/><!--  son ris ne esteit pas dehors -->
+<feat xlink:href="#line_79" value=" en mustrance par signe de cors ;"/><!--  en mustrance par signe de cors ; -->
+<feat xlink:href="#line_80" value=" més sa pensee dedenz fu esleesee ,"/><!--  més sa pensee dedenz fu esleesee , -->
+<feat xlink:href="#line_81" value=" kar n&apos; out pas sa concience blescee ."/><!--  kar n' out pas sa concience blescee . -->
+<feat xlink:href="#line_82" value=" dedenz fu plein de charité ,"/><!--  dedenz fu plein de charité , -->
+<feat xlink:href="#line_83" value=" e pur ceo fu deu bien amé"/><!--  e pur ceo fu deu bien amé -->
+<feat xlink:href="#line_84" value=" dunt a deu tres cher esteit ;"/><!--  dunt a deu tres cher esteit ; -->
+<feat xlink:href="#line_85" value=" e pur la duçur k&apos; en li aveit ,"/><!--  e pur la duçur k' en li aveit , -->
+<feat xlink:href="#line_86" value=" duz esteit a son prusme parler"/><!--  duz esteit a son prusme parler -->
+<feat xlink:href="#line_87" value=" e duz esteit a eus cunseillier ,"/><!--  e duz esteit a eus cunseillier , -->
+<feat xlink:href="#line_88" value=" sicum par bon conseil d&apos; ami"/><!--  sicum par bon conseil d' ami -->
+<feat xlink:href="#line_89" value=" est le quer de home tut enduci ."/><!--  est le quer de home tut enduci . -->
+<feat xlink:href="#line_90" value=" de tute part esteit gracius"/><!--  de tute part esteit gracius -->
+<feat xlink:href="#line_91" value=" de condiciun , en murs vertuus ,"/><!--  de condiciun , en murs vertuus , -->
+<feat xlink:href="#line_92" value=" de cors esteit beaus , de vut haité ,"/><!--  de cors esteit beaus , de vut haité , -->
+<feat xlink:href="#line_93" value=" de tutes tetches bien afaité ;"/><!--  de tutes tetches bien afaité ; -->
+<feat xlink:href="#line_94" value=" net de vie cum angle esteit"/><!--  net de vie cum angle esteit -->
+<feat xlink:href="#line_95" value=" kar vie cum d&apos; angle demeneit ,"/><!--  kar vie cum d' angle demeneit , -->
+<feat xlink:href="#line_96" value=" tesmonie d&apos; un frere bon devin"/><!--  tesmonie d' un frere bon devin -->
+<feat xlink:href="#line_97" value=" que sa vie escrit tut en latin ,"/><!--  que sa vie escrit tut en latin , -->
+<feat xlink:href="#line_98" value=" ke cunte la k&apos; avant son decés"/><!--  ke cunte la k' avant son decés -->
+<feat xlink:href="#line_99" value=" poi d&apos; auns esteit de li cunfés"/><!--  poi d' auns esteit de li cunfés -->
+<feat xlink:href="#line_100" value=" e sa vie trestute cunteit"/><!--  e sa vie trestute cunteit -->
+<feat xlink:href="#line_101" value=" a li quanke remembrer purreit ."/><!--  a li quanke remembrer purreit . -->
+<feat xlink:href="#line_102" value=" més la flur de sa char si gardeit"/><!--  més la flur de sa char si gardeit -->
+<feat xlink:href="#line_103" value=" ke blemure n&apos; out en nul endreit"/><!--  ke blemure n' out en nul endreit -->
+<feat xlink:href="#line_104" value=" ici ke il pot chanter a l&apos; aignel"/><!--  ici ke il pot chanter a l' aignel -->
+<feat xlink:href="#line_105" value=" ou les autres le chant nouvel ,"/><!--  ou les autres le chant nouvel , -->
+<feat xlink:href="#line_106" value=" ke siwent l&apos; aignel quel part qu&apos; il vet ,"/><!--  ke siwent l' aignel quel part qu' il vet , -->
+<feat xlink:href="#line_107" value=" ke de femme n&apos; unt tetche ne mal atret ."/><!--  ke de femme n' unt tetche ne mal atret . -->
+<feat xlink:href="#line_108" value=" dunt par le cunte icest devin"/><!--  dunt par le cunte icest devin -->
+<feat xlink:href="#line_109" value=" esteit le home tut angelin :"/><!--  esteit le home tut angelin : -->
+<feat xlink:href="#line_110" value=" ceo mustra bien en un endreit"/><!--  ceo mustra bien en un endreit -->
+<feat xlink:href="#line_111" value=" ke vie d&apos; angle aver voleit"/><!--  ke vie d' angle aver voleit -->
+<feat xlink:href="#line_112" value=" quant l&apos; em li offrit une pucele"/><!--  quant l' em li offrit une pucele -->
+<feat xlink:href="#line_113" value=" pur aver cume espuse bele ,"/><!--  pur aver cume espuse bele , -->
+<feat xlink:href="#line_114" value=" e il refusa trestut adés ,"/><!--  e il refusa trestut adés , -->
+<feat xlink:href="#line_115" value=" cume plus pleinement orez aprés ."/><!--  cume plus pleinement orez aprés . -->
+<feat xlink:href="#line_116" value=" més sicum en l&apos; evangelie est dit"/><!--  més sicum en l' evangelie est dit -->
+<feat xlink:href="#line_117" value=" ke les seinz , cum la est escrit ,"/><!--  ke les seinz , cum la est escrit , -->
+<feat xlink:href="#line_118" value=" n&apos; ierent espusez ne n&apos; espuserunt ,"/><!--  n' ierent espusez ne n' espuserunt , -->
+<feat xlink:href="#line_119" value=" més semblables as angles trestut serrunt ,"/><!--  més semblables as angles trestut serrunt , -->
+<feat xlink:href="#line_120" value=" sa vie aparailia a ceo tut dreit ,"/><!--  sa vie aparailia a ceo tut dreit , -->
+<feat xlink:href="#line_121" value=" ke le liu u fu nee singnefieit"/><!--  ke le liu u fu nee singnefieit -->
+<feat xlink:href="#line_122" value=" &quot; par le sel i crest &quot; , ke singnifie"/><!--  " par le sel i crest " , ke singnifie -->
+<feat xlink:href="#line_123" value=" &quot; atempré e bien ordiné vie &quot; ;"/><!--  " atempré e bien ordiné vie " ; -->
+<feat xlink:href="#line_124" value=" dunt apostoles pur cele afere"/><!--  dunt apostoles pur cele afere -->
+<feat xlink:href="#line_125" value=" dit deu : &quot; vus estes sel de terre &quot; ."/><!--  dit deu : " vus estes sel de terre " . -->
+<feat xlink:href="#line_126" value=" sel oste puur e pureture"/><!--  sel oste puur e pureture -->
+<feat xlink:href="#line_127" value=" e viande trop freche met en temprure :"/><!--  e viande trop freche met en temprure : -->
+<feat xlink:href="#line_128" value=" ausi fu aparaillié tut jur"/><!--  ausi fu aparaillié tut jur -->
+<feat xlink:href="#line_129" value=" de oster de pechee la puur"/><!--  de oster de pechee la puur -->
+<feat xlink:href="#line_130" value=" e les autres cum en vertu temprer ,"/><!--  e les autres cum en vertu temprer , -->
+<feat xlink:href="#line_131" value=" e de murs e de vie dreite enformer ."/><!--  e de murs e de vie dreite enformer . -->
+<feat xlink:href="#line_132" value=" issi cum de muiste matire"/><!--  issi cum de muiste matire -->
+<feat xlink:href="#line_133" value=" de sause de mer , c&apos; est a dire ,"/><!--  de sause de mer , c' est a dire , -->
+<feat xlink:href="#line_134" value=" par la chaline e benefice"/><!--  par la chaline e benefice -->
+<feat xlink:href="#line_135" value=" de feu k&apos; em fet par artefice ,"/><!--  de feu k' em fet par artefice , -->
+<feat xlink:href="#line_136" value=" une piere de sel est engendreie"/><!--  une piere de sel est engendreie -->
+<feat xlink:href="#line_137" value=" e en grant cors consolideie ,"/><!--  e en grant cors consolideie , -->
+<feat xlink:href="#line_138" value=" dunt bestes malades le lecchissent"/><!--  dunt bestes malades le lecchissent -->
+<feat xlink:href="#line_139" value=" e de lur maladies en garissent ,"/><!--  e de lur maladies en garissent , -->
+<feat xlink:href="#line_140" value=" en meimes la maniere en un endreit"/><!--  en meimes la maniere en un endreit -->
+<feat xlink:href="#line_141" value=" de seint richard l&apos; evesque esteit :"/><!--  de seint richard l' evesque esteit : -->
+<feat xlink:href="#line_142" value=" de muisture par engendrure"/><!--  de muisture par engendrure -->
+<feat xlink:href="#line_143" value=" fu fet de humeine nature ,"/><!--  fu fet de humeine nature , -->
+<feat xlink:href="#line_144" value=" quant de une semence corrumpu"/><!--  quant de une semence corrumpu -->
+<feat xlink:href="#line_145" value=" fu nee de mere e fu conceu ,"/><!--  fu nee de mere e fu conceu , -->
+<feat xlink:href="#line_146" value=" ke par la grace de vertu divine"/><!--  ke par la grace de vertu divine -->
+<feat xlink:href="#line_147" value=" e de seint espirit la chaline ,"/><!--  e de seint espirit la chaline , -->
+<feat xlink:href="#line_148" value=" e le benefice fu cumfermé"/><!--  e le benefice fu cumfermé -->
+<feat xlink:href="#line_149" value=" e en vertuz tut consolidé ;"/><!--  e en vertuz tut consolidé ; -->
+<feat xlink:href="#line_150" value=" issi k&apos; a pechures ke furent liez"/><!--  issi k' a pechures ke furent liez -->
+<feat xlink:href="#line_151" value=" en langur e en maladie de pechez"/><!--  en langur e en maladie de pechez -->
+<feat xlink:href="#line_152" value=" medecinable piere se fist"/><!--  medecinable piere se fist -->
+<feat xlink:href="#line_153" value=" e de lur maladie les garist ."/><!--  e de lur maladie les garist . -->
+<feat xlink:href="#line_154" value=" e ja le plus tart en verité"/><!--  e ja le plus tart en verité -->
+<feat xlink:href="#line_155" value=" un vessel li esteit porté ,"/><!--  un vessel li esteit porté , -->
+<feat xlink:href="#line_156" value=" que par eliseu li fu procuré ,"/><!--  que par eliseu li fu procuré , -->
+<feat xlink:href="#line_157" value=" tut nuvel e pur par netteté ,"/><!--  tut nuvel e pur par netteté , -->
+<feat xlink:href="#line_158" value=" void par despit de vie honuree ,"/><!--  void par despit de vie honuree , -->
+<feat xlink:href="#line_159" value=" crus par humilité de pensee ."/><!--  crus par humilité de pensee . -->
+<feat xlink:href="#line_160" value=" e sachez ke l&apos; emflure , quanque esteit"/><!--  e sachez ke l' emflure , quanque esteit -->
+<feat xlink:href="#line_161" value=" d&apos; orguil espaundeu , rebuteit ;"/><!--  d' orguil espaundeu , rebuteit ; -->
+<feat xlink:href="#line_162" value=" en quel vessel par l&apos; enseinement"/><!--  en quel vessel par l' enseinement -->
+<feat xlink:href="#line_163" value=" le verai eliseu , sauveur de gent ,"/><!--  le verai eliseu , sauveur de gent , -->
+<feat xlink:href="#line_164" value=" par le sel de sapience de sauveté"/><!--  par le sel de sapience de sauveté -->
+<feat xlink:href="#line_165" value=" ke sauvement esteit leinz versé ,"/><!--  ke sauvement esteit leinz versé , -->
+<feat xlink:href="#line_166" value=" parunt aveit le poer"/><!--  parunt aveit le poer -->
+<feat xlink:href="#line_167" value=" les ewes de jerico de saner ,"/><!--  les ewes de jerico de saner , -->
+<feat xlink:href="#line_168" value=" la vie de pecheur , c&apos; est a saver ,"/><!--  la vie de pecheur , c' est a saver , -->
+<feat xlink:href="#line_169" value=" de corruptiun purreit tut saner :"/><!--  de corruptiun purreit tut saner : -->
+<feat xlink:href="#line_170" value=" ki ke bons uveres avant n&apos; aveient ,"/><!--  ki ke bons uveres avant n' aveient , -->
+<feat xlink:href="#line_171" value=" par ceo par li recuvereient ."/><!--  par ceo par li recuvereient . -->
+<feat xlink:href="#line_172" value=" en le nuvel age ke seint richard"/><!--  en le nuvel age ke seint richard -->
+<feat xlink:href="#line_173" value=" aveit , commence de tute part"/><!--  aveit , commence de tute part -->
+<feat xlink:href="#line_174" value=" a la grace de la nuvele beneiçun"/><!--  a la grace de la nuvele beneiçun -->
+<feat xlink:href="#line_175" value=" acorder ; e ausi en sun"/><!--  acorder ; e ausi en sun -->
+<feat xlink:href="#line_176" value=" de la malice de l&apos; enemi"/><!--  de la malice de l' enemi -->
+<feat xlink:href="#line_177" value=" conquist la mestrie , issi"/><!--  conquist la mestrie , issi -->
+<feat xlink:href="#line_178" value=" ke rebuta cum fort champiun"/><!--  ke rebuta cum fort champiun -->
+<feat xlink:href="#line_179" value=" la malice de sa temptaciun ,"/><!--  la malice de sa temptaciun , -->
+<feat xlink:href="#line_180" value=" dunt uncore quant esteit enfant"/><!--  dunt uncore quant esteit enfant -->
+<feat xlink:href="#line_181" value=" de set ainz u meus , ne mie avant ,"/><!--  de set ainz u meus , ne mie avant , -->
+<feat xlink:href="#line_182" value=" restraint les talenz e les pensees"/><!--  restraint les talenz e les pensees -->
+<feat xlink:href="#line_183" value=" k&apos; en juvente sunt acustumees"/><!--  k' en juvente sunt acustumees -->
+<feat xlink:href="#line_184" value=" de muver , issi k&apos; en despit"/><!--  de muver , issi k' en despit -->
+<feat xlink:href="#line_185" value=" aveit caroles e vein delit"/><!--  aveit caroles e vein delit -->
+<feat xlink:href="#line_186" value=" d&apos; estresches , e de tel folie"/><!--  d' estresches , e de tel folie -->
+<feat xlink:href="#line_187" value=" ke veer , son voil , ne le voleit mie ;"/><!--  ke veer , son voil , ne le voleit mie ; -->
+<feat xlink:href="#line_188" value=" e encore fu si sage"/><!--  e encore fu si sage -->
+<feat xlink:href="#line_189" value=" ke , més ke les enfanz de son age"/><!--  ke , més ke les enfanz de son age -->
+<feat xlink:href="#line_190" value=" par priere e blaundissement"/><!--  par priere e blaundissement -->
+<feat xlink:href="#line_191" value=" entente meissent k&apos; il i alast suvent ,"/><!--  entente meissent k' il i alast suvent , -->
+<feat xlink:href="#line_192" value=" tut dreit encuntre nature"/><!--  tut dreit encuntre nature -->
+<feat xlink:href="#line_193" value=" de age , d&apos; aler il n&apos; aveit cure ;"/><!--  de age , d' aler il n' aveit cure ; -->
+<feat xlink:href="#line_194" value=" ne sai par quele prescience"/><!--  ne sai par quele prescience -->
+<feat xlink:href="#line_195" value=" u de quel mestre aveit science ,"/><!--  u de quel mestre aveit science , -->
+<feat xlink:href="#line_196" value=" que teles choses furent truvez"/><!--  que teles choses furent truvez -->
+<feat xlink:href="#line_197" value=" a cas de humeine frelestez ."/><!--  a cas de humeine frelestez . -->
+<feat xlink:href="#line_198" value=" entendant tuteveies esteit"/><!--  entendant tuteveies esteit -->
+<feat xlink:href="#line_199" value=" a s&apos; aprise ke il aperneit ,"/><!--  a s' aprise ke il aperneit , -->
+<feat xlink:href="#line_200" value=" e as diz son mestre devotement"/><!--  e as diz son mestre devotement -->
+<feat xlink:href="#line_201" value=" atendit attentivement ,"/><!--  atendit attentivement , -->
+<feat xlink:href="#line_202" value=" issi cum fist samuel l&apos; enfant ,"/><!--  issi cum fist samuel l' enfant , -->
+<feat xlink:href="#line_203" value=" ke tuteveies prest fu e veilliant"/><!--  ke tuteveies prest fu e veilliant -->
+<feat xlink:href="#line_204" value=" a oïr tut devotement"/><!--  a oïr tut devotement -->
+<feat xlink:href="#line_205" value=" ke fere deust e fere le ensement ,"/><!--  ke fere deust e fere le ensement , -->
+<feat xlink:href="#line_206" value=" issi ke en poy de tens passeit"/><!--  issi ke en poy de tens passeit -->
+<feat xlink:href="#line_207" value=" chescun ke de son age esteit ,"/><!--  chescun ke de son age esteit , -->
+<feat xlink:href="#line_208" value=" e chescun k&apos; ove li aperneit ,"/><!--  e chescun k' ove li aperneit , -->
+<feat xlink:href="#line_209" value=" ke de meme l&apos; age u plus esteit ,"/><!--  ke de meme l' age u plus esteit , -->
+<feat xlink:href="#line_210" value=" si passa trestut veraiement"/><!--  si passa trestut veraiement -->
+<feat xlink:href="#line_211" value=" e d&apos; aprise e de murs ensement ."/><!--  e d' aprise e de murs ensement . -->
+<feat xlink:href="#line_212" value=" deu , cum sa enfance benuré fu"/><!--  deu , cum sa enfance benuré fu -->
+<feat xlink:href="#line_213" value=" que sen aveit de home chanu"/><!--  que sen aveit de home chanu -->
+<feat xlink:href="#line_214" value=" lequel sanz custume avant veüe"/><!--  lequel sanz custume avant veüe -->
+<feat xlink:href="#line_215" value=" ou seint&apos; &quot; veilliesce receue ,"/><!--  ou seint' " veilliesce receue , -->
+<feat xlink:href="#line_216" value=" sulum le sage ke ceo puplie :"/><!--  sulum le sage ke ceo puplie : -->
+<feat xlink:href="#line_217" value=" &quot; vie sanz blame , age enveillie ! &quot;"/><!--  " vie sanz blame , age enveillie ! " -->
+<feat xlink:href="#line_218" value=" icesti des anz de sa cressance"/><!--  icesti des anz de sa cressance -->
+<feat xlink:href="#line_219" value=" a l&apos; estudie aveit tele aliance :"/><!--  a l' estudie aveit tele aliance : -->
+<feat xlink:href="#line_220" value=" issi cum terre bien cutivee"/><!--  issi cum terre bien cutivee -->
+<feat xlink:href="#line_221" value=" e en bunté tut aparailliee"/><!--  e en bunté tut aparailliee -->
+<feat xlink:href="#line_222" value=" a receivere semence e germiner"/><!--  a receivere semence e germiner -->
+<feat xlink:href="#line_223" value=" e par verdur fructifier ,"/><!--  e par verdur fructifier , -->
+<feat xlink:href="#line_224" value=" ausi esteit par tel devise"/><!--  ausi esteit par tel devise -->
+<feat xlink:href="#line_225" value=" desposé al frut de s&apos; aprise ."/><!--  desposé al frut de s' aprise . -->
+<feat xlink:href="#line_226" value=" dunt tant cum en tel age esteit"/><!--  dunt tant cum en tel age esteit -->
+<feat xlink:href="#line_227" value=" e cressant en anz fluriseit ,"/><!--  e cressant en anz fluriseit , -->
+<feat xlink:href="#line_228" value=" de garde issit son esné frere ,"/><!--  de garde issit son esné frere , -->
+<feat xlink:href="#line_229" value=" ke eir esteit prochein son pere ,"/><!--  ke eir esteit prochein son pere , -->
+<feat xlink:href="#line_230" value=" que entra en sa terre nue ,"/><!--  que entra en sa terre nue , -->
+<feat xlink:href="#line_231" value=" despuliee e despurveue ,"/><!--  despuliee e despurveue , -->
+<feat xlink:href="#line_232" value=" deswarokee e mal atiree ,"/><!--  deswarokee e mal atiree , -->
+<feat xlink:href="#line_233" value=" sulum la male custume usee ;"/><!--  sulum la male custume usee ; -->
+<feat xlink:href="#line_234" value=" dunt esteit povere e mendiant"/><!--  dunt esteit povere e mendiant -->
+<feat xlink:href="#line_235" value=" e mut esgaree par itant ,"/><!--  e mut esgaree par itant , -->
+<feat xlink:href="#line_236" value=" richard son frere l&apos; ennui de li"/><!--  richard son frere l' ennui de li -->
+<feat xlink:href="#line_237" value=" vit e sa grant poverté ausi ,"/><!--  vit e sa grant poverté ausi , -->
+<feat xlink:href="#line_238" value=" dunt pité l&apos; en prist e li peiseit"/><!--  dunt pité l' en prist e li peiseit -->
+<feat xlink:href="#line_239" value=" que n&apos; out dunt aider le purreit ,"/><!--  que n' out dunt aider le purreit , -->
+<feat xlink:href="#line_240" value=" dunt il puis n&apos; aveit quei doner"/><!--  dunt il puis n' aveit quei doner -->
+<feat xlink:href="#line_241" value=" ke li pust a sa busoigne aider ;"/><!--  ke li pust a sa busoigne aider ; -->
+<feat xlink:href="#line_242" value=" e son servager se meime mist ,"/><!--  e son servager se meime mist , -->
+<feat xlink:href="#line_243" value=" e de vil overaine s&apos; entremist"/><!--  e de vil overaine s' entremist -->
+<feat xlink:href="#line_244" value=" en miseise e en poverté ,"/><!--  en miseise e en poverté , -->
+<feat xlink:href="#line_245" value=" tut ne fut il a ceo lié :"/><!--  tut ne fut il a ceo lié : -->
+<feat xlink:href="#line_246" value=" ore a herce , ore a charue ,"/><!--  ore a herce , ore a charue , -->
+<feat xlink:href="#line_247" value=" ore en haie uverant , ore en rue ,"/><!--  ore en haie uverant , ore en rue , -->
+<feat xlink:href="#line_248" value=" e en tute manere ke sout penser"/><!--  e en tute manere ke sout penser -->
+<feat xlink:href="#line_249" value=" travaillia pur son frere avancer ."/><!--  travaillia pur son frere avancer . -->
+<feat xlink:href="#line_250" value=" deu , cum de charité plein esteit"/><!--  deu , cum de charité plein esteit -->
+<feat xlink:href="#line_251" value=" ke del suverein mestre ben entendeit"/><!--  ke del suverein mestre ben entendeit -->
+<feat xlink:href="#line_252" value=" la sentence ke dit de charité :"/><!--  la sentence ke dit de charité : -->
+<feat xlink:href="#line_253" value=" &quot; nul n&apos; ad greigniure en verité ,"/><!--  " nul n' ad greigniure en verité , -->
+<feat xlink:href="#line_254" value=" cum cil ke s&apos; alme pur ses amis"/><!--  cum cil ke s' alme pur ses amis -->
+<feat xlink:href="#line_255" value=" dune &quot; — pert ke bien l&apos; out apris !"/><!--  dune " — pert ke bien l' out apris ! -->
+<feat xlink:href="#line_256" value=" en alme li fut compatient ,"/><!--  en alme li fut compatient , -->
+<feat xlink:href="#line_257" value=" dunt travaillia son cors asprement ,"/><!--  dunt travaillia son cors asprement , -->
+<feat xlink:href="#line_258" value=" parunt son frere en tant amur"/><!--  parunt son frere en tant amur -->
+<feat xlink:href="#line_259" value=" le cuillit pur son grant labur"/><!--  le cuillit pur son grant labur -->
+<feat xlink:href="#line_260" value=" que trestute sa terre li duna"/><!--  que trestute sa terre li duna -->
+<feat xlink:href="#line_261" value=" e par sa chartre li comferma ."/><!--  e par sa chartre li comferma . -->
+<feat xlink:href="#line_262" value=" richard puis ke sa terre aveit"/><!--  richard puis ke sa terre aveit -->
+<feat xlink:href="#line_263" value=" en pees , e en bon estat esteit ,"/><!--  en pees , e en bon estat esteit , -->
+<feat xlink:href="#line_264" value=" ses charneus amis sulement"/><!--  ses charneus amis sulement -->
+<feat xlink:href="#line_265" value=" pensent de ceo ke a char apent :"/><!--  pensent de ceo ke a char apent : -->
+<feat xlink:href="#line_266" value=" le loerent ke il amast"/><!--  le loerent ke il amast -->
+<feat xlink:href="#line_267" value=" une gentile pucele e espusast ."/><!--  une gentile pucele e espusast . -->
+<feat xlink:href="#line_268" value=" més nostre seigniur , que bien sout"/><!--  més nostre seigniur , que bien sout -->
+<feat xlink:href="#line_269" value=" le office que purveu l&apos; out ,"/><!--  le office que purveu l' out , -->
+<feat xlink:href="#line_270" value=" e le liu de son recet ausi ,"/><!--  e le liu de son recet ausi , -->
+<feat xlink:href="#line_271" value=" que plus profitable esteit a li ,"/><!--  que plus profitable esteit a li , -->
+<feat xlink:href="#line_272" value=" ne suffri pas que sa netteté"/><!--  ne suffri pas que sa netteté -->
+<feat xlink:href="#line_273" value=" de son cors de rien li fust blemé ,"/><!--  de son cors de rien li fust blemé , -->
+<feat xlink:href="#line_274" value=" més sicum johan repella ,"/><!--  més sicum johan repella , -->
+<feat xlink:href="#line_275" value=" son desciple que plus ama ,"/><!--  son desciple que plus ama , -->
+<feat xlink:href="#line_276" value=" del lit d&apos; espusaillie que n&apos; i alast"/><!--  del lit d' espusaillie que n' i alast -->
+<feat xlink:href="#line_277" value=" més en sa chasteté demurast ,"/><!--  més en sa chasteté demurast , -->
+<feat xlink:href="#line_278" value=" meimes la grace aveit doné"/><!--  meimes la grace aveit doné -->
+<feat xlink:href="#line_279" value=" a cesti de garder chasteté ,"/><!--  a cesti de garder chasteté , -->
+<feat xlink:href="#line_280" value=" kar deu issi purveu l&apos; aveit"/><!--  kar deu issi purveu l' aveit -->
+<feat xlink:href="#line_281" value=" qu&apos; en s&apos; amur tut s&apos; alereit ."/><!--  qu' en s' amur tut s' alereit . -->
+<feat xlink:href="#line_282" value=" dunt quant son frere bien entendeit"/><!--  dunt quant son frere bien entendeit -->
+<feat xlink:href="#line_283" value=" ke marier si noblement se purreit ,"/><!--  ke marier si noblement se purreit , -->
+<feat xlink:href="#line_284" value=" li peisa mut pur cele afere"/><!--  li peisa mut pur cele afere -->
+<feat xlink:href="#line_285" value=" ke il li aveit doné sa terre ,"/><!--  ke il li aveit doné sa terre , -->
+<feat xlink:href="#line_286" value=" e devint murnes e pensant"/><!--  e devint murnes e pensant -->
+<feat xlink:href="#line_287" value=" e fist lurd e tristes semblant ,"/><!--  e fist lurd e tristes semblant , -->
+<feat xlink:href="#line_288" value=" laquele chose richard aparceut ,"/><!--  laquele chose richard aparceut , -->
+<feat xlink:href="#line_289" value=" e sout bien en un endreit ke ceo fut ,"/><!--  e sout bien en un endreit ke ceo fut , -->
+<feat xlink:href="#line_290" value=" e li diseit : &quot; tres beu duz frere ,"/><!--  e li diseit : " tres beu duz frere , -->
+<feat xlink:href="#line_291" value=" purquei fetes vus tiel here ?"/><!--  purquei fetes vus tiel here ? -->
+<feat xlink:href="#line_292" value=" kar me mustrez par amur"/><!--  kar me mustrez par amur -->
+<feat xlink:href="#line_293" value=" la resun de vostre dolur ! &quot;"/><!--  la resun de vostre dolur ! " -->
+<feat xlink:href="#line_294" value=" son frere de ceo que li desplust"/><!--  son frere de ceo que li desplust -->
+<feat xlink:href="#line_295" value=" pur hunte ne dit rien , més se tust ;"/><!--  pur hunte ne dit rien , més se tust ; -->
+<feat xlink:href="#line_296" value=" dunt dit seint richard : &quot; jeo crei bien"/><!--  dunt dit seint richard : " jeo crei bien -->
+<feat xlink:href="#line_297" value=" ke vus repentez sur tute rien"/><!--  ke vus repentez sur tute rien -->
+<feat xlink:href="#line_298" value=" de la terre que de vus aveie ,"/><!--  de la terre que de vus aveie , -->
+<feat xlink:href="#line_299" value=" e de la pucele ke aver poeie"/><!--  e de la pucele ke aver poeie -->
+<feat xlink:href="#line_300" value=" e de l&apos; aver ke poeie ou li aver ;"/><!--  e de l' aver ke poeie ou li aver ; -->
+<feat xlink:href="#line_301" value=" c&apos; est tut l&apos; ennui de vostre penser ."/><!--  c' est tut l' ennui de vostre penser . -->
+<feat xlink:href="#line_302" value=" nenil , beu frere , pas ne seez !"/><!--  nenil , beu frere , pas ne seez ! -->
+<feat xlink:href="#line_303" value=" pur cel afere de rien grevez ,"/><!--  pur cel afere de rien grevez , -->
+<feat xlink:href="#line_304" value=" car jeo serrai a vus ausi curteis"/><!--  car jeo serrai a vus ausi curteis -->
+<feat xlink:href="#line_305" value=" cum vus fustes a mei anceis ."/><!--  cum vus fustes a mei anceis . -->
+<feat xlink:href="#line_306" value=" veez ci la terre , tute vus rent"/><!--  veez ci la terre , tute vus rent -->
+<feat xlink:href="#line_307" value=" e votre chartre ou tut ensement ,"/><!--  e votre chartre ou tut ensement , -->
+<feat xlink:href="#line_308" value=" e la pucele , se il plest a li ,"/><!--  e la pucele , se il plest a li , -->
+<feat xlink:href="#line_309" value=" e si il plest a ces amis ausi ,"/><!--  e si il plest a ces amis ausi , -->
+<feat xlink:href="#line_310" value=" kar nettement pur mei la poez aver ,"/><!--  kar nettement pur mei la poez aver , -->
+<feat xlink:href="#line_311" value=" kar unkes pur mei n&apos; out un beser . &quot;"/><!--  kar unkes pur mei n' out un beser . " -->
+<feat xlink:href="#line_312" value=" richard dunkes est revenu"/><!--  richard dunkes est revenu -->
+<feat xlink:href="#line_313" value=" en l&apos; esperance k&apos; aveit einz eu ,"/><!--  en l' esperance k' aveit einz eu , -->
+<feat xlink:href="#line_314" value=" e atent d&apos; aver cum sage"/><!--  e atent d' aver cum sage -->
+<feat xlink:href="#line_315" value=" en ciel pardurable eritage ,"/><!--  en ciel pardurable eritage , -->
+<feat xlink:href="#line_316" value=" ke plus terren ne desira ;"/><!--  ke plus terren ne desira ; -->
+<feat xlink:href="#line_317" value=" la terre pur ceo tantost lessa ,"/><!--  la terre pur ceo tantost lessa , -->
+<feat xlink:href="#line_318" value=" e la pucele ausi lesseit ,"/><!--  e la pucele ausi lesseit , -->
+<feat xlink:href="#line_319" value=" e ses amis ensement k&apos; aveit"/><!--  e ses amis ensement k' aveit -->
+<feat xlink:href="#line_320" value=" e a l&apos; estodie tantost se est mis"/><!--  e a l' estodie tantost se est mis -->
+<feat xlink:href="#line_321" value=" a oxeneford , e puis a paris ."/><!--  a oxeneford , e puis a paris . -->
+<feat xlink:href="#line_322" value=" e pur ceo k&apos; a venir esteit"/><!--  e pur ceo k' a venir esteit -->
+<feat xlink:href="#line_323" value=" par deu que eveske serreit ,"/><!--  par deu que eveske serreit , -->
+<feat xlink:href="#line_324" value=" ke sen e reisun deveit aver"/><!--  ke sen e reisun deveit aver -->
+<feat xlink:href="#line_325" value=" a dreit entendre e dreit juger ,"/><!--  a dreit entendre e dreit juger , -->
+<feat xlink:href="#line_326" value=" pur ceo mist il par deu sanz fable"/><!--  pur ceo mist il par deu sanz fable -->
+<feat xlink:href="#line_327" value=" a la science dreit resunable"/><!--  a la science dreit resunable -->
+<feat xlink:href="#line_328" value=" ke est logike de clers numee ,"/><!--  ke est logike de clers numee , -->
+<feat xlink:href="#line_329" value=" pur aver en autre clergie entree"/><!--  pur aver en autre clergie entree -->
+<feat xlink:href="#line_330" value=" e pur agu aver l&apos; entendement"/><!--  e pur agu aver l' entendement -->
+<feat xlink:href="#line_331" value=" en autre clergies quant les aprent ."/><!--  en autre clergies quant les aprent . -->
+<feat xlink:href="#line_332" value=" richard puis ke a paris esteit ,"/><!--  richard puis ke a paris esteit , -->
+<feat xlink:href="#line_333" value=" en logike feseit bon espleit ,"/><!--  en logike feseit bon espleit , -->
+<feat xlink:href="#line_334" value=" e diligent e veilliant esteit"/><!--  e diligent e veilliant esteit -->
+<feat xlink:href="#line_335" value=" par essample son mestre dreit ,"/><!--  par essample son mestre dreit , -->
+<feat xlink:href="#line_336" value=" jhesu crist , ke entre les mestres sist :"/><!--  jhesu crist , ke entre les mestres sist : -->
+<feat xlink:href="#line_337" value=" en oiant e demandant aprist ;"/><!--  en oiant e demandant aprist ; -->
+<feat xlink:href="#line_338" value=" ausi se pena de bien fere"/><!--  ausi se pena de bien fere -->
+<feat xlink:href="#line_339" value=" pur sutiveté de clergie enquere ;"/><!--  pur sutiveté de clergie enquere ; -->
+<feat xlink:href="#line_340" value=" dunt tant entente a s&apos; aprise mist"/><!--  dunt tant entente a s' aprise mist -->
+<feat xlink:href="#line_341" value=" ke force de autre chose ne prist ,"/><!--  ke force de autre chose ne prist , -->
+<feat xlink:href="#line_342" value=" dunt de mangers e de vesture"/><!--  dunt de mangers e de vesture -->
+<feat xlink:href="#line_343" value=" esteit mut petite tute sa cure ;"/><!--  esteit mut petite tute sa cure ; -->
+<feat xlink:href="#line_344" value=" kar ausi cum il meimes cunteit"/><!--  kar ausi cum il meimes cunteit -->
+<feat xlink:href="#line_345" value=" avant e aprés ke eveske esteit ,"/><!--  avant e aprés ke eveske esteit , -->
+<feat xlink:href="#line_346" value=" entre amis e cumpaignuns ausi ,"/><!--  entre amis e cumpaignuns ausi , -->
+<feat xlink:href="#line_347" value=" ke tant desuffert lores suffri"/><!--  ke tant desuffert lores suffri -->
+<feat xlink:href="#line_348" value=" ke il e dous compaignuns esteient"/><!--  ke il e dous compaignuns esteient -->
+<feat xlink:href="#line_349" value=" ou li en chambre si n&apos; aveient"/><!--  ou li en chambre si n' aveient -->
+<feat xlink:href="#line_350" value=" fors une chape entre eus senglement"/><!--  fors une chape entre eus senglement -->
+<feat xlink:href="#line_351" value=" e chescun une cote sulement ,"/><!--  e chescun une cote sulement , -->
+<feat xlink:href="#line_352" value=" e un lit ke esteit bas asez"/><!--  e un lit ke esteit bas asez -->
+<feat xlink:href="#line_353" value=" sulum lur eises e privetez ;"/><!--  sulum lur eises e privetez ; -->
+<feat xlink:href="#line_354" value=" dunt quant l&apos; un ou la chape a escole ala ,"/><!--  dunt quant l' un ou la chape a escole ala , -->
+<feat xlink:href="#line_355" value=" l&apos; autre ou sun compaignun demura"/><!--  l' autre ou sun compaignun demura -->
+<feat xlink:href="#line_356" value=" en lur chambre jeke tant ke revint ,"/><!--  en lur chambre jeke tant ke revint , -->
+<feat xlink:href="#line_357" value=" puis chescun aprés cel ordre tint :"/><!--  puis chescun aprés cel ordre tint : -->
+<feat xlink:href="#line_358" value=" quant ou la chape va oïr science ,"/><!--  quant ou la chape va oïr science , -->
+<feat xlink:href="#line_359" value=" les dous a la chambre funt residence ,"/><!--  les dous a la chambre funt residence , -->
+<feat xlink:href="#line_360" value=" issi ke chescun par ordre dreit"/><!--  issi ke chescun par ordre dreit -->
+<feat xlink:href="#line_361" value=" ou cele chape fet sun espleit ."/><!--  ou cele chape fet sun espleit . -->
+<feat xlink:href="#line_362" value=" e sachez ke lur commune esteit"/><!--  e sachez ke lur commune esteit -->
+<feat xlink:href="#line_363" value=" mut petite e lur vivere estreit :"/><!--  mut petite e lur vivere estreit : -->
+<feat xlink:href="#line_364" value=" pein e potage lur fu asez ,"/><!--  pein e potage lur fu asez , -->
+<feat xlink:href="#line_365" value=" kar char ne peissun n&apos; unt mangez"/><!--  kar char ne peissun n' unt mangez -->
+<feat xlink:href="#line_366" value=" s&apos; il ne fust par dimeine u autre jur"/><!--  s' il ne fust par dimeine u autre jur -->
+<feat xlink:href="#line_367" value=" solempne , u si ne fut pur l&apos; amur"/><!--  solempne , u si ne fut pur l' amur -->
+<feat xlink:href="#line_368" value=" de compaigniun u d&apos; especial ami"/><!--  de compaigniun u d' especial ami -->
+<feat xlink:href="#line_369" value=" ke pur eus fussent de mieuz garni ."/><!--  ke pur eus fussent de mieuz garni . -->
+<feat xlink:href="#line_370" value=" quant seint richard iceo cunta"/><!--  quant seint richard iceo cunta -->
+<feat xlink:href="#line_371" value=" e tres hetement le retreita ,"/><!--  e tres hetement le retreita , -->
+<feat xlink:href="#line_372" value=" si dit ou tut k&apos; unkes en sa vie"/><!--  si dit ou tut k' unkes en sa vie -->
+<feat xlink:href="#line_373" value=" n&apos; aveit plus dilitable vie ;"/><!--  n' aveit plus dilitable vie ; -->
+<feat xlink:href="#line_374" value=" en cele poverté par diligence"/><!--  en cele poverté par diligence -->
+<feat xlink:href="#line_375" value=" si espleita en sa science ,"/><!--  si espleita en sa science , -->
+<feat xlink:href="#line_376" value=" e par grace ke de deu aveit ,"/><!--  e par grace ke de deu aveit , -->
+<feat xlink:href="#line_377" value=" ke entre les parfiz grant sen parleit ,"/><!--  ke entre les parfiz grant sen parleit , -->
+<feat xlink:href="#line_378" value=" e plein de science des arz"/><!--  e plein de science des arz -->
+<feat xlink:href="#line_379" value=" fu , k&apos; out quilli de tute parz"/><!--  fu , k' out quilli de tute parz -->
+<feat xlink:href="#line_380" value=" a l&apos; escole , en quer ensement"/><!--  a l' escole , en quer ensement -->
+<feat xlink:href="#line_381" value=" de eloquence aveit ahurnement ,"/><!--  de eloquence aveit ahurnement , -->
+<feat xlink:href="#line_382" value=" issi de trestuz fu teneu"/><!--  issi de trestuz fu teneu -->
+<feat xlink:href="#line_383" value=" digne a mestre d&apos; estre receu ."/><!--  digne a mestre d' estre receu . -->
+<feat xlink:href="#line_384" value=" a son païs puis repeira ,"/><!--  a son païs puis repeira , -->
+<feat xlink:href="#line_385" value=" e a oxeneford tost s&apos; en ala ,"/><!--  e a oxeneford tost s' en ala , -->
+<feat xlink:href="#line_386" value=" e des arz tost aprés comença"/><!--  e des arz tost aprés comença -->
+<feat xlink:href="#line_387" value=" e ceo ke out cuilli avant seigna ;"/><!--  e ceo ke out cuilli avant seigna ; -->
+<feat xlink:href="#line_388" value=" ne vout pas ceo k&apos; il sout mucer ,"/><!--  ne vout pas ceo k' il sout mucer , -->
+<feat xlink:href="#line_389" value=" més en autres le vout profiter ,"/><!--  més en autres le vout profiter , -->
+<feat xlink:href="#line_390" value=" kar ne par lachesce ne par envie"/><!--  kar ne par lachesce ne par envie -->
+<feat xlink:href="#line_391" value=" ne vout pas celer sa clergie ,"/><!--  ne vout pas celer sa clergie , -->
+<feat xlink:href="#line_392" value=" car bien sout ke ne dut pas mucer"/><!--  car bien sout ke ne dut pas mucer -->
+<feat xlink:href="#line_393" value=" ceo que pout a autres profiter ,"/><!--  ceo que pout a autres profiter , -->
+<feat xlink:href="#line_394" value=" kar bien sout sulum le dit"/><!--  kar bien sout sulum le dit -->
+<feat xlink:href="#line_395" value=" salomon ke tieuz sunt maudit :"/><!--  salomon ke tieuz sunt maudit : -->
+<feat xlink:href="#line_396" value=" &quot; maudit celi que son furment"/><!--  " maudit celi que son furment -->
+<feat xlink:href="#line_397" value=" muce al pople e a la gent ! &quot;"/><!--  muce al pople e a la gent ! " -->
+<feat xlink:href="#line_398" value=" seint richard par le suverain rectur"/><!--  seint richard par le suverain rectur -->
+<feat xlink:href="#line_399" value=" en l&apos; escole esteit guvernur ,"/><!--  en l' escole esteit guvernur , -->
+<feat xlink:href="#line_400" value=" tuzjurz en suautime charité ,"/><!--  tuzjurz en suautime charité , -->
+<feat xlink:href="#line_401" value=" en ducur e humilité ."/><!--  en ducur e humilité . -->
+<feat xlink:href="#line_402" value=" par testimoine de bone gent ,"/><!--  par testimoine de bone gent , -->
+<feat xlink:href="#line_403" value=" e leaus e religius ensement ,"/><!--  e leaus e religius ensement , -->
+<feat xlink:href="#line_404" value=" tant cum richard fu a l&apos; escole ,"/><!--  tant cum richard fu a l' escole , -->
+<feat xlink:href="#line_405" value=" un mestre , k&apos; out non mestre raus cole ,"/><!--  un mestre , k' out non mestre raus cole , -->
+<feat xlink:href="#line_406" value=" la seint andré sout celebrer"/><!--  la seint andré sout celebrer -->
+<feat xlink:href="#line_407" value=" chescun an , e grant feste aver"/><!--  chescun an , e grant feste aver -->
+<feat xlink:href="#line_408" value=" u compaigniuns e amis soleit ,"/><!--  u compaigniuns e amis soleit , -->
+<feat xlink:href="#line_409" value=" entre lesqueus a une feste esteit"/><!--  entre lesqueus a une feste esteit -->
+<feat xlink:href="#line_410" value=" mestre richard , bien renumez"/><!--  mestre richard , bien renumez -->
+<feat xlink:href="#line_411" value=" de bone murs e de science asez ,"/><!--  de bone murs e de science asez , -->
+<feat xlink:href="#line_412" value=" lequel entre les meilliurs asis esteit ,"/><!--  lequel entre les meilliurs asis esteit , -->
+<feat xlink:href="#line_413" value=" cum a sa persone mieuz apendeit ."/><!--  cum a sa persone mieuz apendeit . -->
+<feat xlink:href="#line_414" value=" tost aprés ceo ke asis esteient"/><!--  tost aprés ceo ke asis esteient -->
+<feat xlink:href="#line_415" value=" au manger , en la sale entreient"/><!--  au manger , en la sale entreient -->
+<feat xlink:href="#line_416" value=" gent que diseient qu&apos; a la porte viigla"/><!--  gent que diseient qu' a la porte viigla -->
+<feat xlink:href="#line_417" value=" un tres beu bacheler ki demanda"/><!--  un tres beu bacheler ki demanda -->
+<feat xlink:href="#line_418" value=" si mestre richard leinz esteit"/><!--  si mestre richard leinz esteit -->
+<feat xlink:href="#line_419" value=" e ou les autres mestres i mangeit ,"/><!--  e ou les autres mestres i mangeit , -->
+<feat xlink:href="#line_420" value=" e dit ou tut hastivement"/><!--  e dit ou tut hastivement -->
+<feat xlink:href="#line_421" value=" volt ke la li fust en present ."/><!--  volt ke la li fust en present . -->
+<feat xlink:href="#line_422" value=" les autres li prierent ke il entrast ,"/><!--  les autres li prierent ke il entrast , -->
+<feat xlink:href="#line_423" value=" e ou le mestre leinz asez parlast"/><!--  e ou le mestre leinz asez parlast -->
+<feat xlink:href="#line_424" value=" e mangast leinz tut a leisir ;"/><!--  e mangast leinz tut a leisir ; -->
+<feat xlink:href="#line_425" value=" més ceo ne fust nient , més son desir"/><!--  més ceo ne fust nient , més son desir -->
+<feat xlink:href="#line_426" value=" tuzjurz fu , e pria suvent ,"/><!--  tuzjurz fu , e pria suvent , -->
+<feat xlink:href="#line_427" value=" ke venist a li hastivement ,"/><!--  ke venist a li hastivement , -->
+<feat xlink:href="#line_428" value=" quant mestre richard out oï tant ,"/><!--  quant mestre richard out oï tant , -->
+<feat xlink:href="#line_429" value=" s&apos; en leva tanttost meintenant"/><!--  s' en leva tanttost meintenant -->
+<feat xlink:href="#line_430" value=" e a la porte tantost s&apos; en ala ,"/><!--  e a la porte tantost s' en ala , -->
+<feat xlink:href="#line_431" value=" e regarda partut sa e la ,"/><!--  e regarda partut sa e la , -->
+<feat xlink:href="#line_432" value=" e demanda u cel bacheler fu"/><!--  e demanda u cel bacheler fu -->
+<feat xlink:href="#line_433" value=" que esteit a cheval la venu ."/><!--  que esteit a cheval la venu . -->
+<feat xlink:href="#line_434" value=" les autres diseient ke la fu ,"/><!--  les autres diseient ke la fu , -->
+<feat xlink:href="#line_435" value=" més ne saveient u fu devenu ."/><!--  més ne saveient u fu devenu . -->
+<feat xlink:href="#line_436" value=" veez de nostre sire la merci"/><!--  veez de nostre sire la merci -->
+<feat xlink:href="#line_437" value=" e la curteisie que est en li ,"/><!--  e la curteisie que est en li , -->
+<feat xlink:href="#line_438" value=" ke si sauve ices que les seens sunt ,"/><!--  ke si sauve ices que les seens sunt , -->
+<feat xlink:href="#line_439" value=" k&apos; en li bone esperance unt !"/><!--  k' en li bone esperance unt ! -->
+<feat xlink:href="#line_440" value=" car endementers ke querant va"/><!--  car endementers ke querant va -->
+<feat xlink:href="#line_441" value=" le bacheler çaendreit e la"/><!--  le bacheler çaendreit e la -->
+<feat xlink:href="#line_442" value=" un merveillus cas , si a deu ne plust ,"/><!--  un merveillus cas , si a deu ne plust , -->
+<feat xlink:href="#line_443" value=" e dolerus leinz avenu fust ,"/><!--  e dolerus leinz avenu fust , -->
+<feat xlink:href="#line_444" value=" dunt de la feste veraiement"/><!--  dunt de la feste veraiement -->
+<feat xlink:href="#line_445" value=" le hait ust turné a marement ;"/><!--  le hait ust turné a marement ; -->
+<feat xlink:href="#line_446" value=" més nostre sire pur sa duçur"/><!--  més nostre sire pur sa duçur -->
+<feat xlink:href="#line_447" value=" desturba del cas la dolur ,"/><!--  desturba del cas la dolur , -->
+<feat xlink:href="#line_448" value=" kar tant cum le mestre la hors esteit ,"/><!--  kar tant cum le mestre la hors esteit , -->
+<feat xlink:href="#line_449" value=" une grant piere del mur rueit"/><!--  une grant piere del mur rueit -->
+<feat xlink:href="#line_450" value=" e en la place meimes chaist"/><!--  e en la place meimes chaist -->
+<feat xlink:href="#line_451" value=" u mestre richard avant s&apos; asist ;"/><!--  u mestre richard avant s' asist ; -->
+<feat xlink:href="#line_452" value=" issi si il ust demuré ,"/><!--  issi si il ust demuré , -->
+<feat xlink:href="#line_453" value=" sa teste ust esté tut quassé ."/><!--  sa teste ust esté tut quassé . -->
+<feat xlink:href="#line_454" value=" més celi k&apos; en esperaunce mist"/><!--  més celi k' en esperaunce mist -->
+<feat xlink:href="#line_455" value=" les seens k&apos; en disant lur promist ,"/><!--  les seens k' en disant lur promist , -->
+<feat xlink:href="#line_456" value=" quant tel manere il en diseit"/><!--  quant tel manere il en diseit -->
+<feat xlink:href="#line_457" value=" ke peil de lur teste ne perireit ,"/><!--  ke peil de lur teste ne perireit , -->
+<feat xlink:href="#line_458" value=" le chief sun richard defendeit ,"/><!--  le chief sun richard defendeit , -->
+<feat xlink:href="#line_459" value=" k&apos; enuignt , cum out purveu , sereit"/><!--  k' enuignt , cum out purveu , sereit -->
+<feat xlink:href="#line_460" value=" a l&apos; evesche la digneté ;"/><!--  a l' evesche la digneté ; -->
+<feat xlink:href="#line_461" value=" del cas de la piere l&apos; ad sauvé ;"/><!--  del cas de la piere l' ad sauvé ; -->
+<feat xlink:href="#line_462" value=" dunt ne pas dite ne estre ne deit"/><!--  dunt ne pas dite ne estre ne deit -->
+<feat xlink:href="#line_463" value=" ke celi k&apos; en la forme appareit"/><!--  ke celi k' en la forme appareit -->
+<feat xlink:href="#line_464" value=" de un bacheler ke tant demandeit"/><!--  de un bacheler ke tant demandeit -->
+<feat xlink:href="#line_465" value=" mestre richard , ke son angle ne esteit ;"/><!--  mestre richard , ke son angle ne esteit ; -->
+<feat xlink:href="#line_466" value=" e fu del numbre , icest sachez ,"/><!--  e fu del numbre , icest sachez , -->
+<feat xlink:href="#line_467" value=" dunt david en sauter ad parlez ,"/><!--  dunt david en sauter ad parlez , -->
+<feat xlink:href="#line_468" value=" ke a dreiturel defense a deu promist ,"/><!--  ke a dreiturel defense a deu promist , -->
+<feat xlink:href="#line_469" value=" quant en promettant issi le dit :"/><!--  quant en promettant issi le dit : -->
+<feat xlink:href="#line_470" value=" &quot; a ses angeles demanda , ke bons sunt ,"/><!--  " a ses angeles demanda , ke bons sunt , -->
+<feat xlink:href="#line_471" value=" de tei ke partut te garderunt ;"/><!--  de tei ke partut te garderunt ; -->
+<feat xlink:href="#line_472" value=" en lur meins serrez portez"/><!--  en lur meins serrez portez -->
+<feat xlink:href="#line_473" value=" ke vostre pié pas ne blescerez . &quot;"/><!--  ke vostre pié pas ne blescerez . " -->
+<feat xlink:href="#line_474" value=" icil dunkes ke s&apos; en promet del pié"/><!--  icil dunkes ke s' en promet del pié -->
+<feat xlink:href="#line_475" value=" ke de piere ne serra pas blescié ,"/><!--  ke de piere ne serra pas blescié , -->
+<feat xlink:href="#line_476" value=" iceli le chief richard gardeit"/><!--  iceli le chief richard gardeit -->
+<feat xlink:href="#line_477" value=" ke de la piere pas blescé ne esteit ."/><!--  ke de la piere pas blescé ne esteit . -->
+<feat xlink:href="#line_478" value=" richard assiduel fu en seigniant"/><!--  richard assiduel fu en seigniant -->
+<feat xlink:href="#line_479" value=" e ausi fu en estudiant ;"/><!--  e ausi fu en estudiant ; -->
+<feat xlink:href="#line_480" value=" dunt par la doctrine k&apos; a deciples doneit ,"/><!--  dunt par la doctrine k' a deciples doneit , -->
+<feat xlink:href="#line_481" value=" grant merite de deu gaigneit ."/><!--  grant merite de deu gaigneit . -->
+<feat xlink:href="#line_482" value=" seint richard quant aveit asez"/><!--  seint richard quant aveit asez -->
+<feat xlink:href="#line_483" value=" en art travailliez e enseignez ,"/><!--  en art travailliez e enseignez , -->
+<feat xlink:href="#line_484" value=" par la disposiciun divine"/><!--  par la disposiciun divine -->
+<feat xlink:href="#line_485" value=" talent li vint en la peitrine ,"/><!--  talent li vint en la peitrine , -->
+<feat xlink:href="#line_486" value=" pur equité saver ou veritez ,"/><!--  pur equité saver ou veritez , -->
+<feat xlink:href="#line_487" value=" a boloine aler oïr decrez ."/><!--  a boloine aler oïr decrez . -->
+<feat xlink:href="#line_488" value=" puis aprés iloukes s&apos; en ala"/><!--  puis aprés iloukes s' en ala -->
+<feat xlink:href="#line_489" value=" e set anz u plus esteit la ."/><!--  e set anz u plus esteit la . -->
+<feat xlink:href="#line_490" value=" e en sa aprise fist tel espleit"/><!--  e en sa aprise fist tel espleit -->
+<feat xlink:href="#line_491" value=" que son mestre , que dunkes esteit"/><!--  que son mestre , que dunkes esteit -->
+<feat xlink:href="#line_492" value=" le meilliur de la vile teneu ,"/><!--  le meilliur de la vile teneu , -->
+<feat xlink:href="#line_493" value=" en maladie fu si reteneu"/><!--  en maladie fu si reteneu -->
+<feat xlink:href="#line_494" value=" ke ne pot les lesçuns continuer ."/><!--  ke ne pot les lesçuns continuer . -->
+<feat xlink:href="#line_495" value=" dunt li cuveint a ceo aïde aver"/><!--  dunt li cuveint a ceo aïde aver -->
+<feat xlink:href="#line_496" value=" e a ceo acumplir fu en pensant ,"/><!--  e a ceo acumplir fu en pensant , -->
+<feat xlink:href="#line_497" value=" més nul de ses escolers ne li plut tant"/><!--  més nul de ses escolers ne li plut tant -->
+<feat xlink:href="#line_498" value=" cum seint richard a ceo afere ,"/><!--  cum seint richard a ceo afere , -->
+<feat xlink:href="#line_499" value=" k&apos; enprist la bosoigne par son requere ."/><!--  k' enprist la bosoigne par son requere . -->
+<feat xlink:href="#line_500" value=" dunt demi an continueit"/><!--  dunt demi an continueit -->
+<feat xlink:href="#line_501" value=" les lescuns son mestre a grant espleit"/><!--  les lescuns son mestre a grant espleit -->
+<feat xlink:href="#line_502" value=" e sagement se aveit en lisant ,"/><!--  e sagement se aveit en lisant , -->
+<feat xlink:href="#line_503" value=" e queinte e humble fu en desputant ,"/><!--  e queinte e humble fu en desputant , -->
+<feat xlink:href="#line_504" value=" e en cunseil e en parole ensement ,"/><!--  e en cunseil e en parole ensement , -->
+<feat xlink:href="#line_505" value=" dunt fu preisé de tute gent"/><!--  dunt fu preisé de tute gent -->
+<feat xlink:href="#line_506" value=" ke de tute la universeté"/><!--  ke de tute la universeté -->
+<feat xlink:href="#line_507" value=" loenge e amur aveit gaigné ."/><!--  loenge e amur aveit gaigné . -->
+<feat xlink:href="#line_508" value=" e de son mestre tant grace aveit"/><!--  e de son mestre tant grace aveit -->
+<feat xlink:href="#line_509" value=" que sa fillie , ke son heir esteit ,"/><!--  que sa fillie , ke son heir esteit , -->
+<feat xlink:href="#line_510" value=" ou tutes ses terres pleinement"/><!--  ou tutes ses terres pleinement -->
+<feat xlink:href="#line_511" value=" e chasteus e vignies ensement"/><!--  e chasteus e vignies ensement -->
+<feat xlink:href="#line_512" value=" ou rentes e autres biens asez"/><!--  ou rentes e autres biens asez -->
+<feat xlink:href="#line_513" value=" li offrit , par la voluntez"/><!--  li offrit , par la voluntez -->
+<feat xlink:href="#line_514" value=" sa fillie e consentement ,"/><!--  sa fillie e consentement , -->
+<feat xlink:href="#line_515" value=" e ceo par grant desirement ."/><!--  e ceo par grant desirement . -->
+</featList>
+</paula>

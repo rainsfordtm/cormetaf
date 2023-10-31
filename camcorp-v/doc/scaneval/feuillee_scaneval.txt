@@ -1,0 +1,28 @@
+Rules applied: R1, R8
+Lines correct: 513 of 523
+Pass history:
+Tried rules R1; 507 lines correct.
+Tried rules R11; 420 lines correct.
+Tried rules R2; 419 lines correct.
+Tried rules R30; 423 lines correct.
+Tried rules R8; 429 lines correct.
+Tried rules R1, R11; 505 lines correct.
+Tried rules R1, R2; 504 lines correct.
+Tried rules R1, R30; 507 lines correct.
+Tried rules R1, R8; 513 lines correct.
+Tried rules R1, R8, R11; 509 lines correct.
+Tried rules R1, R8, R2; 510 lines correct.
+Tried rules R1, R8, R30; 513 lines correct.
+OPTIMIZED LINES
+32    45     maistres tout che ne vous vaut nient
+174    187     pour nient n est on mie a paris
+219    232     feis tu orine a enjun
+232    245     et pour che as le ventre enflé si
+233    246     biaus maistres consillié me aussi
+305    318     cestes ont chent diales ou cors
+382    395     laissié me aler car je sui rois
+472    485     pour nient tous les escris du plait
+
+BAD LINES
+76    89     or sont keu noir et pendic
+176    189     je n ai mais que .xxix. livres

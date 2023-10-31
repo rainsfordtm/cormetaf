@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.leger_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.leger.line.xml">
+<feat xlink:href="#line_0" value=" dominé deu devemps lauder ,"/><!--  dominé deu devemps lauder , -->
+<feat xlink:href="#line_1" value=" et a sos sancz honor porter ."/><!--  et a sos sancz honor porter . -->
+<feat xlink:href="#line_2" value=" in su&apos; amor cantomps dels sanz ,"/><!--  in su' amor cantomps dels sanz , -->
+<feat xlink:href="#line_3" value=" quæ por lui augrent granz aanz ;"/><!--  quæ por lui augrent granz aanz ; -->
+<feat xlink:href="#line_4" value=" et or est temps et si est biens"/><!--  et or est temps et si est biens -->
+<feat xlink:href="#line_5" value=" quæ nos cantumps de sant lethgier ."/><!--  quæ nos cantumps de sant lethgier . -->
+<feat xlink:href="#line_6" value=" primes didrai vos dels honors"/><!--  primes didrai vos dels honors -->
+<feat xlink:href="#line_7" value=" quæ il awret ab duos seniors ;"/><!--  quæ il awret ab duos seniors ; -->
+<feat xlink:href="#line_8" value=" aprés ditrai vos del áánz"/><!--  aprés ditrai vos del áánz -->
+<feat xlink:href="#line_9" value=" que li suos corps susting si granz ,"/><!--  que li suos corps susting si granz , -->
+<feat xlink:href="#line_10" value=" et ewruins , cil deu mentiz ,"/><!--  et ewruins , cil deu mentiz , -->
+<feat xlink:href="#line_11" value=" que lui a grand torment occist ."/><!--  que lui a grand torment occist . -->
+<feat xlink:href="#line_12" value=" quant infans fud , donc a ciels temps ,"/><!--  quant infans fud , donc a ciels temps , -->
+<feat xlink:href="#line_13" value=" al rei lo duistrent soi parent"/><!--  al rei lo duistrent soi parent -->
+<feat xlink:href="#line_14" value=" qui donc regnevét a ciel di :"/><!--  qui donc regnevét a ciel di : -->
+<feat xlink:href="#line_15" value=" cio fud lothiers , fils baldequi ."/><!--  cio fud lothiers , fils baldequi . -->
+<feat xlink:href="#line_16" value=" il l&apos; enamat , deu lo covit ,"/><!--  il l' enamat , deu lo covit , -->
+<feat xlink:href="#line_17" value=" rovat que letres apresist ."/><!--  rovat que letres apresist . -->
+<feat xlink:href="#line_18" value=" didun , l&apos; ebisque de peitieus ,"/><!--  didun , l' ebisque de peitieus , -->
+<feat xlink:href="#line_19" value=" lui ·l comandat ciel reis lothiers ."/><!--  lui ·l comandat ciel reis lothiers . -->
+<feat xlink:href="#line_20" value=" il lo reciut , tam ben en fist ,"/><!--  il lo reciut , tam ben en fist , -->
+<feat xlink:href="#line_21" value=" ab u magistre sempre ·l mist ,"/><!--  ab u magistre sempre ·l mist , -->
+<feat xlink:href="#line_22" value=" qui lo doist bien de ciel savier"/><!--  qui lo doist bien de ciel savier -->
+<feat xlink:href="#line_23" value=" don deu servir por bonä fied ."/><!--  don deu servir por bonä fied . -->
+<feat xlink:href="#line_24" value=" et cum il l&apos; aut doit de ciel&apos; art ,"/><!--  et cum il l' aut doit de ciel' art , -->
+<feat xlink:href="#line_25" value=" rende ·l qui lui lo comandat ."/><!--  rende ·l qui lui lo comandat . -->
+<feat xlink:href="#line_26" value=" il lo reciu , bien lo nodrit ;"/><!--  il lo reciu , bien lo nodrit ; -->
+<feat xlink:href="#line_27" value=" cio fud lonx tiemps ob se lo ·s ting ."/><!--  cio fud lonx tiemps ob se lo ·s ting . -->
+<feat xlink:href="#line_28" value=" deus l&apos; exaltat cui el servid ,"/><!--  deus l' exaltat cui el servid , -->
+<feat xlink:href="#line_29" value=" de sanct maxenz abbäs divint ."/><!--  de sanct maxenz abbäs divint . -->
+<feat xlink:href="#line_30" value=" ne fud nuls om del son juvent"/><!--  ne fud nuls om del son juvent -->
+<feat xlink:href="#line_31" value=" qui mieldre fust donc a ciels tiemps ;"/><!--  qui mieldre fust donc a ciels tiemps ; -->
+<feat xlink:href="#line_32" value=" perfectus fud in caritét ,"/><!--  perfectus fud in caritét , -->
+<feat xlink:href="#line_33" value=" fid aut il grand et veritiét ,"/><!--  fid aut il grand et veritiét , -->
+<feat xlink:href="#line_34" value=" et in raizons bels oth sermons ;"/><!--  et in raizons bels oth sermons ; -->
+<feat xlink:href="#line_35" value=" humilitiét oth per trestoz ."/><!--  humilitiét oth per trestoz . -->
+<feat xlink:href="#line_36" value=" cio sempre fud et ja si er :"/><!--  cio sempre fud et ja si er : -->
+<feat xlink:href="#line_37" value=" qui fai lo bien , laudaz en er ;"/><!--  qui fai lo bien , laudaz en er ; -->
+<feat xlink:href="#line_38" value=" et sanz letgiers sempre fud bons ,"/><!--  et sanz letgiers sempre fud bons , -->
+<feat xlink:href="#line_39" value=" sempre fist bien o que el pod ."/><!--  sempre fist bien o que el pod . -->
+<feat xlink:href="#line_40" value=" davant lo rei en fud laudiez ;"/><!--  davant lo rei en fud laudiez ; -->
+<feat xlink:href="#line_41" value=" cum il l&apos; audit , fu li ·n amét ."/><!--  cum il l' audit , fu li ·n amét . -->
+<feat xlink:href="#line_42" value=" a se ·l mandat et cio li dist :"/><!--  a se ·l mandat et cio li dist : -->
+<feat xlink:href="#line_43" value=" a curt fust , sempre lui servist ."/><!--  a curt fust , sempre lui servist . -->
+<feat xlink:href="#line_44" value=" il l&apos; exaltat e l&apos; onorat ,"/><!--  il l' exaltat e l' onorat , -->
+<feat xlink:href="#line_45" value=" sa gratia li perdonat ,"/><!--  sa gratia li perdonat , -->
+<feat xlink:href="#line_46" value=" et hunc tam bien que il en fist"/><!--  et hunc tam bien que il en fist -->
+<feat xlink:href="#line_47" value=" de hostedun evesque en fist ."/><!--  de hostedun evesque en fist . -->
+<feat xlink:href="#line_48" value=" quandius visquet ciel reis lothiers ,"/><!--  quandius visquet ciel reis lothiers , -->
+<feat xlink:href="#line_49" value=" bien honorez fud sancz lethgiers ."/><!--  bien honorez fud sancz lethgiers . -->
+<feat xlink:href="#line_50" value=" il se fud morz , damz i fud granz ."/><!--  il se fud morz , damz i fud granz . -->
+<feat xlink:href="#line_51" value=" cio controverent baron franc ,"/><!--  cio controverent baron franc , -->
+<feat xlink:href="#line_52" value=" por cio que fud de bonä fiét ,"/><!--  por cio que fud de bonä fiét , -->
+<feat xlink:href="#line_53" value=" de chielperig fesissent rei ."/><!--  de chielperig fesissent rei . -->
+<feat xlink:href="#line_54" value=" un compte i oth , pres en l&apos; estrit ;"/><!--  un compte i oth , pres en l' estrit ; -->
+<feat xlink:href="#line_55" value=" ciel eps num auret evrui ."/><!--  ciel eps num auret evrui . -->
+<feat xlink:href="#line_56" value=" ne vol reciwre chielperin ,"/><!--  ne vol reciwre chielperin , -->
+<feat xlink:href="#line_57" value=" mais lo seu fredre theoiri ."/><!--  mais lo seu fredre theoiri . -->
+<feat xlink:href="#line_58" value=" ne ·l condignet nuls de sos piers ,"/><!--  ne ·l condignet nuls de sos piers , -->
+<feat xlink:href="#line_59" value=" rei volunt fair&apos; estre so gred ."/><!--  rei volunt fair' estre so gred . -->
+<feat xlink:href="#line_60" value=" il lo presdrent tuit a conseil ,"/><!--  il lo presdrent tuit a conseil , -->
+<feat xlink:href="#line_61" value=" estre so grét en fisdren rei ;"/><!--  estre so grét en fisdren rei ; -->
+<feat xlink:href="#line_62" value=" et ewruins ot en gran dol ,"/><!--  et ewruins ot en gran dol , -->
+<feat xlink:href="#line_63" value=" porro que ventre no ·ls en poth ."/><!--  porro que ventre no ·ls en poth . -->
+<feat xlink:href="#line_64" value=" por ciel tiel duol rova ·s clergier ,"/><!--  por ciel tiel duol rova ·s clergier , -->
+<feat xlink:href="#line_65" value=" si s&apos; en intrat in un monstier ."/><!--  si s' en intrat in un monstier . -->
+<feat xlink:href="#line_66" value=" reis chielperics tam bien en fist ,"/><!--  reis chielperics tam bien en fist , -->
+<feat xlink:href="#line_67" value=" de sanct lethgier consilier fist ."/><!--  de sanct lethgier consilier fist . -->
+<feat xlink:href="#line_68" value=" quandius al suo consiel edrat ,"/><!--  quandius al suo consiel edrat , -->
+<feat xlink:href="#line_69" value=" inconträ deu ben si garda ,"/><!--  inconträ deu ben si garda , -->
+<feat xlink:href="#line_70" value=" lei consentit et observat ,"/><!--  lei consentit et observat , -->
+<feat xlink:href="#line_71" value=" et son regnét ben dominat ."/><!--  et son regnét ben dominat . -->
+<feat xlink:href="#line_72" value=" ja fud tels om , deu inimix ,"/><!--  ja fud tels om , deu inimix , -->
+<feat xlink:href="#line_73" value=" qui l&apos; encusat ab chielpering ."/><!--  qui l' encusat ab chielpering . -->
+<feat xlink:href="#line_74" value=" l&apos; irä fud granz cum de seinor ,"/><!--  l' irä fud granz cum de seinor , -->
+<feat xlink:href="#line_75" value=" et sancz lethgiers oc s&apos; ent pavor ;"/><!--  et sancz lethgiers oc s' ent pavor ; -->
+<feat xlink:href="#line_76" value=" ja lo sot bien , il lo celat ,"/><!--  ja lo sot bien , il lo celat , -->
+<feat xlink:href="#line_77" value=" a nuil omne no ·l demonstrat ."/><!--  a nuil omne no ·l demonstrat . -->
+<feat xlink:href="#line_78" value=" quant ciel&apos; iræ tels esdevant ,"/><!--  quant ciel' iræ tels esdevant , -->
+<feat xlink:href="#line_79" value=" paschas furent in eps cel di ;"/><!--  paschas furent in eps cel di ; -->
+<feat xlink:href="#line_80" value=" et sancz lethgiers fist son mistier ,"/><!--  et sancz lethgiers fist son mistier , -->
+<feat xlink:href="#line_81" value=" missæ cantat , fist lo mul ben ."/><!--  missæ cantat , fist lo mul ben . -->
+<feat xlink:href="#line_82" value=" pobl&apos; et lo rei communiét ,"/><!--  pobl' et lo rei communiét , -->
+<feat xlink:href="#line_83" value=" et sens cumgiét si s&apos; en ralét ."/><!--  et sens cumgiét si s' en ralét . -->
+<feat xlink:href="#line_84" value=" reis chielperics , cum il l&apos; audit ,"/><!--  reis chielperics , cum il l' audit , -->
+<feat xlink:href="#line_85" value=" presdra sos meis , a lui ·s tramist ;"/><!--  presdra sos meis , a lui ·s tramist ; -->
+<feat xlink:href="#line_86" value=" cio li mandat que revenist ,"/><!--  cio li mandat que revenist , -->
+<feat xlink:href="#line_87" value=" sa gratia por tot ouist ."/><!--  sa gratia por tot ouist . -->
+<feat xlink:href="#line_88" value=" et sancz lethgiers ne ·s soth mesfait ;"/><!--  et sancz lethgiers ne ·s soth mesfait ; -->
+<feat xlink:href="#line_89" value=" cum vit les meis , a lui ralat ."/><!--  cum vit les meis , a lui ralat . -->
+<feat xlink:href="#line_90" value=" il cio li dist et adunat :"/><!--  il cio li dist et adunat : -->
+<feat xlink:href="#line_91" value=" &quot; tos consiliers ja non estrai ."/><!--  " tos consiliers ja non estrai . -->
+<feat xlink:href="#line_92" value=" meu&apos; evesquét ne ·m lez tener"/><!--  meu' evesquét ne ·m lez tener -->
+<feat xlink:href="#line_93" value=" por te qui sempre ·m vols aver ."/><!--  por te qui sempre ·m vols aver . -->
+<feat xlink:href="#line_94" value=" en u monstier me laisse intrer ."/><!--  en u monstier me laisse intrer . -->
+<feat xlink:href="#line_95" value=" pos ci non posc , lai vol ester &quot; ."/><!--  pos ci non posc , lai vol ester " . -->
+<feat xlink:href="#line_96" value=" enviz lo fist , non voluntiers ,"/><!--  enviz lo fist , non voluntiers , -->
+<feat xlink:href="#line_97" value=" laisse l&apos; intrar in u monstier ."/><!--  laisse l' intrar in u monstier . -->
+<feat xlink:href="#line_98" value=" cio fud lusos ut il intrat ;"/><!--  cio fud lusos ut il intrat ; -->
+<feat xlink:href="#line_99" value=" clerj&apos; ewrui illo trovat ."/><!--  clerj' ewrui illo trovat . -->
+<feat xlink:href="#line_100" value=" cil ewruins molt li vol miel ,"/><!--  cil ewruins molt li vol miel , -->
+<feat xlink:href="#line_101" value=" toth per enveia , non per el ."/><!--  toth per enveia , non per el . -->
+<feat xlink:href="#line_102" value=" et sancz lethgiers fist so mistier ,"/><!--  et sancz lethgiers fist so mistier , -->
+<feat xlink:href="#line_103" value=" ewrui prist a castier :"/><!--  ewrui prist a castier : -->
+<feat xlink:href="#line_104" value=" ciel&apos; irä grand et ciel corropt ,"/><!--  ciel' irä grand et ciel corropt , -->
+<feat xlink:href="#line_105" value=" cio li preia , laissas lo toth ."/><!--  cio li preia , laissas lo toth . -->
+<feat xlink:href="#line_106" value=" fus li por deu , ne ·l fus por lui ."/><!--  fus li por deu , ne ·l fus por lui . -->
+<feat xlink:href="#line_107" value=" cio li preia , paias s&apos; ab lui ."/><!--  cio li preia , paias s' ab lui . -->
+<feat xlink:href="#line_108" value=" et ewruins fist finctä pais ;"/><!--  et ewruins fist finctä pais ; -->
+<feat xlink:href="#line_109" value=" cio ·l demonstrat , que si paias ."/><!--  cio ·l demonstrat , que si paias . -->
+<feat xlink:href="#line_110" value=" quandius in ciel monstier instud ,"/><!--  quandius in ciel monstier instud , -->
+<feat xlink:href="#line_111" value=" cio ·l demonstrat , amix li fust ."/><!--  cio ·l demonstrat , amix li fust . -->
+<feat xlink:href="#line_112" value=" mais en avant vos cio aurez ,"/><!--  mais en avant vos cio aurez , -->
+<feat xlink:href="#line_113" value=" cum ill edrat por mala fid ."/><!--  cum ill edrat por mala fid . -->
+<feat xlink:href="#line_114" value=" rex chielperings il se fud morz ;"/><!--  rex chielperings il se fud morz ; -->
+<feat xlink:href="#line_115" value=" por lo regnét lo sowrent tost ."/><!--  por lo regnét lo sowrent tost . -->
+<feat xlink:href="#line_116" value=" vindrent parent e lor amic ,"/><!--  vindrent parent e lor amic , -->
+<feat xlink:href="#line_117" value=" li sanct lethgier , li ewrui ."/><!--  li sanct lethgier , li ewrui . -->
+<feat xlink:href="#line_118" value=" cio confortent ad ambes duos ,"/><!--  cio confortent ad ambes duos , -->
+<feat xlink:href="#line_119" value=" que s&apos; ent ralgent in lor honors ."/><!--  que s' ent ralgent in lor honors . -->
+<feat xlink:href="#line_120" value=" et sancz lethgiers den fistdra bien ,"/><!--  et sancz lethgiers den fistdra bien , -->
+<feat xlink:href="#line_121" value=" quæ s&apos; en ralat en s&apos; evesquét ."/><!--  quæ s' en ralat en s' evesquét . -->
+<feat xlink:href="#line_122" value=" et ewruins den fisdra miel ,"/><!--  et ewruins den fisdra miel , -->
+<feat xlink:href="#line_123" value=" quæ donc deveng anatemaz ."/><!--  quæ donc deveng anatemaz . -->
+<feat xlink:href="#line_124" value=" son quev que il a coronat ,"/><!--  son quev que il a coronat , -->
+<feat xlink:href="#line_125" value=" toth lo laisera recimer ."/><!--  toth lo laisera recimer . -->
+<feat xlink:href="#line_126" value=" dominé deu il lo laissat ,"/><!--  dominé deu il lo laissat , -->
+<feat xlink:href="#line_127" value=" et a diable ·s comandat ."/><!--  et a diable ·s comandat . -->
+<feat xlink:href="#line_128" value=" qui donc fud miels et a lui vint ,"/><!--  qui donc fud miels et a lui vint , -->
+<feat xlink:href="#line_129" value=" il voluntiers semper reciut ."/><!--  il voluntiers semper reciut . -->
+<feat xlink:href="#line_130" value=" cum fulc en aut grand adunat ,"/><!--  cum fulc en aut grand adunat , -->
+<feat xlink:href="#line_131" value=" lo regne prest a devastar ."/><!--  lo regne prest a devastar . -->
+<feat xlink:href="#line_132" value=" a foc , a flammä vai ardant ,"/><!--  a foc , a flammä vai ardant , -->
+<feat xlink:href="#line_133" value=" et a gladies percutan ."/><!--  et a gladies percutan . -->
+<feat xlink:href="#line_134" value=" por quant il pot , tan fai de miel ;"/><!--  por quant il pot , tan fai de miel ; -->
+<feat xlink:href="#line_135" value=" por deu ne ·l volt il observer ."/><!--  por deu ne ·l volt il observer . -->
+<feat xlink:href="#line_136" value=" ciel ne fud nez de medre vius"/><!--  ciel ne fud nez de medre vius -->
+<feat xlink:href="#line_137" value=" qui tal exercite vidist ."/><!--  qui tal exercite vidist . -->
+<feat xlink:href="#line_138" value=" ad ostedun , a cillä ciu ,"/><!--  ad ostedun , a cillä ciu , -->
+<feat xlink:href="#line_139" value=" dom sanct lethgier vai asalir ."/><!--  dom sanct lethgier vai asalir . -->
+<feat xlink:href="#line_140" value=" ne pot intrer en la ciutat ;"/><!--  ne pot intrer en la ciutat ; -->
+<feat xlink:href="#line_141" value=" defors l&apos; asist , fist i gran miel ."/><!--  defors l' asist , fist i gran miel . -->
+<feat xlink:href="#line_142" value=" et sancz lethgiers mul en fud trists ,"/><!--  et sancz lethgiers mul en fud trists , -->
+<feat xlink:href="#line_143" value=" por ciel tiel miel quæ defors vid ."/><!--  por ciel tiel miel quæ defors vid . -->
+<feat xlink:href="#line_144" value=" sos clerjés pres il revestiz ,"/><!--  sos clerjés pres il revestiz , -->
+<feat xlink:href="#line_145" value=" et ob ses croix fors s&apos; en exit ."/><!--  et ob ses croix fors s' en exit . -->
+<feat xlink:href="#line_146" value=" porro ·n exit , vol li preier"/><!--  porro ·n exit , vol li preier -->
+<feat xlink:href="#line_147" value=" quæ tot ciel miel laisses por deu ."/><!--  quæ tot ciel miel laisses por deu . -->
+<feat xlink:href="#line_148" value=" ciel ewruins , qual horä ·l vid ,"/><!--  ciel ewruins , qual horä ·l vid , -->
+<feat xlink:href="#line_149" value=" penre ·l rovat , lïer lo fist ."/><!--  penre ·l rovat , lïer lo fist . -->
+<feat xlink:href="#line_150" value=" hor en aurez las poenäs granz ,"/><!--  hor en aurez las poenäs granz , -->
+<feat xlink:href="#line_151" value=" quæ il en fisdra , li tiranz ."/><!--  quæ il en fisdra , li tiranz . -->
+<feat xlink:href="#line_152" value=" li perfides tam fud cruels ,"/><!--  li perfides tam fud cruels , -->
+<feat xlink:href="#line_153" value=" lis ols del cap li fai crever ."/><!--  lis ols del cap li fai crever . -->
+<feat xlink:href="#line_154" value=" cum si l&apos; aut fait , mis l&apos; en reclus ;"/><!--  cum si l' aut fait , mis l' en reclus ; -->
+<feat xlink:href="#line_155" value=" ne soth nuls om qu&apos; es devenguz ."/><!--  ne soth nuls om qu' es devenguz . -->
+<feat xlink:href="#line_156" value=" am las lawräs li fai talier"/><!--  am las lawräs li fai talier -->
+<feat xlink:href="#line_157" value=" hanc la linguä quæ aut in quev ."/><!--  hanc la linguä quæ aut in quev . -->
+<feat xlink:href="#line_158" value=" cum si l&apos; aut toth vituperét ,"/><!--  cum si l' aut toth vituperét , -->
+<feat xlink:href="#line_159" value=" dist ewruins , qui tan fud miels :"/><!--  dist ewruins , qui tan fud miels : -->
+<feat xlink:href="#line_160" value=" &quot; hor a perdud don deu parlier ;"/><!--  " hor a perdud don deu parlier ; -->
+<feat xlink:href="#line_161" value=" ja non podra mais deu laudier &quot; ."/><!--  ja non podra mais deu laudier " . -->
+<feat xlink:href="#line_162" value=" a terrä joth , mult fo afflicz ;"/><!--  a terrä joth , mult fo afflicz ; -->
+<feat xlink:href="#line_163" value=" non oct ob se cui en calsist ."/><!--  non oct ob se cui en calsist . -->
+<feat xlink:href="#line_164" value=" super lis piez ne pod ester ,"/><!--  super lis piez ne pod ester , -->
+<feat xlink:href="#line_165" value=" que toz los at il condemnets ."/><!--  que toz los at il condemnets . -->
+<feat xlink:href="#line_166" value=" or a perdud don deu parlier ;"/><!--  or a perdud don deu parlier ; -->
+<feat xlink:href="#line_167" value=" ja non podra mais deu laudier ."/><!--  ja non podra mais deu laudier . -->
+<feat xlink:href="#line_168" value=" sed il non ad lingu&apos; a parlier ,"/><!--  sed il non ad lingu' a parlier , -->
+<feat xlink:href="#line_169" value=" deus exaudis lis sos pensaez ;"/><!--  deus exaudis lis sos pensaez ; -->
+<feat xlink:href="#line_170" value=" et si el non ad ols carnels ,"/><!--  et si el non ad ols carnels , -->
+<feat xlink:href="#line_171" value=" en cor los ad espiritiels ;"/><!--  en cor los ad espiritiels ; -->
+<feat xlink:href="#line_172" value=" et si en corps a grand torment ,"/><!--  et si en corps a grand torment , -->
+<feat xlink:href="#line_173" value=" l&apos; anima ·n awra consolament ."/><!--  l' anima ·n awra consolament . -->
+<feat xlink:href="#line_174" value=" guenes oth num cui ·l comandat ;"/><!--  guenes oth num cui ·l comandat ; -->
+<feat xlink:href="#line_175" value=" la jus en cartres l&apos; en menat ;"/><!--  la jus en cartres l' en menat ; -->
+<feat xlink:href="#line_176" value=" et en fescant , in ciel monstier ,"/><!--  et en fescant , in ciel monstier , -->
+<feat xlink:href="#line_177" value=" illo reclusdrent sanct lethgier ."/><!--  illo reclusdrent sanct lethgier . -->
+<feat xlink:href="#line_178" value=" dominé deus in ciel flaiel"/><!--  dominé deus in ciel flaiel -->
+<feat xlink:href="#line_179" value=" i visitét lethgier son serw ."/><!--  i visitét lethgier son serw . -->
+<feat xlink:href="#line_180" value=" la labiä li ad restaurat ,"/><!--  la labiä li ad restaurat , -->
+<feat xlink:href="#line_181" value=" si cum desanz deu pres laudier ;"/><!--  si cum desanz deu pres laudier ; -->
+<feat xlink:href="#line_182" value=" et hanc en aut merci si grand ,"/><!--  et hanc en aut merci si grand , -->
+<feat xlink:href="#line_183" value=" parlier lo fist si cum desanz ."/><!--  parlier lo fist si cum desanz . -->
+<feat xlink:href="#line_184" value=" donc pres lethgiers a preier ,"/><!--  donc pres lethgiers a preier , -->
+<feat xlink:href="#line_185" value=" poble ben fist credre in deu ."/><!--  poble ben fist credre in deu . -->
+<feat xlink:href="#line_186" value=" et ewruis , cum il l&apos; audit ,"/><!--  et ewruis , cum il l' audit , -->
+<feat xlink:href="#line_187" value=" credre ne ·l pot antro que ·l vid"/><!--  credre ne ·l pot antro que ·l vid -->
+<feat xlink:href="#line_188" value=" cum il lo vid , fud corroptios ;"/><!--  cum il lo vid , fud corroptios ; -->
+<feat xlink:href="#line_189" value=" donc oct ab lui dures raizons ."/><!--  donc oct ab lui dures raizons . -->
+<feat xlink:href="#line_190" value=" e ·l cors exastra al tirant ,"/><!--  e ·l cors exastra al tirant , -->
+<feat xlink:href="#line_191" value=" peis li promest ad en avant ."/><!--  peis li promest ad en avant . -->
+<feat xlink:href="#line_192" value=" a grand furor , a gran flaiel ,"/><!--  a grand furor , a gran flaiel , -->
+<feat xlink:href="#line_193" value=" si ·l recomanda laudebert ."/><!--  si ·l recomanda laudebert . -->
+<feat xlink:href="#line_194" value=" cio li rova , et noit et di"/><!--  cio li rova , et noit et di -->
+<feat xlink:href="#line_195" value=" miel li fesist dontre qu&apos; el viu ."/><!--  miel li fesist dontre qu' el viu . -->
+<feat xlink:href="#line_196" value=" ciel laudeberz fura buons om ,"/><!--  ciel laudeberz fura buons om , -->
+<feat xlink:href="#line_197" value=" et sanct lethgier duis a son dom ."/><!--  et sanct lethgier duis a son dom . -->
+<feat xlink:href="#line_198" value=" il li vol faire mult amét ;"/><!--  il li vol faire mult amét ; -->
+<feat xlink:href="#line_199" value=" bewre li rova aporter ."/><!--  bewre li rova aporter . -->
+<feat xlink:href="#line_200" value=" garda , si vid grand claritét ;"/><!--  garda , si vid grand claritét ; -->
+<feat xlink:href="#line_201" value=" de cel vindre , fud de par deu ."/><!--  de cel vindre , fud de par deu . -->
+<feat xlink:href="#line_202" value=" si cum roors in cel es granz ,"/><!--  si cum roors in cel es granz , -->
+<feat xlink:href="#line_203" value=" et si cum flammes clar ardanz ."/><!--  et si cum flammes clar ardanz . -->
+<feat xlink:href="#line_204" value=" cil laudeberz , qual horä ·l vid ,"/><!--  cil laudeberz , qual horä ·l vid , -->
+<feat xlink:href="#line_205" value=" torne s&apos; als altres , si lor dist :"/><!--  torne s' als altres , si lor dist : -->
+<feat xlink:href="#line_206" value=" &quot; ciest omne tiel mult aima deus ,"/><!--  " ciest omne tiel mult aima deus , -->
+<feat xlink:href="#line_207" value=" por cui tels causä vin de ciel &quot; ."/><!--  por cui tels causä vin de ciel " . -->
+<feat xlink:href="#line_208" value=" por ciels signes que vidrent tels ,"/><!--  por ciels signes que vidrent tels , -->
+<feat xlink:href="#line_209" value=" deu presdrent mult a conlauder ."/><!--  deu presdrent mult a conlauder . -->
+<feat xlink:href="#line_210" value=" tuit li omne de ciel païs ,"/><!--  tuit li omne de ciel païs , -->
+<feat xlink:href="#line_211" value=" trestuit apresdrent a venir ;"/><!--  trestuit apresdrent a venir ; -->
+<feat xlink:href="#line_212" value=" et sancz lethgiers lis prediat ,"/><!--  et sancz lethgiers lis prediat , -->
+<feat xlink:href="#line_213" value=" dominé deu il les lucrat ."/><!--  dominé deu il les lucrat . -->
+<feat xlink:href="#line_214" value=" rendet ciel fruit espiritiel"/><!--  rendet ciel fruit espiritiel -->
+<feat xlink:href="#line_215" value=" quæ deus li auret perdonat ."/><!--  quæ deus li auret perdonat . -->
+<feat xlink:href="#line_216" value=" et ewruins , cum il l&apos; audit ,"/><!--  et ewruins , cum il l' audit , -->
+<feat xlink:href="#line_217" value=" credre ne ·l pot antro que ·l vid ."/><!--  credre ne ·l pot antro que ·l vid . -->
+<feat xlink:href="#line_218" value=" cil biens qu&apos; el fist , cil li pesat ;"/><!--  cil biens qu' el fist , cil li pesat ; -->
+<feat xlink:href="#line_219" value=" occidere lo commandat ."/><!--  occidere lo commandat . -->
+<feat xlink:href="#line_220" value=" quatr&apos; omnes i tramist armez"/><!--  quatr' omnes i tramist armez -->
+<feat xlink:href="#line_221" value=" que lui alessunt decoller ."/><!--  que lui alessunt decoller . -->
+<feat xlink:href="#line_222" value=" li tres vindrent a sanct lethgier ,"/><!--  li tres vindrent a sanct lethgier , -->
+<feat xlink:href="#line_223" value=" jus se giterent a sos pez ."/><!--  jus se giterent a sos pez . -->
+<feat xlink:href="#line_224" value=" de lor pechietz que aurent faiz"/><!--  de lor pechietz que aurent faiz -->
+<feat xlink:href="#line_225" value=" il los absols et perdonét ."/><!--  il los absols et perdonét . -->
+<feat xlink:href="#line_226" value=" lo quarz , uns fel , nom a vadart ,"/><!--  lo quarz , uns fel , nom a vadart , -->
+<feat xlink:href="#line_227" value=" ab un inspieth lo decollat ."/><!--  ab un inspieth lo decollat . -->
+<feat xlink:href="#line_228" value=" et cum il l&apos; aud tollut lo quev ,"/><!--  et cum il l' aud tollut lo quev , -->
+<feat xlink:href="#line_229" value=" lo corps estera sobre ·ls piez ."/><!--  lo corps estera sobre ·ls piez . -->
+<feat xlink:href="#line_230" value=" cio fud lonx dis que non cadit ;"/><!--  cio fud lonx dis que non cadit ; -->
+<feat xlink:href="#line_231" value=" lai s&apos; aprosmat que lui firid ."/><!--  lai s' aprosmat que lui firid . -->
+<feat xlink:href="#line_232" value=" entro ·l talia los pez dejus ,"/><!--  entro ·l talia los pez dejus , -->
+<feat xlink:href="#line_233" value=" lo corps estera sempre sus ."/><!--  lo corps estera sempre sus . -->
+<feat xlink:href="#line_234" value=" del corps asaz l&apos; avez audit ,"/><!--  del corps asaz l' avez audit , -->
+<feat xlink:href="#line_235" value=" et dels flaiels que granz sustint ."/><!--  et dels flaiels que granz sustint . -->
+<feat xlink:href="#line_236" value=" l&apos; anima reciut dominé deus ;"/><!--  l' anima reciut dominé deus ; -->
+<feat xlink:href="#line_237" value=" als altres sanz en vai en cel ."/><!--  als altres sanz en vai en cel . -->
+<feat xlink:href="#line_238" value=" il nos aiud ob ciel senior"/><!--  il nos aiud ob ciel senior -->
+<feat xlink:href="#line_239" value=" por cui sustinc tels passions !"/><!--  por cui sustinc tels passions ! -->
+</featList>
+</paula>

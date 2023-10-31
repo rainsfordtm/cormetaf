@@ -1,0 +1,295 @@
+Rules applied: R1, R2
+Lines correct: 228 of 504
+Pass history:
+Tried rules R1; 227 lines correct.
+Tried rules R11; 205 lines correct.
+Tried rules R2; 210 lines correct.
+Tried rules R30; 209 lines correct.
+Tried rules R8; 209 lines correct.
+Tried rules R1, R11; 223 lines correct.
+Tried rules R1, R2; 228 lines correct.
+Tried rules R1, R30; 227 lines correct.
+Tried rules R1, R8; 227 lines correct.
+Tried rules R1, R2, R11; 224 lines correct.
+Tried rules R1, R2, R30; 228 lines correct.
+Tried rules R1, R2, R8; 228 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES
+1    2     ke femme e enfaunz avoit ;
+2    3     de sun cors esteit tres pruz ,
+4    5     sa femme estoit bone dame ,
+5    6     de vilainie n' out unkes blame ;
+6    7     seint esglise mult amoit ,
+8    9     par matin i voleit estre
+9    10     bien sovent ainz ke li prestre .
+11    12     a nul ne vont si bien noun .
+14    15     ke fu la soer sun seingnur .
+20    21     de user sun tens en juer
+22    23     sovent haunta les esturs :
+23    24     ilek receut les honurs ,
+30    31     assez aveient terres e feuz .
+34    35     bele fud la dammoisele ,
+35    36     més la dame fud cent fez plus bele :
+36    37     de beauté per ne avoit .
+39    40     de lur beauté sermoner ?
+41    42     més le meins remist a la dammoisele .
+42    43     en cele vile , si com sout estre ,
+43    44     estout un vicaire , un prestre
+45    46     ne fud glotun ne lechere ,
+47    48     e bien sustint le servise ;
+48    49     clerks amoit ke bien chanteient
+51    52     en li n' i aveit quei reprover .
+52    53     cil produm un clerk avoit ,
+54    55     bien savoit chaunter e lire
+57    58     bien out en li overé nature .
+59    60     en li n' avoit quei reprendre :
+60    61     apert avoit la viere ,
+62    63     la gent le amoient pur sa bounté ,
+63    64     pur sa pruesce , pur sa beauté .
+64    65     le vicaire mult le ama ,
+65    66     kar sages e umbles le trova .
+66    67     si estoit li clerk gentil :
+67    68     ne fud paisant ne neif vil ,
+68    69     fiz de chivaler estoit .
+70    71     a la clergie se vout tenir :
+72    73     quei vuus irrai jeo plus enloingnant ?
+73    74     li clerk fud par amé taunt
+74    75     de riches , de poveres ensement ,
+75    76     des homes , de femmes , de tote gent ,
+77    78     ne vodraient k' il eust enui .
+80    81     al mouster vint tut premer ,
+81    82     overi l' us e lessa entrer
+82    83     la dame ke par matin leveit
+85    86     que ne voleit estre loinz de li
+86    87     tant passa li tens avant
+87    88     ke li clerk devint amant :
+90    91     cele ne li ama més com autre gent ,
+91    92     més il la ama tut autrement .
+94    95     e dotout mult le seingnur ,
+95    96     kar s' il suht k' il eust fait tel deshonur
+96    97     ke de sa femme eust fet folie ,
+97    98     tost i perdreit la vie ;
+99    100     koy se tint , e fist ke sage .
+100    101     la dame rien ne savoit
+101    102     ke li clerk tant l' amoit ;
+103    104     deu ama e bone vie :
+106    107     la chamberere le clerk ama
+107    108     tant ke pres se aragia .
+108    109     pur hounte ne pout descoverir
+111    112     e ke de amur la priast .
+114    115     la dame del clerk ne sout novele ,
+117    118     la dame n' i miht unc sa pensé :
+123    124     que ele entra en tel matire
+125    126     por poi ke sun sen ne rechaungat ;
+126    127     de fin aunguisse est enmaladi :
+127    128     poi manga e meins dormi ,
+128    129     perdi force e colur .
+129    130     le clerk ne savoit de cel amur ,
+132    133     kar n' aveit cure de tel amur :
+136    137     contre lit ala coucher ,
+138    139     li proveire , sun seingnur ,
+139    140     pur le clerk fud en tristur .
+140    141     mult le pleint , kar bien le amat ;
+142    143     més por nient le feseit :
+144    145     kar ne pout por maladie .
+147    148     mult le pleindrent durement ;
+148    149     li chivaler e la dame auxi
+150    151     la dammoisele , kant ceo savoit ,
+151    152     se porpensa mult estroit
+153    154     si de rien li peust conforter .
+157    158     ke vus soliez tant preiser ,
+158    159     le beau clerk , li bien chauntant ?
+159    160     tant est malades ne peut avant ,
+160    161     il ne atent més ke la mort :
+161    162     qui faire li peust nul confort ,
+162    163     il freit aumonne e honur .
+163    164     la dame respondi par douçur
+165    166     si il nule rien voleit
+166    167     de chose ke ele eust en sa baillie .
+167    168     la dame la dammoisele prie
+168    169     ke ele voit al clerk parler ,
+169    170     de sun estre demander .
+173    174     une partie de sun desir .
+175    176     al plus tost k' ele pout se est hastee ;
+176    177     vient al clerk , si le salue .
+177    178     le clerk aveit truble la veue ,
+181    182     de par sa dame si le salua .
+183    184     il se senti tut leger :
+184    185     sus sailli com tut fust sain .
+187    188     sur le lit lez li s' asiht ,
+190    191     respondi e dist ke bien le freit ,
+191    192     si sa dame le voleit ;
+193    194     a cel eure ne dist plus .
+194    195     la dammoisele , ki amur destreint ,
+196    197     ne se pout plus detenir ;
+197    198     tost li covenist a descoverir
+198    199     son corage e son talant :
+199    200     com le aveit amé forment ,
+202    203     unc més n' avoit a nul jor
+203    204     vers autre si grant amur .
+204    205     més le clerk pur ceo li mercia ,
+208    209     des ore ne peut li clerk celer
+210    211     a la pucele se descoveri
+211    212     pur quei e coment enmaladi ,
+213    214     si de la dame l' amur ne aveit .
+215    216     kant out celi amee ,
+217    218     adonc forment se duillat .
+218    219     al clerk ne fist unc semblant
+219    220     de sa dolur tant ne kant :
+221    222     més al quor out duel e ire .
+222    223     li clerk la dammoisele requist
+223    224     ke un message li feist
+225    226     tant tost , pur quei e coment
+227    228     e si il ne eust de li le amur ,
+231    232     triste e murne est retornee .
+232    233     ore saveit bien de veir
+233    234     ke failli avoit de sun espeir ;
+234    235     més tant fist ele de corteisie
+235    236     ke son message ne cela mie :
+236    237     dist a la dame le grant dolur
+238    239     requist k' ele eust de li pité ,
+239    240     alast le veer pur l' amur dé .
+240    241     la dame dist k' ele ne voleit ,
+241    242     kar de li cure ne avoit ,
+244    245     pur le clerk pleide e crie ,
+245    246     tant ke sa dame se humelie
+247    248     e de la folie le chastiereit .
+248    249     la dame afublieit un mantel
+249    250     d' escarlette bon e beel ,
+250    251     puis dist a sa chamberere :
+251    252     " dammoisele , par vostre priere
+252    253     prendrai ore ceo veage ,
+255    256     unc més en trestut mon age
+258    259     - dame , ceo dist la meschine ,
+260    261     ke hom deit le malade visiter :
+262    263     la dame s' en va , ke tant fu bele ;
+263    264     od li va sa dammoisele .
+265    266     vienent al lit la ou il giseit .
+267    268     de joie k' il out colur chaunga ,
+269    270     " li sire qui de la virgine nasqui
+270    271     e deingna pur nus morir
+272    273     mult me avez aleggé de ma paine :
+275    276     " de vostre maladie mult me peise :
+276    277     deu , pur sa sainte pieté ,
+277    278     vous en doint bone saunté !
+279    280     de ma saunté sai tres bien :
+280    281     ja mes saunté ne averai ,
+284    285     ne me mesfeites unkes de rien
+286    287     de voz pecchez vus face merci
+287    288     deu meimes , kar ceo est en li .
+289    290     bien sai ke de tut le mund
+290    291     est deu juges e seignur ,
+293    294     - vous ne dites pas reisun ,
+295    296     - nun faz , par sainte marie !
+296    297     dist li clerk , dirrai por quei :
+299    300     ja sunt terminé mes jors ,
+300    301     bien sai ne puis vivre avant .
+301    302     ma vie , ma mort a vus comant :
+304    305     - coment ceo , dist la dame , peut estre ?
+305    306     ja ne sui phisiciene ne prestre
+308    309     - allas , dist li clerk , ore sui mort !
+309    310     certes , ma dame , vus avez tort !
+310    311     ne soliez bien deu amer ?
+311    312     e volez ore un chaitif tuer !
+312    313     si jeo meur pur vostre amur ,
+314    315     ke il prenge de vus vengance .
+315    316     kant faire me poez aleggance ,
+318    319     le main mal deit hom eslire
+319    320     pur eschure cel ke est pire . "
+322    323     d' autre part li sembla fort
+323    324     si ele fust encheson de sa mort :
+326    327     e ke ele li dorreit volentiers
+327    328     de ses dras , de ses deners
+330    331     ceo ne avendreit a nul jor
+331    332     ke tant mespreist vers sun seingnur .
+334    335     un petit le ad sus levé ,
+336    337     puis rechei com homme mort .
+339    340     ou purrai jeo lasse devenir ? "
+340    341     par sei iugie e quide ,
+341    342     si il meurt , que ele seit homicide ;
+342    343     meuz li vaut fere un pecché
+343    344     ke seit encontre sa volenté ,
+344    345     ke apertement e de gré suffrir
+346    347     de bon oyl le ad aguardé :
+348    349     e tant le aveit veu bel en avant !
+350    351     la dame sa chamberere apelle :
+351    352     " entendez ça , soer bele !
+352    353     de cet homme ai grant pité :
+355    356     e si il morsist , ceo peisereit mei .
+357    358     dist la pucele , més el penseit :
+358    359     de la dame aveit envie ,
+359    360     com cele que quidout estre amie
+360    361     e del clerk quidout avoir ami .
+361    362     le clerk aitant ses oils overi ,
+362    363     vit la dame ke ele fud pensive ;
+363    364     en sun corage pense e estrive :
+365    366     " ma dame , a deu vus comand :
+366    367     kant vus ne pensez de ma saunté ,
+368    369     dunc dist la dame : " lessez ester :
+369    370     si jeo vuus voleie m' amur granter ,
+370    371     ne mie pur delit que jeo eie
+371    372     més pur tant ke jeo vodreie
+374    375     quant vuus n' avez le poer
+376    377     més si jeo tant vuus amasse
+377    378     ke jeo m' amur vus grantasse ,
+378    379     ke vuus jussez en mun lit
+379    380     e feissez de moi vostre delit ,
+381    382     ke faire peussez le juy d' amur
+382    383     e servir une dame a talent ? "
+387    388     assez serreit de vigour ,
+389    390     fort e vigrus li freit .
+390    391     la dame li dist k' il attendreit
+395    396     merveillement se esioÿ
+401    402     le oure e quel abit il avereit .
+402    403     la dammoisele tut escouta ,
+403    404     a ki cest covenant mult peisa ;
+404    405     més de ceo semblant ne fist :
+405    406     en sun quer pensa e dist
+408    409     traïz sunt li dous amanz ,
+409    410     si deu ne lur seit guaranz !
+411    412     trop se sevra folement ;
+412    413     ele ad del clerk pris congié ,
+413    414     si l' ad trei fez baisé .
+416    417     manga , but , devint tut sein .
+418    419     la dammoisele ne se targa :
+419    420     al chivaler tut counta
+422    423     ele li jurad assez de sermenz .
+424    425     unc ma femme nel pensa :
+425    426     pur nient le dites , nel creirai ja !
+427    428     la dame est tant bone e bele
+428    429     ke ele ne freit ceo pur nule rien :
+429    430     vous estes fole , jeo le vei bien ,
+430    431     il semble ke vus eiez la rage !
+432    433     respont tantost la meschine ,
+434    435     e si vuus meimes le volez ,
+436    437     le liu , le terme oï deviser
+439    440     dunc me prise ma femme petit :
+442    443     jeo vus frai si grant honur
+444    445     jeo serrai meimes lur espie :
+445    446     mar penserent la folie ,
+446    447     si jeo les peus entreprendre !
+448    449     la dame de ceo mot ne saveit .
+453    454     de sun revenir nient ne saveit .
+454    455     la dame quidout qu' il deist veir ,
+455    456     més failli aveit de sun espeir ,
+458    459     deskes a vespre . dunc se atornout
+459    460     en tele robe com le clerk out ;
+462    463     par une privee posterne entra ;
+463    464     desuth un perer se reposa
+464    465     ou le clerk venir deveit ,
+467    468     cele part est tost venue :
+469    470     cil se tint coi e celé ,
+471    472     la dame se dota de traison ,
+474    475     pensa que ele fust traïe .
+475    476     pur tant ne s' amaya mie :
+476    477     suef le prist par la main ,
+477    478     li demanda si il fust tut sein .
+479    480     de maladie ne senti nient .
+481    482     en une chambre l' ad enfermé
+485    486     desques ele meimes aprés li venist .
+489    490     pur ses hostes reheiter ,
+496    497     ou li le mena en grant delit ,
+498    499     aprés lez li se coucha .
+499    500     le clerk la dame acola ,

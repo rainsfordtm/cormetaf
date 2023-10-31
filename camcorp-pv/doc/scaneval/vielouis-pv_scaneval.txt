@@ -1,0 +1,23 @@
+Rules applied: R2, R1, R8
+Lines correct: 116 of 118
+Pass history:
+Tried rules R1; 94 lines correct.
+Tried rules R11; 78 lines correct.
+Tried rules R2; 96 lines correct.
+Tried rules R30; 78 lines correct.
+Tried rules R8; 82 lines correct.
+Tried rules R2, R1; 112 lines correct.
+Tried rules R2, R11; 96 lines correct.
+Tried rules R2, R30; 96 lines correct.
+Tried rules R2, R8; 100 lines correct.
+Tried rules R2, R1, R11; 112 lines correct.
+Tried rules R2, R1, R30; 112 lines correct.
+Tried rules R2, R1, R8; 116 lines correct.
+Tried rules R2, R1, R8, R11; 116 lines correct.
+Tried rules R2, R1, R8, R30; 116 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES
+28    --     comment me deistes - vous hier ce
+34    --     que vous metés votre cuer a ce

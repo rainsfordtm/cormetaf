@@ -1,0 +1,36 @@
+Rules applied: R1, R8
+Lines correct: 489 of 501
+Pass history:
+Tried rules R1; 488 lines correct.
+Tried rules R11; 399 lines correct.
+Tried rules R7; 201 lines correct.
+Tried rules R8; 431 lines correct.
+Tried rules R2; 424 lines correct.
+Tried rules R4; 428 lines correct.
+Tried rules R30; 430 lines correct.
+Tried rules R1, R11; 453 lines correct.
+Tried rules R1, R7; 236 lines correct.
+Tried rules R1, R8; 489 lines correct.
+Tried rules R1, R2; 482 lines correct.
+Tried rules R1, R4; 478 lines correct.
+Tried rules R1, R30; 488 lines correct.
+Tried rules R1, R8, R11; 454 lines correct.
+Tried rules R1, R8, R7; 237 lines correct.
+Tried rules R1, R8, R2; 483 lines correct.
+Tried rules R1, R8, R4; 479 lines correct.
+Tried rules R1, R8, R30; 489 lines correct.
+OPTIMIZED LINES
+38    39     qui si bien s' en sceust deporter ,
+129    130     j' ay veü maintenant devaler
+167    168     qui aprez lui deust posseder
+237    238     si que ulixes , le conseillier ,
+273    274     si nous traions vers lui briefment
+294    295     et reputons nostre bon eur
+455    456     tout vient de dieu , ce en est la somme ;
+483    484     qu' il vous a pleu benignement
+
+BAD LINES
+179    180     qu' il eust cure de mariaige ,
+271    272     veez ci le marquis revenir ,
+426    427     avoir procreé de sa chair ,
+495    496     qui vouldroit desobeir en ce

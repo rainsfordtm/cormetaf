@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.berinus-pv_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.berinus-pv.line.xml">
+<feat xlink:href="#line_0" value=" a tous ceulx qui mon livre orront"/><!--  a tous ceulx qui mon livre orront -->
+<feat xlink:href="#line_1" value=" que , se je di aucune chose"/><!--  que , se je di aucune chose -->
+<feat xlink:href="#line_2" value=" qui puist dire a la volenté"/><!--  qui puist dire a la volenté -->
+<feat xlink:href="#line_3" value=" car je l&apos; ay fait a la priere"/><!--  car je l' ay fait a la priere -->
+<feat xlink:href="#line_4" value=" et requeste d&apos; un mien seigneur"/><!--  et requeste d' un mien seigneur -->
+<feat xlink:href="#line_5" value=" car la matiere est delitable"/><!--  car la matiere est delitable -->
+<feat xlink:href="#line_6" value=" et proufitable a retenir"/><!--  et proufitable a retenir -->
+<feat xlink:href="#line_7" value=" qui jadiz furent n&apos; en ont fait"/><!--  qui jadiz furent n' en ont fait -->
+<feat xlink:href="#line_8" value=" n&apos; en ont fait plus grant mencion"/><!--  n' en ont fait plus grant mencion -->
+<feat xlink:href="#line_9" value=" Car adonques les roys , ducs , princes"/><!--  Car adonques les roys , ducs , princes -->
+<feat xlink:href="#line_10" value=" princes et autres grans seigneurs"/><!--  princes et autres grans seigneurs -->
+<feat xlink:href="#line_11" value=" a besongner , fors que de faire"/><!--  a besongner , fors que de faire -->
+<feat xlink:href="#line_12" value=" et courtoisie si perie"/><!--  et courtoisie si perie -->
+<feat xlink:href="#line_13" value=" et ce toult aux bons entendeurs"/><!--  et ce toult aux bons entendeurs -->
+<feat xlink:href="#line_14" value=" de faire aucune bonne chose"/><!--  de faire aucune bonne chose -->
+<feat xlink:href="#line_15" value=" qu&apos; ilz se voulsissent traveillier"/><!--  qu' ilz se voulsissent traveillier -->
+<feat xlink:href="#line_16" value=" car de tant comme la personne"/><!--  car de tant comme la personne -->
+<feat xlink:href="#line_17" value=" et de plus grant auttorité"/><!--  et de plus grant auttorité -->
+<feat xlink:href="#line_18" value=" et avecques ce la matiere"/><!--  et avecques ce la matiere -->
+<feat xlink:href="#line_19" value=" Salemon et autres pluseurs"/><!--  Salemon et autres pluseurs -->
+<feat xlink:href="#line_20" value=" qui pourroit estre converti"/><!--  qui pourroit estre converti -->
+<feat xlink:href="#line_21" value=" converti a l&apos; onneur du corps"/><!--  converti a l' onneur du corps -->
+<feat xlink:href="#line_22" value=" du corps et au proufit de l&apos; ame"/><!--  du corps et au proufit de l' ame -->
+<feat xlink:href="#line_23" value=" se je vous vouloye compter"/><!--  se je vous vouloye compter -->
+<feat xlink:href="#line_24" value=" comment Adam menga la pomme"/><!--  comment Adam menga la pomme -->
+<feat xlink:href="#line_25" value=" pour la grant euvre de Babel"/><!--  pour la grant euvre de Babel -->
+<feat xlink:href="#line_26" value=" a m&apos; entente et a la matiere"/><!--  a m' entente et a la matiere -->
+<feat xlink:href="#line_27" value=" pour quoy j&apos; ay ce livre entrepris"/><!--  pour quoy j' ay ce livre entrepris -->
+<feat xlink:href="#line_28" value=" est que depuis que la cité"/><!--  est que depuis que la cité -->
+<feat xlink:href="#line_29" value=" a l&apos; aide de Romus son frere"/><!--  a l' aide de Romus son frere -->
+<feat xlink:href="#line_30" value=" si que l&apos; en l&apos; appeloit le chief"/><!--  si que l' en l' appeloit le chief -->
+<feat xlink:href="#line_31" value=" qui vont en admenuisant"/><!--  qui vont en admenuisant -->
+<feat xlink:href="#line_32" value=" est la seignourie de Romme"/><!--  est la seignourie de Romme -->
+<feat xlink:href="#line_33" value=" amenuisee et abaissee"/><!--  amenuisee et abaissee -->
+<feat xlink:href="#line_34" value=" sur tout le peuple crestien"/><!--  sur tout le peuple crestien -->
+<feat xlink:href="#line_35" value=" qui maintenoient les grans guerres"/><!--  qui maintenoient les grans guerres -->
+<feat xlink:href="#line_36" value=" Cesar , Augustus , Constantins"/><!--  Cesar , Augustus , Constantins -->
+<feat xlink:href="#line_37" value=" et autres pluseurs empereurs"/><!--  et autres pluseurs empereurs -->
+<feat xlink:href="#line_38" value=" et prisiee entre les autres"/><!--  et prisiee entre les autres -->
+<feat xlink:href="#line_39" value=" Il y ot un empereur"/><!--  Il y ot un empereur -->
+<feat xlink:href="#line_40" value=" qui tout l&apos; empire aprés la mort"/><!--  qui tout l' empire aprés la mort -->
+<feat xlink:href="#line_41" value=" Au temps de cel empereur"/><!--  Au temps de cel empereur -->
+<feat xlink:href="#line_42" value=" pour quoy j&apos; ay ce livre entrepris"/><!--  pour quoy j' ay ce livre entrepris -->
+<feat xlink:href="#line_43" value=" et le mist en escript un cler"/><!--  et le mist en escript un cler -->
+<feat xlink:href="#line_44" value=" ot nom Sother et en seurnom"/><!--  ot nom Sother et en seurnom -->
+<feat xlink:href="#line_45" value=" Cil Sother devoit bien avoir"/><!--  Cil Sother devoit bien avoir -->
+<feat xlink:href="#line_46" value=" devoit bien avoir tel seurnom"/><!--  devoit bien avoir tel seurnom -->
+<feat xlink:href="#line_47" value=" car il le demonstroit par euvre"/><!--  car il le demonstroit par euvre -->
+<feat xlink:href="#line_48" value=" et vous di que pour mort souffrir"/><!--  et vous di que pour mort souffrir -->
+<feat xlink:href="#line_49" value=" Marcus et en seurnom Storeus"/><!--  Marcus et en seurnom Storeus -->
+<feat xlink:href="#line_50" value=" Storeus , qui vault autant a dire"/><!--  Storeus , qui vault autant a dire -->
+<feat xlink:href="#line_51" value=" en rommant que « garde de droit"/><!--  en rommant que « garde de droit -->
+<feat xlink:href="#line_52" value=" et ce estoit ses propres mestiers"/><!--  et ce estoit ses propres mestiers -->
+<feat xlink:href="#line_53" value=" de Romme estoit Antonius"/><!--  de Romme estoit Antonius -->
+<feat xlink:href="#line_54" value=" de nulluy , ne pour amistié"/><!--  de nulluy , ne pour amistié -->
+<feat xlink:href="#line_55" value=" en quoy nulz peüst encheoir"/><!--  en quoy nulz peüst encheoir -->
+<feat xlink:href="#line_56" value=" Ruthonius et en seurnom"/><!--  Ruthonius et en seurnom -->
+<feat xlink:href="#line_57" value=" et en seurnom Philopater"/><!--  et en seurnom Philopater -->
+<feat xlink:href="#line_58" value=" qui vault en rommans comme « pere"/><!--  qui vault en rommans comme « pere -->
+<feat xlink:href="#line_59" value=" que onques nul home ne voult faire"/><!--  que onques nul home ne voult faire -->
+<feat xlink:href="#line_60" value=" et li septiesmes Cipio"/><!--  et li septiesmes Cipio -->
+<feat xlink:href="#line_61" value=" et de ce estoient leur seurnom"/><!--  et de ce estoient leur seurnom -->
+<feat xlink:href="#line_62" value=" estoit manans dehors les murs"/><!--  estoit manans dehors les murs -->
+<feat xlink:href="#line_63" value=" dehors les murs de la cité"/><!--  dehors les murs de la cité -->
+<feat xlink:href="#line_64" value=" de Romme uns riches homs puissans"/><!--  de Romme uns riches homs puissans -->
+<feat xlink:href="#line_65" value=" granz fiefz et grans possessions"/><!--  granz fiefz et grans possessions -->
+<feat xlink:href="#line_66" value=" et avoit a nom Famius"/><!--  et avoit a nom Famius -->
+<feat xlink:href="#line_67" value=" pourquoy j&apos; ay commencié mon compte"/><!--  pourquoy j' ay commencié mon compte -->
+<feat xlink:href="#line_68" value=" de grant noblesse et assasez"/><!--  de grant noblesse et assasez -->
+<feat xlink:href="#line_69" value=" et assasez de grant richece"/><!--  et assasez de grant richece -->
+<feat xlink:href="#line_70" value=" de haute gent et de vaillant"/><!--  de haute gent et de vaillant -->
+<feat xlink:href="#line_71" value=" et amez de tout le païs"/><!--  et amez de tout le païs -->
+<feat xlink:href="#line_72" value=" une damoiselle gentil"/><!--  une damoiselle gentil -->
+<feat xlink:href="#line_73" value=" mais je ne vous sçay mie a dire"/><!--  mais je ne vous sçay mie a dire -->
+<feat xlink:href="#line_74" value=" l&apos; en entendoit plus a honnour"/><!--  l' en entendoit plus a honnour -->
+<feat xlink:href="#line_75" value=" a bonté et a gentillece"/><!--  a bonté et a gentillece -->
+<feat xlink:href="#line_76" value=" ne a franchise se petit non"/><!--  ne a franchise se petit non -->
+<feat xlink:href="#line_77" value=" que onques n&apos; en pot enfant avoir"/><!--  que onques n' en pot enfant avoir -->
+<feat xlink:href="#line_78" value=" car moult desiroit a avoir"/><!--  car moult desiroit a avoir -->
+<feat xlink:href="#line_79" value=" ne repos par nuit ne par jour"/><!--  ne repos par nuit ne par jour -->
+<feat xlink:href="#line_80" value=" Dieu que elle en peüst un avoir"/><!--  Dieu que elle en peüst un avoir -->
+<feat xlink:href="#line_81" value=" fu retournee du moustier"/><!--  fu retournee du moustier -->
+<feat xlink:href="#line_82" value=" ne l&apos; esbatement qui fu fait"/><!--  ne l' esbatement qui fu fait -->
+<feat xlink:href="#line_83" value=" pour la nouvelle de l&apos; enfant"/><!--  pour la nouvelle de l' enfant -->
+<feat xlink:href="#line_84" value=" Et quant Famius ot oÿ"/><!--  Et quant Famius ot oÿ -->
+<feat xlink:href="#line_85" value=" ne saouler de joye faire"/><!--  ne saouler de joye faire -->
+<feat xlink:href="#line_86" value=" et fist querir quatre nourrices"/><!--  et fist querir quatre nourrices -->
+<feat xlink:href="#line_87" value=" de grant affaire pour l&apos; enfant"/><!--  de grant affaire pour l' enfant -->
+<feat xlink:href="#line_88" value=" elles savoient demander"/><!--  elles savoient demander -->
+<feat xlink:href="#line_89" value=" ne deviser qui proufitable"/><!--  ne deviser qui proufitable -->
+<feat xlink:href="#line_90" value=" Et quant l&apos; enfant vint en aage"/><!--  Et quant l' enfant vint en aage -->
+<feat xlink:href="#line_91" value=" qu&apos; il pot estre sanz aletier"/><!--  qu' il pot estre sanz aletier -->
+<feat xlink:href="#line_92" value=" il n&apos; estoit riens qu&apos; il voulsist faire"/><!--  il n' estoit riens qu' il voulsist faire -->
+<feat xlink:href="#line_93" value=" qui tant l&apos; amoit plus que soy mesmes"/><!--  qui tant l' amoit plus que soy mesmes -->
+<feat xlink:href="#line_94" value=" et lui acoustuma a faire"/><!--  et lui acoustuma a faire -->
+<feat xlink:href="#line_95" value=" et sa mere si deceüz"/><!--  et sa mere si deceüz -->
+<feat xlink:href="#line_96" value=" et avoit en nom Berinus"/><!--  et avoit en nom Berinus -->
+<feat xlink:href="#line_97" value=" par quoy tous ceulx qui enfans ont"/><!--  par quoy tous ceulx qui enfans ont -->
+<feat xlink:href="#line_98" value=" y devroient bien prendre garde"/><!--  y devroient bien prendre garde -->
+<feat xlink:href="#line_99" value=" garde et chastïer leurs enfans"/><!--  garde et chastïer leurs enfans -->
+<feat xlink:href="#line_100" value=" et s&apos; il tenist verge ou baston"/><!--  et s' il tenist verge ou baston -->
+<feat xlink:href="#line_101" value=" ou qu&apos; il les peüst assener"/><!--  ou qu' il les peüst assener -->
+<feat xlink:href="#line_102" value=" ou a la mere , pour blasmer"/><!--  ou a la mere , pour blasmer -->
+<feat xlink:href="#line_103" value=" par le mauvais chastiement"/><!--  par le mauvais chastiement -->
+<feat xlink:href="#line_104" value=" de tant estoit il plus tentez"/><!--  de tant estoit il plus tentez -->
+<feat xlink:href="#line_105" value=" ne petit a l&apos; ostel son pere"/><!--  ne petit a l' ostel son pere -->
+<feat xlink:href="#line_106" value=" qu&apos; il n&apos; estoit nulz qui le veïst"/><!--  qu' il n' estoit nulz qui le veïst -->
+<feat xlink:href="#line_107" value=" qui ne lui donnast maleïcon"/><!--  qui ne lui donnast maleïcon -->
+<feat xlink:href="#line_108" value=" l&apos; eschevoient a leur pouoir"/><!--  l' eschevoient a leur pouoir -->
+<feat xlink:href="#line_109" value=" et se tardoient de venir"/><!--  et se tardoient de venir -->
+<feat xlink:href="#line_110" value=" fu de l&apos; aage qu&apos; il pot aler"/><!--  fu de l' aage qu' il pot aler -->
+<feat xlink:href="#line_111" value=" par la ville pour lui esbatre"/><!--  par la ville pour lui esbatre -->
+<feat xlink:href="#line_112" value=" lors fu il mesdisant et plain"/><!--  lors fu il mesdisant et plain -->
+<feat xlink:href="#line_113" value=" et plain de mauvaises paroles"/><!--  et plain de mauvaises paroles -->
+<feat xlink:href="#line_114" value=" injure , si comme de eulx batre"/><!--  injure , si comme de eulx batre -->
+<feat xlink:href="#line_115" value=" si comme de eulx batre et ferir"/><!--  si comme de eulx batre et ferir -->
+<feat xlink:href="#line_116" value=" se ne fust pour cremeur du pere"/><!--  se ne fust pour cremeur du pere -->
+<feat xlink:href="#line_117" value=" mais de ce faisoit il que fol"/><!--  mais de ce faisoit il que fol -->
+<feat xlink:href="#line_118" value=" car quant il le peüst avoir"/><!--  car quant il le peüst avoir -->
+<feat xlink:href="#line_119" value=" car il estoit si endurciz"/><!--  car il estoit si endurciz -->
+<feat xlink:href="#line_120" value=" que moult y avoit fort au faire"/><!--  que moult y avoit fort au faire -->
+<feat xlink:href="#line_121" value=" souvent que quant une ente est jeune"/><!--  souvent que quant une ente est jeune -->
+<feat xlink:href="#line_122" value=" et quant il fu d&apos; entendement"/><!--  et quant il fu d' entendement -->
+<feat xlink:href="#line_123" value=" il n&apos; entendoit ne jour ne nuit"/><!--  il n' entendoit ne jour ne nuit -->
+<feat xlink:href="#line_124" value=" et souvent en laissoit le boire"/><!--  et souvent en laissoit le boire -->
+<feat xlink:href="#line_125" value=" mais a ce n&apos; acontoit il riens"/><!--  mais a ce n' acontoit il riens -->
+<feat xlink:href="#line_126" value=" car tant comme Agea sa mere"/><!--  car tant comme Agea sa mere -->
+<feat xlink:href="#line_127" value=" despendoit oultrageusement"/><!--  despendoit oultrageusement -->
+</featList>
+</paula>

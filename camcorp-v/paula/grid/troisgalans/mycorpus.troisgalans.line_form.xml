@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.troisgalans_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.troisgalans.line.xml">
+<feat xlink:href="#line_0" value=" et puis , est il façon aulcune ?"/><!--  et puis , est il façon aulcune ? -->
+<feat xlink:href="#line_1" value=" de quoy faire ? / de quicter tout ?"/><!--  de quoy faire ? / de quicter tout ? -->
+<feat xlink:href="#line_2" value=" y fauldra quelque un ou quelque une ,"/><!--  y fauldra quelque un ou quelque une , -->
+<feat xlink:href="#line_3" value=" de bref , qui nous mectra deboult ."/><!--  de bref , qui nous mectra deboult . -->
+<feat xlink:href="#line_4" value=" j&apos; y songe . / je suis en escoult ."/><!--  j' y songe . / je suis en escoult . -->
+<feat xlink:href="#line_5" value=" j&apos; ey mains , et sy ne puys rien prendre ."/><!--  j' ey mains , et sy ne puys rien prendre . -->
+<feat xlink:href="#line_6" value=" je suys frais , frais . / et j&apos; ey bon goust ."/><!--  je suys frais , frais . / et j' ey bon goust . -->
+<feat xlink:href="#line_7" value=" j&apos; aprens , et sy suys a raprendre ."/><!--  j' aprens , et sy suys a raprendre . -->
+<feat xlink:href="#line_8" value=" de sancté , j&apos; en ay a revendre"/><!--  de sancté , j' en ay a revendre -->
+<feat xlink:href="#line_9" value=" largement , trop plus que de paille ."/><!--  largement , trop plus que de paille . -->
+<feat xlink:href="#line_10" value=" et au surplus on doibt entendre"/><!--  et au surplus on doibt entendre -->
+<feat xlink:href="#line_11" value=" qu&apos; en tout le tresor pas la maille ."/><!--  qu' en tout le tresor pas la maille . -->
+<feat xlink:href="#line_12" value=" a ! sy fault il tenir bataille"/><!--  a ! sy fault il tenir bataille -->
+<feat xlink:href="#line_13" value=" pour combattre ses ennemys ."/><!--  pour combattre ses ennemys . -->
+<feat xlink:href="#line_14" value=" c&apos; est force , ou que chascun s&apos; en aille ,"/><!--  c' est force , ou que chascun s' en aille , -->
+<feat xlink:href="#line_15" value=" car , par dieux , nous avons trop mys ."/><!--  car , par dieux , nous avons trop mys . -->
+<feat xlink:href="#line_16" value=" et fault il que les bons amys"/><!--  et fault il que les bons amys -->
+<feat xlink:href="#line_17" value=" departent sy hastivement ?"/><!--  departent sy hastivement ? -->
+<feat xlink:href="#line_18" value=" dictes ? sy n&apos; ai ge rien promys"/><!--  dictes ? sy n' ai ge rien promys -->
+<feat xlink:href="#line_19" value=" a nul , par foy ny par serment ."/><!--  a nul , par foy ny par serment . -->
+<feat xlink:href="#line_20" value=" ce qu&apos; on faict volontairement"/><!--  ce qu' on faict volontairement -->
+<feat xlink:href="#line_21" value=" vault mieulx qu&apos; a force mile foys ."/><!--  vault mieulx qu' a force mile foys . -->
+<feat xlink:href="#line_22" value=" quoy ? nous fauldra l&apos; entendement ?"/><!--  quoy ? nous fauldra l' entendement ? -->
+<feat xlink:href="#line_23" value=" prenons courage ! hault le boys ,"/><!--  prenons courage ! hault le boys , -->
+<feat xlink:href="#line_24" value=" encore un coup ! / a ! je m&apos; en voys ,"/><!--  encore un coup ! / a ! je m' en voys , -->
+<feat xlink:href="#line_25" value=" quant a moy . qui veult y demeure ."/><!--  quant a moy . qui veult y demeure . -->
+<feat xlink:href="#line_26" value=" y sera chevalier en loix"/><!--  y sera chevalier en loix -->
+<feat xlink:href="#line_27" value=" se s&apos; en va dedens un cart d&apos; heure ."/><!--  se s' en va dedens un cart d' heure . -->
+<feat xlink:href="#line_28" value=" sy fault il que chascun labeure"/><!--  sy fault il que chascun labeure -->
+<feat xlink:href="#line_29" value=" du meileur cuir de son panier ."/><!--  du meileur cuir de son panier . -->
+<feat xlink:href="#line_30" value=" sans s&apos; effreer , chascun s&apos; aseure ;"/><!--  sans s' effreer , chascun s' aseure ; -->
+<feat xlink:href="#line_31" value=" se jour sy n&apos; est pas le dernier ."/><!--  se jour sy n' est pas le dernier . -->
+<feat xlink:href="#line_32" value=" nous sommes sas a charbonnier ."/><!--  nous sommes sas a charbonnier . -->
+<feat xlink:href="#line_33" value=" comment ? / l&apos; un l&apos; autre honnissons ."/><!--  comment ? / l' un l' autre honnissons . -->
+<feat xlink:href="#line_34" value=" mais nous sommes sas de munyer :"/><!--  mais nous sommes sas de munyer : -->
+<feat xlink:href="#line_35" value=" plus vivons et plus blancisons ."/><!--  plus vivons et plus blancisons . -->
+<feat xlink:href="#line_36" value=" plus nyais que jeunes moysons"/><!--  plus nyais que jeunes moysons -->
+<feat xlink:href="#line_37" value=" nous sommes tous troys . / comme quoy ?"/><!--  nous sommes tous troys . / comme quoy ? -->
+<feat xlink:href="#line_38" value=" plus vivons et moins congnoisons ."/><!--  plus vivons et moins congnoisons . -->
+<feat xlink:href="#line_39" value=" laisons ce babil , cest esmoy ;"/><!--  laisons ce babil , cest esmoy ; -->
+<feat xlink:href="#line_40" value=" l&apos; en ne me doibt ryen , sy ne doy :"/><!--  l' en ne me doibt ryen , sy ne doy : -->
+<feat xlink:href="#line_41" value=" c&apos; est a payer quant on l&apos; aira ."/><!--  c' est a payer quant on l' aira . -->
+<feat xlink:href="#line_42" value=" o ! que chascun pence de soy !"/><!--  o ! que chascun pence de soy ! -->
+<feat xlink:href="#line_43" value=" c&apos; est bien dict , mon filz , va y , va ."/><!--  c' est bien dict , mon filz , va y , va . -->
+<feat xlink:href="#line_44" value=" ausy tost qu&apos; il arivera"/><!--  ausy tost qu' il arivera -->
+<feat xlink:href="#line_45" value=" y trouvera le baing toult chault ."/><!--  y trouvera le baing toult chault . -->
+<feat xlink:href="#line_46" value=" seurement , sans parler plus hault ,"/><!--  seurement , sans parler plus hault , -->
+<feat xlink:href="#line_47" value=" y nous fault ycy adviser"/><!--  y nous fault ycy adviser -->
+<feat xlink:href="#line_48" value=" ou nous irons et deviser"/><!--  ou nous irons et deviser -->
+<feat xlink:href="#line_49" value=" vitement , et qu&apos; on se delivre ."/><!--  vitement , et qu' on se delivre . -->
+<feat xlink:href="#line_50" value=" g&apos; iray avec le monde vivre ,"/><!--  g' iray avec le monde vivre , -->
+<feat xlink:href="#line_51" value=" sy je puys par quelque maniere ."/><!--  sy je puys par quelque maniere . -->
+<feat xlink:href="#line_52" value=" et vous ? / pour mieulx mon cas poursuyvre ,"/><!--  et vous ? / pour mieulx mon cas poursuyvre , -->
+<feat xlink:href="#line_53" value=" g&apos; iray avec le monde vivre ."/><!--  g' iray avec le monde vivre . -->
+<feat xlink:href="#line_54" value=" par ma foy , sy je ne suys yvre ,"/><!--  par ma foy , sy je ne suys yvre , -->
+<feat xlink:href="#line_55" value=" comme vous , soublz vostre banyere ,"/><!--  comme vous , soublz vostre banyere , -->
+<feat xlink:href="#line_56" value=" g&apos; iray avec le monde vivre ,"/><!--  g' iray avec le monde vivre , -->
+<feat xlink:href="#line_57" value=" sy je puys par quelque maniere ."/><!--  sy je puys par quelque maniere . -->
+<feat xlink:href="#line_58" value=" g&apos; iray le chemin de deriere ."/><!--  g' iray le chemin de deriere . -->
+<feat xlink:href="#line_59" value=" et moy le chemin de travers ."/><!--  et moy le chemin de travers . -->
+<feat xlink:href="#line_60" value=" et moy a la gauche , en ariere ,"/><!--  et moy a la gauche , en ariere , -->
+<feat xlink:href="#line_61" value=" pource qu&apos; on veoyt trop d&apos; ieulx ouvers ."/><!--  pource qu' on veoyt trop d' ieulx ouvers . -->
+<feat xlink:href="#line_62" value=" nous irons les chemins couvers ,"/><!--  nous irons les chemins couvers , -->
+<feat xlink:href="#line_63" value=" que le soleil sy ne nous brule ."/><!--  que le soleil sy ne nous brule . -->
+<feat xlink:href="#line_64" value=" nos chevaulx ? / ilz sont trop dyvers ;"/><!--  nos chevaulx ? / ilz sont trop dyvers ; -->
+<feat xlink:href="#line_65" value=" nous avrons chascun une mule ."/><!--  nous avrons chascun une mule . -->
+<feat xlink:href="#line_66" value=" aulx talons . / sy je disimule ,"/><!--  aulx talons . / sy je disimule , -->
+<feat xlink:href="#line_67" value=" et je le treuve en quelque coing ,"/><!--  et je le treuve en quelque coing , -->
+<feat xlink:href="#line_68" value=" de luy dire … / y fault qu&apos; on recule"/><!--  de luy dire … / y fault qu' on recule -->
+<feat xlink:href="#line_69" value=" bien souvent pour saillir plus loing ."/><!--  bien souvent pour saillir plus loing . -->
+<feat xlink:href="#line_70" value=" je vous suplye , prenons le soing"/><!--  je vous suplye , prenons le soing -->
+<feat xlink:href="#line_71" value=" de faire le monde une beste ."/><!--  de faire le monde une beste . -->
+<feat xlink:href="#line_72" value=" dictz je bien ? / moy , j&apos; ey a la teste"/><!--  dictz je bien ? / moy , j' ey a la teste -->
+<feat xlink:href="#line_73" value=" de l&apos; aveugler , c&apos; est mon vouloir ,"/><!--  de l' aveugler , c' est mon vouloir , -->
+<feat xlink:href="#line_74" value=" et luy faire entendre que noir"/><!--  et luy faire entendre que noir -->
+<feat xlink:href="#line_75" value=" sera blanc . et vous , nostre maistre ?"/><!--  sera blanc . et vous , nostre maistre ? -->
+<feat xlink:href="#line_76" value=" et je feray ce monde paystre"/><!--  et je feray ce monde paystre -->
+<feat xlink:href="#line_77" value=" de quoy vous parlés , devant tous ,"/><!--  de quoy vous parlés , devant tous , -->
+<feat xlink:href="#line_78" value=" luy disant qu&apos; il a une toux"/><!--  luy disant qu' il a une toux -->
+<feat xlink:href="#line_79" value=" qu&apos; i fault que par herbe on garise ."/><!--  qu' i fault que par herbe on garise . -->
+<feat xlink:href="#line_80" value=" que nul de nous ne se marise ;"/><!--  que nul de nous ne se marise ; -->
+<feat xlink:href="#line_81" value=" y fault qu&apos; a la fin chascun tende ."/><!--  y fault qu' a la fin chascun tende . -->
+<feat xlink:href="#line_82" value=" il n&apos; y a plus tiltre ne bende ;"/><!--  il n' y a plus tiltre ne bende ; -->
+<feat xlink:href="#line_83" value=" chascun fera son faict a part ."/><!--  chascun fera son faict a part . -->
+<feat xlink:href="#line_84" value=" sans argent , office , ou prebende"/><!--  sans argent , office , ou prebende -->
+<feat xlink:href="#line_85" value=" y n&apos; y a plus tiltre ne bende ."/><!--  y n' y a plus tiltre ne bende . -->
+<feat xlink:href="#line_86" value=" on ne debvons pas grand amende"/><!--  on ne debvons pas grand amende -->
+<feat xlink:href="#line_87" value=" de chanter a nostre depart ."/><!--  de chanter a nostre depart . -->
+<feat xlink:href="#line_88" value=" il n&apos; y a plus tiltre ne bende :"/><!--  il n' y a plus tiltre ne bende : -->
+<feat xlink:href="#line_89" value=" chascun fera son faict a part ."/><!--  chascun fera son faict a part . -->
+<feat xlink:href="#line_90" value=" or chantons . que dieu y ayt part !"/><!--  or chantons . que dieu y ayt part ! -->
+<feat xlink:href="#line_91" value=" a dieu , hau ! / va t&apos; en , va . / revien ."/><!--  a dieu , hau ! / va t' en , va . / revien . -->
+<feat xlink:href="#line_92" value=" says tu quoy ? drese un grand mestier ."/><!--  says tu quoy ? drese un grand mestier . -->
+<feat xlink:href="#line_93" value=" ne vous chault ; je n&apos; oubliray rien ."/><!--  ne vous chault ; je n' oubliray rien . -->
+<feat xlink:href="#line_94" value=" a dieu , hau ! / va t&apos; en , va . revien ."/><!--  a dieu , hau ! / va t' en , va . revien . -->
+<feat xlink:href="#line_95" value=" nous nous trouverons ausy bien"/><!--  nous nous trouverons ausy bien -->
+<feat xlink:href="#line_96" value=" ensemble cheulx le pelletier ."/><!--  ensemble cheulx le pelletier . -->
+<feat xlink:href="#line_97" value=" a dieu , hau ! / va t&apos; en , va . / revien ."/><!--  a dieu , hau ! / va t' en , va . / revien . -->
+<feat xlink:href="#line_98" value=" say tu quoy ? drese un grand mestier ."/><!--  say tu quoy ? drese un grand mestier . -->
+<feat xlink:href="#line_99" value=" que chascun tire son cartier ."/><!--  que chascun tire son cartier . -->
+<feat xlink:href="#line_100" value=" posons ce qu&apos; avons entreprins ."/><!--  posons ce qu' avons entreprins . -->
+<feat xlink:href="#line_101" value=" le mieulx faisant doibt avoir pris ."/><!--  le mieulx faisant doibt avoir pris . -->
+<feat xlink:href="#line_102" value=" y fault subtilement ouvrer"/><!--  y fault subtilement ouvrer -->
+<feat xlink:href="#line_103" value=" afin d&apos; aulcun bien recouvrer"/><!--  afin d' aulcun bien recouvrer -->
+<feat xlink:href="#line_104" value=" du monde . hau la , je le voy ."/><!--  du monde . hau la , je le voy . -->
+<feat xlink:href="#line_105" value=" pleust a dieu qu&apos; i n&apos; y eust que moy"/><!--  pleust a dieu qu' i n' y eust que moy -->
+<feat xlink:href="#line_106" value=" a le gouverner , se mignon !"/><!--  a le gouverner , se mignon ! -->
+<feat xlink:href="#line_107" value=" comment ? y faict du compaignon ?"/><!--  comment ? y faict du compaignon ? -->
+<feat xlink:href="#line_108" value=" il me semble plus eveillé"/><!--  il me semble plus eveillé -->
+<feat xlink:href="#line_109" value=" et nouvelement abillé"/><!--  et nouvelement abillé -->
+<feat xlink:href="#line_110" value=" qu&apos; aultre foys . je voys par dela ."/><!--  qu' aultre foys . je voys par dela . -->
+<feat xlink:href="#line_111" value=" dieu gard , monde . / que faictz tu la ?"/><!--  dieu gard , monde . / que faictz tu la ? -->
+<feat xlink:href="#line_112" value=" vien par devant , vien par devant ."/><!--  vien par devant , vien par devant . -->
+<feat xlink:href="#line_113" value=" y a il personne ? hola !"/><!--  y a il personne ? hola ! -->
+<feat xlink:href="#line_114" value=" dieu gard , monde ! / que faictz tu la ?"/><!--  dieu gard , monde ! / que faictz tu la ? -->
+<feat xlink:href="#line_115" value=" je viens par derriere . / cela !"/><!--  je viens par derriere . / cela ! -->
+<feat xlink:href="#line_116" value=" mais d&apos; ou me vient ce poursuyvant ?"/><!--  mais d' ou me vient ce poursuyvant ? -->
+<feat xlink:href="#line_117" value=" dieu gard , monde ! / que faictz tu la ?"/><!--  dieu gard , monde ! / que faictz tu la ? -->
+<feat xlink:href="#line_118" value=" vien par devant , vien par devant ."/><!--  vien par devant , vien par devant . -->
+<feat xlink:href="#line_119" value=" j&apos; eusse bien dict : dieu vous avant !"/><!--  j' eusse bien dict : dieu vous avant ! -->
+<feat xlink:href="#line_120" value=" mais c&apos; eust esté faict en village ."/><!--  mais c' eust esté faict en village . -->
+<feat xlink:href="#line_121" value=" sy tu joue ton personnage ,"/><!--  sy tu joue ton personnage , -->
+<feat xlink:href="#line_122" value=" si le dy : t&apos; ose tu monstrer ?"/><!--  si le dy : t' ose tu monstrer ? -->
+<feat xlink:href="#line_123" value=" j&apos; ey grand desir de rencontrer"/><!--  j' ey grand desir de rencontrer -->
+<feat xlink:href="#line_124" value=" le monde ; y fault que j&apos; y converse ."/><!--  le monde ; y fault que j' y converse . -->
+<feat xlink:href="#line_125" value=" je voys , je viens , puys je traverse"/><!--  je voys , je viens , puys je traverse -->
+<feat xlink:href="#line_126" value=" pour cuyder venir a mes fins ."/><!--  pour cuyder venir a mes fins . -->
+<feat xlink:href="#line_127" value=" on dict qu&apos; i fayt des tours sans fins ,"/><!--  on dict qu' i fayt des tours sans fins , -->
+<feat xlink:href="#line_128" value=" et jamais n&apos; en fust sy subtil ."/><!--  et jamais n' en fust sy subtil . -->
+<feat xlink:href="#line_129" value=" je le voys . non est . a ! c&apos; est il :"/><!--  je le voys . non est . a ! c' est il : -->
+<feat xlink:href="#line_130" value=" il porte abillemens divers ."/><!--  il porte abillemens divers . -->
+<feat xlink:href="#line_131" value=" cestuy cy y vient de travers ,"/><!--  cestuy cy y vient de travers , -->
+<feat xlink:href="#line_132" value=" et l&apos; aultre est venu par deriere ."/><!--  et l' aultre est venu par deriere . -->
+<feat xlink:href="#line_133" value=" vous n&apos; entendés pas bien les vers ."/><!--  vous n' entendés pas bien les vers . -->
+<feat xlink:href="#line_134" value=" cestuy cy y vient de travers ."/><!--  cestuy cy y vient de travers . -->
+<feat xlink:href="#line_135" value=" vos yeux sont changés a l&apos; envers ."/><!--  vos yeux sont changés a l' envers . -->
+<feat xlink:href="#line_136" value=" j&apos; ey pour vous assés grand lumiere ."/><!--  j' ey pour vous assés grand lumiere . -->
+<feat xlink:href="#line_137" value=" cestuy cy y vient de travers"/><!--  cestuy cy y vient de travers -->
+<feat xlink:href="#line_138" value=" et l&apos; aultre est venu par derriere ."/><!--  et l' aultre est venu par derriere . -->
+<feat xlink:href="#line_139" value=" je n&apos; entens pas bien la matiere ."/><!--  je n' entens pas bien la matiere . -->
+<feat xlink:href="#line_140" value=" le faict il pour me faire rire ?"/><!--  le faict il pour me faire rire ? -->
+<feat xlink:href="#line_141" value=" sy serai ge qu&apos; i veulent dire"/><!--  sy serai ge qu' i veulent dire -->
+<feat xlink:href="#line_142" value=" afin de me desennuyer ."/><!--  afin de me desennuyer . -->
+<feat xlink:href="#line_143" value=" honneur , monseigneur l&apos; escuyer !"/><!--  honneur , monseigneur l' escuyer ! -->
+<feat xlink:href="#line_144" value=" monde , dieu vous face joyeulx !"/><!--  monde , dieu vous face joyeulx ! -->
+<feat xlink:href="#line_145" value=" comme vous va ? / de mieulx en mieulx :"/><!--  comme vous va ? / de mieulx en mieulx : -->
+<feat xlink:href="#line_146" value=" remply de biens , sain , en bon poinct ."/><!--  remply de biens , sain , en bon poinct . -->
+<feat xlink:href="#line_147" value=" et vous ? / comme sy n&apos; en fust poinct ."/><!--  et vous ? / comme sy n' en fust poinct . -->
+<feat xlink:href="#line_148" value=" j&apos; en suys plus bas qu&apos; au fons du puys ."/><!--  j' en suys plus bas qu' au fons du puys . -->
+<feat xlink:href="#line_149" value=" vostre compaignie en vault pis :"/><!--  vostre compaignie en vault pis : -->
+<feat xlink:href="#line_150" value=" je ne vous cherche pas un grain ."/><!--  je ne vous cherche pas un grain . -->
+<feat xlink:href="#line_151" value=" atendés a demain , atendés a demain !"/><!--  atendés a demain , atendés a demain ! -->
+<feat xlink:href="#line_152" value=" il y sont , chascun faict sa main …"/><!--  il y sont , chascun faict sa main … -->
+<feat xlink:href="#line_153" value=" par dieu sy n&apos; ai ge pas trop mys ."/><!--  par dieu sy n' ai ge pas trop mys . -->
+<feat xlink:href="#line_154" value=" cognoisés vos petits amis ,"/><!--  cognoisés vos petits amis , -->
+<feat xlink:href="#line_155" value=" monde gratieux , plaisant . / hauche !"/><!--  monde gratieux , plaisant . / hauche ! -->
+<feat xlink:href="#line_156" value=" cestuy cy revient a la gauche ."/><!--  cestuy cy revient a la gauche . -->
+<feat xlink:href="#line_157" value=" que voulés vous ? que dieu le sache !"/><!--  que voulés vous ? que dieu le sache ! -->
+<feat xlink:href="#line_158" value=" ainsy que robin danse en tache ,"/><!--  ainsy que robin danse en tache , -->
+<feat xlink:href="#line_159" value=" nous venons vers vous . / c&apos; est bien faict ."/><!--  nous venons vers vous . / c' est bien faict . -->
+<feat xlink:href="#line_160" value=" vous en desplaist il ? / tout me plaist ."/><!--  vous en desplaist il ? / tout me plaist . -->
+<feat xlink:href="#line_161" value=" je suys le vostre , moy . / et moy ."/><!--  je suys le vostre , moy . / et moy . -->
+<feat xlink:href="#line_162" value=" le monde parle . / mieulx c&apos; un gay ;"/><!--  le monde parle . / mieulx c' un gay ; -->
+<feat xlink:href="#line_163" value=" sus mon œuvre l&apos; aprens asés ."/><!--  sus mon œuvre l' aprens asés . -->
+<feat xlink:href="#line_164" value=" et puys quoy ! estes vous casés ?"/><!--  et puys quoy ! estes vous casés ? -->
+<feat xlink:href="#line_165" value=" casés ? nous sommes tous entiers ."/><!--  casés ? nous sommes tous entiers . -->
+<feat xlink:href="#line_166" value=" vers vous avons prins les sentiers"/><!--  vers vous avons prins les sentiers -->
+<feat xlink:href="#line_167" value=" pour avoir en vous habitude ."/><!--  pour avoir en vous habitude . -->
+<feat xlink:href="#line_168" value=" ilz sont clers . / venans de l&apos; estude ."/><!--  ilz sont clers . / venans de l' estude . -->
+<feat xlink:href="#line_169" value=" ausy , je vous faictz asavoir"/><!--  ausy , je vous faictz asavoir -->
+<feat xlink:href="#line_170" value=" qu&apos; i fault quelque science avoir ,"/><!--  qu' i fault quelque science avoir , -->
+<feat xlink:href="#line_171" value=" qui veult avec moy converser ."/><!--  qui veult avec moy converser . -->
+<feat xlink:href="#line_172" value=" chascun a l&apos; engin pour perser"/><!--  chascun a l' engin pour perser -->
+<feat xlink:href="#line_173" value=" un mur de saize piedz d&apos; epès ."/><!--  un mur de saize piedz d' epès . -->
+<feat xlink:href="#line_174" value=" or paix , or paix , mes amys , pès !"/><!--  or paix , or paix , mes amys , pès ! -->
+<feat xlink:href="#line_175" value=" le maistre va jouer son jeu ."/><!--  le maistre va jouer son jeu . -->
+<feat xlink:href="#line_176" value=" je vois aveugler en ce lieu"/><!--  je vois aveugler en ce lieu -->
+<feat xlink:href="#line_177" value=" le monde . / je t&apos; en garderay ;"/><!--  le monde . / je t' en garderay ; -->
+<feat xlink:href="#line_178" value=" mais vien par devant . / non feray ."/><!--  mais vien par devant . / non feray . -->
+<feat xlink:href="#line_179" value=" par dieu , sy portai ge asés d&apos; yeulx"/><!--  par dieu , sy portai ge asés d' yeulx -->
+<feat xlink:href="#line_180" value=" pour veoir loing et en divers lieux ,"/><!--  pour veoir loing et en divers lieux , -->
+<feat xlink:href="#line_181" value=" et sy chascun en vault bien diz ."/><!--  et sy chascun en vault bien diz . -->
+<feat xlink:href="#line_182" value=" sy ferai ge tant par mes dis"/><!--  sy ferai ge tant par mes dis -->
+<feat xlink:href="#line_183" value=" que je vous feray aveugler ."/><!--  que je vous feray aveugler . -->
+<feat xlink:href="#line_184" value=" tu ne me seroys tant sengler"/><!--  tu ne me seroys tant sengler -->
+<feat xlink:href="#line_185" value=" qu&apos; en la fin tout en vaille un blanc ."/><!--  qu' en la fin tout en vaille un blanc . -->
+<feat xlink:href="#line_186" value=" quel est cet esteur ? / il est blanc ."/><!--  quel est cet esteur ? / il est blanc . -->
+<feat xlink:href="#line_187" value=" il est noir . chausés vos lunettes !"/><!--  il est noir . chausés vos lunettes ! -->
+<feat xlink:href="#line_188" value=" c&apos; est bien dict , mymin a sonnetes ;"/><!--  c' est bien dict , mymin a sonnetes ; -->
+<feat xlink:href="#line_189" value=" et fust il de sire , il est jaune ."/><!--  et fust il de sire , il est jaune . -->
+<feat xlink:href="#line_190" value=" voyla bien joué le bejaulne ,"/><!--  voyla bien joué le bejaulne , -->
+<feat xlink:href="#line_191" value=" a veue d&apos; euil , sans art d&apos; anemy ."/><!--  a veue d' euil , sans art d' anemy . -->
+<feat xlink:href="#line_192" value=" vous n&apos; y voyés pas a demy ."/><!--  vous n' y voyés pas a demy . -->
+<feat xlink:href="#line_193" value=" sy faictz bien , car je voys par toult ."/><!--  sy faictz bien , car je voys par toult . -->
+<feat xlink:href="#line_194" value=" d&apos; un costé et de l&apos; aultre boult ."/><!--  d' un costé et de l' aultre boult . -->
+<feat xlink:href="#line_195" value=" vous n&apos; avez pas des yeulx au col ."/><!--  vous n' avez pas des yeulx au col . -->
+<feat xlink:href="#line_196" value=" or voy ge bien que tu es fol ,"/><!--  or voy ge bien que tu es fol , -->
+<feat xlink:href="#line_197" value=" bien lourdault , bien badin , bien beugle ,"/><!--  bien lourdault , bien badin , bien beugle , -->
+<feat xlink:href="#line_198" value=" d&apos; ainsy me cuyder faire aveugle ."/><!--  d' ainsy me cuyder faire aveugle . -->
+<feat xlink:href="#line_199" value=" vous n&apos; avez pas des yeulx au cul ."/><!--  vous n' avez pas des yeulx au cul . -->
+<feat xlink:href="#line_200" value=" y ne fault point tant de calcul ."/><!--  y ne fault point tant de calcul . -->
+<feat xlink:href="#line_201" value=" mon serment , vous voyés bien loing ."/><!--  mon serment , vous voyés bien loing . -->
+<feat xlink:href="#line_202" value=" bien loing : y m&apos; en est bien besoin ;"/><!--  bien loing : y m' en est bien besoin ; -->
+<feat xlink:href="#line_203" value=" encor plus loing que vous ne dictes ."/><!--  encor plus loing que vous ne dictes . -->
+<feat xlink:href="#line_204" value=" je voys bien des regnards hermites ,"/><!--  je voys bien des regnards hermites , -->
+<feat xlink:href="#line_205" value=" je voys mignons , je voys mignonnes ,"/><!--  je voys mignons , je voys mignonnes , -->
+<feat xlink:href="#line_206" value=" je voys ceulx qui en font de bonnes ."/><!--  je voys ceulx qui en font de bonnes . -->
+<feat xlink:href="#line_207" value=" vous voyez jusques en levént ?"/><!--  vous voyez jusques en levént ? -->
+<feat xlink:href="#line_208" value=" je voy par deriere et d&apos; avant ;"/><!--  je voy par deriere et d' avant ; -->
+<feat xlink:href="#line_209" value=" en efaict , je voy toute gent ."/><!--  en efaict , je voy toute gent . -->
+<feat xlink:href="#line_210" value=" vous ne voyez pas nostre argent ."/><!--  vous ne voyez pas nostre argent . -->
+<feat xlink:href="#line_211" value=" tant y seroit fort a conter ."/><!--  tant y seroit fort a conter . -->
+<feat xlink:href="#line_212" value=" ce qui vous plaist a racompter"/><!--  ce qui vous plaist a racompter -->
+<feat xlink:href="#line_213" value=" est vray , mais vous n&apos; y voyez gouste ."/><!--  est vray , mais vous n' y voyez gouste . -->
+<feat xlink:href="#line_214" value=" voecy qui est bon pour la gouste :"/><!--  voecy qui est bon pour la gouste : -->
+<feat xlink:href="#line_215" value=" ce sont herbes substantieuses ,"/><!--  ce sont herbes substantieuses , -->
+<feat xlink:href="#line_216" value=" tresbonnes et fort vertueuses ,"/><!--  tresbonnes et fort vertueuses , -->
+<feat xlink:href="#line_217" value=" sy vous survenoyt aucun mal ."/><!--  sy vous survenoyt aucun mal . -->
+<feat xlink:href="#line_218" value=" baillés les a vostre cheval ."/><!--  baillés les a vostre cheval . -->
+<feat xlink:href="#line_219" value=" ils sont bonnes . / sy les mangés ."/><!--  ils sont bonnes . / sy les mangés . -->
+<feat xlink:href="#line_220" value=" alés , alés . / ne vous bougés ."/><!--  alés , alés . / ne vous bougés . -->
+<feat xlink:href="#line_221" value=" agardés , j&apos; avois ouÿ dire"/><!--  agardés , j' avois ouÿ dire -->
+<feat xlink:href="#line_222" value=" que vous aviez perdu le rire ;"/><!--  que vous aviez perdu le rire ; -->
+<feat xlink:href="#line_223" value=" voecy pour resjouir le cœur , ."/><!--  voecy pour resjouir le cœur , . -->
+<feat xlink:href="#line_224" value=" je n&apos; eus jamais telle vigueur ,"/><!--  je n' eus jamais telle vigueur , -->
+<feat xlink:href="#line_225" value=" ne tel force , ne tel vertu ."/><!--  ne tel force , ne tel vertu . -->
+<feat xlink:href="#line_226" value=" vous me cuidés faire abatu"/><!--  vous me cuidés faire abatu -->
+<feat xlink:href="#line_227" value=" au devant que l&apos; on m&apos; ait touché ."/><!--  au devant que l' on m' ait touché . -->
+<feat xlink:href="#line_228" value=" hay ! / tron ! / sy vous etiez couché"/><!--  hay ! / tron ! / sy vous etiez couché -->
+<feat xlink:href="#line_229" value=" pour vous reposer un petit ,"/><!--  pour vous reposer un petit , -->
+<feat xlink:href="#line_230" value=" cecy vous donroit apetit"/><!--  cecy vous donroit apetit -->
+<feat xlink:href="#line_231" value=" et seriez sain comme un piot ."/><!--  et seriez sain comme un piot . -->
+<feat xlink:href="#line_232" value=" quel sain ? je boy a vous d&apos; un pot ."/><!--  quel sain ? je boy a vous d' un pot . -->
+<feat xlink:href="#line_233" value=" quelz herbes est ce , ce brouillis ?"/><!--  quelz herbes est ce , ce brouillis ? -->
+<feat xlink:href="#line_234" value=" il ne me fault poinct de coulis :"/><!--  il ne me fault poinct de coulis : -->
+<feat xlink:href="#line_235" value=" je mengeustz bien sans medecine ."/><!--  je mengeustz bien sans medecine . -->
+<feat xlink:href="#line_236" value=" par dieu , je n&apos; y prens poinct bon sine ."/><!--  par dieu , je n' y prens poinct bon sine . -->
+<feat xlink:href="#line_237" value=" sy prenez d&apos; un pain . / da ! / quel da ?"/><!--  sy prenez d' un pain . / da ! / quel da ? -->
+<feat xlink:href="#line_238" value=" et voecy bon genin , dada !"/><!--  et voecy bon genin , dada ! -->
+<feat xlink:href="#line_239" value=" et alés , alés , nostre maistre ."/><!--  et alés , alés , nostre maistre . -->
+<feat xlink:href="#line_240" value=" et me cuidés vous faire paistre"/><!--  et me cuidés vous faire paistre -->
+<feat xlink:href="#line_241" value=" et l&apos; aultre aveugler ? qu&apos; esse sy ?"/><!--  et l' aultre aveugler ? qu' esse sy ? -->
+<feat xlink:href="#line_242" value=" tout le monde est fort a cognoistre ."/><!--  tout le monde est fort a cognoistre . -->
+<feat xlink:href="#line_243" value=" et me cuidés vous faire paistre ?"/><!--  et me cuidés vous faire paistre ? -->
+<feat xlink:href="#line_244" value=" qu&apos; esse qui vous maine en cest estre ?"/><!--  qu' esse qui vous maine en cest estre ? -->
+<feat xlink:href="#line_245" value=" monde , alés y tout beau . / cesy !"/><!--  monde , alés y tout beau . / cesy ! -->
+<feat xlink:href="#line_246" value=" et me cuidés vous faire paistre"/><!--  et me cuidés vous faire paistre -->
+<feat xlink:href="#line_247" value=" et l&apos; aultre aveugler ? qu&apos; esse cy ?"/><!--  et l' aultre aveugler ? qu' esse cy ? -->
+<feat xlink:href="#line_248" value=" et vous , savez rien aussi ?"/><!--  et vous , savez rien aussi ? -->
+<feat xlink:href="#line_249" value=" qu&apos; estes vous ? / nigromansien ."/><!--  qu' estes vous ? / nigromansien . -->
+<feat xlink:href="#line_250" value=" je sçay le vieil art antien"/><!--  je sçay le vieil art antien -->
+<feat xlink:href="#line_251" value=" du magique . / il sent donc le jaulne ,"/><!--  du magique . / il sent donc le jaulne , -->
+<feat xlink:href="#line_252" value=" se vieillard ? et ! qu&apos; il est bejaulne ,"/><!--  se vieillard ? et ! qu' il est bejaulne , -->
+<feat xlink:href="#line_253" value=" qui vient agacher , assaillir !"/><!--  qui vient agacher , assaillir ! -->
+<feat xlink:href="#line_254" value=" dont peuent ses troys mignons saillir"/><!--  dont peuent ses troys mignons saillir -->
+<feat xlink:href="#line_255" value=" qui me rompent ainsy la teste ?"/><!--  qui me rompent ainsy la teste ? -->
+<feat xlink:href="#line_256" value=" que me veulx tu ? / vous faire beste ."/><!--  que me veulx tu ? / vous faire beste . -->
+<feat xlink:href="#line_257" value=" en ce lieu , sans vous remuer ,"/><!--  en ce lieu , sans vous remuer , -->
+<feat xlink:href="#line_258" value=" instamment vous feray müer"/><!--  instamment vous feray müer -->
+<feat xlink:href="#line_259" value=" en cerf , en ours et en leon ."/><!--  en cerf , en ours et en leon . -->
+<feat xlink:href="#line_260" value=" j&apos; ayme mieulx payer demyon"/><!--  j' ayme mieulx payer demyon -->
+<feat xlink:href="#line_261" value=" et que je ne soys point mué ."/><!--  et que je ne soys point mué . -->
+<feat xlink:href="#line_262" value=" tant l&apos; on seroit bien remué"/><!--  tant l' on seroit bien remué -->
+<feat xlink:href="#line_263" value=" de telz mignons ! / en ! vous railés ."/><!--  de telz mignons ! / en ! vous railés . -->
+<feat xlink:href="#line_264" value=" en av&apos; ous ? or nous en baillés ."/><!--  en av' ous ? or nous en baillés . -->
+<feat xlink:href="#line_265" value=" endroict vous l&apos; or seroyt segret ."/><!--  endroict vous l' or seroyt segret . -->
+<feat xlink:href="#line_266" value=" tout se pert . / il le bat trop froid ."/><!--  tout se pert . / il le bat trop froid . -->
+<feat xlink:href="#line_267" value=" qui eust cuidé qu&apos; il eust tant seü ?"/><!--  qui eust cuidé qu' il eust tant seü ? -->
+<feat xlink:href="#line_268" value=" on ne frapons poinct a l&apos; endroit ;"/><!--  on ne frapons poinct a l' endroit ; -->
+<feat xlink:href="#line_269" value=" toult se pert . / y le bat trop froid ."/><!--  toult se pert . / y le bat trop froid . -->
+<feat xlink:href="#line_270" value=" y congnoyt le tort et le droict ."/><!--  y congnoyt le tort et le droict . -->
+<feat xlink:href="#line_271" value=" quant j&apos; ey bien son cas aperceu ,"/><!--  quant j' ey bien son cas aperceu , -->
+<feat xlink:href="#line_272" value=" toult se pert . / y le bat trop froid ."/><!--  toult se pert . / y le bat trop froid . -->
+<feat xlink:href="#line_273" value=" qui eust cuydé qu&apos; il eust tant seü ?"/><!--  qui eust cuydé qu' il eust tant seü ? -->
+<feat xlink:href="#line_274" value=" on ne frapons poinct a l&apos; endroict ."/><!--  on ne frapons poinct a l' endroict . -->
+<feat xlink:href="#line_275" value=" tout se pert . / y le bat trop froid ."/><!--  tout se pert . / y le bat trop froid . -->
+<feat xlink:href="#line_276" value=" y congnoyt le tort et le droict ."/><!--  y congnoyt le tort et le droict . -->
+<feat xlink:href="#line_277" value=" quant j&apos; ey bien son cas aperceu ,"/><!--  quant j' ey bien son cas aperceu , -->
+<feat xlink:href="#line_278" value=" toult se pert . / y le bat trop froid ."/><!--  toult se pert . / y le bat trop froid . -->
+<feat xlink:href="#line_279" value=" qui eust cuydé qu&apos; il eust tant seü ?"/><!--  qui eust cuydé qu' il eust tant seü ? -->
+<feat xlink:href="#line_280" value=" jamais il ne seroyt deceu"/><!--  jamais il ne seroyt deceu -->
+<feat xlink:href="#line_281" value=" en ce point ; c&apos; est pour tout gaster ."/><!--  en ce point ; c' est pour tout gaster . -->
+<feat xlink:href="#line_282" value=" un mot , hau ! y le fault flater"/><!--  un mot , hau ! y le fault flater -->
+<feat xlink:href="#line_283" value=" pour mieulx en chevir , ce me semble ."/><!--  pour mieulx en chevir , ce me semble . -->
+<feat xlink:href="#line_284" value=" pour l&apos; abatre et pour le mater ,"/><!--  pour l' abatre et pour le mater , -->
+<feat xlink:href="#line_285" value=" un mot , hau ! y le fault flater ."/><!--  un mot , hau ! y le fault flater . -->
+<feat xlink:href="#line_286" value=" musars , vous avez beau bater ;"/><!--  musars , vous avez beau bater ; -->
+<feat xlink:href="#line_287" value=" n&apos; en tenez ja conseil ensemble ."/><!--  n' en tenez ja conseil ensemble . -->
+<feat xlink:href="#line_288" value=" un mot , hau ! y le fault flater ."/><!--  un mot , hau ! y le fault flater . -->
+<feat xlink:href="#line_289" value=" pour mieulx en chevir , ce me semble ."/><!--  pour mieulx en chevir , ce me semble . -->
+<feat xlink:href="#line_290" value=" chantés hardiment tous ensemble ,"/><!--  chantés hardiment tous ensemble , -->
+<feat xlink:href="#line_291" value=" ou aultrement , pour toult potage ,"/><!--  ou aultrement , pour toult potage , -->
+<feat xlink:href="#line_292" value=" c&apos; est mal chercher vostre avantage ."/><!--  c' est mal chercher vostre avantage . -->
+<feat xlink:href="#line_293" value=" monde mondain , plaisant , subtil ,"/><!--  monde mondain , plaisant , subtil , -->
+<feat xlink:href="#line_294" value=" onneste , gratieulx , gentil ,"/><!--  onneste , gratieulx , gentil , -->
+<feat xlink:href="#line_295" value=" tu reluys en mer et en terre ;"/><!--  tu reluys en mer et en terre ; -->
+<feat xlink:href="#line_296" value=" pour neant je te requiers . / serre ."/><!--  pour neant je te requiers . / serre . -->
+<feat xlink:href="#line_297" value=" gentil monde , tant tu es riche !"/><!--  gentil monde , tant tu es riche ! -->
+<feat xlink:href="#line_298" value=" endroict moy que tu ne soys chiche ."/><!--  endroict moy que tu ne soys chiche . -->
+<feat xlink:href="#line_299" value=" puis qu&apos; en toy deshonneur s&apos; eslongne ,"/><!--  puis qu' en toy deshonneur s' eslongne , -->
+<feat xlink:href="#line_300" value=" donne moy de tes grands biens . / congne !"/><!--  donne moy de tes grands biens . / congne ! -->
+<feat xlink:href="#line_301" value=" dieu ayt l&apos; ame de raul flatart !"/><!--  dieu ayt l' ame de raul flatart ! -->
+<feat xlink:href="#line_302" value=" par dieu , vous y venés bien tard ,"/><!--  par dieu , vous y venés bien tard , -->
+<feat xlink:href="#line_303" value=" com celuy qui crye la moutarde ."/><!--  com celuy qui crye la moutarde . -->
+<feat xlink:href="#line_304" value=" et , monde , quant je te regarde ,"/><!--  et , monde , quant je te regarde , -->
+<feat xlink:href="#line_305" value=" tu me semble tresgentement"/><!--  tu me semble tresgentement -->
+<feat xlink:href="#line_306" value=" vestu en ton acoustrement :"/><!--  vestu en ton acoustrement : -->
+<feat xlink:href="#line_307" value=" c&apos; est fin drap , toultes foys n&apos; est mye ."/><!--  c' est fin drap , toultes foys n' est mye . -->
+<feat xlink:href="#line_308" value=" c&apos; est mon , mais vous ne l&apos; arés mye ."/><!--  c' est mon , mais vous ne l' arés mye . -->
+<feat xlink:href="#line_309" value=" vous estes sur le hault verdus ;"/><!--  vous estes sur le hault verdus ; -->
+<feat xlink:href="#line_310" value=" vos beaulx jours ne sont pas perdus :"/><!--  vos beaulx jours ne sont pas perdus : -->
+<feat xlink:href="#line_311" value=" tant voecy un maistre pourpoinct !"/><!--  tant voecy un maistre pourpoinct ! -->
+<feat xlink:href="#line_312" value=" c&apos; est mon , mais vous ne l&apos; arés poinct ."/><!--  c' est mon , mais vous ne l' arés poinct . -->
+<feat xlink:href="#line_313" value=" tant tu as maincte belle chose ,"/><!--  tant tu as maincte belle chose , -->
+<feat xlink:href="#line_314" value=" monde ! ta toque sent la rose ,"/><!--  monde ! ta toque sent la rose , -->
+<feat xlink:href="#line_315" value=" et est bien tournee par compas ."/><!--  et est bien tournee par compas . -->
+<feat xlink:href="#line_316" value=" c&apos; est mon , mais vous ne l&apos; arés pas ."/><!--  c' est mon , mais vous ne l' arés pas . -->
+<feat xlink:href="#line_317" value=" qui me vouldroict ainsi navrer ,"/><!--  qui me vouldroict ainsi navrer , -->
+<feat xlink:href="#line_318" value=" y me fauldroyt bien enyvrer"/><!--  y me fauldroyt bien enyvrer -->
+<feat xlink:href="#line_319" value=" et boyre cinq foys d&apos; avantage ."/><!--  et boyre cinq foys d' avantage . -->
+<feat xlink:href="#line_320" value=" vous y perdés vostre langage ,"/><!--  vous y perdés vostre langage , -->
+<feat xlink:href="#line_321" value=" afin qu&apos; ame ne s&apos; y efforce ."/><!--  afin qu' ame ne s' y efforce . -->
+<feat xlink:href="#line_322" value=" nous vivons aveq vous par force ,"/><!--  nous vivons aveq vous par force , -->
+<feat xlink:href="#line_323" value=" bon gré , mal gré . / sus vostre dam ."/><!--  bon gré , mal gré . / sus vostre dam . -->
+<feat xlink:href="#line_324" value=" qu&apos; en dictes vous ? suis je souldam ?"/><!--  qu' en dictes vous ? suis je souldam ? -->
+<feat xlink:href="#line_325" value=" a quel jeu l&apos; avons nous perdu ?"/><!--  a quel jeu l' avons nous perdu ? -->
+<feat xlink:href="#line_326" value=" nous sommes tous d&apos; eve et d&apos; adam ;"/><!--  nous sommes tous d' eve et d' adam ; -->
+<feat xlink:href="#line_327" value=" qu&apos; en dictes vous ? suis je souldam ?"/><!--  qu' en dictes vous ? suis je souldam ? -->
+<feat xlink:href="#line_328" value=" qu&apos; en faict en plus en un quidem ,"/><!--  qu' en faict en plus en un quidem , -->
+<feat xlink:href="#line_329" value=" qui est de nouveau descendu ?"/><!--  qui est de nouveau descendu ? -->
+<feat xlink:href="#line_330" value=" qu&apos; en dictes vous ? suis je souldam ?"/><!--  qu' en dictes vous ? suis je souldam ? -->
+<feat xlink:href="#line_331" value=" a quel jeu l&apos; avons nous perdu ?"/><!--  a quel jeu l' avons nous perdu ? -->
+<feat xlink:href="#line_332" value=" de vous gouverner en temps du ,"/><!--  de vous gouverner en temps du , -->
+<feat xlink:href="#line_333" value=" ainsy comme les aultres font ."/><!--  ainsy comme les aultres font . -->
+<feat xlink:href="#line_334" value=" de mes biens tout n&apos; est pas fondu ;"/><!--  de mes biens tout n' est pas fondu ; -->
+<feat xlink:href="#line_335" value=" ceux qui les pratiquent les ont ."/><!--  ceux qui les pratiquent les ont . -->
+<feat xlink:href="#line_336" value=" est ce vent d&apos; aval ou d&apos; amont ?"/><!--  est ce vent d' aval ou d' amont ? -->
+<feat xlink:href="#line_337" value=" n&apos; ai ge pas oÿ un timboys"/><!--  n' ai ge pas oÿ un timboys -->
+<feat xlink:href="#line_338" value=" vers ce cartier ? je m&apos; y en voys"/><!--  vers ce cartier ? je m' y en voys -->
+<feat xlink:href="#line_339" value=" pour veoir que c&apos; est a retirer ."/><!--  pour veoir que c' est a retirer . -->
+<feat xlink:href="#line_340" value=" quant je voys d&apos; aulcuns folyer ,"/><!--  quant je voys d' aulcuns folyer , -->
+<feat xlink:href="#line_341" value=" ou d&apos; aultres regiber ou mordre ,"/><!--  ou d' aultres regiber ou mordre , -->
+<feat xlink:href="#line_342" value=" g&apos; y doibtz aler , car je suis ordre ,"/><!--  g' y doibtz aler , car je suis ordre , -->
+<feat xlink:href="#line_343" value=" qui mais les choses a leur droict ."/><!--  qui mais les choses a leur droict . -->
+<feat xlink:href="#line_344" value=" je doys fraper en bon endroict"/><!--  je doys fraper en bon endroict -->
+<feat xlink:href="#line_345" value=" sur tout ce qu&apos; il y a de jeu ."/><!--  sur tout ce qu' il y a de jeu . -->
+<feat xlink:href="#line_346" value=" c&apos; est le monde . bien , de par dieu ."/><!--  c' est le monde . bien , de par dieu . -->
+<feat xlink:href="#line_347" value=" si j&apos; estoys tousjours avec luy ,"/><!--  si j' estoys tousjours avec luy , -->
+<feat xlink:href="#line_348" value=" il n&apos; aroyt soulcy ny ennuy ."/><!--  il n' aroyt soulcy ny ennuy . -->
+<feat xlink:href="#line_349" value=" quelz gens sont ce la qui deplassent ?"/><!--  quelz gens sont ce la qui deplassent ? -->
+<feat xlink:href="#line_350" value=" il semble a les veoir qu&apos; i l&apos; agasent ."/><!--  il semble a les veoir qu' i l' agasent . -->
+<feat xlink:href="#line_351" value=" qu&apos; ame ne parte de son lieu"/><!--  qu' ame ne parte de son lieu -->
+<feat xlink:href="#line_352" value=" pour moy . / monde , dieu vous gard , dieu ,"/><!--  pour moy . / monde , dieu vous gard , dieu , -->
+<feat xlink:href="#line_353" value=" et les aultres pareillement ,"/><!--  et les aultres pareillement , -->
+<feat xlink:href="#line_354" value=" tout comme vous ! / paciamment"/><!--  tout comme vous ! / paciamment -->
+<feat xlink:href="#line_355" value=" y me fault tous heurs endurer ,"/><!--  y me fault tous heurs endurer , -->
+<feat xlink:href="#line_356" value=" combien que je ne puys pleurer ,"/><!--  combien que je ne puys pleurer , -->
+<feat xlink:href="#line_357" value=" car j&apos; ay des biens plus que des maulx ,"/><!--  car j' ay des biens plus que des maulx , -->
+<feat xlink:href="#line_358" value=" dieu mercy . / que dient ces vasaulx ,"/><!--  dieu mercy . / que dient ces vasaulx , -->
+<feat xlink:href="#line_359" value=" qui sont en ce poinct arivés ?"/><!--  qui sont en ce poinct arivés ? -->
+<feat xlink:href="#line_360" value=" se sont trois povres engelés"/><!--  se sont trois povres engelés -->
+<feat xlink:href="#line_361" value=" qui me veulent menger toult cru ."/><!--  qui me veulent menger toult cru . -->
+<feat xlink:href="#line_362" value=" monde , s&apos; on leur a rien acreu ,"/><!--  monde , s' on leur a rien acreu , -->
+<feat xlink:href="#line_363" value=" qu&apos; on les paye , afin qu&apos; i s&apos; en voisent ."/><!--  qu' on les paye , afin qu' i s' en voisent . -->
+<feat xlink:href="#line_364" value=" que vous fault il ? / y se degoisent ,"/><!--  que vous fault il ? / y se degoisent , -->
+<feat xlink:href="#line_365" value=" moitié figues , moitié raisins ,"/><!--  moitié figues , moitié raisins , -->
+<feat xlink:href="#line_366" value=" combien qu&apos; i sont tous mes voisins ;"/><!--  combien qu' i sont tous mes voisins ; -->
+<feat xlink:href="#line_367" value=" mais , pour vous compter la maniere ,"/><!--  mais , pour vous compter la maniere , -->
+<feat xlink:href="#line_368" value=" ce fol est venu par deriere"/><!--  ce fol est venu par deriere -->
+<feat xlink:href="#line_369" value=" pour m&apos; aveugler . / esse ou il tent ?"/><!--  pour m' aveugler . / esse ou il tent ? -->
+<feat xlink:href="#line_370" value=" chacun le faict comme il entend ."/><!--  chacun le faict comme il entend . -->
+<feat xlink:href="#line_371" value=" et l&apos; aultre est venu de travers"/><!--  et l' aultre est venu de travers -->
+<feat xlink:href="#line_372" value=" en me servant de mos couvers ,"/><!--  en me servant de mos couvers , -->
+<feat xlink:href="#line_373" value=" et avoyt de l&apos; erbe , ce maistre ,"/><!--  et avoyt de l' erbe , ce maistre , -->
+<feat xlink:href="#line_374" value=" dont y m&apos; a cuidé faire paistre ,"/><!--  dont y m' a cuidé faire paistre , -->
+<feat xlink:href="#line_375" value=" nonobstant que rien ne me deult ."/><!--  nonobstant que rien ne me deult . -->
+<feat xlink:href="#line_376" value=" a ! y gaigne le gal qui peult ."/><!--  a ! y gaigne le gal qui peult . -->
+<feat xlink:href="#line_377" value=" le tiers estudye nigromance"/><!--  le tiers estudye nigromance -->
+<feat xlink:href="#line_378" value=" et dict qu&apos; il est en sa puissance"/><!--  et dict qu' il est en sa puissance -->
+<feat xlink:href="#line_379" value=" de me faire devenir beste ."/><!--  de me faire devenir beste . -->
+<feat xlink:href="#line_380" value=" quoy ? y vous a rompeu la teste ?"/><!--  quoy ? y vous a rompeu la teste ? -->
+<feat xlink:href="#line_381" value=" toutefoys il ont toult gasté ."/><!--  toutefoys il ont toult gasté . -->
+<feat xlink:href="#line_382" value=" comme quoy ? / il m&apos; ont tant flaté"/><!--  comme quoy ? / il m' ont tant flaté -->
+<feat xlink:href="#line_383" value=" et dict des biens a ma presence"/><!--  et dict des biens a ma presence -->
+<feat xlink:href="#line_384" value=" tant de moy , sus ma conscience ,"/><!--  tant de moy , sus ma conscience , -->
+<feat xlink:href="#line_385" value=" que ne m&apos; en savoys delivrer ;"/><!--  que ne m' en savoys delivrer ; -->
+<feat xlink:href="#line_386" value=" enfin y m&apos; ont cuidé navrer"/><!--  enfin y m' ont cuidé navrer -->
+<feat xlink:href="#line_387" value=" en me disant : « ce drap est fin ,"/><!--  en me disant : « ce drap est fin , -->
+<feat xlink:href="#line_388" value=" ce pourpoinct est beau et godin » ,"/><!--  ce pourpoinct est beau et godin » , -->
+<feat xlink:href="#line_389" value=" voyere , en plusieurs mos arunés ,"/><!--  voyere , en plusieurs mos arunés , -->
+<feat xlink:href="#line_390" value=" cuidant que je dise : « tenés » ."/><!--  cuidant que je dise : « tenés » . -->
+<feat xlink:href="#line_391" value=" y n&apos; avoyent garde de ce coup ."/><!--  y n' avoyent garde de ce coup . -->
+<feat xlink:href="#line_392" value=" or vous retirés tous a coup ."/><!--  or vous retirés tous a coup . -->
+<feat xlink:href="#line_393" value=" servés vous de telles offices ?"/><!--  servés vous de telles offices ? -->
+<feat xlink:href="#line_394" value=" alés impetrer benefices"/><!--  alés impetrer benefices -->
+<feat xlink:href="#line_395" value=" soublz l&apos; abaye de frevaulx ,"/><!--  soublz l' abaye de frevaulx , -->
+<feat xlink:href="#line_396" value=" cuydés ? / qui tiendra vos chevaulx ?"/><!--  cuydés ? / qui tiendra vos chevaulx ? -->
+<feat xlink:href="#line_397" value=" comme vous vous evertués !"/><!--  comme vous vous evertués ! -->
+<feat xlink:href="#line_398" value=" quelz estoremens , quelz joyaux !"/><!--  quelz estoremens , quelz joyaux ! -->
+<feat xlink:href="#line_399" value=" cuydés ? / qui tiendra vos chevaulx ?"/><!--  cuydés ? / qui tiendra vos chevaulx ? -->
+<feat xlink:href="#line_400" value=" telz gens ne font que trop de maulx"/><!--  telz gens ne font que trop de maulx -->
+<feat xlink:href="#line_401" value=" ou monde . sus , sus , revenés !"/><!--  ou monde . sus , sus , revenés ! -->
+<feat xlink:href="#line_402" value=" cuydés ? / qui tiendra vos chesvaulz ?"/><!--  cuydés ? / qui tiendra vos chesvaulz ? -->
+<feat xlink:href="#line_403" value=" comme vous vous evertués !"/><!--  comme vous vous evertués ! -->
+<feat xlink:href="#line_404" value=" s&apos; on ne sommes mors ou tués ,"/><!--  s' on ne sommes mors ou tués , -->
+<feat xlink:href="#line_405" value=" nous vivrons au monde vrayment ."/><!--  nous vivrons au monde vrayment . -->
+<feat xlink:href="#line_406" value=" comment ? / ne vous chaille comment :"/><!--  comment ? / ne vous chaille comment : -->
+<feat xlink:href="#line_407" value=" tant que le grand maistre vouldra ."/><!--  tant que le grand maistre vouldra . -->
+<feat xlink:href="#line_408" value=" voyere , mais donc il vous fauldra"/><!--  voyere , mais donc il vous fauldra -->
+<feat xlink:href="#line_409" value=" vivre aultrement pour toulte reste ."/><!--  vivre aultrement pour toulte reste . -->
+<feat xlink:href="#line_410" value=" aveugler , paistre , faire beste !"/><!--  aveugler , paistre , faire beste ! -->
+<feat xlink:href="#line_411" value=" chassés au loing , chassés , chassés !"/><!--  chassés au loing , chassés , chassés ! -->
+<feat xlink:href="#line_412" value=" et comment ? vous nous ravasés ?"/><!--  et comment ? vous nous ravasés ? -->
+<feat xlink:href="#line_413" value=" demandez qu&apos; il est . / vostre nom ?"/><!--  demandez qu' il est . / vostre nom ? -->
+<feat xlink:href="#line_414" value=" mais le vostre ? / nostre renom"/><!--  mais le vostre ? / nostre renom -->
+<feat xlink:href="#line_415" value=" s&apos; epand oultre la grande mer ."/><!--  s' epand oultre la grande mer . -->
+<feat xlink:href="#line_416" value=" et je me faictz ordre nommer ,"/><!--  et je me faictz ordre nommer , -->
+<feat xlink:href="#line_417" value=" que ceulx qui me veulent aymer"/><!--  que ceulx qui me veulent aymer -->
+<feat xlink:href="#line_418" value=" je maine a regle et a compas ."/><!--  je maine a regle et a compas . -->
+<feat xlink:href="#line_419" value=" ordre , je ne vous cognoys pas ."/><!--  ordre , je ne vous cognoys pas . -->
+<feat xlink:href="#line_420" value=" je vous en croys sans en jurer ."/><!--  je vous en croys sans en jurer . -->
+<feat xlink:href="#line_421" value=" monde , s&apos; on vous veult martirer ,"/><!--  monde , s' on vous veult martirer , -->
+<feat xlink:href="#line_422" value=" je suys qui en faictz la raison ."/><!--  je suys qui en faictz la raison . -->
+<feat xlink:href="#line_423" value=" je vous ay veü longue saison ;"/><!--  je vous ay veü longue saison ; -->
+<feat xlink:href="#line_424" value=" long temps a que je vous cognoys ."/><!--  long temps a que je vous cognoys . -->
+<feat xlink:href="#line_425" value=" sus , que avrons nous ? / troys vins de nois ."/><!--  sus , que avrons nous ? / troys vins de nois . -->
+<feat xlink:href="#line_426" value=" vous estes bien sos radotés ."/><!--  vous estes bien sos radotés . -->
+<feat xlink:href="#line_427" value=" sy conterons nous vos pastés ,"/><!--  sy conterons nous vos pastés , -->
+<feat xlink:href="#line_428" value=" monde , quelque jour qui viendra ."/><!--  monde , quelque jour qui viendra . -->
+<feat xlink:href="#line_429" value=" toutefoys n&apos; en mengerés ja ,"/><!--  toutefoys n' en mengerés ja , -->
+<feat xlink:href="#line_430" value=" car vous m&apos; avés pris sur le vert ."/><!--  car vous m' avés pris sur le vert . -->
+<feat xlink:href="#line_431" value=" vienne le grand chemin ouvert"/><!--  vienne le grand chemin ouvert -->
+<feat xlink:href="#line_432" value=" qui veult des biens du monde avoir ."/><!--  qui veult des biens du monde avoir . -->
+<feat xlink:href="#line_433" value=" voyla nostre cas descouvert ."/><!--  voyla nostre cas descouvert . -->
+<feat xlink:href="#line_434" value=" vienne le grand chemin ouvert ,"/><!--  vienne le grand chemin ouvert , -->
+<feat xlink:href="#line_435" value=" sans tenir le sentier couvert ."/><!--  sans tenir le sentier couvert . -->
+<feat xlink:href="#line_436" value=" a tous je l&apos; ay faict asavoir :"/><!--  a tous je l' ay faict asavoir : -->
+<feat xlink:href="#line_437" value=" vienne le grand chemin ouvert"/><!--  vienne le grand chemin ouvert -->
+<feat xlink:href="#line_438" value=" qui veult des biens du monde avoir ."/><!--  qui veult des biens du monde avoir . -->
+<feat xlink:href="#line_439" value=" enfans , que nous face debvoir"/><!--  enfans , que nous face debvoir -->
+<feat xlink:href="#line_440" value=" de chanter a la departye"/><!--  de chanter a la departye -->
+<feat xlink:href="#line_441" value=" quelque chanson qui soit partye ."/><!--  quelque chanson qui soit partye . -->
+<feat xlink:href="#line_442" value=" hardiment , je vous en dispense ."/><!--  hardiment , je vous en dispense . -->
+<feat xlink:href="#line_443" value=" voila pour nostre recompense ;"/><!--  voila pour nostre recompense ; -->
+<feat xlink:href="#line_444" value=" le premier , va devant , commence ."/><!--  le premier , va devant , commence . -->
+</featList>
+</paula>

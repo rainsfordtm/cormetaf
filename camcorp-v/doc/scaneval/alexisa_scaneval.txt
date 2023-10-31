@@ -1,0 +1,21 @@
+Rules applied: R1, R8
+Lines correct: 333 of 336
+Pass history:
+Tried rules R1; 328 lines correct.
+Tried rules R11; 274 lines correct.
+Tried rules R2; 279 lines correct.
+Tried rules R30; 281 lines correct.
+Tried rules R8; 286 lines correct.
+Tried rules R1, R11; 320 lines correct.
+Tried rules R1, R2; 326 lines correct.
+Tried rules R1, R30; 328 lines correct.
+Tried rules R1, R8; 333 lines correct.
+Tried rules R1, R8, R11; 325 lines correct.
+Tried rules R1, R8, R2; 331 lines correct.
+Tried rules R1, R8, R30; 333 lines correct.
+OPTIMIZED LINES
+331    83_4     Chiens repaire un homme c' on doit tenir pour saige ;
+
+BAD LINES
+34    9_3     A la court l' empereur de Romme ala servir :
+258    65_3     Tant jeuna li sains hons , si fu descoulouré ,

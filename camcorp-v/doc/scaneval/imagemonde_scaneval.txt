@@ -1,0 +1,19 @@
+Rules applied: R1, R8
+Lines correct: 501 of 502
+Pass history:
+Tried rules R1; 499 lines correct.
+Tried rules R11; 416 lines correct.
+Tried rules R2; 419 lines correct.
+Tried rules R30; 423 lines correct.
+Tried rules R8; 425 lines correct.
+Tried rules R1, R11; 492 lines correct.
+Tried rules R1, R2; 495 lines correct.
+Tried rules R1, R30; 499 lines correct.
+Tried rules R1, R8; 501 lines correct.
+Tried rules R1, R8, R11; 494 lines correct.
+Tried rules R1, R8, R2; 497 lines correct.
+Tried rules R1, R8, R30; 501 lines correct.
+OPTIMIZED LINES
+378    379     Qui crestiens avoient soz ex ,
+
+BAD LINES

@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.testament_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.testament.line.xml">
+<feat xlink:href="#line_0" value=" par faulte d&apos; un huys g&apos; y perdiz"/><!--  par faulte d' un huys g' y perdiz -->
+<feat xlink:href="#line_1" value=" ung grez et ung manche de houe ."/><!--  ung grez et ung manche de houe . -->
+<feat xlink:href="#line_2" value=" alors , huit faucons , non pas dix ,"/><!--  alors , huit faucons , non pas dix , -->
+<feat xlink:href="#line_3" value=" n&apos; y eussent pas prins une aloue :"/><!--  n' y eussent pas prins une aloue : -->
+<feat xlink:href="#line_4" value=" l&apos; ostel est seur , mais qu&apos; on le cloue ."/><!--  l' ostel est seur , mais qu' on le cloue . -->
+<feat xlink:href="#line_5" value=" pour enseigne y mis ung havet ,"/><!--  pour enseigne y mis ung havet , -->
+<feat xlink:href="#line_6" value=" qui que l&apos; ait prins , point ne m&apos; en loue …"/><!--  qui que l' ait prins , point ne m' en loue … -->
+<feat xlink:href="#line_7" value=" senglante nuyt et bas chevet !"/><!--  senglante nuyt et bas chevet ! -->
+<feat xlink:href="#line_8" value=" item , et pour ce que la femme"/><!--  item , et pour ce que la femme -->
+<feat xlink:href="#line_9" value=" de maistre piere saint amant"/><!--  de maistre piere saint amant -->
+<feat xlink:href="#line_10" value=" — combien , se coulpe y a a l&apos; ame ,"/><!--  — combien , se coulpe y a a l' ame , -->
+<feat xlink:href="#line_11" value=" dieu lui pardonne doulcement ! —"/><!--  dieu lui pardonne doulcement ! — -->
+<feat xlink:href="#line_12" value=" me myt ou ranc de cayment ,"/><!--  me myt ou ranc de cayment , -->
+<feat xlink:href="#line_13" value=" pour le cheval blanc qui ne bouge"/><!--  pour le cheval blanc qui ne bouge -->
+<feat xlink:href="#line_14" value=" lui change a une jument ,"/><!--  lui change a une jument , -->
+<feat xlink:href="#line_15" value=" et la mulle a ung asne rouge ."/><!--  et la mulle a ung asne rouge . -->
+<feat xlink:href="#line_16" value=" item , donne a sire denis"/><!--  item , donne a sire denis -->
+<feat xlink:href="#line_17" value=" hyncelin , esleu de paris ,"/><!--  hyncelin , esleu de paris , -->
+<feat xlink:href="#line_18" value=" quatorze muys de vin d&apos; aulnys"/><!--  quatorze muys de vin d' aulnys -->
+<feat xlink:href="#line_19" value=" prins sur turgis a mes perilz ;"/><!--  prins sur turgis a mes perilz ; -->
+<feat xlink:href="#line_20" value=" s&apos; il en buvoit tant que periz"/><!--  s' il en buvoit tant que periz -->
+<feat xlink:href="#line_21" value=" en fust son sens et sa raison ,"/><!--  en fust son sens et sa raison , -->
+<feat xlink:href="#line_22" value=" qu&apos; on mecte de l&apos; eaue es bariz :"/><!--  qu' on mecte de l' eaue es bariz : -->
+<feat xlink:href="#line_23" value=" vin pert mainte bonne maison ."/><!--  vin pert mainte bonne maison . -->
+<feat xlink:href="#line_24" value=" item , donne a mon avocat ,"/><!--  item , donne a mon avocat , -->
+<feat xlink:href="#line_25" value=" maistre guillaume charuau ,"/><!--  maistre guillaume charuau , -->
+<feat xlink:href="#line_26" value=" quoy ? que marchant ot pour estat ,"/><!--  quoy ? que marchant ot pour estat , -->
+<feat xlink:href="#line_27" value=" mon branc ; je me tais du fourreau ."/><!--  mon branc ; je me tais du fourreau . -->
+<feat xlink:href="#line_28" value=" il aura avec ce ung reau"/><!--  il aura avec ce ung reau -->
+<feat xlink:href="#line_29" value=" en change , affin que sa bourse enffle ,"/><!--  en change , affin que sa bourse enffle , -->
+<feat xlink:href="#line_30" value=" prins sur la chaussee et carreau"/><!--  prins sur la chaussee et carreau -->
+<feat xlink:href="#line_31" value=" de la grant costure du temple ."/><!--  de la grant costure du temple . -->
+<feat xlink:href="#line_32" value=" item , mon procureur fournier"/><!--  item , mon procureur fournier -->
+<feat xlink:href="#line_33" value=" aura pour toutes ses corvees"/><!--  aura pour toutes ses corvees -->
+<feat xlink:href="#line_34" value=" — simple sera de l&apos; espargnier —"/><!--  — simple sera de l' espargnier — -->
+<feat xlink:href="#line_35" value=" en ma bourse quatre havees ,"/><!--  en ma bourse quatre havees , -->
+<feat xlink:href="#line_36" value=" car maintes causes m&apos; a saulvees ,"/><!--  car maintes causes m' a saulvees , -->
+<feat xlink:href="#line_37" value=" justes , ainsi jhesu crist m&apos; aide ;"/><!--  justes , ainsi jhesu crist m' aide ; -->
+<feat xlink:href="#line_38" value=" comme telles se sont trouvees ,"/><!--  comme telles se sont trouvees , -->
+<feat xlink:href="#line_39" value=" mais bon droit a bon mestier d&apos; aide ."/><!--  mais bon droit a bon mestier d' aide . -->
+<feat xlink:href="#line_40" value=" item , je donne a maistre jacques"/><!--  item , je donne a maistre jacques -->
+<feat xlink:href="#line_41" value=" raguier le grant godet de greve ,"/><!--  raguier le grant godet de greve , -->
+<feat xlink:href="#line_42" value=" pourveu qu&apos; il paiera quatre placques ,"/><!--  pourveu qu' il paiera quatre placques , -->
+<feat xlink:href="#line_43" value=" deust il vendre , quoy qu&apos; il lui griesve"/><!--  deust il vendre , quoy qu' il lui griesve -->
+<feat xlink:href="#line_44" value=" ce dont on coeuvre mol et greve ,"/><!--  ce dont on coeuvre mol et greve , -->
+<feat xlink:href="#line_45" value=" aler nues jambes en chappin ,"/><!--  aler nues jambes en chappin , -->
+<feat xlink:href="#line_46" value=" se sans moy boyt , assiet ne lieve"/><!--  se sans moy boyt , assiet ne lieve -->
+<feat xlink:href="#line_47" value=" au trou de la pomme de pin ."/><!--  au trou de la pomme de pin . -->
+<feat xlink:href="#line_48" value=" item , quant est de merebuef"/><!--  item , quant est de merebuef -->
+<feat xlink:href="#line_49" value=" et de nicolas de louviers ,"/><!--  et de nicolas de louviers , -->
+<feat xlink:href="#line_50" value=" vache ne leur donne ne beuf ,"/><!--  vache ne leur donne ne beuf , -->
+<feat xlink:href="#line_51" value=" car vachiers ne sont ne bouviers ,"/><!--  car vachiers ne sont ne bouviers , -->
+<feat xlink:href="#line_52" value=" mes gans a porter espreviers ,"/><!--  mes gans a porter espreviers , -->
+<feat xlink:href="#line_53" value=" ne cuidez pas que je me joue ,"/><!--  ne cuidez pas que je me joue , -->
+<feat xlink:href="#line_54" value=" et pour prendre perdrys , ploviers ,"/><!--  et pour prendre perdrys , ploviers , -->
+<feat xlink:href="#line_55" value=" sans faillir … sur la machecoue ."/><!--  sans faillir … sur la machecoue . -->
+<feat xlink:href="#line_56" value=" item , viengne robert turgis"/><!--  item , viengne robert turgis -->
+<feat xlink:href="#line_57" value=" a moy , je lui paieray son vin ;"/><!--  a moy , je lui paieray son vin ; -->
+<feat xlink:href="#line_58" value=" combien , s&apos; il treuve mon logis ,"/><!--  combien , s' il treuve mon logis , -->
+<feat xlink:href="#line_59" value=" plus fort fera que le devin ."/><!--  plus fort fera que le devin . -->
+<feat xlink:href="#line_60" value=" le droit lui donne d&apos; eschevin"/><!--  le droit lui donne d' eschevin -->
+<feat xlink:href="#line_61" value=" que j&apos; ay comme enffant de paris ."/><!--  que j' ay comme enffant de paris . -->
+<feat xlink:href="#line_62" value=" se je parle ung poy poictevin ,"/><!--  se je parle ung poy poictevin , -->
+<feat xlink:href="#line_63" value=" ice m&apos; ont deux dames apris ."/><!--  ice m' ont deux dames apris . -->
+<feat xlink:href="#line_64" value=" illes sont tres belles et gentes ,"/><!--  illes sont tres belles et gentes , -->
+<feat xlink:href="#line_65" value=" demourant a saint generou"/><!--  demourant a saint generou -->
+<feat xlink:href="#line_66" value=" prez saint julien de voventes ,"/><!--  prez saint julien de voventes , -->
+<feat xlink:href="#line_67" value=" marche de bretaigne a poictou ."/><!--  marche de bretaigne a poictou . -->
+<feat xlink:href="#line_68" value=" mais i ne dis proprement ou"/><!--  mais i ne dis proprement ou -->
+<feat xlink:href="#line_69" value=" yquelles pensent tous les jours ;"/><!--  yquelles pensent tous les jours ; -->
+<feat xlink:href="#line_70" value=" m&apos; arme ! i ne suy moy si treffou ,"/><!--  m' arme ! i ne suy moy si treffou , -->
+<feat xlink:href="#line_71" value=" car i vueil celer mes amours ."/><!--  car i vueil celer mes amours . -->
+<feat xlink:href="#line_72" value=" item , a jehan raguier je donne ,"/><!--  item , a jehan raguier je donne , -->
+<feat xlink:href="#line_73" value=" qui est sergent , voire des douze ,"/><!--  qui est sergent , voire des douze , -->
+<feat xlink:href="#line_74" value=" tant qu&apos; il vivra , ainsi l&apos; ordonne ,"/><!--  tant qu' il vivra , ainsi l' ordonne , -->
+<feat xlink:href="#line_75" value=" tous les jours une tallemouze"/><!--  tous les jours une tallemouze -->
+<feat xlink:href="#line_76" value=" pour bouter et fourrer sa mouse ,"/><!--  pour bouter et fourrer sa mouse , -->
+<feat xlink:href="#line_77" value=" prinse a la table de bailly ;"/><!--  prinse a la table de bailly ; -->
+<feat xlink:href="#line_78" value=" a maubué sa gorge arrouse ,"/><!--  a maubué sa gorge arrouse , -->
+<feat xlink:href="#line_79" value=" car au menger n&apos; a pas failly ."/><!--  car au menger n' a pas failly . -->
+<feat xlink:href="#line_80" value=" item , et au prince des sotz"/><!--  item , et au prince des sotz -->
+<feat xlink:href="#line_81" value=" pour ung bon sot michault du four ,"/><!--  pour ung bon sot michault du four , -->
+<feat xlink:href="#line_82" value=" qui a la foyz dit de bons mots"/><!--  qui a la foyz dit de bons mots -->
+<feat xlink:href="#line_83" value=" et chante bien « ma doulce amour » ,"/><!--  et chante bien « ma doulce amour » , -->
+<feat xlink:href="#line_84" value=" je lui donne , avec le bon jour ;"/><!--  je lui donne , avec le bon jour ; -->
+<feat xlink:href="#line_85" value=" brief , mais qu&apos; il fust ung peu en point ,"/><!--  brief , mais qu' il fust ung peu en point , -->
+<feat xlink:href="#line_86" value=" il est ung droit sot de sejour"/><!--  il est ung droit sot de sejour -->
+<feat xlink:href="#line_87" value=" et est plaisant ou il n&apos; est point ."/><!--  et est plaisant ou il n' est point . -->
+<feat xlink:href="#line_88" value=" item , aux unze vings sergens"/><!--  item , aux unze vings sergens -->
+<feat xlink:href="#line_89" value=" donne — car leur fait est honneste"/><!--  donne — car leur fait est honneste -->
+<feat xlink:href="#line_90" value=" et sont bonnes et doulces gens"/><!--  et sont bonnes et doulces gens -->
+<feat xlink:href="#line_91" value=" denis richier et jehan valecte —"/><!--  denis richier et jehan valecte — -->
+<feat xlink:href="#line_92" value=" a chacun une grant cornecte"/><!--  a chacun une grant cornecte -->
+<feat xlink:href="#line_93" value=" pour pendre a leurs chappeaux de faultres ,"/><!--  pour pendre a leurs chappeaux de faultres , -->
+<feat xlink:href="#line_94" value=" j&apos; entens a ceulx a pié , hohecte !"/><!--  j' entens a ceulx a pié , hohecte ! -->
+<feat xlink:href="#line_95" value=" car je n&apos; ay que faire des autres ."/><!--  car je n' ay que faire des autres . -->
+<feat xlink:href="#line_96" value=" de rechief , donne a perrenet ,"/><!--  de rechief , donne a perrenet , -->
+<feat xlink:href="#line_97" value=" j&apos; entens le bastart de la barre ,"/><!--  j' entens le bastart de la barre , -->
+<feat xlink:href="#line_98" value=" pource qu&apos; il est beau filz et nét ,"/><!--  pource qu' il est beau filz et nét , -->
+<feat xlink:href="#line_99" value=" en son escu , en lieu de barre ,"/><!--  en son escu , en lieu de barre , -->
+<feat xlink:href="#line_100" value=" trois dez plombez , de bonne quarre"/><!--  trois dez plombez , de bonne quarre -->
+<feat xlink:href="#line_101" value=" et ung beau joly jeu de cartes ."/><!--  et ung beau joly jeu de cartes . -->
+<feat xlink:href="#line_102" value=" mais quoy ! s&apos; on l&apos; ot vecir ne poire ,"/><!--  mais quoy ! s' on l' ot vecir ne poire , -->
+<feat xlink:href="#line_103" value=" en oultre aura les fievres quartes ."/><!--  en oultre aura les fievres quartes . -->
+<feat xlink:href="#line_104" value=" item , ne vueil plus que chollet"/><!--  item , ne vueil plus que chollet -->
+<feat xlink:href="#line_105" value=" dolle , trenche douve ne boise ,"/><!--  dolle , trenche douve ne boise , -->
+<feat xlink:href="#line_106" value=" relie broc ne tonnelet ,"/><!--  relie broc ne tonnelet , -->
+<feat xlink:href="#line_107" value=" mais tous ses houstiz changer voise"/><!--  mais tous ses houstiz changer voise -->
+<feat xlink:href="#line_108" value=" a une espee lionnoise ,"/><!--  a une espee lionnoise , -->
+<feat xlink:href="#line_109" value=" et retiegne le hutinet :"/><!--  et retiegne le hutinet : -->
+<feat xlink:href="#line_110" value=" combien qu&apos; il n&apos; ayme bruyt ne noise ,"/><!--  combien qu' il n' ayme bruyt ne noise , -->
+<feat xlink:href="#line_111" value=" sy lui plaist il ung tantinet ."/><!--  sy lui plaist il ung tantinet . -->
+<feat xlink:href="#line_112" value=" item , je donne a jehan le lou ,"/><!--  item , je donne a jehan le lou , -->
+<feat xlink:href="#line_113" value=" homme de bien et bon marchant ,"/><!--  homme de bien et bon marchant , -->
+<feat xlink:href="#line_114" value=" pource qu&apos; il est linget et flou"/><!--  pource qu' il est linget et flou -->
+<feat xlink:href="#line_115" value=" et que cholet est mal serchant ,"/><!--  et que cholet est mal serchant , -->
+<feat xlink:href="#line_116" value=" ung beau petit chiennet couchant ,"/><!--  ung beau petit chiennet couchant , -->
+<feat xlink:href="#line_117" value=" qui ne laira poullaille en voye ."/><!--  qui ne laira poullaille en voye . -->
+<feat xlink:href="#line_118" value=" le long tabart est bien cachant"/><!--  le long tabart est bien cachant -->
+<feat xlink:href="#line_119" value=" pour les mucer , qu&apos; on ne les voye ."/><!--  pour les mucer , qu' on ne les voye . -->
+<feat xlink:href="#line_120" value=" item , a l&apos; orfevre de boys"/><!--  item , a l' orfevre de boys -->
+<feat xlink:href="#line_121" value=" donne cent clouz , queues et testes ,"/><!--  donne cent clouz , queues et testes , -->
+<feat xlink:href="#line_122" value=" de gingembre sarrazinoys ,"/><!--  de gingembre sarrazinoys , -->
+<feat xlink:href="#line_123" value=" non pas pour acouppler ses boictes ,"/><!--  non pas pour acouppler ses boictes , -->
+<feat xlink:href="#line_124" value=" mais pour joindre cuz et couectes"/><!--  mais pour joindre cuz et couectes -->
+<feat xlink:href="#line_125" value=" et couldre jambons et andoulles ,"/><!--  et couldre jambons et andoulles , -->
+<feat xlink:href="#line_126" value=" tant que le let en monte aux tectes"/><!--  tant que le let en monte aux tectes -->
+<feat xlink:href="#line_127" value=" et le sang en devalle aux coulles ."/><!--  et le sang en devalle aux coulles . -->
+<feat xlink:href="#line_128" value=" au cappitaine jehan riou ,"/><!--  au cappitaine jehan riou , -->
+<feat xlink:href="#line_129" value=" tant pour lui que pour ses archiers ,"/><!--  tant pour lui que pour ses archiers , -->
+<feat xlink:href="#line_130" value=" je donne six hures de lou ,"/><!--  je donne six hures de lou , -->
+<feat xlink:href="#line_131" value=" qui n&apos; est pas viande a porchiers ,"/><!--  qui n' est pas viande a porchiers , -->
+<feat xlink:href="#line_132" value=" prins a groz matins de bouchiers"/><!--  prins a groz matins de bouchiers -->
+<feat xlink:href="#line_133" value=" et cuictes en vin de buffet ;"/><!--  et cuictes en vin de buffet ; -->
+<feat xlink:href="#line_134" value=" pour manger de ces morceaulx chiers ,"/><!--  pour manger de ces morceaulx chiers , -->
+<feat xlink:href="#line_135" value=" on en feroit bien ung mauffait ."/><!--  on en feroit bien ung mauffait . -->
+<feat xlink:href="#line_136" value=" c&apos; est viande ung peu plus pesante"/><!--  c' est viande ung peu plus pesante -->
+<feat xlink:href="#line_137" value=" que duvet n&apos; est , plume ne liege ;"/><!--  que duvet n' est , plume ne liege ; -->
+<feat xlink:href="#line_138" value=" elle est bonne a porter en tante"/><!--  elle est bonne a porter en tante -->
+<feat xlink:href="#line_139" value=" ou pour user en quelque siege ."/><!--  ou pour user en quelque siege . -->
+<feat xlink:href="#line_140" value=" s&apos; ilz estoient prins en ung piege ,"/><!--  s' ilz estoient prins en ung piege , -->
+<feat xlink:href="#line_141" value=" que ces matins ne seüssent courre ,"/><!--  que ces matins ne seüssent courre , -->
+<feat xlink:href="#line_142" value=" j&apos; ordonne , moy qui suis son miege ,"/><!--  j' ordonne , moy qui suis son miege , -->
+<feat xlink:href="#line_143" value=" que des peaulx sur l&apos; iver se fourre ."/><!--  que des peaulx sur l' iver se fourre . -->
+<feat xlink:href="#line_144" value=" item , a robinet trouscaille ,"/><!--  item , a robinet trouscaille , -->
+<feat xlink:href="#line_145" value=" qui en service , c&apos; est bien fait ,"/><!--  qui en service , c' est bien fait , -->
+<feat xlink:href="#line_146" value=" a pié ne va comme une caille"/><!--  a pié ne va comme une caille -->
+<feat xlink:href="#line_147" value=" mais sur roncin gras et reffait ,"/><!--  mais sur roncin gras et reffait , -->
+<feat xlink:href="#line_148" value=" je lui donne , de mon buffet"/><!--  je lui donne , de mon buffet -->
+<feat xlink:href="#line_149" value=" une jacte qu&apos; empruncter n&apos; ose ;"/><!--  une jacte qu' empruncter n' ose ; -->
+<feat xlink:href="#line_150" value=" sy aura mesnage parfait ,"/><!--  sy aura mesnage parfait , -->
+<feat xlink:href="#line_151" value=" plus ne lui falloit autre chose ."/><!--  plus ne lui falloit autre chose . -->
+<feat xlink:href="#line_152" value=" item , donne a perrot girard ,"/><!--  item , donne a perrot girard , -->
+<feat xlink:href="#line_153" value=" barbier juré du bourg la royne ,"/><!--  barbier juré du bourg la royne , -->
+<feat xlink:href="#line_154" value=" deux bacins et ung cocquemart ,"/><!--  deux bacins et ung cocquemart , -->
+<feat xlink:href="#line_155" value=" puis qu&apos; a gaigner mect telle peine ."/><!--  puis qu' a gaigner mect telle peine . -->
+<feat xlink:href="#line_156" value=" des ans y a demye douzaine"/><!--  des ans y a demye douzaine -->
+<feat xlink:href="#line_157" value=" qu&apos; en son hostel de cochons gras"/><!--  qu' en son hostel de cochons gras -->
+<feat xlink:href="#line_158" value=" m&apos; apatella une sepmaine ,"/><!--  m' apatella une sepmaine , -->
+<feat xlink:href="#line_159" value=" tesmoing l&apos; abesse de pourras ."/><!--  tesmoing l' abesse de pourras . -->
+<feat xlink:href="#line_160" value=" item , aux freres mendians ,"/><!--  item , aux freres mendians , -->
+<feat xlink:href="#line_161" value=" aux devotes et aux beguines ,"/><!--  aux devotes et aux beguines , -->
+<feat xlink:href="#line_162" value=" tant de paris que d&apos; orleans ,"/><!--  tant de paris que d' orleans , -->
+<feat xlink:href="#line_163" value=" tant turlupins que turlupines ,"/><!--  tant turlupins que turlupines , -->
+<feat xlink:href="#line_164" value=" de graces souppes jacoppines"/><!--  de graces souppes jacoppines -->
+<feat xlink:href="#line_165" value=" et flans leur faiz oblacion ,"/><!--  et flans leur faiz oblacion , -->
+<feat xlink:href="#line_166" value=" et puis aprés , soubz ces courtines ,"/><!--  et puis aprés , soubz ces courtines , -->
+<feat xlink:href="#line_167" value=" parler de contemplacion ."/><!--  parler de contemplacion . -->
+<feat xlink:href="#line_168" value=" ce ne suis je pas qui leur donne ,"/><!--  ce ne suis je pas qui leur donne , -->
+<feat xlink:href="#line_169" value=" mais de tous enffans sont les meres ,"/><!--  mais de tous enffans sont les meres , -->
+<feat xlink:href="#line_170" value=" et dieu , qui ainsi les guerdonne ,"/><!--  et dieu , qui ainsi les guerdonne , -->
+<feat xlink:href="#line_171" value=" pour quy seuffrent peines ameres ."/><!--  pour quy seuffrent peines ameres . -->
+<feat xlink:href="#line_172" value=" il fault qu&apos; il vivent , les beaulx peres ,"/><!--  il fault qu' il vivent , les beaulx peres , -->
+<feat xlink:href="#line_173" value=" et mesmement ceulx de paris :"/><!--  et mesmement ceulx de paris : -->
+<feat xlink:href="#line_174" value=" s&apos; ilz font plaisirs a noz commeres ,"/><!--  s' ilz font plaisirs a noz commeres , -->
+<feat xlink:href="#line_175" value=" ilz ayment ainsi les marys ."/><!--  ilz ayment ainsi les marys . -->
+<feat xlink:href="#line_176" value=" quoy que maistre jehan de poullieu"/><!--  quoy que maistre jehan de poullieu -->
+<feat xlink:href="#line_177" value=" en voulsist dire et reliqua ,"/><!--  en voulsist dire et reliqua , -->
+<feat xlink:href="#line_178" value=" constraint et en publicque lieu"/><!--  constraint et en publicque lieu -->
+<feat xlink:href="#line_179" value=" honteusement s&apos; en revocqua ."/><!--  honteusement s' en revocqua . -->
+<feat xlink:href="#line_180" value=" maistre jehan de meun s&apos; en mocqua"/><!--  maistre jehan de meun s' en mocqua -->
+<feat xlink:href="#line_181" value=" de leur facon ; si fist mathieu ;"/><!--  de leur facon ; si fist mathieu ; -->
+<feat xlink:href="#line_182" value=" mais on doit honnorer ce qu&apos; a"/><!--  mais on doit honnorer ce qu' a -->
+<feat xlink:href="#line_183" value=" honnoré l&apos; eglise de dieu ."/><!--  honnoré l' eglise de dieu . -->
+<feat xlink:href="#line_184" value=" sy me soubzmectz , leur serviteur"/><!--  sy me soubzmectz , leur serviteur -->
+<feat xlink:href="#line_185" value=" en tout ce que puis faire et dire ,"/><!--  en tout ce que puis faire et dire , -->
+<feat xlink:href="#line_186" value=" a les honnorer de bon cueur"/><!--  a les honnorer de bon cueur -->
+<feat xlink:href="#line_187" value=" et obeir sans contredire ."/><!--  et obeir sans contredire . -->
+<feat xlink:href="#line_188" value=" l&apos; omme bien fol est d&apos; en mesdire ,"/><!--  l' omme bien fol est d' en mesdire , -->
+<feat xlink:href="#line_189" value=" car , soit a part ou en prescher"/><!--  car , soit a part ou en prescher -->
+<feat xlink:href="#line_190" value=" ou ailleurs , il ne fault pas dire ,"/><!--  ou ailleurs , il ne fault pas dire , -->
+<feat xlink:href="#line_191" value=" ces gens sont pour eulx revanchier ."/><!--  ces gens sont pour eulx revanchier . -->
+<feat xlink:href="#line_192" value=" item , je donne a frere baude ,"/><!--  item , je donne a frere baude , -->
+<feat xlink:href="#line_193" value=" demourant en l&apos; ostel des carmes ,"/><!--  demourant en l' ostel des carmes , -->
+<feat xlink:href="#line_194" value=" portant chierre hardie et baude ,"/><!--  portant chierre hardie et baude , -->
+<feat xlink:href="#line_195" value=" une sallade et deux guisarmes ,"/><!--  une sallade et deux guisarmes , -->
+<feat xlink:href="#line_196" value=" que detusca et ses gens d&apos; armes"/><!--  que detusca et ses gens d' armes -->
+<feat xlink:href="#line_197" value=" ne lui riblent sa caige vert ;"/><!--  ne lui riblent sa caige vert ; -->
+<feat xlink:href="#line_198" value=" viel est : s&apos; il ne se rent aux armes ,"/><!--  viel est : s' il ne se rent aux armes , -->
+<feat xlink:href="#line_199" value=" c&apos; est bien le deable de vauvert ."/><!--  c' est bien le deable de vauvert . -->
+<feat xlink:href="#line_200" value=" item , pour ce que le seelleur"/><!--  item , pour ce que le seelleur -->
+<feat xlink:href="#line_201" value=" maint estront de mouche a machié ,"/><!--  maint estront de mouche a machié , -->
+<feat xlink:href="#line_202" value=" donne , car homme est de valleur ,"/><!--  donne , car homme est de valleur , -->
+<feat xlink:href="#line_203" value=" son seau d&apos; avantaige crachié ,"/><!--  son seau d' avantaige crachié , -->
+<feat xlink:href="#line_204" value=" et qu&apos; il ait le poulce escachié"/><!--  et qu' il ait le poulce escachié -->
+<feat xlink:href="#line_205" value=" pour tout empreindre a une voye ;"/><!--  pour tout empreindre a une voye ; -->
+<feat xlink:href="#line_206" value=" j&apos; entens celluy de l&apos; eveschié ,"/><!--  j' entens celluy de l' eveschié , -->
+<feat xlink:href="#line_207" value=" car les autres , dieu les pourvoye !"/><!--  car les autres , dieu les pourvoye ! -->
+<feat xlink:href="#line_208" value=" quant des auditeurs messeigneurs ,"/><!--  quant des auditeurs messeigneurs , -->
+<feat xlink:href="#line_209" value=" leur granche ilz auront lambroissee ,"/><!--  leur granche ilz auront lambroissee , -->
+<feat xlink:href="#line_210" value=" et ceulx qui ont les culz rongneux ,"/><!--  et ceulx qui ont les culz rongneux , -->
+<feat xlink:href="#line_211" value=" chacun une chaize persee ,"/><!--  chacun une chaize persee , -->
+<feat xlink:href="#line_212" value=" mais qu&apos; a la peticte macee"/><!--  mais qu' a la peticte macee -->
+<feat xlink:href="#line_213" value=" d&apos; orleans , qui ot ma seinture ,"/><!--  d' orleans , qui ot ma seinture , -->
+<feat xlink:href="#line_214" value=" l&apos; amende en soit bien hault tauxee ,"/><!--  l' amende en soit bien hault tauxee , -->
+<feat xlink:href="#line_215" value=" elle est une mauvaise ordure ."/><!--  elle est une mauvaise ordure . -->
+<feat xlink:href="#line_216" value=" item , donne a maistre françoys ,"/><!--  item , donne a maistre françoys , -->
+<feat xlink:href="#line_217" value=" promocteur , de la vacquerie"/><!--  promocteur , de la vacquerie -->
+<feat xlink:href="#line_218" value=" ung hault gorgerin d&apos; escossoys ,"/><!--  ung hault gorgerin d' escossoys , -->
+<feat xlink:href="#line_219" value=" touteffoys sans orfaverie ,"/><!--  touteffoys sans orfaverie , -->
+<feat xlink:href="#line_220" value=" car , quant receut chevallerye ,"/><!--  car , quant receut chevallerye , -->
+<feat xlink:href="#line_221" value=" il maugrea dieu et saint george"/><!--  il maugrea dieu et saint george -->
+<feat xlink:href="#line_222" value=" — parler n&apos; en oit qu&apos; il ne s&apos; en rie —"/><!--  — parler n' en oit qu' il ne s' en rie — -->
+<feat xlink:href="#line_223" value=" comme enraigé , a plaine gorge ."/><!--  comme enraigé , a plaine gorge . -->
+<feat xlink:href="#line_224" value=" item , a maistre jehan laurens ,"/><!--  item , a maistre jehan laurens , -->
+<feat xlink:href="#line_225" value=" qui a les povres yeulx si rouges"/><!--  qui a les povres yeulx si rouges -->
+<feat xlink:href="#line_226" value=" pour le pechié de ses parens"/><!--  pour le pechié de ses parens -->
+<feat xlink:href="#line_227" value=" qui boivent en baris et courges ,"/><!--  qui boivent en baris et courges , -->
+<feat xlink:href="#line_228" value=" je donne l&apos; envers de mes bouges"/><!--  je donne l' envers de mes bouges -->
+<feat xlink:href="#line_229" value=" pour tous les matins les torcher ;"/><!--  pour tous les matins les torcher ; -->
+<feat xlink:href="#line_230" value=" s&apos; il fust arcevesque de bourges ,"/><!--  s' il fust arcevesque de bourges , -->
+<feat xlink:href="#line_231" value=" du cendail eust , mais il est cher ."/><!--  du cendail eust , mais il est cher . -->
+<feat xlink:href="#line_232" value=" item , a maistre jehan cotart ,"/><!--  item , a maistre jehan cotart , -->
+<feat xlink:href="#line_233" value=" mon procureur en court d&apos; eglise ,"/><!--  mon procureur en court d' eglise , -->
+<feat xlink:href="#line_234" value=" devoye environ ung patart"/><!--  devoye environ ung patart -->
+<feat xlink:href="#line_235" value=" — car a present bien m&apos; en advise —"/><!--  — car a present bien m' en advise — -->
+<feat xlink:href="#line_236" value=" quant chicaner me feist denise ,"/><!--  quant chicaner me feist denise , -->
+<feat xlink:href="#line_237" value=" disant que l&apos; avoye mauldicte ."/><!--  disant que l' avoye mauldicte . -->
+<feat xlink:href="#line_238" value=" pour son ame , qu&apos; es cieulx soit mise ,"/><!--  pour son ame , qu' es cieulx soit mise , -->
+<feat xlink:href="#line_239" value=" ceste orroison j&apos; ay cy escripte ."/><!--  ceste orroison j' ay cy escripte . -->
+<feat xlink:href="#line_240" value=" item , vueil que le jeune marle"/><!--  item , vueil que le jeune marle -->
+<feat xlink:href="#line_241" value=" desormaiz gouverne mon change ,"/><!--  desormaiz gouverne mon change , -->
+<feat xlink:href="#line_242" value=" car de changer enviz me mesle ,"/><!--  car de changer enviz me mesle , -->
+<feat xlink:href="#line_243" value=" pourveu que tousjours baille en change ,"/><!--  pourveu que tousjours baille en change , -->
+<feat xlink:href="#line_244" value=" soit a privé ou a estrange ,"/><!--  soit a privé ou a estrange , -->
+<feat xlink:href="#line_245" value=" pour troys escus six brectes targes ,"/><!--  pour troys escus six brectes targes , -->
+<feat xlink:href="#line_246" value=" pour deux angelotz ung grant ange ,"/><!--  pour deux angelotz ung grant ange , -->
+<feat xlink:href="#line_247" value=" car amans doivent estre larges ."/><!--  car amans doivent estre larges . -->
+<feat xlink:href="#line_248" value=" item , j&apos; ay sceü en ce voyaige"/><!--  item , j' ay sceü en ce voyaige -->
+<feat xlink:href="#line_249" value=" que mes troys povres orphelins"/><!--  que mes troys povres orphelins -->
+<feat xlink:href="#line_250" value=" sont creuz et deviennent en aage"/><!--  sont creuz et deviennent en aage -->
+<feat xlink:href="#line_251" value=" et n&apos; ont pas testes de belins ,"/><!--  et n' ont pas testes de belins , -->
+<feat xlink:href="#line_252" value=" et qu&apos; enffans d&apos; icy a salins"/><!--  et qu' enffans d' icy a salins -->
+<feat xlink:href="#line_253" value=" n&apos; a mieulx saichant leur tour d&apos; escolle ."/><!--  n' a mieulx saichant leur tour d' escolle . -->
+<feat xlink:href="#line_254" value=" or , par l&apos; ordre des mathelins ,"/><!--  or , par l' ordre des mathelins , -->
+<feat xlink:href="#line_255" value=" telle jeunesse n&apos; est pas folle ."/><!--  telle jeunesse n' est pas folle . -->
+<feat xlink:href="#line_256" value=" sy vueil qu&apos; ilz voisent a l&apos; estude ;"/><!--  sy vueil qu' ilz voisent a l' estude ; -->
+<feat xlink:href="#line_257" value=" ou ? sur maistre pierre richier ."/><!--  ou ? sur maistre pierre richier . -->
+<feat xlink:href="#line_258" value=" le donat est pour eulx trop rude ,"/><!--  le donat est pour eulx trop rude , -->
+<feat xlink:href="#line_259" value=" ja ne les y vueil empescher ;"/><!--  ja ne les y vueil empescher ; -->
+<feat xlink:href="#line_260" value=" ilz sauront , je l&apos; ayme plus cher ,"/><!--  ilz sauront , je l' ayme plus cher , -->
+<feat xlink:href="#line_261" value=" ave salus , tiby decus ,"/><!--  ave salus , tiby decus , -->
+<feat xlink:href="#line_262" value=" sans plus grans lettres enserchier :"/><!--  sans plus grans lettres enserchier : -->
+<feat xlink:href="#line_263" value=" tousjours n&apos; ont pas clercs l&apos; au dessus ."/><!--  tousjours n' ont pas clercs l' au dessus . -->
+<feat xlink:href="#line_264" value=" cecy estudient , et , ho !"/><!--  cecy estudient , et , ho ! -->
+<feat xlink:href="#line_265" value=" plus proceder je leur deffens ."/><!--  plus proceder je leur deffens . -->
+<feat xlink:href="#line_266" value=" quant d&apos; entendre la grant credo ,"/><!--  quant d' entendre la grant credo , -->
+<feat xlink:href="#line_267" value=" trop forte elle est pour telz enffans ."/><!--  trop forte elle est pour telz enffans . -->
+<feat xlink:href="#line_268" value=" mon grant tabart en long je fens ,"/><!--  mon grant tabart en long je fens , -->
+<feat xlink:href="#line_269" value=" sy vueil que la moictié s&apos; en vende"/><!--  sy vueil que la moictié s' en vende -->
+<feat xlink:href="#line_270" value=" pour eulx en acheter des flans ,"/><!--  pour eulx en acheter des flans , -->
+<feat xlink:href="#line_271" value=" car jeunesse est ung peu friande ."/><!--  car jeunesse est ung peu friande . -->
+<feat xlink:href="#line_272" value=" sy vueil qu&apos; ilz soient informez"/><!--  sy vueil qu' ilz soient informez -->
+<feat xlink:href="#line_273" value=" en meurs , quoy que couste basture ."/><!--  en meurs , quoy que couste basture . -->
+<feat xlink:href="#line_274" value=" chapperons aront enformez"/><!--  chapperons aront enformez -->
+<feat xlink:href="#line_275" value=" et les poulces sur la sainture ,"/><!--  et les poulces sur la sainture , -->
+<feat xlink:href="#line_276" value=" humbles a toute creature ,"/><!--  humbles a toute creature , -->
+<feat xlink:href="#line_277" value=" disans : « han ? quoy ? il n&apos; en est rien ! »"/><!--  disans : « han ? quoy ? il n' en est rien ! » -->
+<feat xlink:href="#line_278" value=" sy diront gens par adventure :"/><!--  sy diront gens par adventure : -->
+<feat xlink:href="#line_279" value=" « vecy enffans de lieu de bien ! »"/><!--  « vecy enffans de lieu de bien ! » -->
+<feat xlink:href="#line_280" value=" item , a mes povres clergons ,"/><!--  item , a mes povres clergons , -->
+<feat xlink:href="#line_281" value=" ausquelz mes tiltres resigné"/><!--  ausquelz mes tiltres resigné -->
+<feat xlink:href="#line_282" value=" — beaux enffans et droiz comme joncs"/><!--  — beaux enffans et droiz comme joncs -->
+<feat xlink:href="#line_283" value=" les voyant , m&apos; en dessaisiné — ,"/><!--  les voyant , m' en dessaisiné — , -->
+<feat xlink:href="#line_284" value=" sans recevoir leur assigné ,"/><!--  sans recevoir leur assigné , -->
+<feat xlink:href="#line_285" value=" seür comme qui l&apos; aroit en paulme ,"/><!--  seür comme qui l' aroit en paulme , -->
+<feat xlink:href="#line_286" value=" a ung certain jour consigné ,"/><!--  a ung certain jour consigné , -->
+<feat xlink:href="#line_287" value=" sur l&apos; ostel de gueuldry guillaume ."/><!--  sur l' ostel de gueuldry guillaume . -->
+<feat xlink:href="#line_288" value=" quoy que jeunes et esbatans"/><!--  quoy que jeunes et esbatans -->
+<feat xlink:href="#line_289" value=" soient , en riens ne me desplaist :"/><!--  soient , en riens ne me desplaist : -->
+<feat xlink:href="#line_290" value=" dedens trente ans ou quarante ans"/><!--  dedens trente ans ou quarante ans -->
+<feat xlink:href="#line_291" value=" bien autres seront , se dieu plaist !"/><!--  bien autres seront , se dieu plaist ! -->
+<feat xlink:href="#line_292" value=" il fait mal qui ne leur complest ;"/><!--  il fait mal qui ne leur complest ; -->
+<feat xlink:href="#line_293" value=" ilz sont tres beaulx enffans et gens ,"/><!--  ilz sont tres beaulx enffans et gens , -->
+<feat xlink:href="#line_294" value=" et qui les bat ne fiert fol est ,"/><!--  et qui les bat ne fiert fol est , -->
+<feat xlink:href="#line_295" value=" car enffans si deviennent gens ."/><!--  car enffans si deviennent gens . -->
+<feat xlink:href="#line_296" value=" les bources des dix et huit clercs"/><!--  les bources des dix et huit clercs -->
+<feat xlink:href="#line_297" value=" aront , je m&apos; y vueil traveillier ;"/><!--  aront , je m' y vueil traveillier ; -->
+<feat xlink:href="#line_298" value=" pas ilz ne dorment comme loirs ,"/><!--  pas ilz ne dorment comme loirs , -->
+<feat xlink:href="#line_299" value=" qui troys moys sont sans resveillier ."/><!--  qui troys moys sont sans resveillier . -->
+<feat xlink:href="#line_300" value=" auffort , triste est le sommeillier"/><!--  auffort , triste est le sommeillier -->
+<feat xlink:href="#line_301" value=" qui fait aise jeune et jeunesse ,"/><!--  qui fait aise jeune et jeunesse , -->
+<feat xlink:href="#line_302" value=" tant qu&apos; en fin lui faille veillier"/><!--  tant qu' en fin lui faille veillier -->
+<feat xlink:href="#line_303" value=" quant reposer deust en viellesse ."/><!--  quant reposer deust en viellesse . -->
+<feat xlink:href="#line_304" value=" sy en rescriptz au collateur"/><!--  sy en rescriptz au collateur -->
+<feat xlink:href="#line_305" value=" lettres semblables et parreilles ;"/><!--  lettres semblables et parreilles ; -->
+<feat xlink:href="#line_306" value=" or prient pour leur bien faicteur"/><!--  or prient pour leur bien faicteur -->
+<feat xlink:href="#line_307" value=" ou qu&apos; on leur tire les orreilles !"/><!--  ou qu' on leur tire les orreilles ! -->
+<feat xlink:href="#line_308" value=" aucunes gens ont grans merveilles"/><!--  aucunes gens ont grans merveilles -->
+<feat xlink:href="#line_309" value=" que tant m&apos; encline vers ces deulx ,"/><!--  que tant m' encline vers ces deulx , -->
+<feat xlink:href="#line_310" value=" mais , foy que doy festes et veilles ,"/><!--  mais , foy que doy festes et veilles , -->
+<feat xlink:href="#line_311" value=" oncques ne vy les meres d&apos; eulx ."/><!--  oncques ne vy les meres d' eulx . -->
+<feat xlink:href="#line_312" value=" item , donne a michault cul d&apos; ou"/><!--  item , donne a michault cul d' ou -->
+<feat xlink:href="#line_313" value=" et a sire charlot tarrenne"/><!--  et a sire charlot tarrenne -->
+<feat xlink:href="#line_314" value=" cent solz — s&apos; ilz demandent : « prins ou ? »"/><!--  cent solz — s' ilz demandent : « prins ou ? » -->
+<feat xlink:href="#line_315" value=" ne leur chaille , ilz vendront de manne —"/><!--  ne leur chaille , ilz vendront de manne — -->
+<feat xlink:href="#line_316" value=" et une houlse de basenne ,"/><!--  et une houlse de basenne , -->
+<feat xlink:href="#line_317" value=" autant empeigne que semelle ,"/><!--  autant empeigne que semelle , -->
+<feat xlink:href="#line_318" value=" pourveu qu&apos; ilz me salueront jehanne ,"/><!--  pourveu qu' ilz me salueront jehanne , -->
+<feat xlink:href="#line_319" value=" et autant une autre comme elle ."/><!--  et autant une autre comme elle . -->
+<feat xlink:href="#line_320" value=" item , au seigneur de grigny ,"/><!--  item , au seigneur de grigny , -->
+<feat xlink:href="#line_321" value=" auquel jadiz lessay vissextre ,"/><!--  auquel jadiz lessay vissextre , -->
+<feat xlink:href="#line_322" value=" je donne la tour de billy ,"/><!--  je donne la tour de billy , -->
+<feat xlink:href="#line_323" value=" pourveu , se huys y a ne fenestre"/><!--  pourveu , se huys y a ne fenestre -->
+<feat xlink:href="#line_324" value=" qui soit ne debout ne en estre ,"/><!--  qui soit ne debout ne en estre , -->
+<feat xlink:href="#line_325" value=" qu&apos; il mecte tresbien tout a point ;"/><!--  qu' il mecte tresbien tout a point ; -->
+<feat xlink:href="#line_326" value=" face argent a destre et senestre ,"/><!--  face argent a destre et senestre , -->
+<feat xlink:href="#line_327" value=" il m&apos; en fault , et il n&apos; en a point ."/><!--  il m' en fault , et il n' en a point . -->
+<feat xlink:href="#line_328" value=" item , a thibault de la garde …"/><!--  item , a thibault de la garde … -->
+<feat xlink:href="#line_329" value=" thibault ? je mens : il a nom jehan ,"/><!--  thibault ? je mens : il a nom jehan , -->
+<feat xlink:href="#line_330" value=" que lui donrai ge que ne perde ?"/><!--  que lui donrai ge que ne perde ? -->
+<feat xlink:href="#line_331" value=" — assez j&apos; ay perdu tout cest an ,"/><!--  — assez j' ay perdu tout cest an , -->
+<feat xlink:href="#line_332" value=" dieu y vueille pourvoir , amen ! —"/><!--  dieu y vueille pourvoir , amen ! — -->
+<feat xlink:href="#line_333" value=" le barillet ? par m&apos; ame , voire ,"/><!--  le barillet ? par m' ame , voire , -->
+<feat xlink:href="#line_334" value=" genevoys est plus ancien"/><!--  genevoys est plus ancien -->
+<feat xlink:href="#line_335" value=" et plus beau nez a pour y boire ."/><!--  et plus beau nez a pour y boire . -->
+<feat xlink:href="#line_336" value=" item , je donne a basennier ,"/><!--  item , je donne a basennier , -->
+<feat xlink:href="#line_337" value=" noctaire et greffier criminel ,"/><!--  noctaire et greffier criminel , -->
+<feat xlink:href="#line_338" value=" de giroffle plain ung panier"/><!--  de giroffle plain ung panier -->
+<feat xlink:href="#line_339" value=" prins sur maistre jehan de rueil ,"/><!--  prins sur maistre jehan de rueil , -->
+<feat xlink:href="#line_340" value=" tant a mautaint , tant a rosnel ,"/><!--  tant a mautaint , tant a rosnel , -->
+<feat xlink:href="#line_341" value=" et , avec ce don de girofle ,"/><!--  et , avec ce don de girofle , -->
+<feat xlink:href="#line_342" value=" servir de cueur gent et ysnel"/><!--  servir de cueur gent et ysnel -->
+<feat xlink:href="#line_343" value=" le seigneur qui sert saint christofle ,"/><!--  le seigneur qui sert saint christofle , -->
+<feat xlink:href="#line_344" value=" auquel ceste ballade donne"/><!--  auquel ceste ballade donne -->
+<feat xlink:href="#line_345" value=" pour sa dame , qui tous biens a ."/><!--  pour sa dame , qui tous biens a . -->
+<feat xlink:href="#line_346" value=" s&apos; amour ainsi tous ne guerdonne ,"/><!--  s' amour ainsi tous ne guerdonne , -->
+<feat xlink:href="#line_347" value=" je ne m&apos; esbahys de cela ,"/><!--  je ne m' esbahys de cela , -->
+<feat xlink:href="#line_348" value=" car au pas conquester l&apos; ala"/><!--  car au pas conquester l' ala -->
+<feat xlink:href="#line_349" value=" que tint regnier , roy de cecille ,"/><!--  que tint regnier , roy de cecille , -->
+<feat xlink:href="#line_350" value=" ou si bien fist et peu parla"/><!--  ou si bien fist et peu parla -->
+<feat xlink:href="#line_351" value=" c&apos; oncques hector fist , ne troille ."/><!--  c' oncques hector fist , ne troille . -->
+<feat xlink:href="#line_352" value=" item , a sire jehan perdriel"/><!--  item , a sire jehan perdriel -->
+<feat xlink:href="#line_353" value=" riens , n&apos; a francoys , son second frere ;"/><!--  riens , n' a francoys , son second frere ; -->
+<feat xlink:href="#line_354" value=" sy m&apos; ont voulu tousjours aidier"/><!--  sy m' ont voulu tousjours aidier -->
+<feat xlink:href="#line_355" value=" et de leurs biens faire confrere ,"/><!--  et de leurs biens faire confrere , -->
+<feat xlink:href="#line_356" value=" combien que francoys , mon compere ,"/><!--  combien que francoys , mon compere , -->
+<feat xlink:href="#line_357" value=" langues cuisans , flanbans et rouges ,"/><!--  langues cuisans , flanbans et rouges , -->
+<feat xlink:href="#line_358" value=" my commandement my priere ,"/><!--  my commandement my priere , -->
+<feat xlink:href="#line_359" value=" me recommanda fort a bourges ."/><!--  me recommanda fort a bourges . -->
+<feat xlink:href="#line_360" value=" sy alé voir en taillevant"/><!--  sy alé voir en taillevant -->
+<feat xlink:href="#line_361" value=" ou chappitre de fricassure ,"/><!--  ou chappitre de fricassure , -->
+<feat xlink:href="#line_362" value=" tout au long , derriere et devant ,"/><!--  tout au long , derriere et devant , -->
+<feat xlink:href="#line_363" value=" lequel n&apos; en parle jus ne sure ;"/><!--  lequel n' en parle jus ne sure ; -->
+<feat xlink:href="#line_364" value=" mais macquaire , je vous asseure ,"/><!--  mais macquaire , je vous asseure , -->
+<feat xlink:href="#line_365" value=" a tout le poil cuisant ung deable"/><!--  a tout le poil cuisant ung deable -->
+<feat xlink:href="#line_366" value=" afin qu&apos; il sentist bon l&apos; arseure ,"/><!--  afin qu' il sentist bon l' arseure , -->
+<feat xlink:href="#line_367" value=" ce recipé m&apos; escript sans fable :"/><!--  ce recipé m' escript sans fable : -->
+<feat xlink:href="#line_368" value=" item , a maistre andry courault"/><!--  item , a maistre andry courault -->
+<feat xlink:href="#line_369" value=" les contreditz franc gontier mande ;"/><!--  les contreditz franc gontier mande ; -->
+<feat xlink:href="#line_370" value=" quant du tirant seant en hault ,"/><!--  quant du tirant seant en hault , -->
+<feat xlink:href="#line_371" value=" a cestuy la riens ne demande :"/><!--  a cestuy la riens ne demande : -->
+<feat xlink:href="#line_372" value=" le saige ne veult que contende"/><!--  le saige ne veult que contende -->
+<feat xlink:href="#line_373" value=" contre puissant povre homme las ,"/><!--  contre puissant povre homme las , -->
+<feat xlink:href="#line_374" value=" affin que ses filletz ne tende"/><!--  affin que ses filletz ne tende -->
+<feat xlink:href="#line_375" value=" et qu&apos; il ne trebuche en ses las ."/><!--  et qu' il ne trebuche en ses las . -->
+<feat xlink:href="#line_376" value=" gontier ne crains : il n&apos; a nulz hommes"/><!--  gontier ne crains : il n' a nulz hommes -->
+<feat xlink:href="#line_377" value=" et mieulx que moy n&apos; est herité ;"/><!--  et mieulx que moy n' est herité ; -->
+<feat xlink:href="#line_378" value=" mais en ce debat cy nous sommes ,"/><!--  mais en ce debat cy nous sommes , -->
+<feat xlink:href="#line_379" value=" car il loue sa pouvreté ,"/><!--  car il loue sa pouvreté , -->
+<feat xlink:href="#line_380" value=" estre povre yver et esté ,"/><!--  estre povre yver et esté , -->
+<feat xlink:href="#line_381" value=" et a felicité reppute"/><!--  et a felicité reppute -->
+<feat xlink:href="#line_382" value=" ce que tiens a maleureté"/><!--  ce que tiens a maleureté -->
+<feat xlink:href="#line_383" value=" lequel a tort ? or en discute ."/><!--  lequel a tort ? or en discute . -->
+<feat xlink:href="#line_384" value=" item , pour ce que scet sa bille"/><!--  item , pour ce que scet sa bille -->
+<feat xlink:href="#line_385" value=" madamoiselle de bruyeres ,"/><!--  madamoiselle de bruyeres , -->
+<feat xlink:href="#line_386" value=" donne prescher hors l&apos; euvangille"/><!--  donne prescher hors l' euvangille -->
+<feat xlink:href="#line_387" value=" a elle et a ses bachelieres ,"/><!--  a elle et a ses bachelieres , -->
+<feat xlink:href="#line_388" value=" pour retraire ces villotieres"/><!--  pour retraire ces villotieres -->
+<feat xlink:href="#line_389" value=" qui ont le bec si affilé ,"/><!--  qui ont le bec si affilé , -->
+<feat xlink:href="#line_390" value=" mais que ce soit hors cymetieres ,"/><!--  mais que ce soit hors cymetieres , -->
+<feat xlink:href="#line_391" value=" trop bien au marchié au fillé ."/><!--  trop bien au marchié au fillé . -->
+<feat xlink:href="#line_392" value=" regarde m&apos; en deux , troys assises"/><!--  regarde m' en deux , troys assises -->
+<feat xlink:href="#line_393" value=" sur le bas du ply de leurs robes"/><!--  sur le bas du ply de leurs robes -->
+<feat xlink:href="#line_394" value=" en ces moustiers , en ces eglises ;"/><!--  en ces moustiers , en ces eglises ; -->
+<feat xlink:href="#line_395" value=" tire t&apos; en pres , et ne te hobes ;"/><!--  tire t' en pres , et ne te hobes ; -->
+<feat xlink:href="#line_396" value=" tu trouveras la que macrobes"/><!--  tu trouveras la que macrobes -->
+<feat xlink:href="#line_397" value=" oncques ne fist telz jugemens ."/><!--  oncques ne fist telz jugemens . -->
+<feat xlink:href="#line_398" value=" entens , quelque chose en desrobes :"/><!--  entens , quelque chose en desrobes : -->
+<feat xlink:href="#line_399" value=" ce sont tous beaux enseignemens ."/><!--  ce sont tous beaux enseignemens . -->
+<feat xlink:href="#line_400" value=" item , et au mont de montmertre ,"/><!--  item , et au mont de montmertre , -->
+<feat xlink:href="#line_401" value=" qui est ung lieu moult ancien ,"/><!--  qui est ung lieu moult ancien , -->
+<feat xlink:href="#line_402" value=" je lui donne et adjoincts le tertre"/><!--  je lui donne et adjoincts le tertre -->
+<feat xlink:href="#line_403" value=" qu&apos; on dit de mont valerien ,"/><!--  qu' on dit de mont valerien , -->
+<feat xlink:href="#line_404" value=" et oultre plus un quartier d&apos; an"/><!--  et oultre plus un quartier d' an -->
+<feat xlink:href="#line_405" value=" du pardon qu&apos; apportay de romme ;"/><!--  du pardon qu' apportay de romme ; -->
+<feat xlink:href="#line_406" value=" sy yra maint bon chrestien"/><!--  sy yra maint bon chrestien -->
+<feat xlink:href="#line_407" value=" en l&apos; abbaye ou il n&apos; entre homme ."/><!--  en l' abbaye ou il n' entre homme . -->
+<feat xlink:href="#line_408" value=" item , varletz et chamberieres"/><!--  item , varletz et chamberieres -->
+<feat xlink:href="#line_409" value=" de bons hostelz — riens ne me nuyt ! —"/><!--  de bons hostelz — riens ne me nuyt ! — -->
+<feat xlink:href="#line_410" value=" feront tartes , flans et goyeres"/><!--  feront tartes , flans et goyeres -->
+<feat xlink:href="#line_411" value=" et grans raliatz a mye nuyt"/><!--  et grans raliatz a mye nuyt -->
+<feat xlink:href="#line_412" value=" — riens n&apos; y font sept pintes ne huit"/><!--  — riens n' y font sept pintes ne huit -->
+<feat xlink:href="#line_413" value=" tant que gisent seigneur et dame — ,"/><!--  tant que gisent seigneur et dame — , -->
+<feat xlink:href="#line_414" value=" puis aprés , sans mener grant bruyt ,"/><!--  puis aprés , sans mener grant bruyt , -->
+<feat xlink:href="#line_415" value=" je leur ramentoy le jeu d&apos; asne ."/><!--  je leur ramentoy le jeu d' asne . -->
+<feat xlink:href="#line_416" value=" item , et a filles de bien ,"/><!--  item , et a filles de bien , -->
+<feat xlink:href="#line_417" value=" qui ont peres , meres et antes ,"/><!--  qui ont peres , meres et antes , -->
+<feat xlink:href="#line_418" value=" par m&apos; ame , je ne donne rien ,"/><!--  par m' ame , je ne donne rien , -->
+<feat xlink:href="#line_419" value=" car j&apos; ay tout donné aux servantes ."/><!--  car j' ay tout donné aux servantes . -->
+<feat xlink:href="#line_420" value=" sy feussent ilz de peu contentes …"/><!--  sy feussent ilz de peu contentes … -->
+<feat xlink:href="#line_421" value=" grant bien leur feissent mains loppins ,"/><!--  grant bien leur feissent mains loppins , -->
+<feat xlink:href="#line_422" value=" aux povres filles , ennementes ,"/><!--  aux povres filles , ennementes , -->
+<feat xlink:href="#line_423" value=" qui se perdent aux jacoppins ,"/><!--  qui se perdent aux jacoppins , -->
+<feat xlink:href="#line_424" value=" aux celestins et aux chartreux ;"/><!--  aux celestins et aux chartreux ; -->
+<feat xlink:href="#line_425" value=" quoy que vie mainent estroicte ,"/><!--  quoy que vie mainent estroicte , -->
+<feat xlink:href="#line_426" value=" sy ont ilz largement entre eulx"/><!--  sy ont ilz largement entre eulx -->
+<feat xlink:href="#line_427" value=" dont povres filles ont souffrecte ,"/><!--  dont povres filles ont souffrecte , -->
+<feat xlink:href="#line_428" value=" tesmoing jacqueline et perrecte ,"/><!--  tesmoing jacqueline et perrecte , -->
+<feat xlink:href="#line_429" value=" et ysabeau qui dit : « enné ! »"/><!--  et ysabeau qui dit : « enné ! » -->
+<feat xlink:href="#line_430" value=" puis qu&apos; ilz en ont telle disecte ,"/><!--  puis qu' ilz en ont telle disecte , -->
+<feat xlink:href="#line_431" value=" a peine seroit on dampné ."/><!--  a peine seroit on dampné . -->
+<feat xlink:href="#line_432" value=" item , a la grosse margot ,"/><!--  item , a la grosse margot , -->
+<feat xlink:href="#line_433" value=" tres doulce face et pourtraicture"/><!--  tres doulce face et pourtraicture -->
+<feat xlink:href="#line_434" value=" — foy que doy , brulare bigot ,"/><!--  — foy que doy , brulare bigot , -->
+<feat xlink:href="#line_435" value=" a si devocte creature ,"/><!--  a si devocte creature , -->
+<feat xlink:href="#line_436" value=" je l&apos; ayme de propre nature ,"/><!--  je l' ayme de propre nature , -->
+<feat xlink:href="#line_437" value=" et elle moy , la doulce sade — ,"/><!--  et elle moy , la doulce sade — , -->
+<feat xlink:href="#line_438" value=" qui la trouvera d&apos; aventure ,"/><!--  qui la trouvera d' aventure , -->
+<feat xlink:href="#line_439" value=" qu&apos; on lui lise ceste ballade ."/><!--  qu' on lui lise ceste ballade . -->
+<feat xlink:href="#line_440" value=" item , a marion l&apos; idolle"/><!--  item , a marion l' idolle -->
+<feat xlink:href="#line_441" value=" et la grant jehanne de bretaigne"/><!--  et la grant jehanne de bretaigne -->
+<feat xlink:href="#line_442" value=" donne tenir publicque escolle"/><!--  donne tenir publicque escolle -->
+<feat xlink:href="#line_443" value=" ou l&apos; escollier le maistre enseigne"/><!--  ou l' escollier le maistre enseigne -->
+<feat xlink:href="#line_444" value=" lieu n&apos; est ou ce merchié ne tiengne ,"/><!--  lieu n' est ou ce merchié ne tiengne , -->
+<feat xlink:href="#line_445" value=" synom a la grisle de meun ;"/><!--  synom a la grisle de meun ; -->
+<feat xlink:href="#line_446" value=" de quoy je diz : « fy de l&apos; enseigne ,"/><!--  de quoy je diz : « fy de l' enseigne , -->
+<feat xlink:href="#line_447" value=" puisque l&apos; ouvraige est si commun ! »"/><!--  puisque l' ouvraige est si commun ! » -->
+<feat xlink:href="#line_448" value=" item , et a noel jolis ,"/><!--  item , et a noel jolis , -->
+<feat xlink:href="#line_449" value=" autre chose je ne lui donne"/><!--  autre chose je ne lui donne -->
+<feat xlink:href="#line_450" value=" fors plain poing d&apos; oziers frez cueilliz"/><!--  fors plain poing d' oziers frez cueilliz -->
+<feat xlink:href="#line_451" value=" en mon jardin — je l&apos; abandonne :"/><!--  en mon jardin — je l' abandonne : -->
+<feat xlink:href="#line_452" value=" chastoy est une belle aulmosne ,"/><!--  chastoy est une belle aulmosne , -->
+<feat xlink:href="#line_453" value=" ame n&apos; en doit estre marry — :"/><!--  ame n' en doit estre marry — : -->
+<feat xlink:href="#line_454" value=" unze vings coups lui en ordonne ,"/><!--  unze vings coups lui en ordonne , -->
+<feat xlink:href="#line_455" value=" livrez par les mains de henry ."/><!--  livrez par les mains de henry . -->
+<feat xlink:href="#line_456" value=" item , ne sçay qu&apos; a l&apos; ostel dieu"/><!--  item , ne sçay qu' a l' ostel dieu -->
+<feat xlink:href="#line_457" value=" donner n&apos; a povres hospitaulx ."/><!--  donner n' a povres hospitaulx . -->
+<feat xlink:href="#line_458" value=" bourdes n&apos; ont icy temps ne lieu ,"/><!--  bourdes n' ont icy temps ne lieu , -->
+<feat xlink:href="#line_459" value=" car povres gens ont assez maulx ."/><!--  car povres gens ont assez maulx . -->
+<feat xlink:href="#line_460" value=" chacun leur envoye les oz :"/><!--  chacun leur envoye les oz : -->
+<feat xlink:href="#line_461" value=" les mendians ont eu mon oye ;"/><!--  les mendians ont eu mon oye ; -->
+<feat xlink:href="#line_462" value=" au fort , ilz en auront les oz ;"/><!--  au fort , ilz en auront les oz ; -->
+<feat xlink:href="#line_463" value=" a menues gens menue monnoye ."/><!--  a menues gens menue monnoye . -->
+<feat xlink:href="#line_464" value=" item , je donne a mon barbier ,"/><!--  item , je donne a mon barbier , -->
+<feat xlink:href="#line_465" value=" que se nomme colin galerne ,"/><!--  que se nomme colin galerne , -->
+<feat xlink:href="#line_466" value=" pres voisin d&apos; angelot l&apos; erbier ,"/><!--  pres voisin d' angelot l' erbier , -->
+<feat xlink:href="#line_467" value=" ung gros glaçon — prins ou ? en merne — ,"/><!--  ung gros glaçon — prins ou ? en merne — , -->
+<feat xlink:href="#line_468" value=" afin qu&apos; a son aise s&apos; yverne ."/><!--  afin qu' a son aise s' yverne . -->
+<feat xlink:href="#line_469" value=" de l&apos; estomac le tiengne pres :"/><!--  de l' estomac le tiengne pres : -->
+<feat xlink:href="#line_470" value=" se l&apos; iver ainsi se gouverne ,"/><!--  se l' iver ainsi se gouverne , -->
+<feat xlink:href="#line_471" value=" il aura chault l&apos; esté d&apos; aprés ."/><!--  il aura chault l' esté d' aprés . -->
+<feat xlink:href="#line_472" value=" item , riens aux enffans trouvés ,"/><!--  item , riens aux enffans trouvés , -->
+<feat xlink:href="#line_473" value=" mais les perduz fault que consolle ;"/><!--  mais les perduz fault que consolle ; -->
+<feat xlink:href="#line_474" value=" sy doivent estre retrouvez"/><!--  sy doivent estre retrouvez -->
+<feat xlink:href="#line_475" value=" par droit sur marion l&apos; idolle ."/><!--  par droit sur marion l' idolle . -->
+<feat xlink:href="#line_476" value=" une leçon de mon escolle"/><!--  une leçon de mon escolle -->
+<feat xlink:href="#line_477" value=" leur lairay , qui ne dure guerre ;"/><!--  leur lairay , qui ne dure guerre ; -->
+<feat xlink:href="#line_478" value=" teste n&apos; ayent dure ne folle ,"/><!--  teste n' ayent dure ne folle , -->
+<feat xlink:href="#line_479" value=" escoutent ! car c&apos; est la derniere ."/><!--  escoutent ! car c' est la derniere . -->
+<feat xlink:href="#line_480" value=" « beaulx enfans , vous perdez la plus"/><!--  « beaulx enfans , vous perdez la plus -->
+<feat xlink:href="#line_481" value=" belle roze de vo chappeau ;"/><!--  belle roze de vo chappeau ; -->
+<feat xlink:href="#line_482" value=" mes clercs , pres prenans comme glus ,"/><!--  mes clercs , pres prenans comme glus , -->
+<feat xlink:href="#line_483" value=" se vous alez a montpipeau"/><!--  se vous alez a montpipeau -->
+<feat xlink:href="#line_484" value=" ou a ruel , gardez la peau ,"/><!--  ou a ruel , gardez la peau , -->
+<feat xlink:href="#line_485" value=" car , pour s&apos; esbatre en ces deux lieux ,"/><!--  car , pour s' esbatre en ces deux lieux , -->
+<feat xlink:href="#line_486" value=" cuidant que vaulsist le rappeau ,"/><!--  cuidant que vaulsist le rappeau , -->
+<feat xlink:href="#line_487" value=" le perdyt colin de cayeulx ."/><!--  le perdyt colin de cayeulx . -->
+<feat xlink:href="#line_488" value=" « ce n&apos; est pas ung jeu de troys mailles ,"/><!--  « ce n' est pas ung jeu de troys mailles , -->
+<feat xlink:href="#line_489" value=" ou va corps , et peult estre l&apos; ame ."/><!--  ou va corps , et peult estre l' ame . -->
+<feat xlink:href="#line_490" value=" qui pert , riens n&apos; y font repentailles"/><!--  qui pert , riens n' y font repentailles -->
+<feat xlink:href="#line_491" value=" c&apos; on n&apos; en meurre a honte et diffame ,"/><!--  c' on n' en meurre a honte et diffame , -->
+<feat xlink:href="#line_492" value=" et qui gaigne n&apos; a pas a femme"/><!--  et qui gaigne n' a pas a femme -->
+<feat xlink:href="#line_493" value=" dido , la royne de cartaige"/><!--  dido , la royne de cartaige -->
+<feat xlink:href="#line_494" value=" l&apos; omme est donc bien fol et infame"/><!--  l' omme est donc bien fol et infame -->
+<feat xlink:href="#line_495" value=" qui pour si peu couche tel gaige ."/><!--  qui pour si peu couche tel gaige . -->
+<feat xlink:href="#line_496" value=" q&apos; un chacun encores m&apos; escoute :"/><!--  q' un chacun encores m' escoute : -->
+<feat xlink:href="#line_497" value=" on dit , et il est verité ,"/><!--  on dit , et il est verité , -->
+<feat xlink:href="#line_498" value=" que charecterie se boit toute ,"/><!--  que charecterie se boit toute , -->
+<feat xlink:href="#line_499" value=" au feu l&apos; iver , au boys l&apos; esté :"/><!--  au feu l' iver , au boys l' esté : -->
+<feat xlink:href="#line_500" value=" s&apos; argent avez , il n&apos; est quicté ,"/><!--  s' argent avez , il n' est quicté , -->
+<feat xlink:href="#line_501" value=" mais le despendez tost et viste ;"/><!--  mais le despendez tost et viste ; -->
+<feat xlink:href="#line_502" value=" qui en voyez vous herité ?"/><!--  qui en voyez vous herité ? -->
+<feat xlink:href="#line_503" value=" jamaiz mal acquest ne proufficte ."/><!--  jamaiz mal acquest ne proufficte . -->
+</featList>
+</paula>

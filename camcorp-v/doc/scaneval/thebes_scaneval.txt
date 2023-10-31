@@ -1,0 +1,19 @@
+Rules applied: R1, R8
+Lines correct: 503 of 504
+Pass history:
+Tried rules R1; 497 lines correct.
+Tried rules R11; 452 lines correct.
+Tried rules R2; 442 lines correct.
+Tried rules R30; 457 lines correct.
+Tried rules R8; 463 lines correct.
+Tried rules R1, R11; 492 lines correct.
+Tried rules R1, R2; 482 lines correct.
+Tried rules R1, R30; 497 lines correct.
+Tried rules R1, R8; 503 lines correct.
+Tried rules R1, R8, R11; 498 lines correct.
+Tried rules R1, R8, R2; 488 lines correct.
+Tried rules R1, R8, R30; 503 lines correct.
+OPTIMIZED LINES
+362    465     d' une chambre ou il estoit
+
+BAD LINES

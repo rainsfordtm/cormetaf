@@ -1,0 +1,39 @@
+Rules applied: R1, R8
+Lines correct: 495 of 516
+Pass history:
+Tried rules R1; 492 lines correct.
+Tried rules R11; 483 lines correct.
+Tried rules R2; 482 lines correct.
+Tried rules R30; 488 lines correct.
+Tried rules R8; 491 lines correct.
+Tried rules R1, R11; 487 lines correct.
+Tried rules R1, R2; 486 lines correct.
+Tried rules R1, R30; 492 lines correct.
+Tried rules R1, R8; 495 lines correct.
+Tried rules R1, R8, R11; 490 lines correct.
+Tried rules R1, R8, R2; 489 lines correct.
+Tried rules R1, R8, R30; 495 lines correct.
+OPTIMIZED LINES
+81    82     als judeus vengrä en rebost :
+95    96     que faire rovä a trestot .
+97    98     tot sos fidels i saciét ,
+110    111     contra·ls afanz que an a padir
+144    145     judas cum veggrä a jesúm ,
+164    165     donc lo en gurpissen sei fedel ,
+346    347     enter mirrä et aloén
+429    430     ja dicen tuit que vius eret ;
+437    438     il li non credent que aiä carn ;
+496    497     lui que aiude ? nu·ls vencera ;
+
+BAD LINES
+27    28     canted aveien de jesu crist .
+63    64     pedrä ·ssubr' altre non laiseront .
+84    85     trentä deners dunc li en promisdrent ,
+87    88     hanc non fud hom qui magis l' audis .
+189    190     al fog l' useire l' aeswardevét .
+246    247     coronä prendent de las espines
+265    266     davan la portä de la ciptat ,
+297    298     chi en epsä mort semper fu pius :
+300    301     o deus , vers rex , jesu crist ,
+326    327     qui in templum dei cortine pend ,
+485    486     regnum dei nuncent per tot ;

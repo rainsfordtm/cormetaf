@@ -1,0 +1,23 @@
+Rules applied: R1, R8
+Lines correct: 535 of 540
+Pass history:
+Tried rules R1; 524 lines correct.
+Tried rules R11; 476 lines correct.
+Tried rules R2; 467 lines correct.
+Tried rules R30; 481 lines correct.
+Tried rules R8; 490 lines correct.
+Tried rules R1, R11; 519 lines correct.
+Tried rules R1, R2; 510 lines correct.
+Tried rules R1, R30; 524 lines correct.
+Tried rules R1, R8; 535 lines correct.
+Tried rules R1, R8, R11; 530 lines correct.
+Tried rules R1, R8, R2; 519 lines correct.
+Tried rules R1, R8, R30; 535 lines correct.
+OPTIMIZED LINES
+19    20     querent moult destre et senestre
+111    112     porpensa soi que au glorieus
+173    174     sique un seul d eus ne l entent
+256    257     " tenez " fet il " ice usez
+
+BAD LINES
+457    458     saint jaques et saint jehan ses freres

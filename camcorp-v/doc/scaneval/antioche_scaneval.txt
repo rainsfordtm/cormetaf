@@ -1,0 +1,20 @@
+Rules applied: R1, R8
+Lines correct: 318 of 320
+Pass history:
+Tried rules R1; 313 lines correct.
+Tried rules R11; 253 lines correct.
+Tried rules R2; 254 lines correct.
+Tried rules R30; 264 lines correct.
+Tried rules R8; 269 lines correct.
+Tried rules R1, R11; 298 lines correct.
+Tried rules R1, R2; 303 lines correct.
+Tried rules R1, R30; 313 lines correct.
+Tried rules R1, R8; 318 lines correct.
+Tried rules R1, R8, R11; 303 lines correct.
+Tried rules R1, R8, R2; 308 lines correct.
+Tried rules R1, R8, R30; 318 lines correct.
+OPTIMIZED LINES
+201    202     nient li sire del mont qui tout voit et consent ,
+
+BAD LINES
+151    152     es plains de devant niqué fu forment escriee ;

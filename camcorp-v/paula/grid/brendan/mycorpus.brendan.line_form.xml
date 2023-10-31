@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.brendan_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.brendan.line.xml">
+<feat xlink:href="#line_0" value=" Donna Aaliz la reïne ,"/><!--  Donna Aaliz la reïne , -->
+<feat xlink:href="#line_1" value=" Par qui valdrat lei divine ,"/><!--  Par qui valdrat lei divine , -->
+<feat xlink:href="#line_2" value=" Par qui creistrat lei de terre"/><!--  Par qui creistrat lei de terre -->
+<feat xlink:href="#line_3" value=" E remandrat tante guerre"/><!--  E remandrat tante guerre -->
+<feat xlink:href="#line_4" value=" Por les armes Henri lu rei"/><!--  Por les armes Henri lu rei -->
+<feat xlink:href="#line_5" value=" E par le cunseil qui ert en tei ,"/><!--  E par le cunseil qui ert en tei , -->
+<feat xlink:href="#line_6" value=" Salüet tei mil e mil feiz"/><!--  Salüet tei mil e mil feiz -->
+<feat xlink:href="#line_7" value=" Li apostoiles danz Benedeiz ."/><!--  Li apostoiles danz Benedeiz . -->
+<feat xlink:href="#line_8" value=" Que comandas ço ad enpris"/><!--  Que comandas ço ad enpris -->
+<feat xlink:href="#line_9" value=" Secund sun sens e entremis ,"/><!--  Secund sun sens e entremis , -->
+<feat xlink:href="#line_10" value=" En letre mis e en romanz ,"/><!--  En letre mis e en romanz , -->
+<feat xlink:href="#line_11" value=" Esi cum fud li teons cumanz ,"/><!--  Esi cum fud li teons cumanz , -->
+<feat xlink:href="#line_12" value=" De saint Brendan le bon abéth ."/><!--  De saint Brendan le bon abéth . -->
+<feat xlink:href="#line_13" value=" Mais tul defent ne seit gabéth"/><!--  Mais tul defent ne seit gabéth -->
+<feat xlink:href="#line_14" value=" Quant dit que set e fait que peot :"/><!--  Quant dit que set e fait que peot : -->
+<feat xlink:href="#line_15" value=" Itel servant blasmer n&apos; esteot ."/><!--  Itel servant blasmer n' esteot . -->
+<feat xlink:href="#line_16" value=" Mais cil qui peot e ne voile ,"/><!--  Mais cil qui peot e ne voile , -->
+<feat xlink:href="#line_17" value=" Dreiz est que cil mult se doile ."/><!--  Dreiz est que cil mult se doile . -->
+<feat xlink:href="#line_18" value=" Icist seinz Deu fud néd de reis ;"/><!--  Icist seinz Deu fud néd de reis ; -->
+<feat xlink:href="#line_19" value=" De naisance fud des Ireis ."/><!--  De naisance fud des Ireis . -->
+<feat xlink:href="#line_20" value=" Pur ço que fud de regal lin"/><!--  Pur ço que fud de regal lin -->
+<feat xlink:href="#line_21" value=" Puroc entent a noble fin ."/><!--  Puroc entent a noble fin . -->
+<feat xlink:href="#line_22" value=" Ben sout que l&apos; escripture dit :"/><!--  Ben sout que l' escripture dit : -->
+<feat xlink:href="#line_23" value=" &quot; Ki de cest mund fuit le delit ,"/><!--  " Ki de cest mund fuit le delit , -->
+<feat xlink:href="#line_24" value=" Od Deu de cel tant en avrat"/><!--  Od Deu de cel tant en avrat -->
+<feat xlink:href="#line_25" value=" Que plus demander ne savrat . &quot;"/><!--  Que plus demander ne savrat . " -->
+<feat xlink:href="#line_26" value=" Puroc guerpit cist reials eirs"/><!--  Puroc guerpit cist reials eirs -->
+<feat xlink:href="#line_27" value=" Les fals honurs pur iceals veirs ."/><!--  Les fals honurs pur iceals veirs . -->
+<feat xlink:href="#line_28" value=" Dras de moine , pur estre vil"/><!--  Dras de moine , pur estre vil -->
+<feat xlink:href="#line_29" value=" En cest secle cum en eisil ,"/><!--  En cest secle cum en eisil , -->
+<feat xlink:href="#line_30" value=" Prist e l&apos; ordre e les habiz ,"/><!--  Prist e l' ordre e les habiz , -->
+<feat xlink:href="#line_31" value=" Puis fud abes par force esliz ."/><!--  Puis fud abes par force esliz . -->
+<feat xlink:href="#line_32" value=" Par art de lui mult i vindrent"/><!--  Par art de lui mult i vindrent -->
+<feat xlink:href="#line_33" value=" Qui a le ordre bein se tindrent ."/><!--  Qui a le ordre bein se tindrent . -->
+<feat xlink:href="#line_34" value=" Tres mil suz lui par divers leus"/><!--  Tres mil suz lui par divers leus -->
+<feat xlink:href="#line_35" value=" Munies aveit Brandan li pius ,"/><!--  Munies aveit Brandan li pius , -->
+<feat xlink:href="#line_36" value=" De lui pernanz tuz ensample"/><!--  De lui pernanz tuz ensample -->
+<feat xlink:href="#line_37" value=" Par sa vertud que ert ample ."/><!--  Par sa vertud que ert ample . -->
+<feat xlink:href="#line_38" value=" Li abes Brendan prist en purpens ,"/><!--  Li abes Brendan prist en purpens , -->
+<feat xlink:href="#line_39" value=" Cum hom qui ert de mult grant sens ,"/><!--  Cum hom qui ert de mult grant sens , -->
+<feat xlink:href="#line_40" value=" De granz cunseilz e de rustes ,"/><!--  De granz cunseilz e de rustes , -->
+<feat xlink:href="#line_41" value=" Cum cil qui ert forment justes ,"/><!--  Cum cil qui ert forment justes , -->
+<feat xlink:href="#line_42" value=" De Deu prïer ne fereit fin"/><!--  De Deu prïer ne fereit fin -->
+<feat xlink:href="#line_43" value=" Pur sei e pur trestut sun lin ,"/><!--  Pur sei e pur trestut sun lin , -->
+<feat xlink:href="#line_44" value=" E pur les morz e pur les vifs ,"/><!--  E pur les morz e pur les vifs , -->
+<feat xlink:href="#line_45" value=" Quer a trestuz ert amis ."/><!--  Quer a trestuz ert amis . -->
+<feat xlink:href="#line_46" value=" Mais de une rien li prist talent"/><!--  Mais de une rien li prist talent -->
+<feat xlink:href="#line_47" value=" Dunt Deu prïer prent plus suvent"/><!--  Dunt Deu prïer prent plus suvent -->
+<feat xlink:href="#line_48" value=" Que lui mustrast cel paraïs"/><!--  Que lui mustrast cel paraïs -->
+<feat xlink:href="#line_49" value=" U Adam fud primes asis ,"/><!--  U Adam fud primes asis , -->
+<feat xlink:href="#line_50" value=" Icel qui est nostre heritét"/><!--  Icel qui est nostre heritét -->
+<feat xlink:href="#line_51" value=" Dun nus fumes deseritét ."/><!--  Dun nus fumes deseritét . -->
+<feat xlink:href="#line_52" value=" Bien creit qu&apos; ileoc ad grant glorie ,"/><!--  Bien creit qu' ileoc ad grant glorie , -->
+<feat xlink:href="#line_53" value=" Si cum nus dit veir&apos; estorie ,"/><!--  Si cum nus dit veir' estorie , -->
+<feat xlink:href="#line_54" value=" Mais nepurtant voldret vetheir"/><!--  Mais nepurtant voldret vetheir -->
+<feat xlink:href="#line_55" value=" U il devreit par dreit setheir ,"/><!--  U il devreit par dreit setheir , -->
+<feat xlink:href="#line_56" value=" Mais par peccét Adam forfist ,"/><!--  Mais par peccét Adam forfist , -->
+<feat xlink:href="#line_57" value=" Pur quei e sei e nus fors mist ."/><!--  Pur quei e sei e nus fors mist . -->
+<feat xlink:href="#line_58" value=" Deu en prïet tenablement"/><!--  Deu en prïet tenablement -->
+<feat xlink:href="#line_59" value=" Cel lui mustret veablement ."/><!--  Cel lui mustret veablement . -->
+<feat xlink:href="#line_60" value=" Ainz qu&apos; il murget voldreit vetheir"/><!--  Ainz qu' il murget voldreit vetheir -->
+<feat xlink:href="#line_61" value=" Quel séd li bon devrunt aveir ,"/><!--  Quel séd li bon devrunt aveir , -->
+<feat xlink:href="#line_62" value=" Quel lu li mal aveir devrunt ,"/><!--  Quel lu li mal aveir devrunt , -->
+<feat xlink:href="#line_63" value=" Quel merite il recevrunt ."/><!--  Quel merite il recevrunt . -->
+<feat xlink:href="#line_64" value=" Enfern prïed vetheir oveoc"/><!--  Enfern prïed vetheir oveoc -->
+<feat xlink:href="#line_65" value=" E quels peines avrunt ileoc"/><!--  E quels peines avrunt ileoc -->
+<feat xlink:href="#line_66" value=" Icil felun qui par orguil"/><!--  Icil felun qui par orguil -->
+<feat xlink:href="#line_67" value=" Ici prennent par eols escuil"/><!--  Ici prennent par eols escuil -->
+<feat xlink:href="#line_68" value=" De guerrëer Deu e la lei ;"/><!--  De guerrëer Deu e la lei ; -->
+<feat xlink:href="#line_69" value=" Ne entre eols nen unt amur ne fai ."/><!--  Ne entre eols nen unt amur ne fai . -->
+<feat xlink:href="#line_70" value=" Iço dunt lui pris est desir"/><!--  Iço dunt lui pris est desir -->
+<feat xlink:href="#line_71" value=" Voldrat Brandans par Deu sentir ."/><!--  Voldrat Brandans par Deu sentir . -->
+<feat xlink:href="#line_72" value=" Od sei primes cunseil en prent"/><!--  Od sei primes cunseil en prent -->
+<feat xlink:href="#line_73" value=" Qu&apos; a un Deu serf confés se rent ."/><!--  Qu' a un Deu serf confés se rent . -->
+<feat xlink:href="#line_74" value=" Barinz out nun cil ermite ;"/><!--  Barinz out nun cil ermite ; -->
+<feat xlink:href="#line_75" value=" Murs out bons e sainte vitte ."/><!--  Murs out bons e sainte vitte . -->
+<feat xlink:href="#line_76" value=" Li fedeilz Deu en bois estout ,"/><!--  Li fedeilz Deu en bois estout , -->
+<feat xlink:href="#line_77" value=" Tres cenz moines od lui out ;"/><!--  Tres cenz moines od lui out ; -->
+<feat xlink:href="#line_78" value=" De lui prendrat conseil e los ,"/><!--  De lui prendrat conseil e los , -->
+<feat xlink:href="#line_79" value=" De lui voldrat aveir ados ."/><!--  De lui voldrat aveir ados . -->
+<feat xlink:href="#line_80" value=" Cil li mustrat par plusurs diz ,"/><!--  Cil li mustrat par plusurs diz , -->
+<feat xlink:href="#line_81" value=" Beals ensamples e bons respiz ,"/><!--  Beals ensamples e bons respiz , -->
+<feat xlink:href="#line_82" value=" Qu&apos; il vit en mer e en terre"/><!--  Qu' il vit en mer e en terre -->
+<feat xlink:href="#line_83" value=" Quant son filiol alat querre :"/><!--  Quant son filiol alat querre : -->
+<feat xlink:href="#line_84" value=" Ço fud Mernoc qui fud frerre"/><!--  Ço fud Mernoc qui fud frerre -->
+<feat xlink:href="#line_85" value=" Del liu u cist abes ere ,"/><!--  Del liu u cist abes ere , -->
+<feat xlink:href="#line_86" value=" Mais de ço fud mult voluntif"/><!--  Mais de ço fud mult voluntif -->
+<feat xlink:href="#line_87" value=" Que fust ailurs e plus sultif ."/><!--  Que fust ailurs e plus sultif . -->
+<feat xlink:href="#line_88" value=" Par sun abéth e sun parain"/><!--  Par sun abéth e sun parain -->
+<feat xlink:href="#line_89" value=" En mer se mist e nun en vain ,"/><!--  En mer se mist e nun en vain , -->
+<feat xlink:href="#line_90" value=" Quer puis devint en itel liu"/><!--  Quer puis devint en itel liu -->
+<feat xlink:href="#line_91" value=" U nuls n&apos; entret fors sul li piu :"/><!--  U nuls n' entret fors sul li piu : -->
+<feat xlink:href="#line_92" value=" Ço fud en mer en un isle"/><!--  Ço fud en mer en un isle -->
+<feat xlink:href="#line_93" value=" U mals orrez nuls ne cisle ,"/><!--  U mals orrez nuls ne cisle , -->
+<feat xlink:href="#line_94" value=" U fud poüz de cel odur"/><!--  U fud poüz de cel odur -->
+<feat xlink:href="#line_95" value=" Que en paraïs gettent li flur ,"/><!--  Que en paraïs gettent li flur , -->
+<feat xlink:href="#line_96" value=" Quer cel isle tant pres en fud ,"/><!--  Quer cel isle tant pres en fud , -->
+<feat xlink:href="#line_97" value=" U sainz Mernoc esteit curud :"/><!--  U sainz Mernoc esteit curud : -->
+<feat xlink:href="#line_98" value=" De paraïs out la vie"/><!--  De paraïs out la vie -->
+<feat xlink:href="#line_99" value=" E des angeles out l&apos; oïde ."/><!--  E des angeles out l' oïde . -->
+<feat xlink:href="#line_100" value=" E puis Barinz la le requist"/><!--  E puis Barinz la le requist -->
+<feat xlink:href="#line_101" value=" U vit iço qu&apos; a Brandan dist ."/><!--  U vit iço qu' a Brandan dist . -->
+<feat xlink:href="#line_102" value=" Quant ot Brandan la veüe"/><!--  Quant ot Brandan la veüe -->
+<feat xlink:href="#line_103" value=" Que cist out la receüe ,"/><!--  Que cist out la receüe , -->
+<feat xlink:href="#line_104" value=" De meilz en creit le soen conseil"/><!--  De meilz en creit le soen conseil -->
+<feat xlink:href="#line_105" value=" E plus enprent sun apareil ."/><!--  E plus enprent sun apareil . -->
+<feat xlink:href="#line_106" value=" De ses munies quatorze eslist ,"/><!--  De ses munies quatorze eslist , -->
+<feat xlink:href="#line_107" value=" Tuz les meilurs qu&apos; il i vit ,"/><!--  Tuz les meilurs qu' il i vit , -->
+<feat xlink:href="#line_108" value=" E dit lur ad le soen purpens ;"/><!--  E dit lur ad le soen purpens ; -->
+<feat xlink:href="#line_109" value=" Savrat par eols si ço ert sens ."/><!--  Savrat par eols si ço ert sens . -->
+<feat xlink:href="#line_110" value=" Quant oïrent iço de lui ,"/><!--  Quant oïrent iço de lui , -->
+<feat xlink:href="#line_111" value=" Dunc en parlerent dui e dui ."/><!--  Dunc en parlerent dui e dui . -->
+<feat xlink:href="#line_112" value=" Respundent lui comunalment"/><!--  Respundent lui comunalment -->
+<feat xlink:href="#line_113" value=" Que ço enprist vassalment ;"/><!--  Que ço enprist vassalment ; -->
+<feat xlink:href="#line_114" value=" Prïerent l&apos; en ques meint od sei"/><!--  Prïerent l' en ques meint od sei -->
+<feat xlink:href="#line_115" value=" Cum les seons filz soürs en fei ."/><!--  Cum les seons filz soürs en fei . -->
+<feat xlink:href="#line_116" value=" Ço dist Brandan : &quot; Pur cel vos di"/><!--  Ço dist Brandan : " Pur cel vos di -->
+<feat xlink:href="#line_117" value=" Que de vos voil ainz estre fi"/><!--  Que de vos voil ainz estre fi -->
+<feat xlink:href="#line_118" value=" Que jo d&apos; ici vos en meinge ,"/><!--  Que jo d' ici vos en meinge , -->
+<feat xlink:href="#line_119" value=" Al repentir puis m&apos; en prenge . &quot;"/><!--  Al repentir puis m' en prenge . " -->
+<feat xlink:href="#line_120" value=" Cil promettent süurance"/><!--  Cil promettent süurance -->
+<feat xlink:href="#line_121" value=" Pur eols ne seit demurance ."/><!--  Pur eols ne seit demurance . -->
+<feat xlink:href="#line_122" value=" Dunc prent le abes iceols esliz ,"/><!--  Dunc prent le abes iceols esliz , -->
+<feat xlink:href="#line_123" value=" Puis que out oït d&apos; els les diz ;"/><!--  Puis que out oït d' els les diz ; -->
+<feat xlink:href="#line_124" value=" En capitel les ad menez ."/><!--  En capitel les ad menez . -->
+<feat xlink:href="#line_125" value=" Iloec lur dist cum hoem senez :"/><!--  Iloec lur dist cum hoem senez : -->
+<feat xlink:href="#line_126" value=" &quot; Seignurs , ço que penséd avum"/><!--  " Seignurs , ço que penséd avum -->
+<feat xlink:href="#line_127" value=" Cum cel est gref nus nel savum ."/><!--  Cum cel est gref nus nel savum . -->
+<feat xlink:href="#line_128" value=" Mes prïum Deu que nus enseint ,"/><!--  Mes prïum Deu que nus enseint , -->
+<feat xlink:href="#line_129" value=" Par sun plaisir la nus en meint ;"/><!--  Par sun plaisir la nus en meint ; -->
+<feat xlink:href="#line_130" value=" E enz el nun al Saint Espirit"/><!--  E enz el nun al Saint Espirit -->
+<feat xlink:href="#line_131" value=" Juine faimes que la nus guit ,"/><!--  Juine faimes que la nus guit , -->
+<feat xlink:href="#line_132" value=" E junum la quarenteine"/><!--  E junum la quarenteine -->
+<feat xlink:href="#line_133" value=" Sur les treis jurs la semaine . &quot;"/><!--  Sur les treis jurs la semaine . " -->
+<feat xlink:href="#line_134" value=" Dunc n&apos; i ad nul qui se target"/><!--  Dunc n' i ad nul qui se target -->
+<feat xlink:href="#line_135" value=" De ço faire qu&apos; il lur charget ."/><!--  De ço faire qu' il lur charget . -->
+<feat xlink:href="#line_136" value=" Ne li abes ne nuit ne jurn"/><!--  Ne li abes ne nuit ne jurn -->
+<feat xlink:href="#line_137" value=" Des ureisuns ne fait tresturn"/><!--  Des ureisuns ne fait tresturn -->
+<feat xlink:href="#line_138" value=" De ci que Deus li enveiat"/><!--  De ci que Deus li enveiat -->
+<feat xlink:href="#line_139" value=" Le angel del cel qui l&apos; aveiat"/><!--  Le angel del cel qui l' aveiat -->
+<feat xlink:href="#line_140" value=" De tut l&apos; eire cum il irat ;"/><!--  De tut l' eire cum il irat ; -->
+<feat xlink:href="#line_141" value=" Enz en sun quer si l&apos; aspirat"/><!--  Enz en sun quer si l' aspirat -->
+<feat xlink:href="#line_142" value=" Que tres bien veit e certement"/><!--  Que tres bien veit e certement -->
+<feat xlink:href="#line_143" value=" Cum Deus voldrat le seon alment ."/><!--  Cum Deus voldrat le seon alment . -->
+<feat xlink:href="#line_144" value=" Dunc prent cungé a ses freres ,"/><!--  Dunc prent cungé a ses freres , -->
+<feat xlink:href="#line_145" value=" As quels il ert mult dulz peres ,"/><!--  As quels il ert mult dulz peres , -->
+<feat xlink:href="#line_146" value=" E dist lur ad de seon eire"/><!--  E dist lur ad de seon eire -->
+<feat xlink:href="#line_147" value=" Cument a Deu le voleit creire ."/><!--  Cument a Deu le voleit creire . -->
+<feat xlink:href="#line_148" value=" A sun prïur tuz les concreit ,"/><!--  A sun prïur tuz les concreit , -->
+<feat xlink:href="#line_149" value=" Dist lui cument guarder les deit ."/><!--  Dist lui cument guarder les deit . -->
+<feat xlink:href="#line_150" value=" Cumandet eals lui obeïr ,"/><!--  Cumandet eals lui obeïr , -->
+<feat xlink:href="#line_151" value=" Cum lur abét mult bien servir ."/><!--  Cum lur abét mult bien servir . -->
+<feat xlink:href="#line_152" value=" Puis les baiset Brandan e vait ."/><!--  Puis les baiset Brandan e vait . -->
+<feat xlink:href="#line_153" value=" Plurent trestuit par grant dehait"/><!--  Plurent trestuit par grant dehait -->
+<feat xlink:href="#line_154" value=" Que mener ne volt lur peres"/><!--  Que mener ne volt lur peres -->
+<feat xlink:href="#line_155" value=" Fors quatorze de lur freres ."/><!--  Fors quatorze de lur freres . -->
+<feat xlink:href="#line_156" value=" Vait s&apos; en Brandan vers le grant mer"/><!--  Vait s' en Brandan vers le grant mer -->
+<feat xlink:href="#line_157" value=" U sout par Deu que dout entrer ."/><!--  U sout par Deu que dout entrer . -->
+<feat xlink:href="#line_158" value=" Unc ne turnat vers sun parent :"/><!--  Unc ne turnat vers sun parent : -->
+<feat xlink:href="#line_159" value=" En plus cher leu aler entent ."/><!--  En plus cher leu aler entent . -->
+<feat xlink:href="#line_160" value=" Alat tant quant terre dure ;"/><!--  Alat tant quant terre dure ; -->
+<feat xlink:href="#line_161" value=" Del sujurner ne prist cure ."/><!--  Del sujurner ne prist cure . -->
+<feat xlink:href="#line_162" value=" Vint al roceit que li vilain"/><!--  Vint al roceit que li vilain -->
+<feat xlink:href="#line_163" value=" Or apelent le Salt Brandan ."/><!--  Or apelent le Salt Brandan . -->
+<feat xlink:href="#line_164" value=" Icil s&apos; estent durement luin"/><!--  Icil s' estent durement luin -->
+<feat xlink:href="#line_165" value=" Sur l&apos; occean si cume un gruign ."/><!--  Sur l' occean si cume un gruign . -->
+<feat xlink:href="#line_166" value=" E suz le gruign aveit un port"/><!--  E suz le gruign aveit un port -->
+<feat xlink:href="#line_167" value=" Par unt la mer receit un gort ,"/><!--  Par unt la mer receit un gort , -->
+<feat xlink:href="#line_168" value=" Mais petiz ert e mult estreits ;"/><!--  Mais petiz ert e mult estreits ; -->
+<feat xlink:href="#line_169" value=" Del derube veneit tut dreiz ."/><!--  Del derube veneit tut dreiz . -->
+<feat xlink:href="#line_170" value=" Altres , ço crei , avant cestui"/><!--  Altres , ço crei , avant cestui -->
+<feat xlink:href="#line_171" value=" Ne descendit aval cel pui ."/><!--  Ne descendit aval cel pui . -->
+<feat xlink:href="#line_172" value=" Ci aloeces fist atraire"/><!--  Ci aloeces fist atraire -->
+<feat xlink:href="#line_173" value=" Mairen dunt sa nef fist faire :"/><!--  Mairen dunt sa nef fist faire : -->
+<feat xlink:href="#line_174" value=" Tut dedenz de fust sapin ,"/><!--  Tut dedenz de fust sapin , -->
+<feat xlink:href="#line_175" value=" Defors l&apos; avolst de quir bovin ;"/><!--  Defors l' avolst de quir bovin ; -->
+<feat xlink:href="#line_176" value=" Uindre la fist qu&apos; esculante"/><!--  Uindre la fist qu' esculante -->
+<feat xlink:href="#line_177" value=" Od l&apos; unde fust e curante ."/><!--  Od l' unde fust e curante . -->
+<feat xlink:href="#line_178" value=" Ustilz i mist tant cum estout"/><!--  Ustilz i mist tant cum estout -->
+<feat xlink:href="#line_179" value=" E cume la nef porter en pout ."/><!--  E cume la nef porter en pout . -->
+<feat xlink:href="#line_180" value=" La guarisun i mist odveoc"/><!--  La guarisun i mist odveoc -->
+<feat xlink:href="#line_181" value=" Que il aveient portét iloec :"/><!--  Que il aveient portét iloec : -->
+<feat xlink:href="#line_182" value=" Ne plus que a quarante dis"/><!--  Ne plus que a quarante dis -->
+<feat xlink:href="#line_183" value=" De vïande n&apos; i out enz mis ."/><!--  De vïande n' i out enz mis . -->
+<feat xlink:href="#line_184" value=" Dist as freres : &quot; Entrez en enz !"/><!--  Dist as freres : " Entrez en enz ! -->
+<feat xlink:href="#line_185" value=" Deus gracïez : bons est li venz . &quot;"/><!--  Deus gracïez : bons est li venz . " -->
+<feat xlink:href="#line_186" value=" Entrerent tuit e il aprés ."/><!--  Entrerent tuit e il aprés . -->
+<feat xlink:href="#line_187" value=" Ast vos ja tres curanz adés ,"/><!--  Ast vos ja tres curanz adés , -->
+<feat xlink:href="#line_188" value=" A haltes voiz Brandan criant"/><!--  A haltes voiz Brandan criant -->
+<feat xlink:href="#line_189" value=" E lor palmes vers lui tendant :"/><!--  E lor palmes vers lui tendant : -->
+<feat xlink:href="#line_190" value=" &quot; De ton muster sumes meüd"/><!--  " De ton muster sumes meüd -->
+<feat xlink:href="#line_191" value=" E desque ci t&apos; avum seüd ;"/><!--  E desque ci t' avum seüd ; -->
+<feat xlink:href="#line_192" value=" Lai nus , abes , a tei entrer"/><!--  Lai nus , abes , a tei entrer -->
+<feat xlink:href="#line_193" value=" E od tei , donz , par mer errer . &quot;"/><!--  E od tei , donz , par mer errer . " -->
+<feat xlink:href="#line_194" value=" Il les cunut e sis receit ."/><!--  Il les cunut e sis receit . -->
+<feat xlink:href="#line_195" value=" Qu&apos; en avendrat bien le purveit :"/><!--  Qu' en avendrat bien le purveit : -->
+<feat xlink:href="#line_196" value=" Ço que par Deu le abes purvit"/><!--  Ço que par Deu le abes purvit -->
+<feat xlink:href="#line_197" value=" Ne lur celet , ainz lur ad dist :"/><!--  Ne lur celet , ainz lur ad dist : -->
+<feat xlink:href="#line_198" value=" &quot; Les dous de vus avrat Satan"/><!--  " Les dous de vus avrat Satan -->
+<feat xlink:href="#line_199" value=" Od Abiron e od Dathan ."/><!--  Od Abiron e od Dathan . -->
+<feat xlink:href="#line_200" value=" Li tierz de vus mult ert temptez ,"/><!--  Li tierz de vus mult ert temptez , -->
+<feat xlink:href="#line_201" value=" Mais par Deu ert bien sustentez . &quot;"/><!--  Mais par Deu ert bien sustentez . " -->
+<feat xlink:href="#line_202" value=" Quant out ço dist l&apos; abes Brandans ,"/><!--  Quant out ço dist l' abes Brandans , -->
+<feat xlink:href="#line_203" value=" Dunc drechet sus ambes les mains"/><!--  Dunc drechet sus ambes les mains -->
+<feat xlink:href="#line_204" value=" E Deu prïet escordement"/><!--  E Deu prïet escordement -->
+<feat xlink:href="#line_205" value=" Les seons fetheilz guard de turment ."/><!--  Les seons fetheilz guard de turment . -->
+<feat xlink:href="#line_206" value=" E puis levet sus la destre ,"/><!--  E puis levet sus la destre , -->
+<feat xlink:href="#line_207" value=" Tuz les signet li sainz prestre ."/><!--  Tuz les signet li sainz prestre . -->
+<feat xlink:href="#line_208" value=" Drechent le mast , tendent le veil ,"/><!--  Drechent le mast , tendent le veil , -->
+<feat xlink:href="#line_209" value=" Vunt s&apos; en a plain li Deu fetheil ."/><!--  Vunt s' en a plain li Deu fetheil . -->
+<feat xlink:href="#line_210" value=" Le orrez lur veint de l&apos; orïent"/><!--  Le orrez lur veint de l' orïent -->
+<feat xlink:href="#line_211" value=" Quis en meinet vers occident ."/><!--  Quis en meinet vers occident . -->
+<feat xlink:href="#line_212" value=" Tutes perdent les veüthes"/><!--  Tutes perdent les veüthes -->
+<feat xlink:href="#line_213" value=" Fors de la mer e des nües ."/><!--  Fors de la mer e des nües . -->
+<feat xlink:href="#line_214" value=" Pur le bon vent ne s&apos; en feignent ,"/><!--  Pur le bon vent ne s' en feignent , -->
+<feat xlink:href="#line_215" value=" Mais de nager mult se peinent ;"/><!--  Mais de nager mult se peinent ; -->
+<feat xlink:href="#line_216" value=" E desirent pener lur cors"/><!--  E desirent pener lur cors -->
+<feat xlink:href="#line_217" value=" A ço vetheir pur quei vunt fors ."/><!--  A ço vetheir pur quei vunt fors . -->
+<feat xlink:href="#line_218" value=" Si cururent par quinze jurs"/><!--  Si cururent par quinze jurs -->
+<feat xlink:href="#line_219" value=" Desque li venz tuz lur fud gurz :"/><!--  Desque li venz tuz lur fud gurz : -->
+<feat xlink:href="#line_220" value=" Dunc s&apos; esmaient tuit li frere"/><!--  Dunc s' esmaient tuit li frere -->
+<feat xlink:href="#line_221" value=" Pur le vent qui falit ere ."/><!--  Pur le vent qui falit ere . -->
+<feat xlink:href="#line_222" value=" Li abes dunc les amonestet ,"/><!--  Li abes dunc les amonestet , -->
+<feat xlink:href="#line_223" value=" Que curages unc ne cesset :"/><!--  Que curages unc ne cesset : -->
+<feat xlink:href="#line_224" value=" &quot; Metez vus en Deu maneie ,"/><!--  " Metez vus en Deu maneie , -->
+<feat xlink:href="#line_225" value=" E n&apos; i ait nul qui s&apos; esmaie !"/><!--  E n' i ait nul qui s' esmaie ! -->
+<feat xlink:href="#line_226" value=" Quant averez vent , siglez sulunc ;"/><!--  Quant averez vent , siglez sulunc ; -->
+<feat xlink:href="#line_227" value=" Cum venz n&apos; i ert , nagez idunc ! &quot;"/><!--  Cum venz n' i ert , nagez idunc ! " -->
+<feat xlink:href="#line_228" value=" As aviruns dunc se metent ."/><!--  As aviruns dunc se metent . -->
+<feat xlink:href="#line_229" value=" La grace Deu mult regrettent ,"/><!--  La grace Deu mult regrettent , -->
+<feat xlink:href="#line_230" value=" Quer ne sevent quel part aler ,"/><!--  Quer ne sevent quel part aler , -->
+<feat xlink:href="#line_231" value=" Ne quels cordes deient aler ,"/><!--  Ne quels cordes deient aler , -->
+<feat xlink:href="#line_232" value=" Quel part beitrer , quel part tendre ,"/><!--  Quel part beitrer , quel part tendre , -->
+<feat xlink:href="#line_233" value=" Ne u devrunt lur curs prendre ."/><!--  Ne u devrunt lur curs prendre . -->
+<feat xlink:href="#line_234" value=" Un meis sanz vent nagerent tut plein"/><!--  Un meis sanz vent nagerent tut plein -->
+<feat xlink:href="#line_235" value=" Tuit li frere par nul desdeign ."/><!--  Tuit li frere par nul desdeign . -->
+<feat xlink:href="#line_236" value=" Tant cum durat lur vitaile ,"/><!--  Tant cum durat lur vitaile , -->
+<feat xlink:href="#line_237" value=" Pener pourent sanz defaile ."/><!--  Pener pourent sanz defaile . -->
+<feat xlink:href="#line_238" value=" Force perdent e vïande ;"/><!--  Force perdent e vïande ; -->
+<feat xlink:href="#line_239" value=" Puroc ourent poür grande ."/><!--  Puroc ourent poür grande . -->
+<feat xlink:href="#line_240" value=" Cum lur avient li granz busuinz ,"/><!--  Cum lur avient li granz busuinz , -->
+<feat xlink:href="#line_241" value=" A ses fetheilz Deus n&apos; est luinz :"/><!--  A ses fetheilz Deus n' est luinz : -->
+<feat xlink:href="#line_242" value=" Puroc ne deit hoem mescreire ."/><!--  Puroc ne deit hoem mescreire . -->
+<feat xlink:href="#line_243" value=" Si cil enprent pur Deu eire ,"/><!--  Si cil enprent pur Deu eire , -->
+<feat xlink:href="#line_244" value=" Tant en face cum faire pout ;"/><!--  Tant en face cum faire pout ; -->
+<feat xlink:href="#line_245" value=" Deus li truverat ço que lui estout ."/><!--  Deus li truverat ço que lui estout . -->
+<feat xlink:href="#line_246" value=" Terre veient grande e halte ."/><!--  Terre veient grande e halte . -->
+<feat xlink:href="#line_247" value=" Li venz lur vient sanz defalte :"/><!--  Li venz lur vient sanz defalte : -->
+<feat xlink:href="#line_248" value=" Qui de nager erent penét"/><!--  Qui de nager erent penét -->
+<feat xlink:href="#line_249" value=" Sanz tuz travalz la sunt menét ."/><!--  Sanz tuz travalz la sunt menét . -->
+<feat xlink:href="#line_250" value=" Mais n&apos; i truvent nul&apos; entrethe"/><!--  Mais n' i truvent nul' entrethe -->
+<feat xlink:href="#line_251" value=" U lur nef fust eschipede ,"/><!--  U lur nef fust eschipede , -->
+<feat xlink:href="#line_252" value=" Quer de rocheiz ert aclose"/><!--  Quer de rocheiz ert aclose -->
+<feat xlink:href="#line_253" value=" U nul d&apos; eals entrer n&apos; ose ."/><!--  U nul d' eals entrer n' ose . -->
+<feat xlink:href="#line_254" value=" Halt sunt li pui en l&apos; air tendant ,"/><!--  Halt sunt li pui en l' air tendant , -->
+<feat xlink:href="#line_255" value=" E sur la mer en luin pendant ."/><!--  E sur la mer en luin pendant . -->
+<feat xlink:href="#line_256" value=" Des creos desuz la mer resort ,"/><!--  Des creos desuz la mer resort , -->
+<feat xlink:href="#line_257" value=" Pur quei peril i at mult fort ."/><!--  Pur quei peril i at mult fort . -->
+<feat xlink:href="#line_258" value=" Amunt aval port i quistrent ,"/><!--  Amunt aval port i quistrent , -->
+<feat xlink:href="#line_259" value=" E al querre treis jurs mistrent ."/><!--  E al querre treis jurs mistrent . -->
+<feat xlink:href="#line_260" value=" Un port truvent , la se sunt mis ,"/><!--  Un port truvent , la se sunt mis , -->
+<feat xlink:href="#line_261" value=" Qui fud trenchéd al liois bis ,"/><!--  Qui fud trenchéd al liois bis , -->
+<feat xlink:href="#line_262" value=" Mais n&apos; i unt leu fors de une nef ;"/><!--  Mais n' i unt leu fors de une nef ; -->
+<feat xlink:href="#line_263" value=" Cil fud faitiz en le rocheit blef ."/><!--  Cil fud faitiz en le rocheit blef . -->
+<feat xlink:href="#line_264" value=" Ferment la nef , eisent s&apos; en tuit ,"/><!--  Ferment la nef , eisent s' en tuit , -->
+<feat xlink:href="#line_265" value=" Vunt la veie qui bien les duit ."/><!--  Vunt la veie qui bien les duit . -->
+<feat xlink:href="#line_266" value=" Dreit les meinet a un castel"/><!--  Dreit les meinet a un castel -->
+<feat xlink:href="#line_267" value=" Qui riches ert e grant e bel"/><!--  Qui riches ert e grant e bel -->
+<feat xlink:href="#line_268" value=" E resemblout mult regal leu ,"/><!--  E resemblout mult regal leu , -->
+<feat xlink:href="#line_269" value=" De emperur mult riche feu ."/><!--  De emperur mult riche feu . -->
+<feat xlink:href="#line_270" value=" Entrerent enz dedenz le mur"/><!--  Entrerent enz dedenz le mur -->
+<feat xlink:href="#line_271" value=" Qui tuz ert faiz de cristal dur ."/><!--  Qui tuz ert faiz de cristal dur . -->
+<feat xlink:href="#line_272" value=" Paleiz veient tuz a marbre ,"/><!--  Paleiz veient tuz a marbre , -->
+<feat xlink:href="#line_273" value=" N&apos; i out maisun faite de arbre ;"/><!--  N' i out maisun faite de arbre ; -->
+<feat xlink:href="#line_274" value=" Gemmes od l&apos; or funt grant clarté"/><!--  Gemmes od l' or funt grant clarté -->
+<feat xlink:href="#line_275" value=" Dun li pareit sunt entailét ."/><!--  Dun li pareit sunt entailét . -->
+<feat xlink:href="#line_276" value=" Mais une rien mult lur desplout ,"/><!--  Mais une rien mult lur desplout , -->
+<feat xlink:href="#line_277" value=" Que en la citét hume n&apos; i out ."/><!--  Que en la citét hume n' i out . -->
+<feat xlink:href="#line_278" value=" Dunc esgardent l&apos; alçur palais ,"/><!--  Dunc esgardent l' alçur palais , -->
+<feat xlink:href="#line_279" value=" Entrent en enz al num de pais ."/><!--  Entrent en enz al num de pais . -->
+<feat xlink:href="#line_280" value=" Enz en le palais Brandan se mist"/><!--  Enz en le palais Brandan se mist -->
+<feat xlink:href="#line_281" value=" E sur un banc puis s&apos; asist ."/><!--  E sur un banc puis s' asist . -->
+<feat xlink:href="#line_282" value=" Fors sul les soens altres n&apos; i vit ;"/><!--  Fors sul les soens altres n' i vit ; -->
+<feat xlink:href="#line_283" value=" Prent a parler , si lur ad dist :"/><!--  Prent a parler , si lur ad dist : -->
+<feat xlink:href="#line_284" value=" &quot; Alez querre par cez mesters"/><!--  " Alez querre par cez mesters -->
+<feat xlink:href="#line_285" value=" Si rien i at dun est mesters . &quot;"/><!--  Si rien i at dun est mesters . " -->
+<feat xlink:href="#line_286" value=" Alerent cil e truverent"/><!--  Alerent cil e truverent -->
+<feat xlink:href="#line_287" value=" Ço que plus dunc desirerent :"/><!--  Ço que plus dunc desirerent : -->
+<feat xlink:href="#line_288" value=" Ço fud sucurs de vïande"/><!--  Ço fud sucurs de vïande -->
+<feat xlink:href="#line_289" value=" E de beivre plentét grande ;"/><!--  E de beivre plentét grande ; -->
+<feat xlink:href="#line_290" value=" De or e de argent la vaisele"/><!--  De or e de argent la vaisele -->
+<feat xlink:href="#line_291" value=" Que forment fud e bone e bele ."/><!--  Que forment fud e bone e bele . -->
+<feat xlink:href="#line_292" value=" Quanque voldrent tut a plentét"/><!--  Quanque voldrent tut a plentét -->
+<feat xlink:href="#line_293" value=" Trovent iloec u sunt entrét ."/><!--  Trovent iloec u sunt entrét . -->
+<feat xlink:href="#line_294" value=" Le abes lur dist : &quot; Portez nus ent !"/><!--  Le abes lur dist : " Portez nus ent ! -->
+<feat xlink:href="#line_295" value=" N&apos; en prengez trop , ço vus defent ."/><!--  N' en prengez trop , ço vus defent . -->
+<feat xlink:href="#line_296" value=" E prïez Deu checun pur sei"/><!--  E prïez Deu checun pur sei -->
+<feat xlink:href="#line_297" value=" Que ne mentet vers Deu sa fai . &quot;"/><!--  Que ne mentet vers Deu sa fai . " -->
+<feat xlink:href="#line_298" value=" Pur ço les volt li abes guarnir"/><!--  Pur ço les volt li abes guarnir -->
+<feat xlink:href="#line_299" value=" Quer bien purvit que ert a venir ."/><!--  Quer bien purvit que ert a venir . -->
+<feat xlink:href="#line_300" value=" Cil aportent asez cunrei ,"/><!--  Cil aportent asez cunrei , -->
+<feat xlink:href="#line_301" value=" E n&apos; en prestrent a nul desrei ;"/><!--  E n' en prestrent a nul desrei ; -->
+<feat xlink:href="#line_302" value=" Tant mangerent cum lur plout ,"/><!--  Tant mangerent cum lur plout , -->
+<feat xlink:href="#line_303" value=" E cum idunc lur en estout ."/><!--  E cum idunc lur en estout . -->
+<feat xlink:href="#line_304" value=" De Deu loër ne se ublïent ,"/><!--  De Deu loër ne se ublïent , -->
+<feat xlink:href="#line_305" value=" Mais sa merci mult la crïent ."/><!--  Mais sa merci mult la crïent . -->
+<feat xlink:href="#line_306" value=" Del herberger pregnent oser ;"/><!--  Del herberger pregnent oser ; -->
+<feat xlink:href="#line_307" value=" Quant fud l&apos; ure , vunt reposer ."/><!--  Quant fud l' ure , vunt reposer . -->
+<feat xlink:href="#line_308" value=" Cum endormit furent trestuit ,"/><!--  Cum endormit furent trestuit , -->
+<feat xlink:href="#line_309" value=" Ast vos Sathan qui l&apos; un seduit :"/><!--  Ast vos Sathan qui l' un seduit : -->
+<feat xlink:href="#line_310" value=" Mist l&apos; en talent prendre an emblét"/><!--  Mist l' en talent prendre an emblét -->
+<feat xlink:href="#line_311" value=" De l&apos; or qu&apos; il vit la ensemblét ."/><!--  De l' or qu' il vit la ensemblét . -->
+<feat xlink:href="#line_312" value=" L&apos; abes veilout e bien vetheit"/><!--  L' abes veilout e bien vetheit -->
+<feat xlink:href="#line_313" value=" Cume dïables celui teneit ,"/><!--  Cume dïables celui teneit , -->
+<feat xlink:href="#line_314" value=" Cume lui tendeit un hanap de or ;"/><!--  Cume lui tendeit un hanap de or ; -->
+<feat xlink:href="#line_315" value=" Plus riche n&apos; i at en un tresor ."/><!--  Plus riche n' i at en un tresor . -->
+<feat xlink:href="#line_316" value=" Cil levet sus , prendre l&apos; alat ,"/><!--  Cil levet sus , prendre l' alat , -->
+<feat xlink:href="#line_317" value=" E en repost tost l&apos; enmalat ."/><!--  E en repost tost l' enmalat . -->
+<feat xlink:href="#line_318" value=" E puis que out fait le larecin ,"/><!--  E puis que out fait le larecin , -->
+<feat xlink:href="#line_319" value=" Revint dormir en sun reclin ."/><!--  Revint dormir en sun reclin . -->
+<feat xlink:href="#line_320" value=" Tut vit l&apos; abes u reposout"/><!--  Tut vit l' abes u reposout -->
+<feat xlink:href="#line_321" value=" Cum cil freres par nuit errout ."/><!--  Cum cil freres par nuit errout . -->
+<feat xlink:href="#line_322" value=" Pur tenebres ne remaneit :"/><!--  Pur tenebres ne remaneit : -->
+<feat xlink:href="#line_323" value=" Sanz candeile tut le vetheit ,"/><!--  Sanz candeile tut le vetheit , -->
+<feat xlink:href="#line_324" value=" Quar quant ço Deus li volt mustrer ,"/><!--  Quar quant ço Deus li volt mustrer , -->
+<feat xlink:href="#line_325" value=" Sur ço n&apos; estout cirge alumer ."/><!--  Sur ço n' estout cirge alumer . -->
+<feat xlink:href="#line_326" value=" Treis jurs enters i sujurnerent"/><!--  Treis jurs enters i sujurnerent -->
+<feat xlink:href="#line_327" value=" E puis al quart s&apos; en turnerent ."/><!--  E puis al quart s' en turnerent . -->
+<feat xlink:href="#line_328" value=" Brandans lur dist : &quot; Seignurs , vus pri ,"/><!--  Brandans lur dist : " Seignurs , vus pri , -->
+<feat xlink:href="#line_329" value=" Ne portez rien od vus d&apos; ici ,"/><!--  Ne portez rien od vus d' ici , -->
+<feat xlink:href="#line_330" value=" Neïs un punt de cest cunrei ,"/><!--  Neïs un punt de cest cunrei , -->
+<feat xlink:href="#line_331" value=" N&apos; enteins l&apos; aigue pur nule sei . &quot;"/><!--  N' enteins l' aigue pur nule sei . " -->
+<feat xlink:href="#line_332" value=" Forment plurant dist as freres :"/><!--  Forment plurant dist as freres : -->
+<feat xlink:href="#line_333" value=" &quot; Vedez , seignurs , cist est leres . &quot;"/><!--  " Vedez , seignurs , cist est leres . " -->
+<feat xlink:href="#line_334" value=" Cil aparceut que l&apos; abes sout"/><!--  Cil aparceut que l' abes sout -->
+<feat xlink:href="#line_335" value=" Del larecin , cument il l&apos; out"/><!--  Del larecin , cument il l' out -->
+<feat xlink:href="#line_336" value=" Cunuit ; a tuz confés se rent ,"/><!--  Cunuit ; a tuz confés se rent , -->
+<feat xlink:href="#line_337" value=" A pez le abét mercit atent ."/><!--  A pez le abét mercit atent . -->
+<feat xlink:href="#line_338" value=" Dist lur abes : &quot; Prïez pur lui ;"/><!--  Dist lur abes : " Prïez pur lui ; -->
+<feat xlink:href="#line_339" value=" Vus le verrez murrir encui . &quot;"/><!--  Vus le verrez murrir encui . " -->
+<feat xlink:href="#line_340" value=" Devant trestuz tuz veables"/><!--  Devant trestuz tuz veables -->
+<feat xlink:href="#line_341" value=" Eisit criant li dïables :"/><!--  Eisit criant li dïables : -->
+<feat xlink:href="#line_342" value=" &quot; Cheles , Brandan , par quel raisun"/><!--  " Cheles , Brandan , par quel raisun -->
+<feat xlink:href="#line_343" value=" Gettes mei fors de ma maisun ? &quot;"/><!--  Gettes mei fors de ma maisun ? " -->
+<feat xlink:href="#line_344" value=" Dist al frere ço que il volt ,"/><!--  Dist al frere ço que il volt , -->
+<feat xlink:href="#line_345" value=" Mercit li fait e puis l&apos; asolt ."/><!--  Mercit li fait e puis l' asolt . -->
+<feat xlink:href="#line_346" value=" Desque receut cumungement ,"/><!--  Desque receut cumungement , -->
+<feat xlink:href="#line_347" value=" Veanz trestuz mort le prent ."/><!--  Veanz trestuz mort le prent . -->
+<feat xlink:href="#line_348" value=" L&apos; espirit en vait en paraïs"/><!--  L' espirit en vait en paraïs -->
+<feat xlink:href="#line_349" value=" En grant repos u Deus l&apos; at mis ."/><!--  En grant repos u Deus l' at mis . -->
+<feat xlink:href="#line_350" value=" Al cors firent sepulture ,"/><!--  Al cors firent sepulture , -->
+<feat xlink:href="#line_351" value=" Prïent Deu qu&apos; en prenget cure ."/><!--  Prïent Deu qu' en prenget cure . -->
+<feat xlink:href="#line_352" value=" Cist fud un des tres freres"/><!--  Cist fud un des tres freres -->
+<feat xlink:href="#line_353" value=" Qu&apos; en la nef receut li peres ."/><!--  Qu' en la nef receut li peres . -->
+<feat xlink:href="#line_354" value=" Vindrent al port el rivage ."/><!--  Vindrent al port el rivage . -->
+<feat xlink:href="#line_355" value=" Ast vus mult tost un message :"/><!--  Ast vus mult tost un message : -->
+<feat xlink:href="#line_356" value=" Pain lur portet e le beivre"/><!--  Pain lur portet e le beivre -->
+<feat xlink:href="#line_357" value=" E sis rovet cel receivre ."/><!--  E sis rovet cel receivre . -->
+<feat xlink:href="#line_358" value=" Puis lur at dist : &quot; Soür sëez ,"/><!--  Puis lur at dist : " Soür sëez , -->
+<feat xlink:href="#line_359" value=" Quelque peril que vus veiez ."/><!--  Quelque peril que vus veiez . -->
+<feat xlink:href="#line_360" value=" Que que veiez , n&apos; aëz poür :"/><!--  Que que veiez , n' aëz poür : -->
+<feat xlink:href="#line_361" value=" Deus vus durat mult bon oür ,"/><!--  Deus vus durat mult bon oür , -->
+<feat xlink:href="#line_362" value=" E ço verrez que alez querant"/><!--  E ço verrez que alez querant -->
+<feat xlink:href="#line_363" value=" Par la vertud de Deu le grant ."/><!--  Par la vertud de Deu le grant . -->
+<feat xlink:href="#line_364" value=" E de cunrei nen esmaëz"/><!--  E de cunrei nen esmaëz -->
+<feat xlink:href="#line_365" value=" Que vus ici asez n&apos; en aiez :"/><!--  Que vus ici asez n' en aiez : -->
+<feat xlink:href="#line_366" value=" Ne frat faile desqu&apos; en vendrez"/><!--  Ne frat faile desqu' en vendrez -->
+<feat xlink:href="#line_367" value=" En tel leu u plus prendrez . &quot;"/><!--  En tel leu u plus prendrez . " -->
+<feat xlink:href="#line_368" value=" Parfunt clinant , saisit les en ."/><!--  Parfunt clinant , saisit les en . -->
+<feat xlink:href="#line_369" value=" Plus ne lur dist , meis alat s&apos; en ."/><!--  Plus ne lur dist , meis alat s' en . -->
+<feat xlink:href="#line_370" value=" Or unt voüt li Deu servant"/><!--  Or unt voüt li Deu servant -->
+<feat xlink:href="#line_371" value=" Que il eirent par Deu cumant ,"/><!--  Que il eirent par Deu cumant , -->
+<feat xlink:href="#line_372" value=" E unt pruvét tut a soüt"/><!--  E unt pruvét tut a soüt -->
+<feat xlink:href="#line_373" value=" Par miracles que unt voüt ."/><!--  Par miracles que unt voüt . -->
+<feat xlink:href="#line_374" value=" E bien veient que Deus les paist :"/><!--  E bien veient que Deus les paist : -->
+<feat xlink:href="#line_375" value=" De loër Deu nuls ne se taist ."/><!--  De loër Deu nuls ne se taist . -->
+<feat xlink:href="#line_376" value=" Siglent al vent , vunt s&apos; en adés ."/><!--  Siglent al vent , vunt s' en adés . -->
+<feat xlink:href="#line_377" value=" Li cunduz Deu mult lor est pres ."/><!--  Li cunduz Deu mult lor est pres . -->
+<feat xlink:href="#line_378" value=" Curent par mer grant part de l&apos; an"/><!--  Curent par mer grant part de l' an -->
+<feat xlink:href="#line_379" value=" E merveilles trestrent ahan ."/><!--  E merveilles trestrent ahan . -->
+<feat xlink:href="#line_380" value=" Terre veient a lur espeir ,"/><!--  Terre veient a lur espeir , -->
+<feat xlink:href="#line_381" value=" Cum de plus luin lur pout pareir ."/><!--  Cum de plus luin lur pout pareir . -->
+<feat xlink:href="#line_382" value=" Drechent lur nef icele part ,"/><!--  Drechent lur nef icele part , -->
+<feat xlink:href="#line_383" value=" E n&apos; i at nul de nager se tart ."/><!--  E n' i at nul de nager se tart . -->
+<feat xlink:href="#line_384" value=" Lascent cordes , metent veil jus ;"/><!--  Lascent cordes , metent veil jus ; -->
+<feat xlink:href="#line_385" value=" Ariverent e sailent sus ."/><!--  Ariverent e sailent sus . -->
+<feat xlink:href="#line_386" value=" Veient berbiz a grant fuisun ,"/><!--  Veient berbiz a grant fuisun , -->
+<feat xlink:href="#line_387" value=" A chescune blanche tuisun ."/><!--  A chescune blanche tuisun . -->
+<feat xlink:href="#line_388" value=" Tutes erent itant grandes"/><!--  Tutes erent itant grandes -->
+<feat xlink:href="#line_389" value=" Cum sunt li cers par ces landes ."/><!--  Cum sunt li cers par ces landes . -->
+<feat xlink:href="#line_390" value=" Dist lur l&apos; abes : &quot; Seignurs , d&apos; ici"/><!--  Dist lur l' abes : " Seignurs , d' ici -->
+<feat xlink:href="#line_391" value=" Ne nus muverum devant terz di ."/><!--  Ne nus muverum devant terz di . -->
+<feat xlink:href="#line_392" value=" Jusdi est oi de la ceine ,"/><!--  Jusdi est oi de la ceine , -->
+<feat xlink:href="#line_393" value=" Cum li Filz Deu suffrit peine ;"/><!--  Cum li Filz Deu suffrit peine ; -->
+<feat xlink:href="#line_394" value=" Il nus est douz e prest amis"/><!--  Il nus est douz e prest amis -->
+<feat xlink:href="#line_395" value=" Qui prestement nus ad tramis"/><!--  Qui prestement nus ad tramis -->
+<feat xlink:href="#line_396" value=" Dunt poüm la feste faire ."/><!--  Dunt poüm la feste faire . -->
+<feat xlink:href="#line_397" value=" Pensez de la nef sus traire !"/><!--  Pensez de la nef sus traire ! -->
+<feat xlink:href="#line_398" value=" De icez berbiz une pernez ,"/><!--  De icez berbiz une pernez , -->
+<feat xlink:href="#line_399" value=" Al di pascal la cunrëez ."/><!--  Al di pascal la cunrëez . -->
+<feat xlink:href="#line_400" value=" A Deu cungét de ço ruvum ,"/><!--  A Deu cungét de ço ruvum , -->
+<feat xlink:href="#line_401" value=" Altre quant nus or n&apos; i truvum . &quot;"/><!--  Altre quant nus or n' i truvum . " -->
+<feat xlink:href="#line_402" value=" Que cumandat , iço fait unt ,"/><!--  Que cumandat , iço fait unt , -->
+<feat xlink:href="#line_403" value=" E par tres dis ileoc estunt ."/><!--  E par tres dis ileoc estunt . -->
+<feat xlink:href="#line_404" value=" Al samadi lur vient uns mes ,"/><!--  Al samadi lur vient uns mes , -->
+<feat xlink:href="#line_405" value=" De la part Deu salüet les ."/><!--  De la part Deu salüet les . -->
+<feat xlink:href="#line_406" value=" Peil out chanut , oilz juvenilz :"/><!--  Peil out chanut , oilz juvenilz : -->
+<feat xlink:href="#line_407" value=" Mult out vescut sanz tuz perilz ."/><!--  Mult out vescut sanz tuz perilz . -->
+<feat xlink:href="#line_408" value=" Pain lur portet de sun païs :"/><!--  Pain lur portet de sun païs : -->
+<feat xlink:href="#line_409" value=" Grant e mult blanz guasteus alis ;"/><!--  Grant e mult blanz guasteus alis ; -->
+<feat xlink:href="#line_410" value=" E si lur falt nule rien ,"/><!--  E si lur falt nule rien , -->
+<feat xlink:href="#line_411" value=" Tut lur truverat , ço promet bien ."/><!--  Tut lur truverat , ço promet bien . -->
+<feat xlink:href="#line_412" value=" L&apos; estre d&apos; iloc l&apos; abes anquist ."/><!--  L' estre d' iloc l' abes anquist . -->
+<feat xlink:href="#line_413" value=" Ne sai s&apos; osat , mais poi l&apos; en dist ;"/><!--  Ne sai s' osat , mais poi l' en dist ; -->
+<feat xlink:href="#line_414" value=" Ço respundit : &quot; Asez avum"/><!--  Ço respundit : " Asez avum -->
+<feat xlink:href="#line_415" value=" Quanque des quers penser savum . &quot;"/><!--  Quanque des quers penser savum . " -->
+<feat xlink:href="#line_416" value=" E dist l&apos; abes : &quot; Berbiz ad ci ,"/><!--  E dist l' abes : " Berbiz ad ci , -->
+<feat xlink:href="#line_417" value=" Unc en nul leu tant grant ne vi . &quot;"/><!--  Unc en nul leu tant grant ne vi . " -->
+<feat xlink:href="#line_418" value=" Respunt lui cil : &quot; N&apos; est merveille :"/><!--  Respunt lui cil : " N' est merveille : -->
+<feat xlink:href="#line_419" value=" Ja ci n&apos; ert traite öeile ;"/><!--  Ja ci n' ert traite öeile ; -->
+<feat xlink:href="#line_420" value=" L&apos; ivers n&apos; en fait raëncune ,"/><!--  L' ivers n' en fait raëncune , -->
+<feat xlink:href="#line_421" value=" Ne d&apos; enfertét n&apos; i mort une ."/><!--  Ne d' enfertét n' i mort une . -->
+<feat xlink:href="#line_422" value=" A cel isle que tu veis la ,"/><!--  A cel isle que tu veis la , -->
+<feat xlink:href="#line_423" value=" Entre en ta nef , Brandan , e va ."/><!--  Entre en ta nef , Brandan , e va . -->
+<feat xlink:href="#line_424" value=" En cel isle anuit entras"/><!--  En cel isle anuit entras -->
+<feat xlink:href="#line_425" value=" E ta feste demain i fras ."/><!--  E ta feste demain i fras . -->
+<feat xlink:href="#line_426" value=" Demain enz nuit en turnerez ;"/><!--  Demain enz nuit en turnerez ; -->
+<feat xlink:href="#line_427" value=" Pur quei si tost , bien le verrez !"/><!--  Pur quei si tost , bien le verrez ! -->
+<feat xlink:href="#line_428" value=" Puis revendrez e sanz peril ,"/><!--  Puis revendrez e sanz peril , -->
+<feat xlink:href="#line_429" value=" Bien pres siglant de cest costil ."/><!--  Bien pres siglant de cest costil . -->
+<feat xlink:href="#line_430" value=" E puis irez en altre liu"/><!--  E puis irez en altre liu -->
+<feat xlink:href="#line_431" value=" U jo en vois e la vus siu ."/><!--  U jo en vois e la vus siu . -->
+<feat xlink:href="#line_432" value=" Mult pres d&apos; ici , la vus truverai ;"/><!--  Mult pres d' ici , la vus truverai ; -->
+<feat xlink:href="#line_433" value=" Asez cunrei vus porterai . &quot;"/><!--  Asez cunrei vus porterai . " -->
+<feat xlink:href="#line_434" value=" Siglet Brandan , nel cuntredit ;"/><!--  Siglet Brandan , nel cuntredit ; -->
+<feat xlink:href="#line_435" value=" Vait a l&apos; isle que il bien vit ."/><!--  Vait a l' isle que il bien vit . -->
+<feat xlink:href="#line_436" value=" Vent out par Deu e tost i fud ,"/><!--  Vent out par Deu e tost i fud , -->
+<feat xlink:href="#line_437" value=" Mais bien grant mer out trescurud ;"/><!--  Mais bien grant mer out trescurud ; -->
+<feat xlink:href="#line_438" value=" Eissi vait qui Deus maine ."/><!--  Eissi vait qui Deus maine . -->
+<feat xlink:href="#line_439" value=" Terre prennent e sanz peine ."/><!--  Terre prennent e sanz peine . -->
+<feat xlink:href="#line_440" value=" Eissent s&apos; en fors tuit li frere"/><!--  Eissent s' en fors tuit li frere -->
+<feat xlink:href="#line_441" value=" Fors sul l&apos; abes qui enz ere ."/><!--  Fors sul l' abes qui enz ere . -->
+<feat xlink:href="#line_442" value=" Beal servise e mult entrin"/><!--  Beal servise e mult entrin -->
+<feat xlink:href="#line_443" value=" Firent la nuit e le matin ."/><!--  Firent la nuit e le matin . -->
+<feat xlink:href="#line_444" value=" Puis que unt tut fait lur servise"/><!--  Puis que unt tut fait lur servise -->
+<feat xlink:href="#line_445" value=" En la nef cum en eglise ,"/><!--  En la nef cum en eglise , -->
+<feat xlink:href="#line_446" value=" Charn de la nef qu&apos; il i mistrent ,"/><!--  Charn de la nef qu' il i mistrent , -->
+<feat xlink:href="#line_447" value=" Pur quire la dunc la pristrent ."/><!--  Pur quire la dunc la pristrent . -->
+<feat xlink:href="#line_448" value=" De la busche en vunt quere"/><!--  De la busche en vunt quere -->
+<feat xlink:href="#line_449" value=" Dunt le manger funt a terre ."/><!--  Dunt le manger funt a terre . -->
+<feat xlink:href="#line_450" value=" Cum li mangers fud cunrëez ,"/><!--  Cum li mangers fud cunrëez , -->
+<feat xlink:href="#line_451" value=" Dist li bailis : &quot; Or asëez ! &apos;"/><!--  Dist li bailis : " Or asëez ! ' -->
+<feat xlink:href="#line_452" value=" Dunc s&apos; escrïent mult haltement :"/><!--  Dunc s' escrïent mult haltement : -->
+<feat xlink:href="#line_453" value=" &quot; A ! donz abes , quar nus atent !"/><!--  " A ! donz abes , quar nus atent ! -->
+<feat xlink:href="#line_454" value=" Quar la terre tute muveit"/><!--  Quar la terre tute muveit -->
+<feat xlink:href="#line_455" value=" E de la nef mult se luigneit ."/><!--  E de la nef mult se luigneit . -->
+<feat xlink:href="#line_456" value=" Dist li abes : &quot; Ne vus tamez ,"/><!--  Dist li abes : " Ne vus tamez , -->
+<feat xlink:href="#line_457" value=" Mais Damnedeu mult reclamez !"/><!--  Mais Damnedeu mult reclamez ! -->
+<feat xlink:href="#line_458" value=" E pernez tut nostre cunrei ,"/><!--  E pernez tut nostre cunrei , -->
+<feat xlink:href="#line_459" value=" Enz en la nef venez a mei ! &quot;"/><!--  Enz en la nef venez a mei ! " -->
+<feat xlink:href="#line_460" value=" Jetet lur fuz e bien luncs raps ;"/><!--  Jetet lur fuz e bien luncs raps ; -->
+<feat xlink:href="#line_461" value=" Parmi tut ço muilent lur dras ."/><!--  Parmi tut ço muilent lur dras . -->
+<feat xlink:href="#line_462" value=" Enz en la nef entré sunt tuit ."/><!--  Enz en la nef entré sunt tuit . -->
+<feat xlink:href="#line_463" value=" Mais lur isle mult tost s&apos; en fuit ,"/><!--  Mais lur isle mult tost s' en fuit , -->
+<feat xlink:href="#line_464" value=" E de dis liuues bien choisirent"/><!--  E de dis liuues bien choisirent -->
+<feat xlink:href="#line_465" value=" Le fou sur lui qu&apos; il i firent ."/><!--  Le fou sur lui qu' il i firent . -->
+<feat xlink:href="#line_466" value=" Brandan lur dist : &quot; Freres , savez"/><!--  Brandan lur dist : " Freres , savez -->
+<feat xlink:href="#line_467" value=" Pur quei poür oüt avez ?"/><!--  Pur quei poür oüt avez ? -->
+<feat xlink:href="#line_468" value=" N&apos; est pas terre , ainz est beste"/><!--  N' est pas terre , ainz est beste -->
+<feat xlink:href="#line_469" value=" U nus feïmes nostre feste ,"/><!--  U nus feïmes nostre feste , -->
+<feat xlink:href="#line_470" value=" Pessuns de mer sur les greinurs ."/><!--  Pessuns de mer sur les greinurs . -->
+<feat xlink:href="#line_471" value=" Ne merveillés de ço , seignurs !"/><!--  Ne merveillés de ço , seignurs ! -->
+<feat xlink:href="#line_472" value=" Pur ço vus volt Deus ci mener"/><!--  Pur ço vus volt Deus ci mener -->
+<feat xlink:href="#line_473" value=" Que il vus voleit plus asener :"/><!--  Que il vus voleit plus asener : -->
+<feat xlink:href="#line_474" value=" Ses merveilles cum plus verrez ,"/><!--  Ses merveilles cum plus verrez , -->
+<feat xlink:href="#line_475" value=" En lui puis mult mielz crerrez ."/><!--  En lui puis mult mielz crerrez . -->
+<feat xlink:href="#line_476" value=" Primes le fist li reis divins"/><!--  Primes le fist li reis divins -->
+<feat xlink:href="#line_477" value=" Devant trestuz pessuns marins . &quot;"/><!--  Devant trestuz pessuns marins . " -->
+<feat xlink:href="#line_478" value=" Quant out ço dist l&apos; abes Brandan ,"/><!--  Quant out ço dist l' abes Brandan , -->
+<feat xlink:href="#line_479" value=" Bien ad curut de mer un grant pan ."/><!--  Bien ad curut de mer un grant pan . -->
+<feat xlink:href="#line_480" value=" Veient terre alte e clere ,"/><!--  Veient terre alte e clere , -->
+<feat xlink:href="#line_481" value=" Si cum lur out dist cil frere ."/><!--  Si cum lur out dist cil frere . -->
+<feat xlink:href="#line_482" value=" Venent i tost e arivent ,"/><!--  Venent i tost e arivent , -->
+<feat xlink:href="#line_483" value=" Ne de l&apos; eisir ne s&apos; eschivent ,"/><!--  Ne de l' eisir ne s' eschivent , -->
+<feat xlink:href="#line_484" value=" Ne pur altre rien ne dutent ,"/><!--  Ne pur altre rien ne dutent , -->
+<feat xlink:href="#line_485" value=" Mais a terre la nef butent ."/><!--  Mais a terre la nef butent . -->
+<feat xlink:href="#line_486" value=" Amunt un duit s&apos; en vunt süef"/><!--  Amunt un duit s' en vunt süef -->
+<feat xlink:href="#line_487" value=" E od cordes traient lur nef ."/><!--  E od cordes traient lur nef . -->
+<feat xlink:href="#line_488" value=" Al chef del duit out une arbre"/><!--  Al chef del duit out une arbre -->
+<feat xlink:href="#line_489" value=" Itant blanche cume marbre ,"/><!--  Itant blanche cume marbre , -->
+<feat xlink:href="#line_490" value=" E les fuiles mult sunt ledes ,"/><!--  E les fuiles mult sunt ledes , -->
+<feat xlink:href="#line_491" value=" De ruge e blanc taceledes ."/><!--  De ruge e blanc taceledes . -->
+<feat xlink:href="#line_492" value=" De haltece par vedue"/><!--  De haltece par vedue -->
+<feat xlink:href="#line_493" value=" Muntout le arbre sur la nue ;"/><!--  Muntout le arbre sur la nue ; -->
+<feat xlink:href="#line_494" value=" Des le sumét desque en terre"/><!--  Des le sumét desque en terre -->
+<feat xlink:href="#line_495" value=" La brancheie mult la serre"/><!--  La brancheie mult la serre -->
+<feat xlink:href="#line_496" value=" E ledement s&apos; estent par l&apos; air ,"/><!--  E ledement s' estent par l' air , -->
+<feat xlink:href="#line_497" value=" Umbraiet luin e tolt le clair ;"/><!--  Umbraiet luin e tolt le clair ; -->
+<feat xlink:href="#line_498" value=" Tute asise de blancs oiseus :"/><!--  Tute asise de blancs oiseus : -->
+<feat xlink:href="#line_499" value=" Unches nul hom ne vit tant beus ."/><!--  Unches nul hom ne vit tant beus . -->
+</featList>
+</paula>

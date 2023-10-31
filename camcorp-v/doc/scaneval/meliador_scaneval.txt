@@ -1,0 +1,33 @@
+Rules applied: R1, R11, R8
+Lines correct: 515 of 520
+Pass history:
+Tried rules R1; 508 lines correct.
+Tried rules R11; 438 lines correct.
+Tried rules R7; 227 lines correct.
+Tried rules R8; 435 lines correct.
+Tried rules R2; 431 lines correct.
+Tried rules R4; 421 lines correct.
+Tried rules R30; 432 lines correct.
+Tried rules R1, R11; 512 lines correct.
+Tried rules R1, R7; 252 lines correct.
+Tried rules R1, R8; 511 lines correct.
+Tried rules R1, R2; 505 lines correct.
+Tried rules R1, R4; 482 lines correct.
+Tried rules R1, R30; 508 lines correct.
+Tried rules R1, R11, R7; 247 lines correct.
+Tried rules R1, R11, R8; 515 lines correct.
+Tried rules R1, R11, R2; 509 lines correct.
+Tried rules R1, R11, R4; 486 lines correct.
+Tried rules R1, R11, R30; 512 lines correct.
+Tried rules R1, R11, R8, R7; 248 lines correct.
+Tried rules R1, R11, R8, R2; 512 lines correct.
+Tried rules R1, R11, R8, R4; 487 lines correct.
+Tried rules R1, R11, R8, R30; 515 lines correct.
+OPTIMIZED LINES
+180    181     « De l' estanc , quant bien l' imaginé . »
+219    220     - « Oïl » , ce respont la pucelle ,
+413    414     « Oïl , par m' ame , et fust fins ors
+439    440     « Autrement arions nous blasme . »
+447    448     - « Oïl , quoi dont , sans arrester .
+
+BAD LINES

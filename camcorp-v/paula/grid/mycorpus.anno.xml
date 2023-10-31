@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_struct.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.anno"/>
+<structList xmlns:xlink="http://www.w3.org/1999/xlink" type="annoSet">
+<struct id="anno_0">
+<rel id="rel_0" xlink:href="sacristain3"/>
+<rel id="rel_1" xlink:href="berte"/>
+<rel id="rel_2" xlink:href="fortune"/>
+<rel id="rel_3" xlink:href="alexiso"/>
+<rel id="rel_4" xlink:href="brendan"/>
+<rel id="rel_5" xlink:href="orloge"/>
+<rel id="rel_6" xlink:href="abeville"/>
+<rel id="rel_7" xlink:href="leger"/>
+<rel id="rel_8" xlink:href="meliador"/>
+<rel id="rel_9" xlink:href="chevalerie"/>
+<rel id="rel_10" xlink:href="rosemeun"/>
+<rel id="rel_11" xlink:href="troisgalans"/>
+<rel id="rel_12" xlink:href="edmund"/>
+<rel id="rel_13" xlink:href="rennov"/>
+<rel id="rel_14" xlink:href="nicolas"/>
+<rel id="rel_15" xlink:href="liberfort"/>
+<rel id="rel_16" xlink:href="poitiers"/>
+<rel id="rel_17" xlink:href="imagemonde"/>
+<rel id="rel_18" xlink:href="passgreb"/>
+<rel id="rel_19" xlink:href="rou"/>
+<rel id="rel_20" xlink:href="gui"/>
+<rel id="rel_21" xlink:href="behaigne"/>
+<rel id="rel_22" xlink:href="3jugemens"/>
+<rel id="rel_23" xlink:href="passjong"/>
+<rel id="rel_24" xlink:href="raouli"/>
+<rel id="rel_25" xlink:href="dolopathos"/>
+<rel id="rel_26" xlink:href="palatinus"/>
+<rel id="rel_27" xlink:href="holofernes"/>
+<rel id="rel_28" xlink:href="chivalier"/>
+<rel id="rel_29" xlink:href="barisel"/>
+<rel id="rel_30" xlink:href="gormont"/>
+<rel id="rel_31" xlink:href="protheselaus"/>
+<rel id="rel_32" xlink:href="hugues"/>
+<rel id="rel_33" xlink:href="isopet"/>
+<rel id="rel_34" xlink:href="griseldis"/>
+<rel id="rel_35" xlink:href="pathelin"/>
+<rel id="rel_36" xlink:href="testament"/>
+<rel id="rel_37" xlink:href="viemathurin"/>
+<rel id="rel_38" xlink:href="alexis"/>
+<rel id="rel_39" xlink:href="anjou"/>
+<rel id="rel_40" xlink:href="florimont"/>
+<rel id="rel_41" xlink:href="feuillee"/>
+<rel id="rel_42" xlink:href="eurialus"/>
+<rel id="rel_43" xlink:href="ami"/>
+<rel id="rel_44" xlink:href="huon"/>
+<rel id="rel_45" xlink:href="notredame"/>
+<rel id="rel_46" xlink:href="charrette"/>
+<rel id="rel_47" xlink:href="charroi"/>
+<rel id="rel_48" xlink:href="alexandre"/>
+<rel id="rel_49" xlink:href="richard"/>
+<rel id="rel_50" xlink:href="coinci"/>
+<rel id="rel_51" xlink:href="thebes"/>
+<rel id="rel_52" xlink:href="marie"/>
+<rel id="rel_53" xlink:href="voirdit"/>
+<rel id="rel_54" xlink:href="antioche"/>
+<rel id="rel_55" xlink:href="theophile"/>
+<rel id="rel_56" xlink:href="eracle"/>
+<rel id="rel_57" xlink:href="clermont"/>
+<rel id="rel_58" xlink:href="belledame"/>
+<rel id="rel_59" xlink:href="adam"/>
+<rel id="rel_60" xlink:href="barat"/>
+<rel id="rel_61" xlink:href="alexisa"/>
+<rel id="rel_62" xlink:href="roland"/>
+</struct>
+</structList>
+</paula>

@@ -1,0 +1,79 @@
+Rules applied: R1
+Lines correct: 437 of 501
+Pass history:
+Tried rules R1; 437 lines correct.
+Tried rules R11; 396 lines correct.
+Tried rules R2; 393 lines correct.
+Tried rules R30; 400 lines correct.
+Tried rules R8; 397 lines correct.
+Tried rules R1, R11; 433 lines correct.
+Tried rules R1, R2; 428 lines correct.
+Tried rules R1, R30; 437 lines correct.
+Tried rules R1, R8; 434 lines correct.
+OPTIMIZED LINES
+31    40     n em li baille un tuenard
+137    149     gormund li lance une guivre
+159    171     la bone enseine qu il tint
+177    189     qui fut par force en cruiz mis
+199    211     queke m' en deie avenir "
+206    218     pruz mun pere e mun ancestre
+302    314     que il vait avant cuntre plein pié
+383    395     que en pre en cheent les mertez
+390    402     e le vert helme que ot al chief
+459    471     tant le vus dis plusures fiez
+
+BAD LINES
+5    14     s il lores ne joste a lui a en camp
+8    17     qu il en fist raer le sanc
+19    28     que ambesdous les abat mort el camp
+21    30     qui unques fust el munde vivant
+35    45     qui cunsuit ne l laist en sele
+36    46     vestue co a de mort nuvele
+61    71     d un or autre li fist fendre
+71    81     quant il vers mei descent lance
+72    82     ne voil que un sul s en vante "
+77    88     eis lur eodon de campaneis
+83    94     de sun blanc hauberc les pleis
+94    105     vos ne l recovrez des meis
+99    110     kui n i pot mie sun char aveir
+104    115     sur un destrier sor bauzan
+109    120     qu il en fist le sanc voler
+113    124     le hauberc rumpu e desafré
+122    134     quant ot mort le bon vassal
+131    143     au rei gormund nuist espie
+136    148     celui l ust geté de vie
+170    182     il traist d or enheudi
+175    187     " vos estes del tut fini
+181    193     mal guarra par apollin
+189    201     poinant en vint al rei lowis
+210    222     jeo ne l lerrai pur home terrestre
+211    223     que ne l auge ja requerre "
+213    225     quant se pent sur destre
+215    227     e od l aspee depart la presse
+233    245     le poun mis en l asquiele
+241    253     que tute est muillee la suzcele
+244    256     " trop estes vantez bricun
+252    264     or en averas le guerredun
+261    273     ja me raverez a cumpainon
+293    305     si l poeit as puins baillier
+301    313     hue s est tant avancié
+316    328     celui qui fut ja sun esquier
+335    347     conoisterez l esquier
+343    355     cum orguillos e cum fier
+346    358     de riches e de preisiez
+354    366     " tant par me tenc enginné
+358    370     la nostre avenist bien
+359    371     le quel de nus idune venquist
+365    377     fors sul deu le veir del ciel
+368    380     en l onur deu le pur eshaucier
+380    392     que les heaumes ad trenchié
+389    401     mut li costa le hauberc dubler
+399    411     de tel air s est redrescié
+403    415     car mut ert bon chevalier
+411    423     a l estandart poinant tost
+416    428     que jeo i serreie u pris u mort
+419    431     entre gormund e reis lowis
+445    457     le hauberc desmaela e malmist
+451    463     e puis se rest al chemin
+473    485     cum as oi france bien aquitee
+499    512     " tant cum li miens cors durra

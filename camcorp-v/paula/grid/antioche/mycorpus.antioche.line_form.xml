@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.antioche_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.antioche.line.xml">
+<feat xlink:href="#line_0" value=" segnor , soiés en pais , laisiés la noise ester ,"/><!--  segnor , soiés en pais , laisiés la noise ester , -->
+<feat xlink:href="#line_1" value=" se vos volés cançon glorieuse escouter ."/><!--  se vos volés cançon glorieuse escouter . -->
+<feat xlink:href="#line_2" value=" ja de nule mellor ne vos dira jougler ;"/><!--  ja de nule mellor ne vos dira jougler ; -->
+<feat xlink:href="#line_3" value=" ceste chançon doit on cier tenir et amer ,"/><!--  ceste chançon doit on cier tenir et amer , -->
+<feat xlink:href="#line_4" value=" car tant maint bon exanple i puet proudon trover ."/><!--  car tant maint bon exanple i puet proudon trover . -->
+<feat xlink:href="#line_5" value=" bien vos puis por voir dire , oiant tos affremer"/><!--  bien vos puis por voir dire , oiant tos affremer -->
+<feat xlink:href="#line_6" value=" c&apos; ainc miudre ne fu dite , qui droit velt esgarder ,"/><!--  c' ainc miudre ne fu dite , qui droit velt esgarder , -->
+<feat xlink:href="#line_7" value=" de le sainte cité qui molt fait a loer ,"/><!--  de le sainte cité qui molt fait a loer , -->
+<feat xlink:href="#line_8" value=" u diex laisça son cors travellier et pener"/><!--  u diex laisça son cors travellier et pener -->
+<feat xlink:href="#line_9" value=" et ferir de la lance et plaier et navrer ;"/><!--  et ferir de la lance et plaier et navrer ; -->
+<feat xlink:href="#line_10" value=" iherusalem l&apos; apele qui droit le veut nomer ."/><!--  iherusalem l' apele qui droit le veut nomer . -->
+<feat xlink:href="#line_11" value=" cist novel jougleor qui en suelent canter"/><!--  cist novel jougleor qui en suelent canter -->
+<feat xlink:href="#line_12" value=" le vrai commencement en ont laisié ester ,"/><!--  le vrai commencement en ont laisié ester , -->
+<feat xlink:href="#line_13" value=" mais grainsdor de douai nel velt mie oblier"/><!--  mais grainsdor de douai nel velt mie oblier -->
+<feat xlink:href="#line_14" value=" ki nos en a les vers tous fais renoveler ."/><!--  ki nos en a les vers tous fais renoveler . -->
+<feat xlink:href="#line_15" value=" huimais porés oïr de jursalem parler"/><!--  huimais porés oïr de jursalem parler -->
+<feat xlink:href="#line_16" value=" et de cels ki alerent le sepucre honorer"/><!--  et de cels ki alerent le sepucre honorer -->
+<feat xlink:href="#line_17" value=" com il firent les os de partout assambler :"/><!--  com il firent les os de partout assambler : -->
+<feat xlink:href="#line_18" value=" de france et de berriu et d&apos; auvergne se per ,"/><!--  de france et de berriu et d' auvergne se per , -->
+<feat xlink:href="#line_19" value=" de pulle et de calabre jusqu&apos; a barlét sor mer"/><!--  de pulle et de calabre jusqu' a barlét sor mer -->
+<feat xlink:href="#line_20" value=" et deça jusqu&apos; en gales fisent la gent mander"/><!--  et deça jusqu' en gales fisent la gent mander -->
+<feat xlink:href="#line_21" value=" et de tant maintes terres que jo ne puis nomer :"/><!--  et de tant maintes terres que jo ne puis nomer : -->
+<feat xlink:href="#line_22" value=" de tel pelerinage n&apos; oï nus hom parler ."/><!--  de tel pelerinage n' oï nus hom parler . -->
+<feat xlink:href="#line_23" value=" por deu lor convint tos mainte paine endurer ,"/><!--  por deu lor convint tos mainte paine endurer , -->
+<feat xlink:href="#line_24" value=" sois et faims et froidures et veller et juner ;"/><!--  sois et faims et froidures et veller et juner ; -->
+<feat xlink:href="#line_25" value=" bien lor dut damedeus a tous gueredoner"/><!--  bien lor dut damedeus a tous gueredoner -->
+<feat xlink:href="#line_26" value=" et les armes a cels en sa glorie mener ."/><!--  et les armes a cels en sa glorie mener . -->
+<feat xlink:href="#line_27" value=" baron or m&apos; escoutés , si laisiés le noisier ,"/><!--  baron or m' escoutés , si laisiés le noisier , -->
+<feat xlink:href="#line_28" value=" jo vos dirai chançon qui molt fait a proisier ."/><!--  jo vos dirai chançon qui molt fait a proisier . -->
+<feat xlink:href="#line_29" value=" ki de iherusalem velt oïr conmencier ,"/><!--  ki de iherusalem velt oïr conmencier , -->
+<feat xlink:href="#line_30" value=" si se traie envers moi , por deu l&apos; en voel proier ."/><!--  si se traie envers moi , por deu l' en voel proier . -->
+<feat xlink:href="#line_31" value=" jou ne li ruis del sien , palefroi ne destrier ,"/><!--  jou ne li ruis del sien , palefroi ne destrier , -->
+<feat xlink:href="#line_32" value=" peliçon vair ne gris ne vaillant un denier ."/><!--  peliçon vair ne gris ne vaillant un denier . -->
+<feat xlink:href="#line_33" value=" s&apos; il por deu nel me done , qu&apos; il l&apos; en renge loier !"/><!--  s' il por deu nel me done , qu' il l' en renge loier ! -->
+<feat xlink:href="#line_34" value=" de la sainte cité vos vaurai conmenchier ,"/><!--  de la sainte cité vos vaurai conmenchier , -->
+<feat xlink:href="#line_35" value=" u diex laissa son cors pener et travellier"/><!--  u diex laissa son cors pener et travellier -->
+<feat xlink:href="#line_36" value=" et ferir de la lance et navrer et plaier ;"/><!--  et ferir de la lance et navrer et plaier ; -->
+<feat xlink:href="#line_37" value=" mais li jentius barnages qui deu ainme et tient chier"/><!--  mais li jentius barnages qui deu ainme et tient chier -->
+<feat xlink:href="#line_38" value=" en ala outre mer por le sien cors vengier ."/><!--  en ala outre mer por le sien cors vengier . -->
+<feat xlink:href="#line_39" value=" pieres les en mena dont diex fist messagier ,"/><!--  pieres les en mena dont diex fist messagier , -->
+<feat xlink:href="#line_40" value=" mais se premiere mute avint grant destorbier ,"/><!--  mais se premiere mute avint grant destorbier , -->
+<feat xlink:href="#line_41" value=" tot furent mort et pris , ainc n&apos; i ot recovrier ,"/><!--  tot furent mort et pris , ainc n' i ot recovrier , -->
+<feat xlink:href="#line_42" value=" n&apos; en escapa que pieres qui retorna arrier ."/><!--  n' en escapa que pieres qui retorna arrier . -->
+<feat xlink:href="#line_43" value=" puis rasambla maint conte , maint nobile princhier ;"/><!--  puis rasambla maint conte , maint nobile princhier ; -->
+<feat xlink:href="#line_44" value=" la fu hues li maintes et tot si chevalier ,"/><!--  la fu hues li maintes et tot si chevalier , -->
+<feat xlink:href="#line_45" value=" tangrés et buiemons , li vasal droiturier ,"/><!--  tangrés et buiemons , li vasal droiturier , -->
+<feat xlink:href="#line_46" value=" et li dus godefrois ki molt fist a proisier ,"/><!--  et li dus godefrois ki molt fist a proisier , -->
+<feat xlink:href="#line_47" value=" li dus de normendie et normant et ponhier ,"/><!--  li dus de normendie et normant et ponhier , -->
+<feat xlink:href="#line_48" value=" s&apos; i fu li quens de flandres et flamenc li guerrier ."/><!--  s' i fu li quens de flandres et flamenc li guerrier . -->
+<feat xlink:href="#line_49" value=" quant furent assamblé par dela monpellier ,"/><!--  quant furent assamblé par dela monpellier , -->
+<feat xlink:href="#line_50" value=" si com l&apos; estoire dist , bien furent .c. millier ."/><!--  si com l' estoire dist , bien furent .c. millier . -->
+<feat xlink:href="#line_51" value=" niké prisent a force et le palais plenier ,"/><!--  niké prisent a force et le palais plenier , -->
+<feat xlink:href="#line_52" value=" rohais et anthioce u il a maint mostier ,"/><!--  rohais et anthioce u il a maint mostier , -->
+<feat xlink:href="#line_53" value=" puis prisent jursalem , le mur fisent brisier ,"/><!--  puis prisent jursalem , le mur fisent brisier , -->
+<feat xlink:href="#line_54" value=" mais ançois lor covint molt juner et vellier ,"/><!--  mais ançois lor covint molt juner et vellier , -->
+<feat xlink:href="#line_55" value=" grans pluies et orages de noif et de grelier ,"/><!--  grans pluies et orages de noif et de grelier , -->
+<feat xlink:href="#line_56" value=" et diex lor en rendi a trestous bon loier ,"/><!--  et diex lor en rendi a trestous bon loier , -->
+<feat xlink:href="#line_57" value=" car lor armes a fait en glorie herbregier ."/><!--  car lor armes a fait en glorie herbregier . -->
+<feat xlink:href="#line_58" value=" ci commence cançons u il n&apos; a qu&apos; ensegnier ."/><!--  ci commence cançons u il n' a qu' ensegnier . -->
+<feat xlink:href="#line_59" value=" cil diex qui en bethaine suscita lazaron"/><!--  cil diex qui en bethaine suscita lazaron -->
+<feat xlink:href="#line_60" value=" et ki por nos livra son cors a passion ,"/><!--  et ki por nos livra son cors a passion , -->
+<feat xlink:href="#line_61" value=" il otroit a tos cels vraie confession"/><!--  il otroit a tos cels vraie confession -->
+<feat xlink:href="#line_62" value=" qui lui ainment et servent par bone entension !"/><!--  qui lui ainment et servent par bone entension ! -->
+<feat xlink:href="#line_63" value=" et sor icels envoit male confusion"/><!--  et sor icels envoit male confusion -->
+<feat xlink:href="#line_64" value=" ki croient et aorent apollin et mahon !"/><!--  ki croient et aorent apollin et mahon ! -->
+<feat xlink:href="#line_65" value=" segnor , n&apos; a point de fable ens en nostre cançon ,"/><!--  segnor , n' a point de fable ens en nostre cançon , -->
+<feat xlink:href="#line_66" value=" mais pure verité et saintisme sermon ."/><!--  mais pure verité et saintisme sermon . -->
+<feat xlink:href="#line_67" value=" ci commence la geste de la mute pieron ,"/><!--  ci commence la geste de la mute pieron , -->
+<feat xlink:href="#line_68" value=" com il vint au sepucre et i fit s&apos; orison ."/><!--  com il vint au sepucre et i fit s' orison . -->
+<feat xlink:href="#line_69" value=" diex s&apos; aparut a lui dormant , en avison ,"/><!--  diex s' aparut a lui dormant , en avison , -->
+<feat xlink:href="#line_70" value=" dist li : « reva arriere en ta grant region . »"/><!--  dist li : « reva arriere en ta grant region . » -->
+<feat xlink:href="#line_71" value=" s&apos; enportast son seel que mius le creïst on"/><!--  s' enportast son seel que mius le creïst on -->
+<feat xlink:href="#line_72" value=" et desist a son pule qu&apos; il jetast de prison"/><!--  et desist a son pule qu' il jetast de prison -->
+<feat xlink:href="#line_73" value=" les saintismes reliques que tienent li felon ;"/><!--  les saintismes reliques que tienent li felon ; -->
+<feat xlink:href="#line_74" value=" puis si l&apos; alast vengier par tel condition ,"/><!--  puis si l' alast vengier par tel condition , -->
+<feat xlink:href="#line_75" value=" ki i sera ocis qu&apos; il ait remission ,"/><!--  ki i sera ocis qu' il ait remission , -->
+<feat xlink:href="#line_76" value=" en paradis celestre ara remansion ."/><!--  en paradis celestre ara remansion . -->
+<feat xlink:href="#line_77" value=" oï l&apos; avés chanter en une autre chançon ,"/><!--  oï l' avés chanter en une autre chançon , -->
+<feat xlink:href="#line_78" value=" mais n&apos; estoit pas rimee ensi com nos l&apos; avon ,"/><!--  mais n' estoit pas rimee ensi com nos l' avon , -->
+<feat xlink:href="#line_79" value=" rimee est de novel et mise en quarregnon ."/><!--  rimee est de novel et mise en quarregnon . -->
+<feat xlink:href="#line_80" value=" mais cil qui le rima n&apos; i vaut metre son non ,"/><!--  mais cil qui le rima n' i vaut metre son non , -->
+<feat xlink:href="#line_81" value=" por çou que tels l&apos; oïst quin fronçast le grenon ."/><!--  por çou que tels l' oïst quin fronçast le grenon . -->
+<feat xlink:href="#line_82" value=" diex li otroit qu&apos; il ait de s&apos; arme garison ,"/><!--  diex li otroit qu' il ait de s' arme garison , -->
+<feat xlink:href="#line_83" value=" ke ne voist en infer cele male maison !"/><!--  ke ne voist en infer cele male maison ! -->
+<feat xlink:href="#line_84" value=" segnor , or escoutés que li escris nos dist :"/><!--  segnor , or escoutés que li escris nos dist : -->
+<feat xlink:href="#line_85" value=" por deu remenbre vos de lui qui tos nos fist ,"/><!--  por deu remenbre vos de lui qui tos nos fist , -->
+<feat xlink:href="#line_86" value=" et quant il nos ot fait en tel repos nos mist"/><!--  et quant il nos ot fait en tel repos nos mist -->
+<feat xlink:href="#line_87" value=" jamais n&apos; eussons paine s&apos; adans nel forfesist ."/><!--  jamais n' eussons paine s' adans nel forfesist . -->
+<feat xlink:href="#line_88" value=" son fil tramist en terre que d&apos; infer nos traisist ,"/><!--  son fil tramist en terre que d' infer nos traisist , -->
+<feat xlink:href="#line_89" value=" aprés livra se car que on en crois pendist ,"/><!--  aprés livra se car que on en crois pendist , -->
+<feat xlink:href="#line_90" value=" pilates et juiu , n&apos; i ot nul nel laidist"/><!--  pilates et juiu , n' i ot nul nel laidist -->
+<feat xlink:href="#line_91" value=" u il nel coliast u il ne l&apos; escopist ,"/><!--  u il nel coliast u il ne l' escopist , -->
+<feat xlink:href="#line_92" value=" assez i soufri paines si com pieres escrit ."/><!--  assez i soufri paines si com pieres escrit . -->
+<feat xlink:href="#line_93" value=" puis nos parama tant que le suen non nos mist :"/><!--  puis nos parama tant que le suen non nos mist : -->
+<feat xlink:href="#line_94" value=" crestiien avons non et nos l&apos; apelons crist ,"/><!--  crestiien avons non et nos l' apelons crist , -->
+<feat xlink:href="#line_95" value=" et quant nos çou creonmes que por nos le soufrist ,"/><!--  et quant nos çou creonmes que por nos le soufrist , -->
+<feat xlink:href="#line_96" value=" dont seroit ce bien drois qu&apos; il nos en sovenist ,"/><!--  dont seroit ce bien drois qu' il nos en sovenist , -->
+<feat xlink:href="#line_97" value=" que crestiien por lui la sainte crois presist"/><!--  que crestiien por lui la sainte crois presist -->
+<feat xlink:href="#line_98" value=" et qu&apos; il l&apos; alast vengier del linage andecrist ."/><!--  et qu' il l' alast vengier del linage andecrist . -->
+<feat xlink:href="#line_99" value=" qui nel croit ne nel sert ne ainme ne goist ,"/><!--  qui nel croit ne nel sert ne ainme ne goist , -->
+<feat xlink:href="#line_100" value=" de quanqu&apos; il onques puet tos les siens fais despist ."/><!--  de quanqu' il onques puet tos les siens fais despist . -->
+<feat xlink:href="#line_101" value=" por çou si convenroit que on le confondist ,"/><!--  por çou si convenroit que on le confondist , -->
+<feat xlink:href="#line_102" value=" et caçast de la terre que em pais le tenist ,"/><!--  et caçast de la terre que em pais le tenist , -->
+<feat xlink:href="#line_103" value=" et jhesus a nos ames les gracies en rendist ."/><!--  et jhesus a nos ames les gracies en rendist . -->
+<feat xlink:href="#line_104" value=" segnor , oés cançon de grant cevalerie ;"/><!--  segnor , oés cançon de grant cevalerie ; -->
+<feat xlink:href="#line_105" value=" des bons barons de france drois est que jo vos die"/><!--  des bons barons de france drois est que jo vos die -->
+<feat xlink:href="#line_106" value=" ki par force conquisent la celestiel vie ."/><!--  ki par force conquisent la celestiel vie . -->
+<feat xlink:href="#line_107" value=" il n&apos; orent cure entr&apos; els de mal ne de boisdie ,"/><!--  il n' orent cure entr' els de mal ne de boisdie , -->
+<feat xlink:href="#line_108" value=" onques li uns vers l&apos; autre ne pensa felonie ,"/><!--  onques li uns vers l' autre ne pensa felonie , -->
+<feat xlink:href="#line_109" value=" n&apos; ot traison entr&apos; els ne engien ne envie ,"/><!--  n' ot traison entr' els ne engien ne envie , -->
+<feat xlink:href="#line_110" value=" mauvaise covoitise fu entr&apos; els molt haïe ,"/><!--  mauvaise covoitise fu entr' els molt haïe , -->
+<feat xlink:href="#line_111" value=" mais bontés et proece fu amee et sivie ."/><!--  mais bontés et proece fu amee et sivie . -->
+<feat xlink:href="#line_112" value=" niké prisent par force , rohais et tabarie ,"/><!--  niké prisent par force , rohais et tabarie , -->
+<feat xlink:href="#line_113" value=" antioce le riche qui&apos; st de tel segnorie ;"/><!--  antioce le riche qui' st de tel segnorie ; -->
+<feat xlink:href="#line_114" value=" tot prisent de par deu qui lor fu en aïe ,"/><!--  tot prisent de par deu qui lor fu en aïe , -->
+<feat xlink:href="#line_115" value=" jherusalem conquisent , la fort cité antie ,"/><!--  jherusalem conquisent , la fort cité antie , -->
+<feat xlink:href="#line_116" value=" u diex rescucita quant vint de mort a vie ."/><!--  u diex rescucita quant vint de mort a vie . -->
+<feat xlink:href="#line_117" value=" ki moru par boin cuer diex ne l&apos; oblia mie ,"/><!--  ki moru par boin cuer diex ne l' oblia mie , -->
+<feat xlink:href="#line_118" value=" les armes en a mis en molt grant segnorie ."/><!--  les armes en a mis en molt grant segnorie . -->
+<feat xlink:href="#line_119" value=" la u tos jors sera lor pensee acomplie ."/><!--  la u tos jors sera lor pensee acomplie . -->
+<feat xlink:href="#line_120" value=" baron oés uns vers qui molt fait a loer :"/><!--  baron oés uns vers qui molt fait a loer : -->
+<feat xlink:href="#line_121" value=" cis siecles est molt fel , si nos velt enganer ,"/><!--  cis siecles est molt fel , si nos velt enganer , -->
+<feat xlink:href="#line_122" value=" n&apos; i a vraie justice , nus n&apos; i puet veïr cler ,"/><!--  n' i a vraie justice , nus n' i puet veïr cler , -->
+<feat xlink:href="#line_123" value=" hom n&apos; i est qui foi ait encontre avoir doner ,"/><!--  hom n' i est qui foi ait encontre avoir doner , -->
+<feat xlink:href="#line_124" value=" molt i convient grant garde por nos ames salver ."/><!--  molt i convient grant garde por nos ames salver . -->
+<feat xlink:href="#line_125" value=" diables nos est pres qui nos velt encanter ,"/><!--  diables nos est pres qui nos velt encanter , -->
+<feat xlink:href="#line_126" value=" bien nos devriemes mais de ses engiens garder ."/><!--  bien nos devriemes mais de ses engiens garder . -->
+<feat xlink:href="#line_127" value=" nostre sire vos rueve en jhersalem aler ,"/><!--  nostre sire vos rueve en jhersalem aler , -->
+<feat xlink:href="#line_128" value=" le deffaee gent ocire et afoler ,"/><!--  le deffaee gent ocire et afoler , -->
+<feat xlink:href="#line_129" value=" ki deu ne voelent croire ne ses fais aorer"/><!--  ki deu ne voelent croire ne ses fais aorer -->
+<feat xlink:href="#line_130" value=" ne ses commandemens volentiers escouter ,"/><!--  ne ses commandemens volentiers escouter , -->
+<feat xlink:href="#line_131" value=" se crois ne son sepucre aidier ne delivrer ,"/><!--  se crois ne son sepucre aidier ne delivrer , -->
+<feat xlink:href="#line_132" value=" mahom et tervagan destruire et craventer"/><!--  mahom et tervagan destruire et craventer -->
+<feat xlink:href="#line_133" value=" et fondre lor ymages et a deu presenter ,"/><!--  et fondre lor ymages et a deu presenter , -->
+<feat xlink:href="#line_134" value=" sainte eglise refaire et mostiers restorer ,"/><!--  sainte eglise refaire et mostiers restorer , -->
+<feat xlink:href="#line_135" value=" ensi de tot en tot le treu aquiter ,"/><!--  ensi de tot en tot le treu aquiter , -->
+<feat xlink:href="#line_136" value=" que il n&apos; i ait paien qui ja l&apos; ost demander ."/><!--  que il n' i ait paien qui ja l' ost demander . -->
+<feat xlink:href="#line_137" value=" li bon baron de france ne vaurent arester ,"/><!--  li bon baron de france ne vaurent arester , -->
+<feat xlink:href="#line_138" value=" en estranges païs s&apos; alerent deserter ,"/><!--  en estranges païs s' alerent deserter , -->
+<feat xlink:href="#line_139" value=" la devinrent salvage por lor armes salver ."/><!--  la devinrent salvage por lor armes salver . -->
+<feat xlink:href="#line_140" value=" ki la puet par bon cuer son cors por deu pener ,"/><!--  ki la puet par bon cuer son cors por deu pener , -->
+<feat xlink:href="#line_141" value=" jhesus li rois de gloire nel vaura oblier ,"/><!--  jhesus li rois de gloire nel vaura oblier , -->
+<feat xlink:href="#line_142" value=" ains le fera en glorie hautement coroner ."/><!--  ains le fera en glorie hautement coroner . -->
+<feat xlink:href="#line_143" value=" cele ost a nostre sire meismes commandee ,"/><!--  cele ost a nostre sire meismes commandee , -->
+<feat xlink:href="#line_144" value=" des bons barons de france fu faite et porpensee ;"/><!--  des bons barons de france fu faite et porpensee ; -->
+<feat xlink:href="#line_145" value=" dex ! çou fu si bone hore qu&apos; ele fu porparlee ,"/><!--  dex ! çou fu si bone hore qu' ele fu porparlee , -->
+<feat xlink:href="#line_146" value=" par eux fu mainte terre conquise et aquitee ,"/><!--  par eux fu mainte terre conquise et aquitee , -->
+<feat xlink:href="#line_147" value=" mains bors et mains castels , mainte cité quasee ,"/><!--  mains bors et mains castels , mainte cité quasee , -->
+<feat xlink:href="#line_148" value=" dont li crestientés iert maint jor apelee"/><!--  dont li crestientés iert maint jor apelee -->
+<feat xlink:href="#line_149" value=" et li lois damedeu essaucie et loee ."/><!--  et li lois damedeu essaucie et loee . -->
+<feat xlink:href="#line_150" value=" monjoie li roiaus n&apos; i fu pas oubliee ,"/><!--  monjoie li roiaus n' i fu pas oubliee , -->
+<feat xlink:href="#line_151" value=" es plains de devant niqué fu forment escriee ;"/><!--  es plains de devant niqué fu forment escriee ; -->
+<feat xlink:href="#line_152" value=" la ot tant coup feru et de lance et d&apos; espee"/><!--  la ot tant coup feru et de lance et d' espee -->
+<feat xlink:href="#line_153" value=" u sarrazin reciurent mainte dure colee ."/><!--  u sarrazin reciurent mainte dure colee . -->
+<feat xlink:href="#line_154" value=" qui fu mors par bon cuer s&apos; arme fu bien salvee"/><!--  qui fu mors par bon cuer s' arme fu bien salvee -->
+<feat xlink:href="#line_155" value=" en le celestel vie que il a conquestee ."/><!--  en le celestel vie que il a conquestee . -->
+<feat xlink:href="#line_156" value=" segnor , por amor deu , faites pais si m&apos; oiés ,"/><!--  segnor , por amor deu , faites pais si m' oiés , -->
+<feat xlink:href="#line_157" value=" quant vos del siecle irés , que mellor en soiés ."/><!--  quant vos del siecle irés , que mellor en soiés . -->
+<feat xlink:href="#line_158" value=" tres çou que diex fu primes des juius travelliés ,"/><!--  tres çou que diex fu primes des juius travelliés , -->
+<feat xlink:href="#line_159" value=" des claus et de la lance et navrés et plaiés ,"/><!--  des claus et de la lance et navrés et plaiés , -->
+<feat xlink:href="#line_160" value=" a le destre de lui fu uns leres dreciés ,"/><!--  a le destre de lui fu uns leres dreciés , -->
+<feat xlink:href="#line_161" value=" dimas ot il a non tres qu&apos; il fu batisiés ."/><!--  dimas ot il a non tres qu' il fu batisiés . -->
+<feat xlink:href="#line_162" value=" il creï bien en dieu , il en soit graciiés !"/><!--  il creï bien en dieu , il en soit graciiés ! -->
+<feat xlink:href="#line_163" value=" quant il vit que jhesus estoit si laidengiés"/><!--  quant il vit que jhesus estoit si laidengiés -->
+<feat xlink:href="#line_164" value=" si commence a parler com hom a mort jugiés :"/><!--  si commence a parler com hom a mort jugiés : -->
+<feat xlink:href="#line_165" value=" « rois , li fiux de la virgene , molt est grans ta pitiés ,"/><!--  « rois , li fiux de la virgene , molt est grans ta pitiés , -->
+<feat xlink:href="#line_166" value=" car salve moi et toi quant tu seras es chiés ."/><!--  car salve moi et toi quant tu seras es chiés . -->
+<feat xlink:href="#line_167" value=" bien devroie ore faire que tu fusces vengiés"/><!--  bien devroie ore faire que tu fusces vengiés -->
+<feat xlink:href="#line_168" value=" de ces cuvers juius dont si iés laidengiés . »"/><!--  de ces cuvers juius dont si iés laidengiés . » -->
+<feat xlink:href="#line_169" value=" quant l&apos; oï nostre sire , s&apos; est devers lui tornés :"/><!--  quant l' oï nostre sire , s' est devers lui tornés : -->
+<feat xlink:href="#line_170" value=" « amis » , dist il , « encore n&apos; est pas li pules nés"/><!--  « amis » , dist il , « encore n' est pas li pules nés -->
+<feat xlink:href="#line_171" value=" ki me venra vengier des espius acerés ,"/><!--  ki me venra vengier des espius acerés , -->
+<feat xlink:href="#line_172" value=" si me venra ocire les paiens deffaés"/><!--  si me venra ocire les paiens deffaés -->
+<feat xlink:href="#line_173" value=" ki mes commandemens ont tos jors refusés ,"/><!--  ki mes commandemens ont tos jors refusés , -->
+<feat xlink:href="#line_174" value=" dont sera essaucie sainte crestientés"/><!--  dont sera essaucie sainte crestientés -->
+<feat xlink:href="#line_175" value=" et ma terre conquise , mes païs aquités ;"/><!--  et ma terre conquise , mes païs aquités ; -->
+<feat xlink:href="#line_176" value=" d&apos; ui en mil ans sera baptisiés et levés"/><!--  d' ui en mil ans sera baptisiés et levés -->
+<feat xlink:href="#line_177" value=" et s&apos; ert li sains sepucres requis et aorés ."/><!--  et s' ert li sains sepucres requis et aorés . -->
+<feat xlink:href="#line_178" value=" ausi me serviront com sés aie engenrés ,"/><!--  ausi me serviront com sés aie engenrés , -->
+<feat xlink:href="#line_179" value=" il ierent tot mi fil , g&apos; iere lor avoués ,"/><!--  il ierent tot mi fil , g' iere lor avoués , -->
+<feat xlink:href="#line_180" value=" en paradis celestre sera lor iretés ."/><!--  en paradis celestre sera lor iretés . -->
+<feat xlink:href="#line_181" value=" tu soies hui cest jor avoec moi coronés . »"/><!--  tu soies hui cest jor avoec moi coronés . » -->
+<feat xlink:href="#line_182" value=" d&apos; autre part a senestre ot pendu un laron ,"/><!--  d' autre part a senestre ot pendu un laron , -->
+<feat xlink:href="#line_183" value=" par non de baptestire getas avoit a non ,"/><!--  par non de baptestire getas avoit a non , -->
+<feat xlink:href="#line_184" value=" compains ert a celui qui creoit en jeson"/><!--  compains ert a celui qui creoit en jeson -->
+<feat xlink:href="#line_185" value=" qu&apos; i veoit angoissous de si grant passion ,"/><!--  qu' i veoit angoissous de si grant passion , -->
+<feat xlink:href="#line_186" value=" des claus et de la lance et d&apos; amere puison"/><!--  des claus et de la lance et d' amere puison -->
+<feat xlink:href="#line_187" value=" ke li orent doné li traitor felon ."/><!--  ke li orent doné li traitor felon . -->
+<feat xlink:href="#line_188" value=" par droite mesquerance a dite une raison :"/><!--  par droite mesquerance a dite une raison : -->
+<feat xlink:href="#line_189" value=" « faus iés » , dist il , « compains , que le te celeron ?"/><!--  « faus iés » , dist il , « compains , que le te celeron ? -->
+<feat xlink:href="#line_190" value=" ki quides qu&apos; il te doive aidier a cest beson ."/><!--  ki quides qu' il te doive aidier a cest beson . -->
+<feat xlink:href="#line_191" value=" son cors ne puet salver , comment garra le ton ?"/><!--  son cors ne puet salver , comment garra le ton ? -->
+<feat xlink:href="#line_192" value=" d&apos; ui cest jor en mil ans , dist , le secors aron ."/><!--  d' ui cest jor en mil ans , dist , le secors aron . -->
+<feat xlink:href="#line_193" value=" quant le jors ert venus dont a fait mention ,"/><!--  quant le jors ert venus dont a fait mention , -->
+<feat xlink:href="#line_194" value=" et tu et tot li autre qui atendés cel don"/><!--  et tu et tot li autre qui atendés cel don -->
+<feat xlink:href="#line_195" value=" tot serés confondu , ja n&apos; arés raençon ."/><!--  tot serés confondu , ja n' arés raençon . -->
+<feat xlink:href="#line_196" value=" fols est qui atendra que la nos promet on . »"/><!--  fols est qui atendra que la nos promet on . » -->
+<feat xlink:href="#line_197" value=" aprés parla li lere qui creoit vraiement :"/><!--  aprés parla li lere qui creoit vraiement : -->
+<feat xlink:href="#line_198" value=" « elas ! que as tu dit de deu omnipotent !"/><!--  « elas ! que as tu dit de deu omnipotent ! -->
+<feat xlink:href="#line_199" value=" jou et tu devons pendre et manoir en torment ,"/><!--  jou et tu devons pendre et manoir en torment , -->
+<feat xlink:href="#line_200" value=" tos jors avons emblé et erré malement ,"/><!--  tos jors avons emblé et erré malement , -->
+<feat xlink:href="#line_201" value=" nient li sire del mont qui tout voit et consent ,"/><!--  nient li sire del mont qui tout voit et consent , -->
+<feat xlink:href="#line_202" value=" ki en lui querra bien , mar doutera nient"/><!--  ki en lui querra bien , mar doutera nient -->
+<feat xlink:href="#line_203" value=" que d&apos; infer le puant sente l&apos; entosquement ."/><!--  que d' infer le puant sente l' entosquement . -->
+<feat xlink:href="#line_204" value=" — amis , dist nostre sire , saciés a ensient"/><!--  — amis , dist nostre sire , saciés a ensient -->
+<feat xlink:href="#line_205" value=" que dela oltremer venront novele gent ,"/><!--  que dela oltremer venront novele gent , -->
+<feat xlink:href="#line_206" value=" de la mort de lor pere pranderont venjement ."/><!--  de la mort de lor pere pranderont venjement . -->
+<feat xlink:href="#line_207" value=" ne remanra paiens desci qu&apos; en orient ;"/><!--  ne remanra paiens desci qu' en orient ; -->
+<feat xlink:href="#line_208" value=" li franc aront le terre tot a delivrement ,"/><!--  li franc aront le terre tot a delivrement , -->
+<feat xlink:href="#line_209" value=" et ki pris et finés iert en cel errement"/><!--  et ki pris et finés iert en cel errement -->
+<feat xlink:href="#line_210" value=" l&apos; arme del cors ira en nostre salvament"/><!--  l' arme del cors ira en nostre salvament -->
+<feat xlink:href="#line_211" value=" et li tiue i voist hui par mon commandement ,"/><!--  et li tiue i voist hui par mon commandement , -->
+<feat xlink:href="#line_212" value=" et de tos cels qui croient avoec toi ensement . »"/><!--  et de tos cels qui croient avoec toi ensement . » -->
+<feat xlink:href="#line_213" value=" l&apos; arme del bon laron est de son cors partie ,"/><!--  l' arme del bon laron est de son cors partie , -->
+<feat xlink:href="#line_214" value=" lasus en paradis a pris herbregerie ,"/><!--  lasus en paradis a pris herbregerie , -->
+<feat xlink:href="#line_215" value=" çou fist li fois qu&apos; il ot el fil sainte marie ."/><!--  çou fist li fois qu' il ot el fil sainte marie . -->
+<feat xlink:href="#line_216" value=" aprés ceste escriture volés que voir vos die ?"/><!--  aprés ceste escriture volés que voir vos die ? -->
+<feat xlink:href="#line_217" value=" .xl. ans en aprés plus ne demora mie"/><!--  .xl. ans en aprés plus ne demora mie -->
+<feat xlink:href="#line_218" value=" que le vinrent secorre la gent de romenie :"/><!--  que le vinrent secorre la gent de romenie : -->
+<feat xlink:href="#line_219" value=" tytus , vaspaziiens a tot sa compaignie ."/><!--  tytus , vaspaziiens a tot sa compaignie . -->
+<feat xlink:href="#line_220" value=" bien creirent en diu le fil sainte marie ,"/><!--  bien creirent en diu le fil sainte marie , -->
+<feat xlink:href="#line_221" value=" le roi celestiel qui tot a en baillie ,"/><!--  le roi celestiel qui tot a en baillie , -->
+<feat xlink:href="#line_222" value=" et le ciel et la terre et la mort et la vie ."/><!--  et le ciel et la terre et la mort et la vie . -->
+<feat xlink:href="#line_223" value=" et quant en lor contree fu la novele oïe"/><!--  et quant en lor contree fu la novele oïe -->
+<feat xlink:href="#line_224" value=" que li cars dameudeu fu navree et plaïe ,"/><!--  que li cars dameudeu fu navree et plaïe , -->
+<feat xlink:href="#line_225" value=" et que fu en la crois penee et travellie ,"/><!--  et que fu en la crois penee et travellie , -->
+<feat xlink:href="#line_226" value=" molt par orent grant dol de si grant felonie ."/><!--  molt par orent grant dol de si grant felonie . -->
+<feat xlink:href="#line_227" value=" dont manderent partot lor gent a ost banie"/><!--  dont manderent partot lor gent a ost banie -->
+<feat xlink:href="#line_228" value=" et kierkent bués et bugles et somiers et navie ;"/><!--  et kierkent bués et bugles et somiers et navie ; -->
+<feat xlink:href="#line_229" value=" jerusalem asalent par molt grant envaie ,"/><!--  jerusalem asalent par molt grant envaie , -->
+<feat xlink:href="#line_230" value=" li murs versa contre els , s&apos; ont la vile saisie ."/><!--  li murs versa contre els , s' ont la vile saisie . -->
+<feat xlink:href="#line_231" value=" cels dedens en ont mors , la riquece saisie ,"/><!--  cels dedens en ont mors , la riquece saisie , -->
+<feat xlink:href="#line_232" value=" molt i prisent avoir la rice baronie ,"/><!--  molt i prisent avoir la rice baronie , -->
+<feat xlink:href="#line_233" value=" as povres le donerent qui ont mestier d&apos; aïe ."/><!--  as povres le donerent qui ont mestier d' aïe . -->
+<feat xlink:href="#line_234" value=" li murs de jursalem cai et craventa ,"/><!--  li murs de jursalem cai et craventa , -->
+<feat xlink:href="#line_235" value=" si com encore pert , ce dist qui veü l&apos; a ."/><!--  si com encore pert , ce dist qui veü l' a . -->
+<feat xlink:href="#line_236" value=" et li doi roi ont pris les compaignons juda :"/><!--  et li doi roi ont pris les compaignons juda : -->
+<feat xlink:href="#line_237" value=" pilate et barraban , malcun et genetra ,"/><!--  pilate et barraban , malcun et genetra , -->
+<feat xlink:href="#line_238" value=" trollant et serbadé , pharaon , malcumma ,"/><!--  trollant et serbadé , pharaon , malcumma , -->
+<feat xlink:href="#line_239" value=" et genie et escam , samuel et ploia ,"/><!--  et genie et escam , samuel et ploia , -->
+<feat xlink:href="#line_240" value=" çou fu la compaignie qui jhesu acata ,"/><!--  çou fu la compaignie qui jhesu acata , -->
+<feat xlink:href="#line_241" value=" le fil a la pucele qui nos cuers espira ."/><!--  le fil a la pucele qui nos cuers espira . -->
+<feat xlink:href="#line_242" value=" tels en fu mar creans qui molt cier le compra ,"/><!--  tels en fu mar creans qui molt cier le compra , -->
+<feat xlink:href="#line_243" value=" son cors et son avoir trestot perdu i a ,"/><!--  son cors et son avoir trestot perdu i a , -->
+<feat xlink:href="#line_244" value=" tumés fu en infer u tos jors remanra ."/><!--  tumés fu en infer u tos jors remanra . -->
+<feat xlink:href="#line_245" value=" dont fu vengiés nos sire et encore sera ."/><!--  dont fu vengiés nos sire et encore sera . -->
+<feat xlink:href="#line_246" value=" ki lui ira vengier bon loier en avra :"/><!--  ki lui ira vengier bon loier en avra : -->
+<feat xlink:href="#line_247" value=" en paradis celestre corone portera ."/><!--  en paradis celestre corone portera . -->
+<feat xlink:href="#line_248" value=" or oiés le cançon et si aiés entente"/><!--  or oiés le cançon et si aiés entente -->
+<feat xlink:href="#line_249" value=" de l&apos; ost qui en ala , qui molt fu bele et jente ,"/><!--  de l' ost qui en ala , qui molt fu bele et jente , -->
+<feat xlink:href="#line_250" value=" ne çou ne quit jo mie que nus clers m&apos; en desmente"/><!--  ne çou ne quit jo mie que nus clers m' en desmente -->
+<feat xlink:href="#line_251" value=" que dex ne fust traïs et livrez a tormente"/><!--  que dex ne fust traïs et livrez a tormente -->
+<feat xlink:href="#line_252" value=" et vendus a deniers , si n&apos; en i ot que trente ."/><!--  et vendus a deniers , si n' en i ot que trente . -->
+<feat xlink:href="#line_253" value=" paien orent saisi flun jordain et le rente ,"/><!--  paien orent saisi flun jordain et le rente , -->
+<feat xlink:href="#line_254" value=" le crois et le sepucre volrent tot metre a vente ,"/><!--  le crois et le sepucre volrent tot metre a vente , -->
+<feat xlink:href="#line_255" value=" tot avoient ja pris li gens que dex cravente ."/><!--  tot avoient ja pris li gens que dex cravente . -->
+<feat xlink:href="#line_256" value=" mais diex nel vaut soufrir qu&apos; encor n&apos; en soit dolente ."/><!--  mais diex nel vaut soufrir qu' encor n' en soit dolente . -->
+<feat xlink:href="#line_257" value=" il a tramis ses letres par sa terre la gente ,"/><!--  il a tramis ses letres par sa terre la gente , -->
+<feat xlink:href="#line_258" value=" que tot viegnent a lui por racater sa rente"/><!--  que tot viegnent a lui por racater sa rente -->
+<feat xlink:href="#line_259" value=" que paien ont porpris , icele gens pullente ."/><!--  que paien ont porpris , icele gens pullente . -->
+<feat xlink:href="#line_260" value=" la le viegnent vengier molt tost et sans atente ,"/><!--  la le viegnent vengier molt tost et sans atente , -->
+<feat xlink:href="#line_261" value=" que diex selonc le fait lor renge tel jovente ,"/><!--  que diex selonc le fait lor renge tel jovente , -->
+<feat xlink:href="#line_262" value=" qu&apos; il ait corone el cief devant lui bele et jente ."/><!--  qu' il ait corone el cief devant lui bele et jente . -->
+<feat xlink:href="#line_263" value=" ki par bon cuer ira , gart que ne se repente ,"/><!--  ki par bon cuer ira , gart que ne se repente , -->
+<feat xlink:href="#line_264" value=" bien contre vaura s&apos; arme le mellor saint d&apos; otrente ."/><!--  bien contre vaura s' arme le mellor saint d' otrente . -->
+<feat xlink:href="#line_265" value=" or entendés l&apos; estorie que promis vos avon :"/><!--  or entendés l' estorie que promis vos avon : -->
+<feat xlink:href="#line_266" value=" li commencemens iert de la mute pieron ."/><!--  li commencemens iert de la mute pieron . -->
+<feat xlink:href="#line_267" value=" il fu nés en ermine et s&apos; i ot sa maison ,"/><!--  il fu nés en ermine et s' i ot sa maison , -->
+<feat xlink:href="#line_268" value=" amés fut et servis de la terre environ ."/><!--  amés fut et servis de la terre environ . -->
+<feat xlink:href="#line_269" value=" tros que li saint apostele sermonerent cest mon ,"/><!--  tros que li saint apostele sermonerent cest mon , -->
+<feat xlink:href="#line_270" value=" ne fut uns tels hom nés por bien dire un sermon ."/><!--  ne fut uns tels hom nés por bien dire un sermon . -->
+<feat xlink:href="#line_271" value=" il monta sur un asne , prist eskerpe et bordon ,"/><!--  il monta sur un asne , prist eskerpe et bordon , -->
+<feat xlink:href="#line_272" value=" droit al mostier saint piere a faite s&apos; orison"/><!--  droit al mostier saint piere a faite s' orison -->
+<feat xlink:href="#line_273" value=" ( puis en vait a barlét avoec ses compaignons ) ,"/><!--  ( puis en vait a barlét avoec ses compaignons ) , -->
+<feat xlink:href="#line_274" value=" la mer passa a bac a guise de baron ,"/><!--  la mer passa a bac a guise de baron , -->
+<feat xlink:href="#line_275" value=" les turs , les sarrazins passa il a laron ,"/><!--  les turs , les sarrazins passa il a laron , -->
+<feat xlink:href="#line_276" value=" vint en jherusalem par diu anuncion ."/><!--  vint en jherusalem par diu anuncion . -->
+<feat xlink:href="#line_277" value=" quant il fu au sepucre couciés a orison ,"/><!--  quant il fu au sepucre couciés a orison , -->
+<feat xlink:href="#line_278" value=" tel cose i a veüe dont au cuer ot friçon :"/><!--  tel cose i a veüe dont au cuer ot friçon : -->
+<feat xlink:href="#line_279" value=" estables a cevals et autre mesproison ."/><!--  estables a cevals et autre mesproison . -->
+<feat xlink:href="#line_280" value=" il vint au patriarce , si l&apos; a mis a raison :"/><!--  il vint au patriarce , si l' a mis a raison : -->
+<feat xlink:href="#line_281" value=" « amis quels hom es tu ? di moi com tu as non ,"/><!--  « amis quels hom es tu ? di moi com tu as non , -->
+<feat xlink:href="#line_282" value=" ki le sepucre deu laises si a bandon . ? »"/><!--  ki le sepucre deu laises si a bandon . ? » -->
+<feat xlink:href="#line_283" value=" respont li patriarce : « nos , frere , qu&apos; en poon ?"/><!--  respont li patriarce : « nos , frere , qu' en poon ? -->
+<feat xlink:href="#line_284" value=" par molt grant treuage entre paiens manon ,"/><!--  par molt grant treuage entre paiens manon , -->
+<feat xlink:href="#line_285" value=" por nos armes salver grans paines i soufron ."/><!--  por nos armes salver grans paines i soufron . -->
+<feat xlink:href="#line_286" value=" quar di as crestiens , se nos secors n&apos; avon ,"/><!--  quar di as crestiens , se nos secors n' avon , -->
+<feat xlink:href="#line_287" value=" tost ira li sepucres en grant perdision . »"/><!--  tost ira li sepucres en grant perdision . » -->
+<feat xlink:href="#line_288" value=" et respont li hermites : « volontiers lor diron . »"/><!--  et respont li hermites : « volontiers lor diron . » -->
+<feat xlink:href="#line_289" value=" « sire » , dist li hermites , « se oïr me volés ,"/><!--  « sire » , dist li hermites , « se oïr me volés , -->
+<feat xlink:href="#line_290" value=" je vos direi quels est la nostre volontés :"/><!--  je vos direi quels est la nostre volontés : -->
+<feat xlink:href="#line_291" value=" les poingneors de france , les chevaliers membrés ,"/><!--  les poingneors de france , les chevaliers membrés , -->
+<feat xlink:href="#line_292" value=" et les dus et les contes , les princes , les casés"/><!--  et les dus et les contes , les princes , les casés -->
+<feat xlink:href="#line_293" value=" feroie ça venir et les autres barnés ,"/><!--  feroie ça venir et les autres barnés , -->
+<feat xlink:href="#line_294" value=" se quidoie que fust a diu sa volentés . »"/><!--  se quidoie que fust a diu sa volentés . » -->
+<feat xlink:href="#line_295" value=" respont li patriarches : « amis , bien dit avés ,"/><!--  respont li patriarches : « amis , bien dit avés , -->
+<feat xlink:href="#line_296" value=" mais se vos plaist huimais un respit m&apos; en donés ,"/><!--  mais se vos plaist huimais un respit m' en donés , -->
+<feat xlink:href="#line_297" value=" le matin vos dirai quels en ert mes pensés . »"/><!--  le matin vos dirai quels en ert mes pensés . » -->
+<feat xlink:href="#line_298" value=" l&apos; ermites li respont : « volentiers par vos grés . »"/><!--  l' ermites li respont : « volentiers par vos grés . » -->
+<feat xlink:href="#line_299" value=" dans pieres s&apos; en retorne , al sepucre est alés ."/><!--  dans pieres s' en retorne , al sepucre est alés . -->
+<feat xlink:href="#line_300" value=" quant ot fait s&apos; orison dormant s&apos; est acoutés ,"/><!--  quant ot fait s' orison dormant s' est acoutés , -->
+<feat xlink:href="#line_301" value=" dont s&apos; aparu a lui de diu li majestés ."/><!--  dont s' aparu a lui de diu li majestés . -->
+<feat xlink:href="#line_302" value=" doucement l&apos; apela : « dous fius de me car nés ,"/><!--  doucement l' apela : « dous fius de me car nés , -->
+<feat xlink:href="#line_303" value=" de vostre bon service vos renc mercis et grés ."/><!--  de vostre bon service vos renc mercis et grés . -->
+<feat xlink:href="#line_304" value=" alés au patriarche , mon seel li rovés ,"/><!--  alés au patriarche , mon seel li rovés , -->
+<feat xlink:href="#line_305" value=" en france dont venistes , bels frere , retornés ."/><!--  en france dont venistes , bels frere , retornés . -->
+<feat xlink:href="#line_306" value=" si dites a mon pule , li tans est aproismés"/><!--  si dites a mon pule , li tans est aproismés -->
+<feat xlink:href="#line_307" value=" que me viegne secorre sainte crestientés ."/><!--  que me viegne secorre sainte crestientés . -->
+<feat xlink:href="#line_308" value=" volentiers les verroie , molt les ai desirés ,"/><!--  volentiers les verroie , molt les ai desirés , -->
+<feat xlink:href="#line_309" value=" des mains a l&apos; anemi voel qu&apos; il soient tornés ,"/><!--  des mains a l' anemi voel qu' il soient tornés , -->
+<feat xlink:href="#line_310" value=" qui por eux engignier a tos ses las jetés ."/><!--  qui por eux engignier a tos ses las jetés . -->
+<feat xlink:href="#line_311" value=" paradis est ouvers u seront coronés . »"/><!--  paradis est ouvers u seront coronés . » -->
+<feat xlink:href="#line_312" value=" adont s&apos; esvella pieres et dex s&apos; est esconsés ."/><!--  adont s' esvella pieres et dex s' est esconsés . -->
+<feat xlink:href="#line_313" value=" au patriarche en vient quant il fu esbarés ,"/><!--  au patriarche en vient quant il fu esbarés , -->
+<feat xlink:href="#line_314" value=" dist li qu&apos; il a songié : « por deu le m&apos; espielés . »"/><!--  dist li qu' il a songié : « por deu le m' espielés . » -->
+<feat xlink:href="#line_315" value=" il li respont en bien : « tot de fi le savés . »"/><!--  il li respont en bien : « tot de fi le savés . » -->
+<feat xlink:href="#line_316" value=" li afaires de lui fu trestous creantés ."/><!--  li afaires de lui fu trestous creantés . -->
+<feat xlink:href="#line_317" value=" les seaus damedeu a pieres demandés ,"/><!--  les seaus damedeu a pieres demandés , -->
+<feat xlink:href="#line_318" value=" il li a volentiers sans contredit livrés ,"/><!--  il li a volentiers sans contredit livrés , -->
+<feat xlink:href="#line_319" value=" puis a ses compaignons et lui tos salués ."/><!--  puis a ses compaignons et lui tos salués . -->
+</featList>
+</paula>

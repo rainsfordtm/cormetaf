@@ -1,0 +1,29 @@
+Rules applied: R1, R8
+Lines correct: 415 of 423
+Pass history:
+Tried rules R1; 405 lines correct.
+Tried rules R11; 299 lines correct.
+Tried rules R7; 165 lines correct.
+Tried rules R2; 302 lines correct.
+Tried rules R8; 315 lines correct.
+Tried rules R30; 305 lines correct.
+Tried rules R1, R11; 396 lines correct.
+Tried rules R1, R7; 173 lines correct.
+Tried rules R1, R2; 400 lines correct.
+Tried rules R1, R8; 415 lines correct.
+Tried rules R1, R30; 405 lines correct.
+Tried rules R1, R8, R11; 406 lines correct.
+Tried rules R1, R8, R7; 174 lines correct.
+Tried rules R1, R8, R2; 410 lines correct.
+Tried rules R1, R8, R30; 415 lines correct.
+OPTIMIZED LINES
+70    71     de tout ce sçai je assés comment il m' est
+175    176     les biens de vous , et dedens mon coer entent
+340    342     est attemprés , et tant bien dire en o ge ,
+
+BAD LINES
+12    13     ce que les aultres instrumens ne font pas ,
+82    83     et qui de moi est tres souverainne ,
+257    259     et mis en avant , par vertu noble et grande ,
+350    352     entour la terre en un seul jour .
+412    414     au vrai amant un si grant bien preste

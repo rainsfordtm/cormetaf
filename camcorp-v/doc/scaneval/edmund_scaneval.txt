@@ -1,0 +1,128 @@
+Rules applied: R1, R8
+Lines correct: 390 of 499
+Pass history:
+Tried rules R1; 389 lines correct.
+Tried rules R11; 378 lines correct.
+Tried rules R2; 380 lines correct.
+Tried rules R30; 384 lines correct.
+Tried rules R8; 385 lines correct.
+Tried rules R1, R11; 379 lines correct.
+Tried rules R1, R2; 387 lines correct.
+Tried rules R1, R30; 389 lines correct.
+Tried rules R1, R8; 390 lines correct.
+Tried rules R1, R8, R11; 380 lines correct.
+Tried rules R1, R8, R2; 388 lines correct.
+Tried rules R1, R8, R30; 390 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES
+10    11     en sun servise ki nus ad cher .
+24    25     l' alme de lui s' en turnad ,
+29    30     e as sons suvent parlad ,
+34    35     a sun pere est repairez
+36    37     la nus enveiet si bien volum
+39    40     dunc averum deu a cumpaniun ,
+40    41     sicum ad ore li noble ber ,
+45    46     en tutes choses a lui obeit ,
+53    54     que ore est engletere appelléd ,
+66    67     par lur folie , men escient ,
+67    68     sunt deçouz veraiement .
+68    69     de germanie , un grant regnéd ,
+72    73     la bone tere a tenir
+76    77     lungtens les unt bien aidéd
+80    81     ço sunt les seines e les engleis ,
+82    83     ki puis partirent la tere en treis
+84    85     quant tute la tere unt apaiséd
+85    86     e les bretuns mult aidéd ,
+91    92     que ore engletere est apelléd .
+95    96     sicum par sort de als est choisit .
+98    99     que n' aveit entre als nule tençun
+104    105     la tere u sunt enz remis
+125    126     de ewe fresche , de mer , de pred ,
+129    130     parmi la tere vad tut enclin ,
+134    135     desque en la mer est reçuht
+136    137     enmi la tere as engleis
+151    152     par icest mur les engleis defent .
+158    159     ne quist estre reis ne quens .
+161    162     e a ses cumanz a obeir .
+167    168     que rei de lui ferunt corunéd .
+171    172     des ore en avant tendrunt ses leis .
+177    178     ceo signefiet martiriement .
+180    181     quanque il dit en jugement
+182    183     qu' en sa lei n' ait fausement ,
+184    185     ne volt pas estre desçout
+188    190     fud il pere , e as povrins .
+193    195     trecherie pas n' amout ,
+195    197     li deables ki est envius
+199    201     un de sons mist en curage
+200    202     qu' il pensa mult grant ultrage .
+202    204     n' est merveil quant fist folage .
+205    207     as cristiens fud felun ;
+211    213     ubbe out nun sun cumpainun –
+216    218     sicum edmund as engleis .
+219    221     quant unt la tere tut envirun
+221    223     od sigle e od avirun
+223    225     il sunt de scithe , un regné
+228    230     n' eiment deu ne lur parent ;
+230    232     pur ço nes aime deu de nient .
+233    235     e senz fin od lui maindrunt .
+239    241     il meneient par nef plus de mil
+244    246     e tute la tere prof malmis ,
+251    253     quant il sunt tuz arivéd ,
+252    254     entréd se sunt en une citéd .
+253    255     occis i unt quant que unt truvéd
+254    256     que out receud cristientéd .
+262    264     k' il ne morent de lur brant .
+264    266     e tute la gent martirizéd
+286    288     u le pot truver veraiement .
+295    297     a tant est al tiran accuntéd
+299    301     e est cruel cum leon .
+303    305     le son cors est sicum flur
+311    313     il n' est guaires demurant
+331    333     icist de deu est escumengéd
+338    340     e par nul altre hardiement .
+345    347     s' il ne poust ben de als fuïr ,
+351    353     si fist tut tens icest traitur :
+359    361     puis lui mustrat par sermun
+365    367     reis sui fort e poestis ,
+368    370     si sui de grant poestéd .
+375    377     n' a si fort empereur ,
+377    379     de mei tut dis avera poür ,
+381    383     a mei cunsentent en oel ,
+384    386     a mun voil sunt atempréd .
+389    391     ici prendrai mun estal
+391    393     puis li diez mult baldement
+398    400     dunc ne li estot aver poür
+405    407     que ne seit pris par nul art ,
+406    408     se ço cuvent k' il se guart .
+408    410     de mei tienge en heritét ,
+410    412     en tuz lius sera dutét .
+411    413     e lui pramet uncore duner
+413    415     ço fud le regne qu' aveit tant cher .
+420    422     requerie mei senz demurer
+424    426     jo sui de grant mercie suvent .
+425    427     cuvent lui qu' il ne seit lent
+426    428     de faire tut mun cumandement . "
+429    431     sin est alé cum hardi
+430    432     pur mustrer ço qu' a oï .
+443    445     que fust a faire e que nun .
+444    446     mustrat lui par bref sermun
+446    448     pur poür de cel felun .
+447    449     li evesque fud mult dolerus
+449    451     kar il esperout tut a estrus
+454    456     que ne seit de sun gred vif damné .
+456    458     e le siecle ert amendé ,
+459    461     tant cum li evesque od lui parlad
+462    464     mais en la tere fiché les ad .
+465    467     itel respons fait li ad
+468    470     jo sui sergant deu del cel .
+472    474     maluré est ki ne crent .
+479    481     jameis ne m' ert repruvé
+480    482     de cuardise ne de malvesté
+481    483     tant cume vivrai en cest regné .
+487    489     unc de chose ne forfis
+488    490     vers nul de ses enemis
+491    493     ja pur poür de mort
+492    494     ne obeirai a ces a tort ,
+494    496     deu nes aime ne leur sort .

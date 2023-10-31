@@ -1,0 +1,28 @@
+Rules applied: R1, R8
+Lines correct: 482 of 492
+Pass history:
+Tried rules R1; 480 lines correct.
+Tried rules R11; 446 lines correct.
+Tried rules R2; 431 lines correct.
+Tried rules R30; 453 lines correct.
+Tried rules R8; 455 lines correct.
+Tried rules R1, R11; 473 lines correct.
+Tried rules R1, R2; 456 lines correct.
+Tried rules R1, R30; 480 lines correct.
+Tried rules R1, R8; 482 lines correct.
+Tried rules R1, R8, R11; 475 lines correct.
+Tried rules R1, R8, R2; 458 lines correct.
+Tried rules R1, R8, R30; 482 lines correct.
+OPTIMIZED LINES
+46    1011     Sipriaigne estoit nomee
+66    1031     De re[s]pondre et d' escouter ,
+104    1069     Com un prince ou com un roi ,
+122    1087     Per proësce et per bernaige
+157    1122     Tot avoit quanque il veloit
+288    1253     De Gresce et de Masidone
+340    1305     Iseu welt dire em fransois :
+433    1398     Ou del fere ou del lessier .
+482    1447     Mandez em Pulle , en Toscainne ,
+
+BAD LINES
+392    1357     Per foi dist ancor sordois :

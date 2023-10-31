@@ -1,0 +1,20 @@
+Rules applied: R1, R8
+Lines correct: 498 of 500
+Pass history:
+Tried rules R1; 496 lines correct.
+Tried rules R11; 440 lines correct.
+Tried rules R2; 439 lines correct.
+Tried rules R30; 443 lines correct.
+Tried rules R8; 444 lines correct.
+Tried rules R1, R11; 491 lines correct.
+Tried rules R1, R2; 488 lines correct.
+Tried rules R1, R30; 496 lines correct.
+Tried rules R1, R8; 498 lines correct.
+Tried rules R1, R8, R11; 493 lines correct.
+Tried rules R1, R8, R2; 490 lines correct.
+Tried rules R1, R8, R30; 498 lines correct.
+OPTIMIZED LINES
+90    91     filz de traitour or le compere
+453    454     mors sera mais que a sa main viegne
+
+BAD LINES

@@ -1,0 +1,292 @@
+Rules applied: R2, R1
+Lines correct: 227 of 500
+Pass history:
+Tried rules R1; 221 lines correct.
+Tried rules R11; 216 lines correct.
+Tried rules R2; 223 lines correct.
+Tried rules R30; 218 lines correct.
+Tried rules R8; 218 lines correct.
+Tried rules R2, R1; 227 lines correct.
+Tried rules R2, R11; 221 lines correct.
+Tried rules R2, R30; 223 lines correct.
+Tried rules R2, R8; 223 lines correct.
+Tried rules R2, R1, R11; 225 lines correct.
+Tried rules R2, R1, R30; 227 lines correct.
+Tried rules R2, R1, R8; 227 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES
+0    1     puis cel tens que deu fu ned
+1    2     e establi fu la crestiented ,
+2    3     multes aventures sunt avenues
+4    5     pur ço deit l' om mult enquere
+5    6     e pener sei de ben faire ,
+8    9     qui devant nus esteient ;
+9    10     aventures beles lur aveneient ,
+10    11     pur ço qu' il ameient verité ,
+11    12     tut dis fei e lealté
+12    13     d' els deit l' om ben sovenir
+14    15     ki mult ot e ço refient
+15    16     sovent mult sage devient ;
+16    17     iço est tenu a bele mestrie ,
+17    18     ki fait le sen e laist la folie .
+18    19     de un cunte voluns parler
+19    20     ki mult fait a preiser ,
+20    21     e de un sun seneschal
+21    22     ke preuz ert e leal ,
+24    25     e cum il amat une pucele ,
+25    26     la fille al conte , que mult ert bele .
+27    28     en warewic la cité maneit ;
+29    30     cointes e sages , bon chevaleir ;
+30    31     riches ert d' or e d' argent ,
+31    32     de dras de scie , de veisselement ,
+32    33     de forz chastels , de riches citez ;
+38    39     bons chevalers mult ama ,
+42    43     coens esteit de mult grant pris ,
+45    46     sue esteit a icel jur ;
+46    47     de bokingeham , de tut le cunté ,
+47    48     sires en icel tens esteit clamé .
+48    49     li coens roalt out a nun ;
+50    51     une fille aveit de sa moiller ;
+54    55     un petitet de sa grant belté
+58    59     les oilz veirs e le chef bloi ,
+60    61     bien faite de cors , de bel estature ,
+61    62     tant par ad dulce la regardure
+62    63     curteise ert e enseigné ,
+63    64     de tuz arz ert enletré
+66    67     ki l' aperneient d' astronomie ,
+67    68     d' arismatike , de jeometrie ;
+69    70     pur ço qu' ele ert tant sage ,
+71    72     de multes teres pur lui veneient ;
+73    74     pur ço que tant noble esteit .
+74    75     felice fud la bele apelee ;
+76    77     de totes beltez ert de la flur ,
+77    78     tant bele ne fud a icel jur ;
+78    79     ki totes teres dunques cerchast
+80    81     ki tote sa belté contereit
+81    82     trop grant demorance i freit .
+82    83     de la pucele larrum ester ;
+84    85     ki mult ert corteis e sage .
+85    86     home fud de grant parage ;
+89    90     car en meinte terre aveit esté
+90    91     pur sun pris eshalcier ;
+93    94     tut le païs a lui apendeit ,
+96    97     ne qui servist sun seignur
+97    98     tuz jorz a si grant honur .
+101    102     que tost sur lui ne alast ,
+103    104     pur aler desqu' en escoce .
+105    106     gardat a si grant honur
+108    109     ne trovereit robeur ne larrun
+109    110     que li tolsist vaillant un botun .
+110    111     sequard le seneschal l' oï nomer ;
+113    114     tut dis tant cum il viveit ;
+114    115     de meillur senescal n' oï parler
+115    116     ne qui plus faist a preiser .
+121    122     ke sun naturel seignur esteit .
+125    126     e en sa chambre le fist gisir ;
+126    127     tant cum fu od lui , mult l' onura ,
+127    128     pur le bon pere qu' il tant ama .
+128    129     gui de warewic fut apelé ,
+131    132     ambure de petiz e de granz ,
+134    135     n' i out vaslet el regné
+138    139     a merveilles l' unt tuit esgardé ;
+139    140     tant ert bels e aligné ;
+141    142     de faire tant bele creature ;
+143    144     tuit de lui grant ben diseient ,
+146    147     icist gui un meistre aveit ,
+147    148     heralt d' arderne apelé esteit ;
+150    151     e de chens e de oiseals ,
+151    152     d' osturs , de falcuns e de girfalcs .
+153    154     de mult bon quer li dona ;
+154    155     a povres chevalers e a prisuns
+155    156     dona sovent riches duns ,
+159    160     de lui mult bel dun aveit .
+160    161     a un jur de pentecoste avint
+162    163     en warewic , sa riche cité ,
+163    164     par custome s' esteient asemblé ,
+167    168     de la terre les plus beles ;
+168    169     mainte pucele i reçut sun dru
+169    170     des chevalers qui erent venu ,
+170    171     e li chevaler lur drues
+171    172     des puceles que i erent venues .
+174    175     li coens s' asist al manger ;
+175    176     gui devant lui vit ester ,
+177    178     qui dens garisse de mal ;
+180    181     qu' il en la chambre alast ,
+181    182     sa fille felice saluast ,
+182    183     e qu' il la deust le jur servir
+183    184     ke ben lui vienge a pleisir .
+186    187     en la chambre est il venuz ,
+187    188     d' une cote d' escarlate vestuz
+188    189     que mult lui aveneit bien ,
+189    190     a amender n' i out nule rien ;
+191    192     des puceles est mult esgardez .
+193    194     le salu de sun pere li dist :
+198    199     felice lui ad puis demandé
+201    202     que vostre pere aime e tient leal ;
+202    203     il m' ad en sa curt nurri ,
+205    206     ço dient que tu es de bone part . »
+210    211     en bel servir mist s' entente .
+211    212     puceles i erent plus de trente ,
+212    213     que totes a gui a icel jur
+216    217     felice la bele od le cler vis ,
+219    220     tant par est suppris d' amur ,
+220    221     desore suspire e pense sovent ;
+221    222     quant veit sun vis cler e sun cors gent ,
+223    224     de tant bele creature ;
+224    225     ne li ose ren d' amur mustrer ,
+225    226     a peine l' ose esgarder ,
+226    227     que nuls parcever ne se deust .
+227    228     dunques pense que faire peust ;
+228    229     mais ore se voldra il taisir ,
+229    230     a nul ne se voldra descovrir .
+231    232     sun servise lur ad abandoné ;
+232    233     cungé d' eles dunques prist ,
+236    237     dunc li demandent sa gent
+237    238     quei il ad e pur quei est dolent ,
+238    239     e il lur ad respundu
+240    241     dunt il quide bien morir ,
+241    242     a nul jur ne quide mais garir .
+242    243     en la curt est il mult pleint ,
+244    245     pur ço qu' il les solt servir
+245    246     e sovent les bels ostels tenir .
+246    247     ore est gui en grant errur ,
+247    248     suspire e pense que frad d' amur
+248    249     dunt il est si mal mené ;
+251    252     tant mar vi felice od le cler vis !
+255    256     iço coment faire ne l' oserai .
+256    257     dunc est ele fille mun seignur ,
+258    259     si jo l' amasse e il le seüst ,
+259    260     et il puis ateindre me peust ,
+262    263     e jo , las , dunc que frai ?
+264    265     ore est gui en tel anguisse
+265    266     qu' il ne set que faire puisse ;
+268    269     beivre ne puet ne manger ,
+269    270     nul nel puet més conforter ;
+272    273     « mielz voldrai , fait il , languir
+274    275     que li quens ocire me feist
+278    279     puis s' en est il purpensé :
+280    281     de doleir nen ai repos ,
+281    282     ma dolur a lui mustrer nen os ;
+283    284     ço dient , que force pest le pré ;
+284    285     amur m' esforce de aler ,
+286    287     la dolur e la gref peine
+287    288     qui tuz jurz si me demeine .
+292    293     que ne voise ore certes a li ;
+293    294     del tut me mettrai en sa merci ,
+294    295     oscire ben me purra ,
+297    298     ke lunges me dure ceste vie . »
+300    301     a geniluns devant li se mist ,
+302    303     « felice , franche , pur deu vus pri
+303    304     que de mei , chaitif , aiez merci ,
+307    308     amur le me fait certes mustrer ,
+308    309     la grant peine e la dolur
+313    314     pur la mort pas ne larrai
+314    315     que ne vus aim a tut dis ,
+315    316     tant cum serrai home vifs .
+316    317     suz ciel n' est icele rien ,
+317    318     fust ço mal u fust ço bien ,
+319    320     pur la mort nel desdeisse .
+321    322     sanz vus n' avrai jo confort ;
+322    323     asez vus aim plus de mei ,
+324    325     se vus ne prenge de mei pité ,
+327    328     que ai pur la vostre amur ,
+331    332     que vus avriez de mei merci . »
+332    333     felice la bele respundi :
+333    334     « dunc estes vus iço gui ?
+334    335     fiz estes al senescal sequart ;
+335    336     mult vus tienc ore a musart ,
+336    337     quant d' amur m' avez requis ;
+337    338     trop estes certes hardis .
+338    339     en vostre corage poi me preisez ,
+340    341     mult me tenez ore a fole ,
+342    343     dunc sui jo fille vostre seignur ?
+345    346     que jo seie vostre amie ;
+346    347     ne trovai home qui tant me deist ,
+348    349     nul duc , cunte ne barrun ;
+349    350     se ore amasse un garçun ,
+351    352     ma belté tant mal serreit ;
+352    353     se jo ore tei amasse
+353    354     e tanz gentilz homes refusasse ,
+354    355     ducx e cuntes e baruns -
+356    357     qui sur totes me desirent ,
+363    364     se jol vois dire a mun pere ,
+364    365     des menbres te freit desfaire ,
+367    368     de la folie plusurs assez ,
+368    369     de faire itel deshonur
+369    370     a la fille lur seignur ;
+370    371     alez d' ici , tost levez ,
+374    375     ore s' en repaire a sun ostel ;
+375    376     dolur ad el quer itel ,
+376    377     por poi que sis quers ne creve ;
+377    378     or se set , puis se releve ,
+379    380     quant felice n' osera requere .
+380    381     en une chambre s' en est alez ,
+381    382     la dedenz s' en est fermez ;
+384    385     suz ciel n' est home qui n' eust pité ,
+385    386     ki veist le doel qu' il ad demené .
+386    387     d' amur se plaint forment ,
+387    388     pur qui il ad cest turment :
+389    390     qui m' est par vus si mortal !
+390    391     amur en cest novelté
+394    395     que me puisse reposer !
+395    396     mielz purreie les mals endurer .
+398    399     que m' en puisse chastier ;
+400    401     amur le fait a tere chaïr ,
+403    404     sovent se claime chaitif e las :
+404    405     « que frai e quei faire puis ?
+405    406     vivre certes més ne ruis !
+408    409     ahi ! mort , u demuers tu ?
+409    410     ja m' at amur si vencu !
+414    415     la mort ai deservi bien ,
+415    416     quant cele qui me het sur tote rien ,
+416    417     aim plus que ne faz ma vie ;
+417    418     ço me turnera a grant folie .
+419    420     qui tel fes leve en sun col
+420    421     qu' il ne put avant porter ,
+421    422     dunc li estovera trebucher .
+422    423     si ai jo fait ; las , que frai ?
+423    424     cele desir que ja nen avrai . »
+424    425     a une fenestre s' en est alé ,
+425    426     la tur del chastel ad regardé .
+426    427     « tur , fait il , tant estes bele !
+427    428     en vus maint la damaisele
+428    429     ki sa joie ore demeine ;
+430    431     car fuissez a tere acraventee ,
+433    434     pur qui ai si dure vie ! »
+434    435     derechef plure , suspire e pense ;
+437    438     d' angoisse en l' eir se voltra ;
+438    439     l' ure maldit qu' il fut né ,
+439    440     tant par est d' amur grevé :
+441    442     trop ad en tei grant vertu ;
+442    443     de vus ne me puis defendre ,
+444    445     mielz voil pur vus tost morir
+445    446     qu' en dolur longes languir .
+446    447     ahi ! felice , tant mar te vi !
+450    451     jo vus aim , més n' amez mie ;
+451    452     l' amur n' est pas dreit partie :
+456    457     que une feiz me feistes ,
+457    458     unques plus ne me deistes ;
+459    460     de vostre regard m' envenimastes ;
+463    464     chascun jur de la semaine .
+464    465     mult en est dolent sun pere ,
+465    466     e dame sabine , sa bone mere ,
+466    467     e li coens tut ensement
+468    469     e li chevaler del pavement
+469    470     de gui se pleignent forment .
+473    474     las e chaitif le troverent ;
+474    475     puis li unt il demandé
+475    476     u li mals l' ad tant grevé .
+478    479     le cors m' art tut e destruit ;
+479    480     tele vie ai jur e nuit :
+482    483     que plus sui freiz que n' est glace ,
+483    484     dunques ne sai quei jo face ;
+484    485     chascun menbre me chet d' altre ,
+486    487     itele est , seignurs , tote ma vie ;
+487    488     ne sai més que vus en die . »
+490    491     li mire s' en vont e il remaint ,
+491    492     ki mult dolerosement se plaint :
+493    494     cumben me durra ceste martire ?
+496    497     pur quei felice le me defent ?
+498    499     fors d' itant que tant l' amai ;

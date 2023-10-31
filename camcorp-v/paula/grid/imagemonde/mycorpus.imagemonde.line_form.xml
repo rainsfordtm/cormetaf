@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.imagemonde_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.imagemonde.line.xml">
+<feat xlink:href="#line_0" value=" En l&apos; an de l&apos; incarnation"/><!--  En l' an de l' incarnation -->
+<feat xlink:href="#line_1" value=" Jhesu nostre redemption"/><!--  Jhesu nostre redemption -->
+<feat xlink:href="#line_2" value=" Mil .cc. ans qarante sis"/><!--  Mil .cc. ans qarante sis -->
+<feat xlink:href="#line_3" value=" Fui d&apos; un livre faire pensis"/><!--  Fui d' un livre faire pensis -->
+<feat xlink:href="#line_4" value=" De tote l&apos; ymage del monde ,"/><!--  De tote l' ymage del monde , -->
+<feat xlink:href="#line_5" value=" Por quoi et conment a reonde"/><!--  Por quoi et conment a reonde -->
+<feat xlink:href="#line_6" value=" Deus lo forma tot de neant ."/><!--  Deus lo forma tot de neant . -->
+<feat xlink:href="#line_7" value=" Des .vij. ars i mis ausiment ,"/><!--  Des .vij. ars i mis ausiment , -->
+<feat xlink:href="#line_8" value=" Et autre chose , por entendre"/><!--  Et autre chose , por entendre -->
+<feat xlink:href="#line_9" value=" Aucun bon exanple , et aprendre"/><!--  Aucun bon exanple , et aprendre -->
+<feat xlink:href="#line_10" value=" L&apos; estat do monde quex il est ,"/><!--  L' estat do monde quex il est , -->
+<feat xlink:href="#line_11" value=" Coment a Deu plet ou desplest ."/><!--  Coment a Deu plet ou desplest . -->
+<feat xlink:href="#line_12" value=" Si l&apos; ai de latin en romant"/><!--  Si l' ai de latin en romant -->
+<feat xlink:href="#line_13" value=" Conculli por la laie gent ,"/><!--  Conculli por la laie gent , -->
+<feat xlink:href="#line_14" value=" Que tuit latin ne sevent mie ,"/><!--  Que tuit latin ne sevent mie , -->
+<feat xlink:href="#line_15" value=" Dont aprendre puissent clergie ."/><!--  Dont aprendre puissent clergie . -->
+<feat xlink:href="#line_16" value=" Aucuns en trovai en mon tens"/><!--  Aucuns en trovai en mon tens -->
+<feat xlink:href="#line_17" value=" De bon engin et de bon sens"/><!--  De bon engin et de bon sens -->
+<feat xlink:href="#line_18" value=" Qui mains biens aprendre peüssent"/><!--  Qui mains biens aprendre peüssent -->
+<feat xlink:href="#line_19" value=" Ce riens de clergie sceüssent ;"/><!--  Ce riens de clergie sceüssent ; -->
+<feat xlink:href="#line_20" value=" Mains en vi qui demande m&apos; ont"/><!--  Mains en vi qui demande m' ont -->
+<feat xlink:href="#line_21" value=" De la fature de cest mont ,"/><!--  De la fature de cest mont , -->
+<feat xlink:href="#line_22" value=" Sor quoi la terre se tenoit ,"/><!--  Sor quoi la terre se tenoit , -->
+<feat xlink:href="#line_23" value=" Conment li firmamens tornoit ,"/><!--  Conment li firmamens tornoit , -->
+<feat xlink:href="#line_24" value=" Et mainte autre chose sutis"/><!--  Et mainte autre chose sutis -->
+<feat xlink:href="#line_25" value=" Don volentiers fussent apris ;"/><!--  Don volentiers fussent apris ; -->
+<feat xlink:href="#line_26" value=" Ce m&apos; en sui mervilliez sovent"/><!--  Ce m' en sui mervilliez sovent -->
+<feat xlink:href="#line_27" value=" Conment aucune laie gent"/><!--  Conment aucune laie gent -->
+<feat xlink:href="#line_28" value=" Savoient demander tex choses"/><!--  Savoient demander tex choses -->
+<feat xlink:href="#line_29" value=" Qui n&apos; en avoient text ne gloses ."/><!--  Qui n' en avoient text ne gloses . -->
+<feat xlink:href="#line_30" value=" Et li clerc , qui savoir devroient"/><!--  Et li clerc , qui savoir devroient -->
+<feat xlink:href="#line_31" value=" Les biens , por avoir se desvoient ,"/><!--  Les biens , por avoir se desvoient , -->
+<feat xlink:href="#line_32" value=" Ne n&apos; i entendent nes que bestes ;"/><!--  Ne n' i entendent nes que bestes ; -->
+<feat xlink:href="#line_33" value=" Ne sevent fors rongnier lor testes ."/><!--  Ne sevent fors rongnier lor testes . -->
+<feat xlink:href="#line_34" value=" Maint clerc ce font ore haut tondre"/><!--  Maint clerc ce font ore haut tondre -->
+<feat xlink:href="#line_35" value=" Qui petit savroient respondre"/><!--  Qui petit savroient respondre -->
+<feat xlink:href="#line_36" value=" A nul mot de droite clergie ,"/><!--  A nul mot de droite clergie , -->
+<feat xlink:href="#line_37" value=" Com cil qui toz jors ont envie"/><!--  Com cil qui toz jors ont envie -->
+<feat xlink:href="#line_38" value=" De qester rentes et tresors"/><!--  De qester rentes et tresors -->
+<feat xlink:href="#line_39" value=" Qi lor destruit et arme et cors ."/><!--  Qi lor destruit et arme et cors . -->
+<feat xlink:href="#line_40" value=" Ensi sont meint clerc por neant"/><!--  Ensi sont meint clerc por neant -->
+<feat xlink:href="#line_41" value=" Ausi com rude laie gent"/><!--  Ausi com rude laie gent -->
+<feat xlink:href="#line_42" value=" Qui n&apos; ont cure d&apos; autre savoir"/><!--  Qui n' ont cure d' autre savoir -->
+<feat xlink:href="#line_43" value=" Fors toz jors asenbler avoir ."/><!--  Fors toz jors asenbler avoir . -->
+<feat xlink:href="#line_44" value=" Qui clerc senble[nt] sanz avoir lestre ;"/><!--  Qui clerc senble[nt] sanz avoir lestre ; -->
+<feat xlink:href="#line_45" value=" Si ont a droit a nom clergestre ,"/><!--  Si ont a droit a nom clergestre , -->
+<feat xlink:href="#line_46" value=" Car il ne sont ne clerc ne lai ."/><!--  Car il ne sont ne clerc ne lai . -->
+<feat xlink:href="#line_47" value=" D&apos; andous ce sont mis en delai ."/><!--  D' andous ce sont mis en delai . -->
+<feat xlink:href="#line_48" value=" La teste en a la rogneüre ,"/><!--  La teste en a la rogneüre , -->
+<feat xlink:href="#line_49" value=" Mès lor sen sont d&apos; autre nature"/><!--  Mès lor sen sont d' autre nature -->
+<feat xlink:href="#line_50" value=" La rogneüre ne fait mie"/><!--  La rogneüre ne fait mie -->
+<feat xlink:href="#line_51" value=" Lo clerc , ainz lo fait sa clergie :"/><!--  Lo clerc , ainz lo fait sa clergie : -->
+<feat xlink:href="#line_52" value=" Cil est clers qui clergie entent ;"/><!--  Cil est clers qui clergie entent ; -->
+<feat xlink:href="#line_53" value=" La tonsure n&apos; i fait nïant ."/><!--  La tonsure n' i fait nïant . -->
+<feat xlink:href="#line_54" value=" Se tonsure bon clerc fasoit"/><!--  Se tonsure bon clerc fasoit -->
+<feat xlink:href="#line_55" value=" Ja chevols ne me remendroit ,"/><!--  Ja chevols ne me remendroit , -->
+<feat xlink:href="#line_56" value=" Car volentiers les changeroie"/><!--  Car volentiers les changeroie -->
+<feat xlink:href="#line_57" value=" A clergie , se je pouoie ."/><!--  A clergie , se je pouoie . -->
+<feat xlink:href="#line_58" value=" Por senz avoir fu li hom faiz ,"/><!--  Por senz avoir fu li hom faiz , -->
+<feat xlink:href="#line_59" value=" Q&apos; il seüt entendre ses faiz ,"/><!--  Q' il seüt entendre ses faiz , -->
+<feat xlink:href="#line_60" value=" Dont vint , qex est , q&apos; il devenra"/><!--  Dont vint , qex est , q' il devenra -->
+<feat xlink:href="#line_61" value=" Qant de cest siecle partira ;"/><!--  Qant de cest siecle partira ; -->
+<feat xlink:href="#line_62" value=" Dont nus ne puet avoir rason"/><!--  Dont nus ne puet avoir rason -->
+<feat xlink:href="#line_63" value=" Se par senz de clergie non ."/><!--  Se par senz de clergie non . -->
+<feat xlink:href="#line_64" value=" Clers dit autretant conme sages ,"/><!--  Clers dit autretant conme sages , -->
+<feat xlink:href="#line_65" value=" Mais or est autres li usages :"/><!--  Mais or est autres li usages : -->
+<feat xlink:href="#line_66" value=" Qui la teste a palée en som ,"/><!--  Qui la teste a palée en som , -->
+<feat xlink:href="#line_67" value=" Si cuide avoir de clerc lo nom ,"/><!--  Si cuide avoir de clerc lo nom , -->
+<feat xlink:href="#line_68" value=" Don li nons lor fait sovent honte ,"/><!--  Don li nons lor fait sovent honte , -->
+<feat xlink:href="#line_69" value=" Car a moins ire au cuer en monte"/><!--  Car a moins ire au cuer en monte -->
+<feat xlink:href="#line_70" value=" Qant .j. lais hom clers les apele ."/><!--  Qant .j. lais hom clers les apele . -->
+<feat xlink:href="#line_71" value=" Si oient enviz teil novele ,"/><!--  Si oient enviz teil novele , -->
+<feat xlink:href="#line_72" value=" Et si ne sevent por quoi c&apos; est"/><!--  Et si ne sevent por quoi c' est -->
+<feat xlink:href="#line_73" value=" Q&apos; il lor desplait , mais il lor nest"/><!--  Q' il lor desplait , mais il lor nest -->
+<feat xlink:href="#line_74" value=" De nature qui paz ne doit"/><!--  De nature qui paz ne doit -->
+<feat xlink:href="#line_75" value=" Voloir chose ou ele n&apos; ait droit ."/><!--  Voloir chose ou ele n' ait droit . -->
+<feat xlink:href="#line_76" value=" Ce clerc estoient par rason ,"/><!--  Ce clerc estoient par rason , -->
+<feat xlink:href="#line_77" value=" Ja honte n&apos; avroient dou non ."/><!--  Ja honte n' avroient dou non . -->
+<feat xlink:href="#line_78" value=" Clers est li plus haus nons qui soit"/><!--  Clers est li plus haus nons qui soit -->
+<feat xlink:href="#line_79" value=" A home qui lo sens avroit ,"/><!--  A home qui lo sens avroit , -->
+<feat xlink:href="#line_80" value=" Mais la folie q&apos; en oux est"/><!--  Mais la folie q' en oux est -->
+<feat xlink:href="#line_81" value=" Lor fait que li nons lor desplest ."/><!--  Lor fait que li nons lor desplest . -->
+<feat xlink:href="#line_82" value=" Qui lo droit fol apele sage"/><!--  Qui lo droit fol apele sage -->
+<feat xlink:href="#line_83" value=" Se li reprueve son folage ;"/><!--  Se li reprueve son folage ; -->
+<feat xlink:href="#line_84" value=" Ausi qui clerc l&apos; ome a tort clame ,"/><!--  Ausi qui clerc l' ome a tort clame , -->
+<feat xlink:href="#line_85" value=" Triste en est la non sachanz arme ."/><!--  Triste en est la non sachanz arme . -->
+<feat xlink:href="#line_86" value=" Qui rien n&apos; aprent nul bien ne seit ,"/><!--  Qui rien n' aprent nul bien ne seit , -->
+<feat xlink:href="#line_87" value=" Por quoi toute science het ."/><!--  Por quoi toute science het . -->
+<feat xlink:href="#line_88" value=" Ment sont qui blasment autrui bien"/><!--  Ment sont qui blasment autrui bien -->
+<feat xlink:href="#line_89" value=" Por quoi ? q&apos; il nen entendent rien"/><!--  Por quoi ? q' il nen entendent rien -->
+<feat xlink:href="#line_90" value=" Ce q&apos; il cuident savoir , ce prisent ,"/><!--  Ce q' il cuident savoir , ce prisent , -->
+<feat xlink:href="#line_91" value=" Et ce q&apos; il ne sevent desprisent"/><!--  Et ce q' il ne sevent desprisent -->
+<feat xlink:href="#line_92" value=" Por excuser lor non savoir"/><!--  Por excuser lor non savoir -->
+<feat xlink:href="#line_93" value=" Blament plusor autrui savoir ;"/><!--  Blament plusor autrui savoir ; -->
+<feat xlink:href="#line_94" value=" Mès cil qui desprise autrui bien"/><!--  Mès cil qui desprise autrui bien -->
+<feat xlink:href="#line_95" value=" Prueve tantost q&apos; il ne seit rien ,"/><!--  Prueve tantost q' il ne seit rien , -->
+<feat xlink:href="#line_96" value=" Car nus hom ne puet chose aprendre"/><!--  Car nus hom ne puet chose aprendre -->
+<feat xlink:href="#line_97" value=" Ou aucun bien ne puisse aprendre ."/><!--  Ou aucun bien ne puisse aprendre . -->
+<feat xlink:href="#line_98" value=" Uns rois d&apos; Egipte qui ot nom"/><!--  Uns rois d' Egipte qui ot nom -->
+<feat xlink:href="#line_99" value=" Tholomex , clers de haut renom ,"/><!--  Tholomex , clers de haut renom , -->
+<feat xlink:href="#line_100" value=" Escrit en .j. livre q&apos; il fist"/><!--  Escrit en .j. livre q' il fist -->
+<feat xlink:href="#line_101" value=" Paroles teles ou il dist :"/><!--  Paroles teles ou il dist : -->
+<feat xlink:href="#line_102" value=" Bien s&apos; antent qui sa langue tient"/><!--  Bien s' antent qui sa langue tient -->
+<feat xlink:href="#line_103" value=" Fors qant de Dieu parler convient ."/><!--  Fors qant de Dieu parler convient . -->
+<feat xlink:href="#line_104" value=" Fox est qui n&apos; entent son pooir ,"/><!--  Fox est qui n' entent son pooir , -->
+<feat xlink:href="#line_105" value=" Qex il est et q&apos; il puet valoir ."/><!--  Qex il est et q' il puet valoir . -->
+<feat xlink:href="#line_106" value=" Li hom q&apos; a soi meïsme plait"/><!--  Li hom q' a soi meïsme plait -->
+<feat xlink:href="#line_107" value=" A Deu et a monde desplait ."/><!--  A Deu et a monde desplait . -->
+<feat xlink:href="#line_108" value=" En mal sofrir doies entendre"/><!--  En mal sofrir doies entendre -->
+<feat xlink:href="#line_109" value=" Purgement des biens Deu atendre ."/><!--  Purgement des biens Deu atendre . -->
+<feat xlink:href="#line_110" value=" Conpainz a bon entendement"/><!--  Conpainz a bon entendement -->
+<feat xlink:href="#line_111" value=" Est cil qui volentiers aprent ."/><!--  Est cil qui volentiers aprent . -->
+<feat xlink:href="#line_112" value=" N&apos; est mie mors qui bien raconte ,"/><!--  N' est mie mors qui bien raconte , -->
+<feat xlink:href="#line_113" value=" Ne cil povres qui sen senz donte ."/><!--  Ne cil povres qui sen senz donte . -->
+<feat xlink:href="#line_114" value=" Qui plus s&apos; umelie entre sages"/><!--  Qui plus s' umelie entre sages -->
+<feat xlink:href="#line_115" value=" Plus i aprent de bons usages ."/><!--  Plus i aprent de bons usages . -->
+<feat xlink:href="#line_116" value=" N&apos; aies cure de rason rendre"/><!--  N' aies cure de rason rendre -->
+<feat xlink:href="#line_117" value=" Fors cex qu&apos; a toi quierent aprendre ."/><!--  Fors cex qu' a toi quierent aprendre . -->
+<feat xlink:href="#line_118" value=" Petite maisons a po terre ,"/><!--  Petite maisons a po terre , -->
+<feat xlink:href="#line_119" value=" Mendre dolor et maindre guerre ."/><!--  Mendre dolor et maindre guerre . -->
+<feat xlink:href="#line_120" value=" Plus liez doies estre de taire"/><!--  Plus liez doies estre de taire -->
+<feat xlink:href="#line_121" value=" .J. mal que d&apos; un bien a retraire ."/><!--  .J. mal que d' un bien a retraire . -->
+<feat xlink:href="#line_122" value=" Iriez te garde de pechier ,"/><!--  Iriez te garde de pechier , -->
+<feat xlink:href="#line_123" value=" Au feble t&apos; espargne a vengier ."/><!--  Au feble t' espargne a vengier . -->
+<feat xlink:href="#line_124" value=" Li sages hom ne li decreit"/><!--  Li sages hom ne li decreit -->
+<feat xlink:href="#line_125" value=" Ne revelent paz lor secreit ."/><!--  Ne revelent paz lor secreit . -->
+<feat xlink:href="#line_126" value=" Qui ne se chastie d&apos; autrui"/><!--  Qui ne se chastie d' autrui -->
+<feat xlink:href="#line_127" value=" Autres se chastie de lui ."/><!--  Autres se chastie de lui . -->
+<feat xlink:href="#line_128" value=" Sexultez sole oste dolor"/><!--  Sexultez sole oste dolor -->
+<feat xlink:href="#line_129" value=" Et confors tout tote paor ."/><!--  Et confors tout tote paor . -->
+<feat xlink:href="#line_130" value=" Qui de cest monde a meins de cure ,"/><!--  Qui de cest monde a meins de cure , -->
+<feat xlink:href="#line_131" value=" Cil est de plus haute nature ."/><!--  Cil est de plus haute nature . -->
+<feat xlink:href="#line_132" value=" L&apos; enviex senble que li biens"/><!--  L' enviex senble que li biens -->
+<feat xlink:href="#line_133" value=" C&apos; om done autrui soit li siens biens ."/><!--  C' om done autrui soit li siens biens . -->
+<feat xlink:href="#line_134" value=" Qui de science se sorcuide"/><!--  Qui de science se sorcuide -->
+<feat xlink:href="#line_135" value=" De sapience son sens vuide ;"/><!--  De sapience son sens vuide ; -->
+<feat xlink:href="#line_136" value=" Qui plus en digneté s&apos; alieve ,"/><!--  Qui plus en digneté s' alieve , -->
+<feat xlink:href="#line_137" value=" Qant ele li faut plus li grieve ."/><!--  Qant ele li faut plus li grieve . -->
+<feat xlink:href="#line_138" value=" Porpenz est clers de verité ,"/><!--  Porpenz est clers de verité , -->
+<feat xlink:href="#line_139" value=" Car qant li hom s&apos; a porpensé"/><!--  Car qant li hom s' a porpensé -->
+<feat xlink:href="#line_140" value=" De dire chose q&apos; il ne doit ,"/><!--  De dire chose q' il ne doit , -->
+<feat xlink:href="#line_141" value=" Tantost conest et aparçoit"/><!--  Tantost conest et aparçoit -->
+<feat xlink:href="#line_142" value=" La verité de son afaire"/><!--  La verité de son afaire -->
+<feat xlink:href="#line_143" value=" Que sa folie li fait faire ."/><!--  Que sa folie li fait faire . -->
+<feat xlink:href="#line_144" value=" Li fox vuet toz jors desprisier"/><!--  Li fox vuet toz jors desprisier -->
+<feat xlink:href="#line_145" value=" Ce dont il ne ce sceit aidier ."/><!--  Ce dont il ne ce sceit aidier . -->
+<feat xlink:href="#line_146" value=" Qui la chose blasme ne prise"/><!--  Qui la chose blasme ne prise -->
+<feat xlink:href="#line_147" value=" Ancois q&apos; il en ait rien aprise ,"/><!--  Ancois q' il en ait rien aprise , -->
+<feat xlink:href="#line_148" value=" Nuns ne l&apos; en doit croire de rien ,"/><!--  Nuns ne l' en doit croire de rien , -->
+<feat xlink:href="#line_149" value=" Car il n&apos; en seit ne mal ne bien . —"/><!--  Car il n' en seit ne mal ne bien . — -->
+<feat xlink:href="#line_150" value=" Por ce volons ici prover"/><!--  Por ce volons ici prover -->
+<feat xlink:href="#line_151" value=" Et rasenablement mostrer"/><!--  Et rasenablement mostrer -->
+<feat xlink:href="#line_152" value=" Les qex sciences millors sont"/><!--  Les qex sciences millors sont -->
+<feat xlink:href="#line_153" value=" Por conestre Deu et lo mont ;"/><!--  Por conestre Deu et lo mont ; -->
+<feat xlink:href="#line_154" value=" Si di que science des choses"/><!--  Si di que science des choses -->
+<feat xlink:href="#line_155" value=" Dont on ne puet changier les gloses"/><!--  Dont on ne puet changier les gloses -->
+<feat xlink:href="#line_156" value=" N&apos; entendre en diverses sentences"/><!--  N' entendre en diverses sentences -->
+<feat xlink:href="#line_157" value=" Sont les plus veraies sciences ."/><!--  Sont les plus veraies sciences . -->
+<feat xlink:href="#line_158" value=" Les choses do ciel ne se muent :"/><!--  Les choses do ciel ne se muent : -->
+<feat xlink:href="#line_159" value=" Adèz se tienent et conduient"/><!--  Adèz se tienent et conduient -->
+<feat xlink:href="#line_160" value=" En lor droit cours naturelment"/><!--  En lor droit cours naturelment -->
+<feat xlink:href="#line_161" value=" Sanz changier lor ordenement ,"/><!--  Sanz changier lor ordenement , -->
+<feat xlink:href="#line_162" value=" Donc di je par ceste rason"/><!--  Donc di je par ceste rason -->
+<feat xlink:href="#line_163" value=" Que science qui a lo nom"/><!--  Que science qui a lo nom -->
+<feat xlink:href="#line_164" value=" Des choses dou ciel a enqerre"/><!--  Des choses dou ciel a enqerre -->
+<feat xlink:href="#line_165" value=" Vaut miex que des choses de terre ."/><!--  Vaut miex que des choses de terre . -->
+<feat xlink:href="#line_166" value=" Cies , estoiles , lune , soleas ,"/><!--  Cies , estoiles , lune , soleas , -->
+<feat xlink:href="#line_167" value=" Tant cum endroit soi valent meas"/><!--  Tant cum endroit soi valent meas -->
+<feat xlink:href="#line_168" value=" Que terre ne choses terriennes ,"/><!--  Que terre ne choses terriennes , -->
+<feat xlink:href="#line_169" value=" Tant sont millors et plus certenes"/><!--  Tant sont millors et plus certenes -->
+<feat xlink:href="#line_170" value=" Les sciences qui d&apos; eles issent ,"/><!--  Les sciences qui d' eles issent , -->
+<feat xlink:href="#line_171" value=" Car plus prèz de Deu ce fenissent ."/><!--  Car plus prèz de Deu ce fenissent . -->
+<feat xlink:href="#line_172" value=" Des choses qui de tens en tens"/><!--  Des choses qui de tens en tens -->
+<feat xlink:href="#line_173" value=" Se remuent en divers sens ,"/><!--  Se remuent en divers sens , -->
+<feat xlink:href="#line_174" value=" N&apos; avra l&apos; en jai vraie science ,"/><!--  N' avra l' en jai vraie science , -->
+<feat xlink:href="#line_175" value=" Fors que conjecture et cuidence ."/><!--  Fors que conjecture et cuidence . -->
+<feat xlink:href="#line_176" value=" Par science qui est estable"/><!--  Par science qui est estable -->
+<feat xlink:href="#line_177" value=" Vient l&apos; en a chose veritable ,"/><!--  Vient l' en a chose veritable , -->
+<feat xlink:href="#line_178" value=" Et par veritei solement"/><!--  Et par veritei solement -->
+<feat xlink:href="#line_179" value=" Conest l&apos; en Deu , non autrement ."/><!--  Conest l' en Deu , non autrement . -->
+<feat xlink:href="#line_180" value=" Par lo ciel dont clergie habonde"/><!--  Par lo ciel dont clergie habonde -->
+<feat xlink:href="#line_181" value=" Conest l&apos; on lo pooir do monde ."/><!--  Conest l' on lo pooir do monde . -->
+<feat xlink:href="#line_182" value=" Qui miex conest do monde l&apos; us"/><!--  Qui miex conest do monde l' us -->
+<feat xlink:href="#line_183" value=" Meins lo prise et Deu aime plus ,"/><!--  Meins lo prise et Deu aime plus , -->
+<feat xlink:href="#line_184" value=" Mais qui teil science avoir vuet ,"/><!--  Mais qui teil science avoir vuet , -->
+<feat xlink:href="#line_185" value=" La grace Deu avoir estuet ;"/><!--  La grace Deu avoir estuet ; -->
+<feat xlink:href="#line_186" value=" Dont l&apos; en voit sovent plusor gent"/><!--  Dont l' en voit sovent plusor gent -->
+<feat xlink:href="#line_187" value=" Q&apos; aucune fois i metent tant"/><!--  Q' aucune fois i metent tant -->
+<feat xlink:href="#line_188" value=" Por aucune clergie aprendre ,"/><!--  Por aucune clergie aprendre , -->
+<feat xlink:href="#line_189" value=" Et qant ne la puent entendre ,"/><!--  Et qant ne la puent entendre , -->
+<feat xlink:href="#line_190" value=" Ou q&apos; il ne gaaignent avoir"/><!--  Ou q' il ne gaaignent avoir -->
+<feat xlink:href="#line_191" value=" Si la lassent par non savoir"/><!--  Si la lassent par non savoir -->
+<feat xlink:href="#line_192" value=" Et l&apos; enconmencent a blasmer"/><!--  Et l' enconmencent a blasmer -->
+<feat xlink:href="#line_193" value=" Por lor negligence excuser ."/><!--  Por lor negligence excuser . -->
+<feat xlink:href="#line_194" value=" Ensi lassent les bones ars"/><!--  Ensi lassent les bones ars -->
+<feat xlink:href="#line_195" value=" Et font ausi conme Renars"/><!--  Et font ausi conme Renars -->
+<feat xlink:href="#line_196" value=" Qui au fruit ne pot avenir ,"/><!--  Qui au fruit ne pot avenir , -->
+<feat xlink:href="#line_197" value=" Si l&apos; enconmença a laidir ."/><!--  Si l' enconmença a laidir . -->
+<feat xlink:href="#line_198" value=" Por les hauz homes ça arriere"/><!--  Por les hauz homes ça arriere -->
+<feat xlink:href="#line_199" value=" Qui furent de bone meniere"/><!--  Qui furent de bone meniere -->
+<feat xlink:href="#line_200" value=" Furent trovées les clergies ,"/><!--  Furent trovées les clergies , -->
+<feat xlink:href="#line_201" value=" Et por eax sont or avillies ,"/><!--  Et por eax sont or avillies , -->
+<feat xlink:href="#line_202" value=" Car cil qui ont pooir d&apos; aprendre"/><!--  Car cil qui ont pooir d' aprendre -->
+<feat xlink:href="#line_203" value=" N&apos; i vuelent penser ne entendre ."/><!--  N' i vuelent penser ne entendre . -->
+<feat xlink:href="#line_204" value=" Tant béent aus choses terriennes"/><!--  Tant béent aus choses terriennes -->
+<feat xlink:href="#line_205" value=" Q&apos; il perdent les celestiennes ,"/><!--  Q' il perdent les celestiennes , -->
+<feat xlink:href="#line_206" value=" Dont il atendent mal merite ,"/><!--  Dont il atendent mal merite , -->
+<feat xlink:href="#line_207" value=" Ce Damedex nes en aquite ."/><!--  Ce Damedex nes en aquite . -->
+<feat xlink:href="#line_208" value=" Ja sens rudes ne sens vilains"/><!--  Ja sens rudes ne sens vilains -->
+<feat xlink:href="#line_209" value=" Ne quiert beer fors q&apos; aloux vains ."/><!--  Ne quiert beer fors q' aloux vains . -->
+<feat xlink:href="#line_210" value=" Aucun dient que c&apos; est folie"/><!--  Aucun dient que c' est folie -->
+<feat xlink:href="#line_211" value=" De metre son sens en clergie ,"/><!--  De metre son sens en clergie , -->
+<feat xlink:href="#line_212" value=" Mais tuit venront a mal esploit"/><!--  Mais tuit venront a mal esploit -->
+<feat xlink:href="#line_213" value=" Com cil cui diables deçoit"/><!--  Com cil cui diables deçoit -->
+<feat xlink:href="#line_214" value=" Qui ce peinne dou cuer enbler"/><!--  Qui ce peinne dou cuer enbler -->
+<feat xlink:href="#line_215" value=" Des gens por richesce mostrer ,"/><!--  Des gens por richesce mostrer , -->
+<feat xlink:href="#line_216" value=" Tant lor mostre de cez rasons"/><!--  Tant lor mostre de cez rasons -->
+<feat xlink:href="#line_217" value=" Que pou trueve om religions :"/><!--  Que pou trueve om religions : -->
+<feat xlink:href="#line_218" value=" Qui ne soient si mal baillies"/><!--  Qui ne soient si mal baillies -->
+<feat xlink:href="#line_219" value=" Que tuit béent avoir baillies"/><!--  Que tuit béent avoir baillies -->
+<feat xlink:href="#line_220" value=" Qui tot avoient clamei quite ;"/><!--  Qui tot avoient clamei quite ; -->
+<feat xlink:href="#line_221" value=" Mès la chose malement quite"/><!--  Mès la chose malement quite -->
+<feat xlink:href="#line_222" value=" Q&apos; après recort , com li chiens fait"/><!--  Q' après recort , com li chiens fait -->
+<feat xlink:href="#line_223" value=" Q&apos; a sa vomite se retrait ."/><!--  Q' a sa vomite se retrait . -->
+<feat xlink:href="#line_224" value=" Ensi li diables se peine"/><!--  Ensi li diables se peine -->
+<feat xlink:href="#line_225" value=" Por amor des genz metre en peine ;"/><!--  Por amor des genz metre en peine ; -->
+<feat xlink:href="#line_226" value=" Por ce q&apos; il voit que il lor plest ,"/><!--  Por ce q' il voit que il lor plest , -->
+<feat xlink:href="#line_227" value=" Si les multeplie et acrest ;"/><!--  Si les multeplie et acrest ; -->
+<feat xlink:href="#line_228" value=" Por ce q&apos; il les [vuet] traire a soi"/><!--  Por ce q' il les [vuet] traire a soi -->
+<feat xlink:href="#line_229" value=" Por destruire la sainte loi ,"/><!--  Por destruire la sainte loi , -->
+<feat xlink:href="#line_230" value=" Dont Deus sofri mort et dolor"/><!--  Dont Deus sofri mort et dolor -->
+<feat xlink:href="#line_231" value=" Por rendre a nos joie et honor ."/><!--  Por rendre a nos joie et honor . -->
+<feat xlink:href="#line_232" value=" Povres fu por doner example"/><!--  Povres fu por doner example -->
+<feat xlink:href="#line_233" value=" Et prechoit sovent enz el tenple ,"/><!--  Et prechoit sovent enz el tenple , -->
+<feat xlink:href="#line_234" value=" Et mostroit par faiz et par dis"/><!--  Et mostroit par faiz et par dis -->
+<feat xlink:href="#line_235" value=" Que jamès n&apos; avra paradis"/><!--  Que jamès n' avra paradis -->
+<feat xlink:href="#line_236" value=" Ne les joies celestienes"/><!--  Ne les joies celestienes -->
+<feat xlink:href="#line_237" value=" Qui aime richesces terrienes ;"/><!--  Qui aime richesces terrienes ; -->
+<feat xlink:href="#line_238" value=" Toz jors en oions les paroles ,"/><!--  Toz jors en oions les paroles , -->
+<feat xlink:href="#line_239" value=" Mais nès prisons nès que frivoles ,"/><!--  Mais nès prisons nès que frivoles , -->
+<feat xlink:href="#line_240" value=" Car nos fasons tot le contrare"/><!--  Car nos fasons tot le contrare -->
+<feat xlink:href="#line_241" value=" De ce qu&apos; il nos ensegne a faire ."/><!--  De ce qu' il nos ensegne a faire . -->
+<feat xlink:href="#line_242" value=" Por nos vot povres et vils estre ,"/><!--  Por nos vot povres et vils estre , -->
+<feat xlink:href="#line_243" value=" Mais or nel vuet nus por lui estre ,"/><!--  Mais or nel vuet nus por lui estre , -->
+<feat xlink:href="#line_244" value=" Tuit ce painent d&apos; els enrechir ,"/><!--  Tuit ce painent d' els enrechir , -->
+<feat xlink:href="#line_245" value=" Por quoi la loi convient fallir ."/><!--  Por quoi la loi convient fallir . -->
+<feat xlink:href="#line_246" value=" Deus nos preeche povretei"/><!--  Deus nos preeche povretei -->
+<feat xlink:href="#line_247" value=" A sofrir par humilitei ,"/><!--  A sofrir par humilitei , -->
+<feat xlink:href="#line_248" value=" Et diables par son desruel"/><!--  Et diables par son desruel -->
+<feat xlink:href="#line_249" value=" Nos preche richesce et orguel ;"/><!--  Nos preche richesce et orguel ; -->
+<feat xlink:href="#line_250" value=" Car por ce q&apos; il seit bien et voit"/><!--  Car por ce q' il seit bien et voit -->
+<feat xlink:href="#line_251" value=" Que la lois fallir ne porroit"/><!--  Que la lois fallir ne porroit -->
+<feat xlink:href="#line_252" value=" Si tost com par amer richesces ,"/><!--  Si tost com par amer richesces , -->
+<feat xlink:href="#line_253" value=" Nos en met il en teil destreces ,"/><!--  Nos en met il en teil destreces , -->
+<feat xlink:href="#line_254" value=" Don li Sarrazin dient bien"/><!--  Don li Sarrazin dient bien -->
+<feat xlink:href="#line_255" value=" Que nostre lois ne vaut mais rien"/><!--  Que nostre lois ne vaut mais rien -->
+<feat xlink:href="#line_256" value=" Que nos tenons de Jhesu Crist ,"/><!--  Que nos tenons de Jhesu Crist , -->
+<feat xlink:href="#line_257" value=" Qi povres fu , et si nos dist"/><!--  Qi povres fu , et si nos dist -->
+<feat xlink:href="#line_258" value=" Et nos conmande povres estre"/><!--  Et nos conmande povres estre -->
+<feat xlink:href="#line_259" value=" Por lui , et ce nel vuet nus estre ."/><!--  Por lui , et ce nel vuet nus estre . -->
+<feat xlink:href="#line_260" value=" Ensi dient li Sarrazin"/><!--  Ensi dient li Sarrazin -->
+<feat xlink:href="#line_261" value=" De nos conme malvais vesin ."/><!--  De nos conme malvais vesin . -->
+<feat xlink:href="#line_262" value=" L&apos; en ne puet la chose desfare"/><!--  L' en ne puet la chose desfare -->
+<feat xlink:href="#line_263" value=" Si tost conme par son contrare ;"/><!--  Si tost conme par son contrare ; -->
+<feat xlink:href="#line_264" value=" Nule chose si tost n&apos; esteint"/><!--  Nule chose si tost n' esteint -->
+<feat xlink:href="#line_265" value=" Lo feu com l&apos; ewe , et bien remaint"/><!--  Lo feu com l' ewe , et bien remaint -->
+<feat xlink:href="#line_266" value=" Par mal faire , ce est droiture ,"/><!--  Par mal faire , ce est droiture , -->
+<feat xlink:href="#line_267" value=" Car contrare sont par nature ."/><!--  Car contrare sont par nature . -->
+<feat xlink:href="#line_268" value=" Par mençonge et par vanitei"/><!--  Par mençonge et par vanitei -->
+<feat xlink:href="#line_269" value=" Lasse on enquerre veritei ."/><!--  Lasse on enquerre veritei . -->
+<feat xlink:href="#line_270" value=" Por ce li diables por voir"/><!--  Por ce li diables por voir -->
+<feat xlink:href="#line_271" value=" Nos fait covoitier teil avoir"/><!--  Nos fait covoitier teil avoir -->
+<feat xlink:href="#line_272" value=" Qui a neant revient toz tens ,"/><!--  Qui a neant revient toz tens , -->
+<feat xlink:href="#line_273" value=" Dont a meins troble si les sens"/><!--  Dont a meins troble si les sens -->
+<feat xlink:href="#line_274" value=" Que rien n&apos; entendent vers lor mort ."/><!--  Que rien n' entendent vers lor mort . -->
+<feat xlink:href="#line_275" value=" Maint sont ore dampné et mort"/><!--  Maint sont ore dampné et mort -->
+<feat xlink:href="#line_276" value=" Qui peüssent estre salvei"/><!--  Qui peüssent estre salvei -->
+<feat xlink:href="#line_277" value=" S&apos; il entendissent veritei ."/><!--  S' il entendissent veritei . -->
+<feat xlink:href="#line_278" value=" Mais clergie perit si toute"/><!--  Mais clergie perit si toute -->
+<feat xlink:href="#line_279" value=" Que les genz ne voient mais goute ."/><!--  Que les genz ne voient mais goute . -->
+<feat xlink:href="#line_280" value=" Se l&apos; en autant estudioit"/><!--  Se l' en autant estudioit -->
+<feat xlink:href="#line_281" value=" De toz les biens c&apos; om puet savoir …"/><!--  De toz les biens c' om puet savoir … -->
+<feat xlink:href="#line_282" value=" Por amor de ces ancessors ,"/><!--  Por amor de ces ancessors , -->
+<feat xlink:href="#line_283" value=" Dont li miedres fu S. Arnous"/><!--  Dont li miedres fu S. Arnous -->
+<feat xlink:href="#line_284" value=" Qui de France s&apos; en vint a Mèz"/><!--  Qui de France s' en vint a Mèz -->
+<feat xlink:href="#line_285" value=" Dont il fu puis evesqez fèz ."/><!--  Dont il fu puis evesqez fèz . -->
+<feat xlink:href="#line_286" value=" De lui tienent li roi de France"/><!--  De lui tienent li roi de France -->
+<feat xlink:href="#line_287" value=" Religiose contenance"/><!--  Religiose contenance -->
+<feat xlink:href="#line_288" value=" Et de lui lor lignie traient ;"/><!--  Et de lui lor lignie traient ; -->
+<feat xlink:href="#line_289" value=" Si est rasons q&apos; il i retraient ,"/><!--  Si est rasons q' il i retraient , -->
+<feat xlink:href="#line_290" value=" Car santismes hom fu toz dis ."/><!--  Car santismes hom fu toz dis . -->
+<feat xlink:href="#line_291" value=" Cil Arnous engendra Anchis"/><!--  Cil Arnous engendra Anchis -->
+<feat xlink:href="#line_292" value=" Qui fu larges vers povre genz ;"/><!--  Qui fu larges vers povre genz ; -->
+<feat xlink:href="#line_293" value=" De celui vint Pepins li granz ,"/><!--  De celui vint Pepins li granz , -->
+<feat xlink:href="#line_294" value=" De grant sen plains et de vertus ;"/><!--  De grant sen plains et de vertus ; -->
+<feat xlink:href="#line_295" value=" De lui issi Charles li duz"/><!--  De lui issi Charles li duz -->
+<feat xlink:href="#line_296" value=" Qui de proesce ot si grant nom"/><!--  Qui de proesce ot si grant nom -->
+<feat xlink:href="#line_297" value=" Qu&apos; a roi l&apos; eslurent li baron ."/><!--  Qu' a roi l' eslurent li baron . -->
+<feat xlink:href="#line_298" value=" De lui vint li petis Pepins ,"/><!--  De lui vint li petis Pepins , -->
+<feat xlink:href="#line_299" value=" Li prouz rois vertuox et fins"/><!--  Li prouz rois vertuox et fins -->
+<feat xlink:href="#line_300" value=" Q&apos; engendra lo bon Charlemene ,"/><!--  Q' engendra lo bon Charlemene , -->
+<feat xlink:href="#line_301" value=" Qui l&apos; arme et la memoire ot plene ."/><!--  Qui l' arme et la memoire ot plene . -->
+<feat xlink:href="#line_302" value=" De vertuz et de bones mors"/><!--  De vertuz et de bones mors -->
+<feat xlink:href="#line_303" value=" Resenbla touz ces ancessozs ;"/><!--  Resenbla touz ces ancessozs ; -->
+<feat xlink:href="#line_304" value=" Estrange gent molt honoroit"/><!--  Estrange gent molt honoroit -->
+<feat xlink:href="#line_305" value=" Et as povres grant bien fasoit ."/><!--  Et as povres grant bien fasoit . -->
+<feat xlink:href="#line_306" value=" Grans fu et fors , de grant valor ,"/><!--  Grans fu et fors , de grant valor , -->
+<feat xlink:href="#line_307" value=" .VII. de ces piez ot de longor ,"/><!--  .VII. de ces piez ot de longor , -->
+<feat xlink:href="#line_308" value=" Don pou trueve l&apos; en nule genz"/><!--  Don pou trueve l' en nule genz -->
+<feat xlink:href="#line_309" value=" Qui .vij. de lor piez soient grant ;"/><!--  Qui .vij. de lor piez soient grant ; -->
+<feat xlink:href="#line_310" value=" Groz ielz , lonc neix , molt biax chevus ,"/><!--  Groz ielz , lonc neix , molt biax chevus , -->
+<feat xlink:href="#line_311" value=" Viare lé , bel chief desus ,"/><!--  Viare lé , bel chief desus , -->
+<feat xlink:href="#line_312" value=" Egals de menbres , clere voix ,"/><!--  Egals de menbres , clere voix , -->
+<feat xlink:href="#line_313" value=" Sains de cors ; fors , .iiij. ans ançois"/><!--  Sains de cors ; fors , .iiij. ans ançois -->
+<feat xlink:href="#line_314" value=" Q&apos; il fust mors , l&apos; orent travillié"/><!--  Q' il fust mors , l' orent travillié -->
+<feat xlink:href="#line_315" value=" Fievres tant qu&apos; il clocha d&apos; un pié ."/><!--  Fievres tant qu' il clocha d' un pié . -->
+<feat xlink:href="#line_316" value=" Petit creoit phisiciens ,"/><!--  Petit creoit phisiciens , -->
+<feat xlink:href="#line_317" value=" Plus amoit astronomiens ;"/><!--  Plus amoit astronomiens ; -->
+<feat xlink:href="#line_318" value=" Sovent chevauchoit et chaçoit"/><!--  Sovent chevauchoit et chaçoit -->
+<feat xlink:href="#line_319" value=" En bois , et molt se delitoit"/><!--  En bois , et molt se delitoit -->
+<feat xlink:href="#line_320" value=" En riviere et bagnoit sovent ;"/><!--  En riviere et bagnoit sovent ; -->
+<feat xlink:href="#line_321" value=" Del noer passoit tote gent ."/><!--  Del noer passoit tote gent . -->
+<feat xlink:href="#line_322" value=" A Aiz sale et chapele fist ,"/><!--  A Aiz sale et chapele fist , -->
+<feat xlink:href="#line_323" value=" E vers sa fin del tout s&apos; i mist ."/><!--  E vers sa fin del tout s' i mist . -->
+<feat xlink:href="#line_324" value=" En bainz d&apos; Aiz sovent se bagnoit"/><!--  En bainz d' Aiz sovent se bagnoit -->
+<feat xlink:href="#line_325" value=" Et ces amis bagnier fesoit ."/><!--  Et ces amis bagnier fesoit . -->
+<feat xlink:href="#line_326" value=" De peas fu toz jors afublez ,"/><!--  De peas fu toz jors afublez , -->
+<feat xlink:href="#line_327" value=" Piz et espaules , jusq&apos; au lez ."/><!--  Piz et espaules , jusq' au lez . -->
+<feat xlink:href="#line_328" value=" L&apos; espée ceinte adèz aloit ."/><!--  L' espée ceinte adèz aloit . -->
+<feat xlink:href="#line_329" value=" Aus granz festes bien s&apos; aornoit"/><!--  Aus granz festes bien s' aornoit -->
+<feat xlink:href="#line_330" value=" De vesteüres d&apos; or molt chieres"/><!--  De vesteüres d' or molt chieres -->
+<feat xlink:href="#line_331" value=" Et chaucement a riches pieres ,"/><!--  Et chaucement a riches pieres , -->
+<feat xlink:href="#line_332" value=" Corone riche , et cort adèz"/><!--  Corone riche , et cort adèz -->
+<feat xlink:href="#line_333" value=" Molt grant des barons loig et prèz ."/><!--  Molt grant des barons loig et prèz . -->
+<feat xlink:href="#line_334" value=" Tenprez en boivre et en mengier ;"/><!--  Tenprez en boivre et en mengier ; -->
+<feat xlink:href="#line_335" value=" As autres jors a son mengier"/><!--  As autres jors a son mengier -->
+<feat xlink:href="#line_336" value=" Avoit de qatrê mès adès ;"/><!--  Avoit de qatrê mès adès ; -->
+<feat xlink:href="#line_337" value=" Sanz lo rost qui venoit après ."/><!--  Sanz lo rost qui venoit après . -->
+<feat xlink:href="#line_338" value=" Volentiers menjoit veneson ,"/><!--  Volentiers menjoit veneson , -->
+<feat xlink:href="#line_339" value=" Et au mengier li lisoit on"/><!--  Et au mengier li lisoit on -->
+<feat xlink:href="#line_340" value=" Les hystores des anciens"/><!--  Les hystores des anciens -->
+<feat xlink:href="#line_341" value=" Don volentiers oioit les biens ."/><!--  Don volentiers oioit les biens . -->
+<feat xlink:href="#line_342" value=" Pou li avenoit nule fois"/><!--  Pou li avenoit nule fois -->
+<feat xlink:href="#line_343" value=" Boivre au mengier plus de .iij. fois ;"/><!--  Boivre au mengier plus de .iij. fois ; -->
+<feat xlink:href="#line_344" value=" En esté , puis disner , menjoit"/><!--  En esté , puis disner , menjoit -->
+<feat xlink:href="#line_345" value=" Pomes et une fois bevoit ,"/><!--  Pomes et une fois bevoit , -->
+<feat xlink:href="#line_346" value=" Puis reposoit une hore ou dous ."/><!--  Puis reposoit une hore ou dous . -->
+<feat xlink:href="#line_347" value=" Par nuit ce relevoit toz sols"/><!--  Par nuit ce relevoit toz sols -->
+<feat xlink:href="#line_348" value=" Trois fois ou quatre ; a l&apos; esvillier"/><!--  Trois fois ou quatre ; a l' esvillier -->
+<feat xlink:href="#line_349" value=" Toz bestenz fasoit apasier ."/><!--  Toz bestenz fasoit apasier . -->
+<feat xlink:href="#line_350" value=" Bien fu parlans , voisox et sages ,"/><!--  Bien fu parlans , voisox et sages , -->
+<feat xlink:href="#line_351" value=" Et si sot de plusors lengages :"/><!--  Et si sot de plusors lengages : -->
+<feat xlink:href="#line_352" value=" Greu et latin si bien parloit"/><!--  Greu et latin si bien parloit -->
+<feat xlink:href="#line_353" value=" Q&apos; en latin Deu adès oroit ."/><!--  Q' en latin Deu adès oroit . -->
+<feat xlink:href="#line_354" value=" Les ars liberaus molt ama"/><!--  Les ars liberaus molt ama -->
+<feat xlink:href="#line_355" value=" Et toz jors s&apos; i estudia ."/><!--  Et toz jors s' i estudia . -->
+<feat xlink:href="#line_356" value=" Del cours des estoiles savoit ,"/><!--  Del cours des estoiles savoit , -->
+<feat xlink:href="#line_357" value=" Que sor totes riens li plasoit ."/><!--  Que sor totes riens li plasoit . -->
+<feat xlink:href="#line_358" value=" Par nuit s&apos; en relevoit sovent"/><!--  Par nuit s' en relevoit sovent -->
+<feat xlink:href="#line_359" value=" Por encerchier lor errement ,"/><!--  Por encerchier lor errement , -->
+<feat xlink:href="#line_360" value=" Car tex science afïiert a roi ."/><!--  Car tex science afïiert a roi . -->
+<feat xlink:href="#line_361" value=" En sa chambre escrivoit par soi ."/><!--  En sa chambre escrivoit par soi . -->
+<feat xlink:href="#line_362" value=" Tables , livres de sutils sens ,"/><!--  Tables , livres de sutils sens , -->
+<feat xlink:href="#line_363" value=" Qant il en pooit avoir tens ."/><!--  Qant il en pooit avoir tens . -->
+<feat xlink:href="#line_364" value=" Sainte eglise ama dès s&apos; enfance ,"/><!--  Sainte eglise ama dès s' enfance , -->
+<feat xlink:href="#line_365" value=" A toz clers porta reverence ."/><!--  A toz clers porta reverence . -->
+<feat xlink:href="#line_366" value=" L&apos; eglise d&apos; Aiz fist aorner"/><!--  L' eglise d' Aiz fist aorner -->
+<feat xlink:href="#line_367" value=" Richement , et fist amener"/><!--  Richement , et fist amener -->
+<feat xlink:href="#line_368" value=" De Rome ilueques les columpnes"/><!--  De Rome ilueques les columpnes -->
+<feat xlink:href="#line_369" value=" De marbre q&apos; ancor i sont bones ."/><!--  De marbre q' ancor i sont bones . -->
+<feat xlink:href="#line_370" value=" Main et soir on mostier estoit"/><!--  Main et soir on mostier estoit -->
+<feat xlink:href="#line_371" value=" Et a matines relevoit ."/><!--  Et a matines relevoit . -->
+<feat xlink:href="#line_372" value=" Vers povres fu , humles toz dis ,"/><!--  Vers povres fu , humles toz dis , -->
+<feat xlink:href="#line_373" value=" De son regne et d&apos; autre païs ,"/><!--  De son regne et d' autre païs , -->
+<feat xlink:href="#line_374" value=" Par tot lor fesoit molt de biens ."/><!--  Par tot lor fesoit molt de biens . -->
+<feat xlink:href="#line_375" value=" Puis q&apos; il les seüst crestiens ,"/><!--  Puis q' il les seüst crestiens , -->
+<feat xlink:href="#line_376" value=" La pecune lor envoioit ."/><!--  La pecune lor envoioit . -->
+<feat xlink:href="#line_377" value=" Les rois Sarrazins q&apos; il savoit ,"/><!--  Les rois Sarrazins q' il savoit , -->
+<feat xlink:href="#line_378" value=" Qui crestiens avoient soz ex ,"/><!--  Qui crestiens avoient soz ex , -->
+<feat xlink:href="#line_379" value=" Il recevoit l&apos; amor de cex ,"/><!--  Il recevoit l' amor de cex , -->
+<feat xlink:href="#line_380" value=" Q&apos; as crestiens qui soz eax fussent"/><!--  Q' as crestiens qui soz eax fussent -->
+<feat xlink:href="#line_381" value=" Feïssent plus d&apos; amor q&apos; il puissent ."/><!--  Feïssent plus d' amor q' il puissent . -->
+<feat xlink:href="#line_382" value=" Tant ot de biens en Charlemene"/><!--  Tant ot de biens en Charlemene -->
+<feat xlink:href="#line_383" value=" Que nuns lo vos diroit a peine ."/><!--  Que nuns lo vos diroit a peine . -->
+<feat xlink:href="#line_384" value=" Qant il vit que prèz de mort fu"/><!--  Qant il vit que prèz de mort fu -->
+<feat xlink:href="#line_385" value=" Et q&apos; il defailloit de vertu ,"/><!--  Et q' il defailloit de vertu , -->
+<feat xlink:href="#line_386" value=" Si manda son fil Loeïs"/><!--  Si manda son fil Loeïs -->
+<feat xlink:href="#line_387" value=" Et les barons de lor païs ,"/><!--  Et les barons de lor païs , -->
+<feat xlink:href="#line_388" value=" Evesqez , duz et cuens palaiz :"/><!--  Evesqez , duz et cuens palaiz : -->
+<feat xlink:href="#line_389" value=" A Aiz lor dist en son palais"/><!--  A Aiz lor dist en son palais -->
+<feat xlink:href="#line_390" value=" Et amonesta par amor"/><!--  Et amonesta par amor -->
+<feat xlink:href="#line_391" value=" Q&apos; a son fil portassent honor"/><!--  Q' a son fil portassent honor -->
+<feat xlink:href="#line_392" value=" Et li feïssent fealté ."/><!--  Et li feïssent fealté . -->
+<feat xlink:href="#line_393" value=" Petis et granz a demandé"/><!--  Petis et granz a demandé -->
+<feat xlink:href="#line_394" value=" C&apos; il lor plesoit que de son fil"/><!--  C' il lor plesoit que de son fil -->
+<feat xlink:href="#line_395" value=" Feïst empereor , et cil"/><!--  Feïst empereor , et cil -->
+<feat xlink:href="#line_396" value=" De part Deu l&apos; otroient joiant ."/><!--  De part Deu l' otroient joiant . -->
+<feat xlink:href="#line_397" value=" La dimenche après maintenant"/><!--  La dimenche après maintenant -->
+<feat xlink:href="#line_398" value=" Com empereres s&apos; atorna ,"/><!--  Com empereres s' atorna , -->
+<feat xlink:href="#line_399" value=" A la maistre eglise en ala"/><!--  A la maistre eglise en ala -->
+<feat xlink:href="#line_400" value=" Q&apos; il meïsme fondée avoit ;"/><!--  Q' il meïsme fondée avoit ; -->
+<feat xlink:href="#line_401" value=" Desus lo maistre auteil tot droit"/><!--  Desus lo maistre auteil tot droit -->
+<feat xlink:href="#line_402" value=" Fist metre .j. nueve corone ."/><!--  Fist metre .j. nueve corone . -->
+<feat xlink:href="#line_403" value=" Qant orei out , si arasone"/><!--  Qant orei out , si arasone -->
+<feat xlink:href="#line_404" value=" Son fil et ammoneste molt"/><!--  Son fil et ammoneste molt -->
+<feat xlink:href="#line_405" value=" De Damedeu doter par tout"/><!--  De Damedeu doter par tout -->
+<feat xlink:href="#line_406" value=" Et ces conumandemenz garder ,"/><!--  Et ces conumandemenz garder , -->
+<feat xlink:href="#line_407" value=" Et sainte eglise governer ;"/><!--  Et sainte eglise governer ; -->
+<feat xlink:href="#line_408" value=" Ses freres , ses suers , ces nevox ,"/><!--  Ses freres , ses suers , ces nevox , -->
+<feat xlink:href="#line_409" value=" Misericorde avoir vers oux ,"/><!--  Misericorde avoir vers oux , -->
+<feat xlink:href="#line_410" value=" Prestres com peres honorer ,"/><!--  Prestres com peres honorer , -->
+<feat xlink:href="#line_411" value=" Et lo pueple com fils amer ;"/><!--  Et lo pueple com fils amer ; -->
+<feat xlink:href="#line_412" value=" Les orguilloux et les fellons"/><!--  Les orguilloux et les fellons -->
+<feat xlink:href="#line_413" value=" Destrendre as biens et as rasons ,"/><!--  Destrendre as biens et as rasons , -->
+<feat xlink:href="#line_414" value=" Des religions deffenderes ,"/><!--  Des religions deffenderes , -->
+<feat xlink:href="#line_415" value=" Aus povres gens fust com lor peres ,"/><!--  Aus povres gens fust com lor peres , -->
+<feat xlink:href="#line_416" value=" Nului tort faire , et lui meïsme"/><!--  Nului tort faire , et lui meïsme -->
+<feat xlink:href="#line_417" value=" Conestre a Deu q&apos; il n&apos; est pas digne ."/><!--  Conestre a Deu q' il n' est pas digne . -->
+<feat xlink:href="#line_418" value=" Qant ce et autre dit li ot ,"/><!--  Qant ce et autre dit li ot , -->
+<feat xlink:href="#line_419" value=" Oiant le pueple mot a mot"/><!--  Oiant le pueple mot a mot -->
+<feat xlink:href="#line_420" value=" Ce li demenda c&apos; il tenroit"/><!--  Ce li demenda c' il tenroit -->
+<feat xlink:href="#line_421" value=" Ses conmanz et obeïroit ."/><!--  Ses conmanz et obeïroit . -->
+<feat xlink:href="#line_422" value=" Cil dist : « Oïl volentiers , sire ,"/><!--  Cil dist : « Oïl volentiers , sire , -->
+<feat xlink:href="#line_423" value=" « A l&apos; aiue Deu qui tout mire . »"/><!--  « A l' aiue Deu qui tout mire . » -->
+<feat xlink:href="#line_424" value=" A ces comans fare se done ;"/><!--  A ces comans fare se done ; -->
+<feat xlink:href="#line_425" value=" Lors li fait prendre la corone"/><!--  Lors li fait prendre la corone -->
+<feat xlink:href="#line_426" value=" Sor l&apos; auteil et metre en son chief ,"/><!--  Sor l' auteil et metre en son chief , -->
+<feat xlink:href="#line_427" value=" Q&apos; a nul des barons n&apos; en fu grief ."/><!--  Q' a nul des barons n' en fu grief . -->
+<feat xlink:href="#line_428" value=" Cil la prist et fait son conmant"/><!--  Cil la prist et fait son conmant -->
+<feat xlink:href="#line_429" value=" Et met en son chief humlement ."/><!--  Et met en son chief humlement . -->
+<feat xlink:href="#line_430" value=" Aprèz messe el palais s&apos; en vont ."/><!--  Aprèz messe el palais s' en vont . -->
+<feat xlink:href="#line_431" value=" Tuit li baron , grant feste font ."/><!--  Tuit li baron , grant feste font . -->
+<feat xlink:href="#line_432" value=" Li fils tint lo pere en alant"/><!--  Li fils tint lo pere en alant -->
+<feat xlink:href="#line_433" value=" Tant com o lui fu , jusqu&apos; a tant"/><!--  Tant com o lui fu , jusqu' a tant -->
+<feat xlink:href="#line_434" value=" Que li fils ala par la terre"/><!--  Que li fils ala par la terre -->
+<feat xlink:href="#line_435" value=" Por garder de noise et de guerre ,"/><!--  Por garder de noise et de guerre , -->
+<feat xlink:href="#line_436" value=" Et li peres qui demora"/><!--  Et li peres qui demora -->
+<feat xlink:href="#line_437" value=" Lo regne tint tant com dura"/><!--  Lo regne tint tant com dura -->
+<feat xlink:href="#line_438" value=" Et atorna tot son afere"/><!--  Et atorna tot son afere -->
+<feat xlink:href="#line_439" value=" En orer et almosnes fere ."/><!--  En orer et almosnes fere . -->
+<feat xlink:href="#line_440" value=" Les .iiij. ewangelistes fist"/><!--  Les .iiij. ewangelistes fist -->
+<feat xlink:href="#line_441" value=" Amender , ce que chascuns dist ,"/><!--  Amender , ce que chascuns dist , -->
+<feat xlink:href="#line_442" value=" As millors clers q&apos; il pot avoir"/><!--  As millors clers q' il pot avoir -->
+<feat xlink:href="#line_443" value=" Et il ausi par son savoir ."/><!--  Et il ausi par son savoir . -->
+<feat xlink:href="#line_444" value=" .LX. et .xij. ans fu sa vie ,"/><!--  .LX. et .xij. ans fu sa vie , -->
+<feat xlink:href="#line_445" value=" En .lx et .xiij. fenie ;"/><!--  En .lx et .xiij. fenie ; -->
+<feat xlink:href="#line_446" value=" .xlvij. ans fu roi peres"/><!--  .xlvij. ans fu roi peres -->
+<feat xlink:href="#line_447" value=" Et .xiiij. ans fu empereres ."/><!--  Et .xiiij. ans fu empereres . -->
+<feat xlink:href="#line_448" value=" Au lit jut : morir le covint ."/><!--  Au lit jut : morir le covint . -->
+<feat xlink:href="#line_449" value=" Qant a l&apos; ore de la mort vint ,"/><!--  Qant a l' ore de la mort vint , -->
+<feat xlink:href="#line_450" value=" Conme cil qui de loig lo sout ,"/><!--  Conme cil qui de loig lo sout , -->
+<feat xlink:href="#line_451" value=" De teil vertu com avoir pout"/><!--  De teil vertu com avoir pout -->
+<feat xlink:href="#line_452" value=" Signe de croix fist sor son vis ,"/><!--  Signe de croix fist sor son vis , -->
+<feat xlink:href="#line_453" value=" Par tot son cort et sor son pis ,"/><!--  Par tot son cort et sor son pis , -->
+<feat xlink:href="#line_454" value=" Cez braz par sus son piz estent"/><!--  Cez braz par sus son piz estent -->
+<feat xlink:href="#line_455" value=" Les elz clot , corpable se rent"/><!--  Les elz clot , corpable se rent -->
+<feat xlink:href="#line_456" value=" A Deu , et a cest vers sonéz"/><!--  A Deu , et a cest vers sonéz -->
+<feat xlink:href="#line_457" value=" In manus tuas , Domina ,"/><!--  In manus tuas , Domina , -->
+<feat xlink:href="#line_458" value=" Commendo spiritum meum ."/><!--  Commendo spiritum meum . -->
+<feat xlink:href="#line_459" value=" Ensi morut li bons prodom ."/><!--  Ensi morut li bons prodom . -->
+<feat xlink:href="#line_460" value=" Vers la fin de janvier morut ,"/><!--  Vers la fin de janvier morut , -->
+<feat xlink:href="#line_461" value=" Qant li miliares corrut"/><!--  Qant li miliares corrut -->
+<feat xlink:href="#line_462" value=" Par .viij.c ans et .xiij. avec ,"/><!--  Par .viij.c ans et .xiij. avec , -->
+<feat xlink:href="#line_463" value=" Et ce fist enterrer iluec"/><!--  Et ce fist enterrer iluec -->
+<feat xlink:href="#line_464" value=" A Aiz c&apos; om dit a la Chapele ,"/><!--  A Aiz c' om dit a la Chapele , -->
+<feat xlink:href="#line_465" value=" Ou Dex fist mainte vertu bele ;"/><!--  Ou Dex fist mainte vertu bele ; -->
+<feat xlink:href="#line_466" value=" Ancori voit l&apos; en son ymage ,"/><!--  Ancori voit l' en son ymage , -->
+<feat xlink:href="#line_467" value=" Qui faire i vuet pelerinage ."/><!--  Qui faire i vuet pelerinage . -->
+<feat xlink:href="#line_468" value=" Ces fils [qu&apos;] aprèz lui tint lo regne"/><!--  Ces fils [qu'] aprèz lui tint lo regne -->
+<feat xlink:href="#line_469" value=" Gist devant Mez en Loheregne ,"/><!--  Gist devant Mez en Loheregne , -->
+<feat xlink:href="#line_470" value=" A S. Arnol en bel esgart ,"/><!--  A S. Arnol en bel esgart , -->
+<feat xlink:href="#line_471" value=" Et sa mere ausi , Hildegart ,"/><!--  Et sa mere ausi , Hildegart , -->
+<feat xlink:href="#line_472" value=" La premiere femme Charlon ,"/><!--  La premiere femme Charlon , -->
+<feat xlink:href="#line_473" value=" Qui fu de molt saintisme non ;"/><!--  Qui fu de molt saintisme non ; -->
+<feat xlink:href="#line_474" value=" Dont li moine de saint Denis ,"/><!--  Dont li moine de saint Denis , -->
+<feat xlink:href="#line_475" value=" En France des os Loeïs"/><!--  En France des os Loeïs -->
+<feat xlink:href="#line_476" value=" Vorent doner lor dous pois d&apos; or"/><!--  Vorent doner lor dous pois d' or -->
+<feat xlink:href="#line_477" value=" Et plus , mais nes ont pas ancor ."/><!--  Et plus , mais nes ont pas ancor . -->
+<feat xlink:href="#line_478" value=" Cil Loeïs fu molt prodom ,"/><!--  Cil Loeïs fu molt prodom , -->
+<feat xlink:href="#line_479" value=" Del tresor son pere fist don"/><!--  Del tresor son pere fist don -->
+<feat xlink:href="#line_480" value=" La millor part a ces sorors ,"/><!--  La millor part a ces sorors , -->
+<feat xlink:href="#line_481" value=" Et tout lo remenant aillors"/><!--  Et tout lo remenant aillors -->
+<feat xlink:href="#line_482" value=" As povres gens et as eglises"/><!--  As povres gens et as eglises -->
+<feat xlink:href="#line_483" value=" Por l&apos; arme son pere en servises ,"/><!--  Por l' arme son pere en servises , -->
+<feat xlink:href="#line_484" value=" Dont ancor est servises fèz"/><!--  Dont ancor est servises fèz -->
+<feat xlink:href="#line_485" value=" Chasc&apos; an a S. Estene a Mez ."/><!--  Chasc' an a S. Estene a Mez . -->
+<feat xlink:href="#line_486" value=" Tot dona et en fist meins biens ,"/><!--  Tot dona et en fist meins biens , -->
+<feat xlink:href="#line_487" value=" Si c&apos; onqez ne l&apos; en remest riens ,"/><!--  Si c' onqez ne l' en remest riens , -->
+<feat xlink:href="#line_488" value=" Fors une table d&apos; argent clere"/><!--  Fors une table d' argent clere -->
+<feat xlink:href="#line_489" value=" Q&apos; il retint por l&apos; amor son pere ,"/><!--  Q' il retint por l' amor son pere , -->
+<feat xlink:href="#line_490" value=" A .iij. costez faite , sanz plus ,"/><!--  A .iij. costez faite , sanz plus , -->
+<feat xlink:href="#line_491" value=" Joignanz si com par .iij. escus ."/><!--  Joignanz si com par .iij. escus . -->
+<feat xlink:href="#line_492" value=" Et rendi por Deu autretant"/><!--  Et rendi por Deu autretant -->
+<feat xlink:href="#line_493" value=" Com l&apos; en prisoit l&apos; uevre et l&apos; argent ,"/><!--  Com l' en prisoit l' uevre et l' argent , -->
+<feat xlink:href="#line_494" value=" Estenes li papes de Rome ,"/><!--  Estenes li papes de Rome , -->
+<feat xlink:href="#line_495" value=" Que l&apos; en tenoit a molt saint home ,"/><!--  Que l' en tenoit a molt saint home , -->
+<feat xlink:href="#line_496" value=" Li fist prometre fealtei"/><!--  Li fist prometre fealtei -->
+<feat xlink:href="#line_497" value=" As Romenz , qui tuit l&apos; ont jurei ,"/><!--  As Romenz , qui tuit l' ont jurei , -->
+<feat xlink:href="#line_498" value=" Et li envoia ces legals ,"/><!--  Et li envoia ces legals , -->
+<feat xlink:href="#line_499" value=" Et li manda par ces seals"/><!--  Et li manda par ces seals -->
+<feat xlink:href="#line_500" value=" Que molt volentiers le verroit"/><!--  Que molt volentiers le verroit -->
+<feat xlink:href="#line_501" value=" En leu qu&apos; i li ensegneroit ."/><!--  En leu qu' i li ensegneroit . -->
+</featList>
+</paula>

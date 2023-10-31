@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.conqueste-pv_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.conqueste-pv.line.xml">
+<feat xlink:href="#line_0" value=" envoia thiebauz li quens"/><!--  envoia thiebauz li quens -->
+<feat xlink:href="#line_1" value=" de campaigne et de brie .ii."/><!--  de campaigne et de brie .ii. -->
+<feat xlink:href="#line_2" value=" .ii. et baudoins li quens de flandres"/><!--  .ii. et baudoins li quens de flandres -->
+<feat xlink:href="#line_3" value=" .ii. et lois li quens de blois"/><!--  .ii. et lois li quens de blois -->
+<feat xlink:href="#line_4" value=" et lois li quens de blois .ii."/><!--  et lois li quens de blois .ii. -->
+<feat xlink:href="#line_5" value=" entierement en tel maniere"/><!--  entierement en tel maniere -->
+<feat xlink:href="#line_6" value=" ensi murent li .vi. message"/><!--  ensi murent li .vi. message -->
+<feat xlink:href="#line_7" value=" lor consaux entr aus acordez"/><!--  lor consaux entr aus acordez -->
+<feat xlink:href="#line_8" value=" entr aus acordez que en venise"/><!--  entr aus acordez que en venise -->
+<feat xlink:href="#line_9" value=" de vaisiax que a nul autre port"/><!--  de vaisiax que a nul autre port -->
+<feat xlink:href="#line_10" value=" de venise qui ot a nom"/><!--  de venise qui ot a nom -->
+<feat xlink:href="#line_11" value=" qui ot a nom henris dandole"/><!--  qui ot a nom henris dandole -->
+<feat xlink:href="#line_12" value=" et les virent mult volentiers"/><!--  et les virent mult volentiers -->
+<feat xlink:href="#line_13" value=" et quant il baillerent les letres"/><!--  et quant il baillerent les letres -->
+<feat xlink:href="#line_14" value=" il erent venu en la terre"/><!--  il erent venu en la terre -->
+<feat xlink:href="#line_15" value=" les letres erent de creance"/><!--  les letres erent de creance -->
+<feat xlink:href="#line_16" value=" et distrent li conte que autant"/><!--  et distrent li conte que autant -->
+<feat xlink:href="#line_17" value=" seingnor je ai veues vos letres"/><!--  seingnor je ai veues vos letres -->
+<feat xlink:href="#line_18" value=" or dites ce que vos plaira"/><!--  or dites ce que vos plaira -->
+<feat xlink:href="#line_19" value=" et li message respondirent"/><!--  et li message respondirent -->
+<feat xlink:href="#line_20" value=" vos mandent demain se il vos plaist"/><!--  vos mandent demain se il vos plaist -->
+<feat xlink:href="#line_21" value=" et adonc aroit son conseil"/><!--  et adonc aroit son conseil -->
+<feat xlink:href="#line_22" value=" qui mult ere riches et biax"/><!--  qui mult ere riches et biax -->
+<feat xlink:href="#line_23" value=" et son conseil en une chambre"/><!--  et son conseil en une chambre -->
+<feat xlink:href="#line_24" value=" de par les hals barons de france"/><!--  de par les hals barons de france -->
+<feat xlink:href="#line_25" value=" de france qui ont pris le sine"/><!--  de france qui ont pris le sine -->
+<feat xlink:href="#line_26" value=" vengier et por jerusalem"/><!--  vengier et por jerusalem -->
+<feat xlink:href="#line_27" value=" et por jerusalem conquerre"/><!--  et por jerusalem conquerre -->
+<feat xlink:href="#line_28" value=" en quel maniere &quot; fait li dux"/><!--  en quel maniere " fait li dux -->
+<feat xlink:href="#line_29" value=" li termes que li dux lor mist"/><!--  li termes que li dux lor mist -->
+<feat xlink:href="#line_30" value=" ne vos puis mie raconter"/><!--  ne vos puis mie raconter -->
+<feat xlink:href="#line_31" value=" nos ferons uissiers a passer"/><!--  nos ferons uissiers a passer -->
+<feat xlink:href="#line_32" value=" a passer .iv. .m. et .v."/><!--  a passer .iv. .m. et .v. -->
+<feat xlink:href="#line_33" value=" .iv. .m. et .v. .c. chevaus"/><!--  .iv. .m. et .v. .c. chevaus -->
+<feat xlink:href="#line_34" value=" .m. et .v. .c. chevaus et .ix."/><!--  .m. et .v. .c. chevaus et .ix. -->
+<feat xlink:href="#line_35" value=" chevaus et .ix. mille escuiers"/><!--  chevaus et .ix. mille escuiers -->
+<feat xlink:href="#line_36" value=" mille escuiers et es nes .iv."/><!--  mille escuiers et es nes .iv. -->
+<feat xlink:href="#line_37" value=" .m. chevaliers et .v. .c."/><!--  .m. chevaliers et .v. .c. -->
+<feat xlink:href="#line_38" value=" et .xx. mille serjanz a pie"/><!--  et .xx. mille serjanz a pie -->
+<feat xlink:href="#line_39" value=" .iv. mars et por l ome .ii."/><!--  .iv. mars et por l ome .ii. -->
+<feat xlink:href="#line_40" value=" que nos departirons del port"/><!--  que nos departirons del port -->
+<feat xlink:href="#line_41" value=" a faire le servise dieu"/><!--  a faire le servise dieu -->
+<feat xlink:href="#line_42" value=" que tant con nostre compaignie"/><!--  que tant con nostre compaignie -->
+<feat xlink:href="#line_43" value=" et si s acorderent al faire"/><!--  et si s acorderent al faire -->
+<feat xlink:href="#line_44" value=" nos somes prest d aseurer"/><!--  nos somes prest d aseurer -->
+<feat xlink:href="#line_45" value=" qui mult ere sages et proz"/><!--  qui mult ere sages et proz -->
+<feat xlink:href="#line_46" value=" et engin que il avoit mult cler"/><!--  et engin que il avoit mult cler -->
+<feat xlink:href="#line_47" value=" que il avoit mult cler et mult bon"/><!--  que il avoit mult cler et mult bon -->
+<feat xlink:href="#line_48" value=" en la chapelle de saint marc"/><!--  en la chapelle de saint marc -->
+<feat xlink:href="#line_49" value=" li dux manda por les messages"/><!--  li dux manda por les messages -->
+<feat xlink:href="#line_50" value=" jofrois de vilehardoin"/><!--  jofrois de vilehardoin -->
+<feat xlink:href="#line_51" value=" qui est en servage de turs"/><!--  qui est en servage de turs -->
+<feat xlink:href="#line_52" value=" n ont si grant pooir qui sor mer"/><!--  n ont si grant pooir qui sor mer -->
+<feat xlink:href="#line_53" value=" conme vos et la vostre genz"/><!--  conme vos et la vostre genz -->
+<feat xlink:href="#line_54" value=" nos l otrions nos l otrions"/><!--  nos l otrions nos l otrions -->
+<feat xlink:href="#line_55" value=" que il sembla que terre fondist"/><!--  que il sembla que terre fondist -->
+<feat xlink:href="#line_56" value=" remest et cele grant pitie"/><!--  remest et cele grant pitie -->
+<feat xlink:href="#line_57" value=" que onques plus grant ne vit nus hom"/><!--  que onques plus grant ne vit nus hom -->
+<feat xlink:href="#line_58" value=" qui mult ere sages et proz"/><!--  qui mult ere sages et proz -->
+<feat xlink:href="#line_59" value=" et proz monta el leteri"/><!--  et proz monta el leteri -->
+<feat xlink:href="#line_60" value=" et parla au pueple et lor dist"/><!--  et parla au pueple et lor dist -->
+<feat xlink:href="#line_61" value=" seingnor veez l onor que diex"/><!--  seingnor veez l onor que diex -->
+<feat xlink:href="#line_62" value=" ont guerpi tote l autre genz"/><!--  ont guerpi tote l autre genz -->
+<feat xlink:href="#line_63" value=" que li dux dist bones et belles"/><!--  que li dux dist bones et belles -->
+<feat xlink:href="#line_64" value=" poroient miels les turs destruire"/><!--  poroient miels les turs destruire -->
+<feat xlink:href="#line_65" value=" destruire que par altre terre"/><!--  destruire que par altre terre -->
+<feat xlink:href="#line_66" value=" il estoit adonques quaresme"/><!--  il estoit adonques quaresme -->
+<feat xlink:href="#line_67" value=" que de sain johan en un an"/><!--  que de sain johan en un an -->
+<feat xlink:href="#line_68" value=" estre en venise et li vassial"/><!--  estre en venise et li vassial -->
+<feat xlink:href="#line_69" value=" et li vassial appareillié"/><!--  et li vassial appareillié -->
+<feat xlink:href="#line_70" value=" devant le duc el grant palais"/><!--  devant le duc el grant palais -->
+<feat xlink:href="#line_71" value=" si s agenoilla mult plorant"/><!--  si s agenoilla mult plorant -->
+<feat xlink:href="#line_72" value=" a bone foi a bien tenir"/><!--  a bone foi a bien tenir -->
+<feat xlink:href="#line_73" value=" les convenz qui erent es chartres"/><!--  les convenz qui erent es chartres -->
+<feat xlink:href="#line_74" value=" aisi qui ere de .xl."/><!--  aisi qui ere de .xl. -->
+<feat xlink:href="#line_75" value=" a tenir et les sairemenz"/><!--  a tenir et les sairemenz -->
+<feat xlink:href="#line_76" value=" sachiez que la ot mainte lerme"/><!--  sachiez que la ot mainte lerme -->
+<feat xlink:href="#line_77" value=" l une partie et l autre a rome"/><!--  l une partie et l autre a rome -->
+<feat xlink:href="#line_78" value=" et il le fist mult volentiers"/><!--  et il le fist mult volentiers -->
+<feat xlink:href="#line_79" value=" et si les baillerent le duc"/><!--  et si les baillerent le duc -->
+<feat xlink:href="#line_80" value=" si s en alerent droit en france"/><!--  si s en alerent droit en france -->
+<feat xlink:href="#line_81" value=" conquerre la terre sa fame"/><!--  conquerre la terre sa fame -->
+<feat xlink:href="#line_82" value=" avec lui en aloit gautiers"/><!--  avec lui en aloit gautiers -->
+<feat xlink:href="#line_83" value=" et eutaices de covelans"/><!--  et eutaices de covelans -->
+<feat xlink:href="#line_84" value=" de la bone gent de champaigne"/><!--  de la bone gent de champaigne -->
+<feat xlink:href="#line_85" value=" avienent ensi con dieu plaist"/><!--  avienent ensi con dieu plaist -->
+<feat xlink:href="#line_86" value=" que plus assemblassent en l ost"/><!--  que plus assemblassent en l ost -->
+<feat xlink:href="#line_87" value=" si tint cascuns sa voie tant"/><!--  si tint cascuns sa voie tant -->
+<feat xlink:href="#line_88" value=" que il vint a troies en campaigne"/><!--  que il vint a troies en campaigne -->
+<feat xlink:href="#line_89" value=" et leva sus et chevalcha"/><!--  et leva sus et chevalcha -->
+<feat xlink:href="#line_90" value=" ne chevalcha que cele foiz"/><!--  ne chevalcha que cele foiz -->
+<feat xlink:href="#line_91" value=" que il devoit porter a ses homes"/><!--  que il devoit porter a ses homes -->
+<feat xlink:href="#line_92" value=" ensi con il l avoit promis"/><!--  ensi con il l avoit promis -->
+<feat xlink:href="#line_93" value=" de son avoir a retenir"/><!--  de son avoir a retenir -->
+<feat xlink:href="#line_94" value=" a retenir et por porter"/><!--  a retenir et por porter -->
+<feat xlink:href="#line_95" value=" et fu uns des homes del monde"/><!--  et fu uns des homes del monde -->
+<feat xlink:href="#line_96" value=" de son lignage et de ses homes"/><!--  de son lignage et de ses homes -->
+<feat xlink:href="#line_97" value=" por home et il le dut bien estre"/><!--  por home et il le dut bien estre -->
+<feat xlink:href="#line_98" value=" car onques hom de son aage"/><!--  car onques hom de son aage -->
+<feat xlink:href="#line_99" value=" ne fu plus amés de ses homes"/><!--  ne fu plus amés de ses homes -->
+<feat xlink:href="#line_100" value=" enterrez fu delez son pere"/><!--  enterrez fu delez son pere -->
+<feat xlink:href="#line_101" value=" fu delez son pere au mostier"/><!--  fu delez son pere au mostier -->
+<feat xlink:href="#line_102" value=" la contesse remest sa feme"/><!--  la contesse remest sa feme -->
+<feat xlink:href="#line_103" value=" de monfort joffrois de joenvile"/><!--  de monfort joffrois de joenvile -->
+<feat xlink:href="#line_104" value=" qui a la terre d outremer"/><!--  qui a la terre d outremer -->
+<feat xlink:href="#line_105" value=" alsi com nos feissiens lui"/><!--  alsi com nos feissiens lui -->
+<feat xlink:href="#line_106" value=" sachiez que il peust bien mielx faire"/><!--  sachiez que il peust bien mielx faire -->
+<feat xlink:href="#line_107" value=" el servise dieu de la mort"/><!--  el servise dieu de la mort -->
+<feat xlink:href="#line_108" value=" de la mort le conte thibaut"/><!--  de la mort le conte thibaut -->
+<feat xlink:href="#line_109" value=" le conte thibaut de campaigne"/><!--  le conte thibaut de campaigne -->
+<feat xlink:href="#line_110" value=" del mois a seissons por savoir"/><!--  del mois a seissons por savoir -->
+<feat xlink:href="#line_111" value=" por savoir que il porroient faire"/><!--  por savoir que il porroient faire -->
+<feat xlink:href="#line_112" value=" enqui furent li cuens baudoins"/><!--  enqui furent li cuens baudoins -->
+<feat xlink:href="#line_113" value=" et de chartain li cuens joffrois"/><!--  et de chartain li cuens joffrois -->
+<feat xlink:href="#line_114" value=" lor mostra la parole et l offre"/><!--  lor mostra la parole et l offre -->
+<feat xlink:href="#line_115" value=" et l offre que il avoient faite"/><!--  et l offre que il avoient faite -->
+<feat xlink:href="#line_116" value=" que il avoient faite le duc"/><!--  que il avoient faite le duc -->
+<feat xlink:href="#line_117" value=" le duc de borgoigne et le conte"/><!--  le duc de borgoigne et le conte -->
+<feat xlink:href="#line_118" value=" et le conte de barleduc"/><!--  et le conte de barleduc -->
+<feat xlink:href="#line_119" value=" je vos loeroie une chose"/><!--  je vos loeroie une chose -->
+<feat xlink:href="#line_120" value=" de monferat est mult prodom"/><!--  de monferat est mult prodom -->
+<feat xlink:href="#line_121" value=" et prist le signe de la croiz"/><!--  et prist le signe de la croiz -->
+<feat xlink:href="#line_122" value=" et se meist el leu le conte"/><!--  et se meist el leu le conte -->
+<feat xlink:href="#line_123" value=" de l ost assez tost la prendroit"/><!--  de l ost assez tost la prendroit -->
+<feat xlink:href="#line_124" value=" assez i ot paroles dites"/><!--  assez i ot paroles dites -->
+<feat xlink:href="#line_125" value=" que tuit se accorderent li grant"/><!--  que tuit se accorderent li grant -->
+<feat xlink:href="#line_126" value=" et furent les letres escrites"/><!--  et furent les letres escrites -->
+<feat xlink:href="#line_127" value=" eslit et fu envoiez querre"/><!--  eslit et fu envoiez querre -->
+<feat xlink:href="#line_128" value=" que il li orent mis par campaigne"/><!--  que il li orent mis par campaigne -->
+<feat xlink:href="#line_129" value=" de france cui cusin il ere"/><!--  de france cui cusin il ere -->
+<feat xlink:href="#line_130" value=" ensi vint a un parlement"/><!--  ensi vint a un parlement -->
+<feat xlink:href="#line_131" value=" et illuec fu la grant foisons"/><!--  et illuec fu la grant foisons -->
+<feat xlink:href="#line_132" value=" et des barons et des croisiez"/><!--  et des barons et des croisiez -->
+<feat xlink:href="#line_133" value=" si alerent encontre lui"/><!--  si alerent encontre lui -->
+<feat xlink:href="#line_134" value=" en un vergier a l abaie"/><!--  en un vergier a l abaie -->
+<feat xlink:href="#line_135" value=" enqui requistrent le marchis"/><!--  enqui requistrent le marchis -->
+<feat xlink:href="#line_136" value=" et recoive la seignorie"/><!--  et recoive la seignorie -->
+<feat xlink:href="#line_137" value=" le conte thibaut de campaigne"/><!--  le conte thibaut de campaigne -->
+<feat xlink:href="#line_138" value=" ensi fina cis parlemenz"/><!--  ensi fina cis parlemenz -->
+<feat xlink:href="#line_139" value=" et l endemain si prist congie"/><!--  et l endemain si prist congie -->
+<feat xlink:href="#line_140" value=" en son pais et por atorner"/><!--  en son pais et por atorner -->
+<feat xlink:href="#line_141" value=" et por atorner son afaire"/><!--  et por atorner son afaire -->
+<feat xlink:href="#line_142" value=" ensi s en ala li marchis"/><!--  ensi s en ala li marchis -->
+<feat xlink:href="#line_143" value=" enqui trova mult grant plente"/><!--  enqui trova mult grant plente -->
+<feat xlink:href="#line_144" value=" i ala por parler des croiz"/><!--  i ala por parler des croiz -->
+<feat xlink:href="#line_145" value=" oedes ses freres guis de pesmes"/><!--  oedes ses freres guis de pesmes -->
+<feat xlink:href="#line_146" value=" guis de pesmes hainmes ses freres"/><!--  guis de pesmes hainmes ses freres -->
+<feat xlink:href="#line_147" value=" apres se croisa li evesques"/><!--  apres se croisa li evesques -->
+<feat xlink:href="#line_148" value=" guigues li cuens de forois huges"/><!--  guigues li cuens de forois huges -->
+<feat xlink:href="#line_149" value=" de forois huges de bergi"/><!--  de forois huges de bergi -->
+<feat xlink:href="#line_150" value=" de bergi le pere et le fil"/><!--  de bergi le pere et le fil -->
+<feat xlink:href="#line_151" value=" pierres bromonz et autres genz"/><!--  pierres bromonz et autres genz -->
+<feat xlink:href="#line_152" value=" assez dont nos ne savonz pas"/><!--  assez dont nos ne savonz pas -->
+<feat xlink:href="#line_153" value=" et menast ses homes en l ost"/><!--  et menast ses homes en l ost -->
+<feat xlink:href="#line_154" value=" fu grant dielx par tote sa terre"/><!--  fu grant dielx par tote sa terre -->
+<feat xlink:href="#line_155" value=" encomencierent a movoir"/><!--  encomencierent a movoir -->
+<feat xlink:href="#line_156" value=" li pelerin de lor pais"/><!--  li pelerin de lor pais -->
+<feat xlink:href="#line_157" value=" i fu ploree de pitie"/><!--  i fu ploree de pitie -->
+<feat xlink:href="#line_158" value=" de lor genz et de lor amis"/><!--  de lor genz et de lor amis -->
+<feat xlink:href="#line_159" value=" et parmi les monz de mongeu"/><!--  et parmi les monz de mongeu -->
+<feat xlink:href="#line_160" value=" de mongeu et par moncenis"/><!--  de mongeu et par moncenis -->
+<feat xlink:href="#line_161" value=" et se logierent en une ysle"/><!--  et se logierent en une ysle -->
+<feat xlink:href="#line_162" value=" que on apelle saint nicholas"/><!--  que on apelle saint nicholas -->
+<feat xlink:href="#line_163" value=" par mer u ot mult grant plente"/><!--  par mer u ot mult grant plente -->
+<feat xlink:href="#line_164" value=" si fu chevetaines johans"/><!--  si fu chevetaines johans -->
+<feat xlink:href="#line_165" value=" qui fu fils le conte phelippe"/><!--  qui fu fils le conte phelippe -->
+<feat xlink:href="#line_166" value=" le conte phelippe de flandres"/><!--  le conte phelippe de flandres -->
+<feat xlink:href="#line_167" value=" que il iroient par le detroiz"/><!--  que il iroient par le detroiz -->
+<feat xlink:href="#line_168" value=" et assembleroient a l ost"/><!--  et assembleroient a l ost -->
+<feat xlink:href="#line_169" value=" de lor nes chargies de dras"/><!--  de lor nes chargies de dras -->
+</featList>
+</paula>

@@ -1,0 +1,60 @@
+Rules applied: R1, R8
+Lines correct: 360 of 402
+Pass history:
+Tried rules R1; 350 lines correct.
+Tried rules R11; 328 lines correct.
+Tried rules R2; 330 lines correct.
+Tried rules R30; 330 lines correct.
+Tried rules R8; 340 lines correct.
+Tried rules R1, R11; 348 lines correct.
+Tried rules R1, R2; 348 lines correct.
+Tried rules R1, R30; 350 lines correct.
+Tried rules R1, R8; 360 lines correct.
+Tried rules R1, R8, R11; 358 lines correct.
+Tried rules R1, R8, R2; 358 lines correct.
+Tried rules R1, R8, R30; 360 lines correct.
+OPTIMIZED LINES
+24    1041     cil devant sunt .c. milie ad escuz ,
+47    1064     ne france dulce ja cheet en viltét !
+108    1125     sun cheval broche e muntet un lariz ;
+128    1145     li quens rollant apelet oliver :
+129    1146     " sire cumpainz , mult ben le saviez ,
+130    1147     que guenelun nos ad tuz espiez .
+148    1165     " seignurs barons , suef pas alez tenant !
+181    1198     vait le ferir li quens quanque il pout .
+207    1224     ot le oliver , sin ad mult grant irur .
+213    1230     guardet a tere , veit gesir le glutun ,
+234    1251     guardet arere , veit le glutun gesir ,
+248    1265     l' osberc li rumpt entresque a la charn ,
+306    1323     a .xv. cols l' ad fraite e perdue ;
+322    1339     tient durendal , ki ben trenchet e taillet ,
+
+BAD LINES
+0    1017     oliver est desur un pui
+72    1089     ne placet damnedeu ne ses angles
+75    1092     pur ben ferir l' emperere plus nos aimet . "
+87    1104     veeir poez , dolente est la rereguarde ;
+90    1107     mal seit del coer ki el piz se cuardet !
+106    1123     que ele fut a noble vassal . "
+107    1124     d' altre part est li arcevesques turpin .
+123    1140     ben sunt asols e quites de lur pecchez ;
+141    1158     les renges li batent josqu' as mains .
+161    1178     de colps ferir , de receivre e de duner !
+200    1217     entre les dous oilz mult out large le front ,
+217    1234     munjoie escriet , ço est l' enseigne carlun . aoi .
+224    1241     ja pur charles n' i ert un sul guarit :
+226    1243     ben l' entendit li arcevesques turpin :
+240    1257     nuveles vos di : mort vos estoet susfrir .
+258    1275     sansun li dux , il vait ferir l' almaçur .
+259    1276     l' escut li freinst , ki est ad or e a flurs ,
+261    1278     trenchet li le coer , le firie e le pulmun ,
+305    1322     fiert de l' espiet tant cume hanste li duret ;
+337    1354     l' escut li freint , ki est ad or e a flur ,
+342    1359     la hanste briset e esclicet josqu' as poinz .
+346    1363     u est vostre espee , ki halteclere ad num ?
+351    1368     que ses cumpainz rollant li ad tant demandee ,
+360    1377     por itels colps nos eimet li emperere . "
+371    1388     espuers icil fut filz burdel .
+381    1399     tant' hanste i ad e fraite e sanglente ,
+386    1404     karles li magnes en pluret , si se demente .
+398    1416     e li franceis i fierent cumunement .

@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.gormont_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.gormont.line.xml">
+<feat xlink:href="#line_0" value=" li estur fut fier e pesant"/><!--  li estur fut fier e pesant -->
+<feat xlink:href="#line_1" value=" e la bataille fut mut grant"/><!--  e la bataille fut mut grant -->
+<feat xlink:href="#line_2" value=" es lor puinnant gautier de maus"/><!--  es lor puinnant gautier de maus -->
+<feat xlink:href="#line_3" value=" fiz erneis un duc franceis"/><!--  fiz erneis un duc franceis -->
+<feat xlink:href="#line_4" value=" e vit gormund el pui estant"/><!--  e vit gormund el pui estant -->
+<feat xlink:href="#line_5" value=" s il lores ne joste a lui a en camp"/><!--  s il lores ne joste a lui a en camp -->
+<feat xlink:href="#line_6" value=" dunc se tendra pur recreant"/><!--  dunc se tendra pur recreant -->
+<feat xlink:href="#line_7" value=" des espuruns point l auferant"/><!--  des espuruns point l auferant -->
+<feat xlink:href="#line_8" value=" qu il en fist raer le sanc"/><!--  qu il en fist raer le sanc -->
+<feat xlink:href="#line_9" value=" al rei gormund en vint brochant"/><!--  al rei gormund en vint brochant -->
+<feat xlink:href="#line_10" value=" si l fiert sur sun escu devant"/><!--  si l fiert sur sun escu devant -->
+<feat xlink:href="#line_11" value=" qu il li peceie maintenant"/><!--  qu il li peceie maintenant -->
+<feat xlink:href="#line_12" value=" le hauberc desmaele e dement"/><!--  le hauberc desmaele e dement -->
+<feat xlink:href="#line_13" value=" passé li ad joste le flanc"/><!--  passé li ad joste le flanc -->
+<feat xlink:href="#line_14" value=" men nen abat nient de sanc"/><!--  men nen abat nient de sanc -->
+<feat xlink:href="#line_15" value=" ne de sun cors ne li fist dam"/><!--  ne de sun cors ne li fist dam -->
+<feat xlink:href="#line_16" value=" gormund li lance un dart trenchant"/><!--  gormund li lance un dart trenchant -->
+<feat xlink:href="#line_17" value=" parmi le cors li vait bruiant"/><!--  parmi le cors li vait bruiant -->
+<feat xlink:href="#line_18" value=" tries li cunsent un aleman"/><!--  tries li cunsent un aleman -->
+<feat xlink:href="#line_19" value=" que ambesdous les abat mort el camp"/><!--  que ambesdous les abat mort el camp -->
+<feat xlink:href="#line_20" value=" li meudre rei e le plus franc"/><!--  li meudre rei e le plus franc -->
+<feat xlink:href="#line_21" value=" qui unques fust el munde vivant"/><!--  qui unques fust el munde vivant -->
+<feat xlink:href="#line_22" value=" se il creust deu le poant"/><!--  se il creust deu le poant -->
+<feat xlink:href="#line_23" value=" s est escrié haut en oant"/><!--  s est escrié haut en oant -->
+<feat xlink:href="#line_24" value=" &quot; ces crestiens sunt nun savant"/><!--  " ces crestiens sunt nun savant -->
+<feat xlink:href="#line_25" value=" qui de juster me vont hastant"/><!--  qui de juster me vont hastant -->
+<feat xlink:href="#line_26" value=" ne voil que ja un sul s en vant"/><!--  ne voil que ja un sul s en vant -->
+<feat xlink:href="#line_27" value=" tuz serrunt mort u recreant &quot;"/><!--  tuz serrunt mort u recreant " -->
+<feat xlink:href="#line_28" value=" quant il ot morz les bons vassaus"/><!--  quant il ot morz les bons vassaus -->
+<feat xlink:href="#line_29" value=" ariere enchaca les chevaus"/><!--  ariere enchaca les chevaus -->
+<feat xlink:href="#line_30" value=" puis mist avant sun estandart"/><!--  puis mist avant sun estandart -->
+<feat xlink:href="#line_31" value=" n em li baille un tuenard"/><!--  n em li baille un tuenard -->
+<feat xlink:href="#line_32" value=" desus qaiou a la chapele"/><!--  desus qaiou a la chapele -->
+<feat xlink:href="#line_33" value=" fut la bataille fort e pesme"/><!--  fut la bataille fort e pesme -->
+<feat xlink:href="#line_34" value=" occist e fiert e esboele"/><!--  occist e fiert e esboele -->
+<feat xlink:href="#line_35" value=" qui cunsuit ne l laist en sele"/><!--  qui cunsuit ne l laist en sele -->
+<feat xlink:href="#line_36" value=" vestue co a de mort nuvele"/><!--  vestue co a de mort nuvele -->
+<feat xlink:href="#line_37" value=" eis lur puinnan(ai)t tierri de termes"/><!--  eis lur puinnan(ai)t tierri de termes -->
+<feat xlink:href="#line_38" value=" sur un cheval bai de chastele"/><!--  sur un cheval bai de chastele -->
+<feat xlink:href="#line_39" value=" gesques al rei gormund n areste"/><!--  gesques al rei gormund n areste -->
+<feat xlink:href="#line_40" value=" si l fiert sur la targe novele"/><!--  si l fiert sur la targe novele -->
+<feat xlink:href="#line_41" value=" qu il la li freint e eschantele"/><!--  qu il la li freint e eschantele -->
+<feat xlink:href="#line_42" value=" sa hanste brise par asteles"/><!--  sa hanste brise par asteles -->
+<feat xlink:href="#line_43" value=" e gormund ad l espee traite"/><!--  e gormund ad l espee traite -->
+<feat xlink:href="#line_44" value=" si l ad feru sur le heaume"/><!--  si l ad feru sur le heaume -->
+<feat xlink:href="#line_45" value=" la teste en fist voler a destre"/><!--  la teste en fist voler a destre -->
+<feat xlink:href="#line_46" value=" tres devant li sur la bel herbe"/><!--  tres devant li sur la bel herbe -->
+<feat xlink:href="#line_47" value=" puis li ad dit une nuvele"/><!--  puis li ad dit une nuvele -->
+<feat xlink:href="#line_48" value=" qui as franceis ne fut pas bele"/><!--  qui as franceis ne fut pas bele -->
+<feat xlink:href="#line_49" value=" &quot; le vostre deu n est tant honeste"/><!--  " le vostre deu n est tant honeste -->
+<feat xlink:href="#line_50" value=" que il vus pusse garant estre &quot;"/><!--  que il vus pusse garant estre " -->
+<feat xlink:href="#line_51" value=" quant il ot mort le bon vassal"/><!--  quant il ot mort le bon vassal -->
+<feat xlink:href="#line_52" value=" ariere chaca le cheval"/><!--  ariere chaca le cheval -->
+<feat xlink:href="#line_53" value=" puis mist avant sun estandart"/><!--  puis mist avant sun estandart -->
+<feat xlink:href="#line_54" value=" n em la li baille un toenart"/><!--  n em la li baille un toenart -->
+<feat xlink:href="#line_55" value=" desus qaiou en la champaine"/><!--  desus qaiou en la champaine -->
+<feat xlink:href="#line_56" value=" fut la bataille fort e grant"/><!--  fut la bataille fort e grant -->
+<feat xlink:href="#line_57" value=" eis vus puinant li quens de flandres"/><!--  eis vus puinant li quens de flandres -->
+<feat xlink:href="#line_58" value=" tut eslescé parmi la lande"/><!--  tut eslescé parmi la lande -->
+<feat xlink:href="#line_59" value=" o vit gormund celui d oriente"/><!--  o vit gormund celui d oriente -->
+<feat xlink:href="#line_60" value=" sur sun escu li dona grande"/><!--  sur sun escu li dona grande -->
+<feat xlink:href="#line_61" value=" d un or autre li fist fendre"/><!--  d un or autre li fist fendre -->
+<feat xlink:href="#line_62" value=" la blanche broine descuncendre"/><!--  la blanche broine descuncendre -->
+<feat xlink:href="#line_63" value=" mes ne pot mie en la car prendre"/><!--  mes ne pot mie en la car prendre -->
+<feat xlink:href="#line_64" value=" gormund li lanca une tambre"/><!--  gormund li lanca une tambre -->
+<feat xlink:href="#line_65" value=" parmi le cors li vait bruiante"/><!--  parmi le cors li vait bruiante -->
+<feat xlink:href="#line_66" value=" de l autre part fiert en la lande"/><!--  de l autre part fiert en la lande -->
+<feat xlink:href="#line_67" value=" li cors chet jus si s en vait l alme"/><!--  li cors chet jus si s en vait l alme -->
+<feat xlink:href="#line_68" value=" e dist gormund cist d oriante"/><!--  e dist gormund cist d oriante -->
+<feat xlink:href="#line_69" value=" &quot; icoste fole gent de france"/><!--  " icoste fole gent de france -->
+<feat xlink:href="#line_70" value=" mut par unt il fole esperance"/><!--  mut par unt il fole esperance -->
+<feat xlink:href="#line_71" value=" quant il vers mei descent lance"/><!--  quant il vers mei descent lance -->
+<feat xlink:href="#line_72" value=" ne voil que un sul s en vante &quot;"/><!--  ne voil que un sul s en vante " -->
+<feat xlink:href="#line_73" value=" quant il ot mort le bon vassal"/><!--  quant il ot mort le bon vassal -->
+<feat xlink:href="#line_74" value=" ariere enchaca sun cheval"/><!--  ariere enchaca sun cheval -->
+<feat xlink:href="#line_75" value=" n em la li baille un tuenart"/><!--  n em la li baille un tuenart -->
+<feat xlink:href="#line_76" value=" li estur fut mut fier maneis"/><!--  li estur fut mut fier maneis -->
+<feat xlink:href="#line_77" value=" eis lur eodon de campaneis"/><!--  eis lur eodon de campaneis -->
+<feat xlink:href="#line_78" value=" celui qui tint chartres e bleis"/><!--  celui qui tint chartres e bleis -->
+<feat xlink:href="#line_79" value=" chastel andon en gatineis"/><!--  chastel andon en gatineis -->
+<feat xlink:href="#line_80" value=" e sist sur un destrier moreis"/><!--  e sist sur un destrier moreis -->
+<feat xlink:href="#line_81" value=" e vait ferir gormund le reis"/><!--  e vait ferir gormund le reis -->
+<feat xlink:href="#line_82" value=" de sun escu trencha le neir"/><!--  de sun escu trencha le neir -->
+<feat xlink:href="#line_83" value=" de sun blanc hauberc les pleis"/><!--  de sun blanc hauberc les pleis -->
+<feat xlink:href="#line_84" value=" mais n en pot mie en char aveir"/><!--  mais n en pot mie en char aveir -->
+<feat xlink:href="#line_85" value=" il trest le brant de coleneis"/><!--  il trest le brant de coleneis -->
+<feat xlink:href="#line_86" value=" sur sun helme l en dona treis"/><!--  sur sun helme l en dona treis -->
+<feat xlink:href="#line_87" value=" tut l enclinot encontre sei"/><!--  tut l enclinot encontre sei -->
+<feat xlink:href="#line_88" value=" ja l eust mort icist por veir"/><!--  ja l eust mort icist por veir -->
+<feat xlink:href="#line_89" value=" quant a lui lanca un ireis"/><!--  quant a lui lanca un ireis -->
+<feat xlink:href="#line_90" value=" suz li ocist sun bon moreis"/><!--  suz li ocist sun bon moreis -->
+<feat xlink:href="#line_91" value=" &quot; a &quot; dist gormund &quot; or est surdeis"/><!--  " a " dist gormund " or est surdeis -->
+<feat xlink:href="#line_92" value=" vus fussiez miez en estampeiz"/><!--  vus fussiez miez en estampeiz -->
+<feat xlink:href="#line_93" value=" perdu avez vostre moreis"/><!--  perdu avez vostre moreis -->
+<feat xlink:href="#line_94" value=" vos ne l recovrez des meis"/><!--  vos ne l recovrez des meis -->
+<feat xlink:href="#line_95" value=" ci remeindrez ensemble od mei"/><!--  ci remeindrez ensemble od mei -->
+<feat xlink:href="#line_96" value=" ostel prendrez al briuerei &quot;"/><!--  ostel prendrez al briuerei " -->
+<feat xlink:href="#line_97" value=" il li lanca un dart tut dreit"/><!--  il li lanca un dart tut dreit -->
+<feat xlink:href="#line_98" value=" deu l ad guari a cele feiz"/><!--  deu l ad guari a cele feiz -->
+<feat xlink:href="#line_99" value=" kui n i pot mie sun char aveir"/><!--  kui n i pot mie sun char aveir -->
+<feat xlink:href="#line_100" value=" e cil s en torne demaneis"/><!--  e cil s en torne demaneis -->
+<feat xlink:href="#line_101" value=" li estur fut mut fier mortel"/><!--  li estur fut mut fier mortel -->
+<feat xlink:href="#line_102" value=" e la bataille communel"/><!--  e la bataille communel -->
+<feat xlink:href="#line_103" value=" eis lur le conte de peitiers"/><!--  eis lur le conte de peitiers -->
+<feat xlink:href="#line_104" value=" sur un destrier sor bauzan"/><!--  sur un destrier sor bauzan -->
+<feat xlink:href="#line_105" value=" e vit gormund el pui ester"/><!--  e vit gormund el pui ester -->
+<feat xlink:href="#line_106" value=" si lors ne vait a lui juster"/><!--  si lors ne vait a lui juster -->
+<feat xlink:href="#line_107" value=" dunc se tendra pur afolé"/><!--  dunc se tendra pur afolé -->
+<feat xlink:href="#line_108" value=" point le cheval par les costez"/><!--  point le cheval par les costez -->
+<feat xlink:href="#line_109" value=" qu il en fist le sanc voler"/><!--  qu il en fist le sanc voler -->
+<feat xlink:href="#line_110" value=" a gormund est alé juster"/><!--  a gormund est alé juster -->
+<feat xlink:href="#line_111" value=" si l fiert sur sun escu bendé"/><!--  si l fiert sur sun escu bendé -->
+<feat xlink:href="#line_112" value=" k il la li ad freit e quassé"/><!--  k il la li ad freit e quassé -->
+<feat xlink:href="#line_113" value=" le hauberc rumpu e desafré"/><!--  le hauberc rumpu e desafré -->
+<feat xlink:href="#line_114" value=" mes nen a pas sun cors dampné"/><!--  mes nen a pas sun cors dampné -->
+<feat xlink:href="#line_115" value=" e gormund tret le brant letré"/><!--  e gormund tret le brant letré -->
+<feat xlink:href="#line_116" value=" gesqu al brael l at tut copé"/><!--  gesqu al brael l at tut copé -->
+<feat xlink:href="#line_117" value=" le meudre rei e le plus ber"/><!--  le meudre rei e le plus ber -->
+<feat xlink:href="#line_118" value=" qui unques fust de paiens né"/><!--  qui unques fust de paiens né -->
+<feat xlink:href="#line_119" value=" a haute voiz s est escrié"/><!--  a haute voiz s est escrié -->
+<feat xlink:href="#line_120" value=" &quot; vos estes en del tut finé"/><!--  " vos estes en del tut finé -->
+<feat xlink:href="#line_121" value=" n avrez garant pur vostre dé &quot;"/><!--  n avrez garant pur vostre dé " -->
+<feat xlink:href="#line_122" value=" quant ot mort le bon vassal"/><!--  quant ot mort le bon vassal -->
+<feat xlink:href="#line_123" value=" ariere enchaca le cheval"/><!--  ariere enchaca le cheval -->
+<feat xlink:href="#line_124" value=" puis mist avant sun estandart"/><!--  puis mist avant sun estandart -->
+<feat xlink:href="#line_125" value=" n en la li baille un tuenart"/><!--  n en la li baille un tuenart -->
+<feat xlink:href="#line_126" value=" la bataille fut esbaldie"/><!--  la bataille fut esbaldie -->
+<feat xlink:href="#line_127" value=" e dol ferir enmanevie"/><!--  e dol ferir enmanevie -->
+<feat xlink:href="#line_128" value=" eis lur li quens de normendie"/><!--  eis lur li quens de normendie -->
+<feat xlink:href="#line_129" value=" celui qui de ruem fut sire"/><!--  celui qui de ruem fut sire -->
+<feat xlink:href="#line_130" value=" e de fescamp fist l abbeie"/><!--  e de fescamp fist l abbeie -->
+<feat xlink:href="#line_131" value=" au rei gormund nuist espie"/><!--  au rei gormund nuist espie -->
+<feat xlink:href="#line_132" value=" joster i vait sun cors meimes"/><!--  joster i vait sun cors meimes -->
+<feat xlink:href="#line_133" value=" pleine sa lance le sovie"/><!--  pleine sa lance le sovie -->
+<feat xlink:href="#line_134" value=" ceo dit la geste a seint denise"/><!--  ceo dit la geste a seint denise -->
+<feat xlink:href="#line_135" value=" ne fust la hanste que li brise"/><!--  ne fust la hanste que li brise -->
+<feat xlink:href="#line_136" value=" celui l ust geté de vie"/><!--  celui l ust geté de vie -->
+<feat xlink:href="#line_137" value=" gormund li lance une guivre"/><!--  gormund li lance une guivre -->
+<feat xlink:href="#line_138" value=" parmi le cors li est saillie"/><!--  parmi le cors li est saillie -->
+<feat xlink:href="#line_139" value=" de l autre part s en est eissie"/><!--  de l autre part s en est eissie -->
+<feat xlink:href="#line_140" value=" fiert un danzel de lumbardie"/><!--  fiert un danzel de lumbardie -->
+<feat xlink:href="#line_141" value=" k andous les ad geté de vie"/><!--  k andous les ad geté de vie -->
+<feat xlink:href="#line_142" value=" li reis gormund en haut s escrie"/><!--  li reis gormund en haut s escrie -->
+<feat xlink:href="#line_143" value=" &quot; iceste gent fole esbaie"/><!--  " iceste gent fole esbaie -->
+<feat xlink:href="#line_144" value=" mult par i firent grant folie"/><!--  mult par i firent grant folie -->
+<feat xlink:href="#line_145" value=" quant il vers mei bataille pristrent"/><!--  quant il vers mei bataille pristrent -->
+<feat xlink:href="#line_146" value=" ne voil que ja un sul s en rie"/><!--  ne voil que ja un sul s en rie -->
+<feat xlink:href="#line_147" value=" tut serrunt mort de mal martire &quot;"/><!--  tut serrunt mort de mal martire " -->
+<feat xlink:href="#line_148" value=" quant il ot mort les bons vassaus"/><!--  quant il ot mort les bons vassaus -->
+<feat xlink:href="#line_149" value=" ariere enchaca les chenaus"/><!--  ariere enchaca les chenaus -->
+<feat xlink:href="#line_150" value=" puis mist avant sun estandart"/><!--  puis mist avant sun estandart -->
+<feat xlink:href="#line_151" value=" n en la li baille un tuenart"/><!--  n en la li baille un tuenart -->
+<feat xlink:href="#line_152" value=" fier fut l estur e esbaudi"/><!--  fier fut l estur e esbaudi -->
+<feat xlink:href="#line_153" value=" eis vus ernaut qui tint pontif"/><!--  eis vus ernaut qui tint pontif -->
+<feat xlink:href="#line_154" value=" e les aloez saint valerin"/><!--  e les aloez saint valerin -->
+<feat xlink:href="#line_155" value=" e vait le rei gormund ferir"/><!--  e vait le rei gormund ferir -->
+<feat xlink:href="#line_156" value=" l escu li ad fret e malmis"/><!--  l escu li ad fret e malmis -->
+<feat xlink:href="#line_157" value=" le hauberc desmaele e rumpi"/><!--  le hauberc desmaele e rumpi -->
+<feat xlink:href="#line_158" value=" parmi le flanc l espie li mist"/><!--  parmi le flanc l espie li mist -->
+<feat xlink:href="#line_159" value=" la bone enseine qu il tint"/><!--  la bone enseine qu il tint -->
+<feat xlink:href="#line_160" value=" de l autre part en fist eissir"/><!--  de l autre part en fist eissir -->
+<feat xlink:href="#line_161" value=" le sanc vermeil en fist saillir"/><!--  le sanc vermeil en fist saillir -->
+<feat xlink:href="#line_162" value=" e dist ernout &quot; estez mei ci"/><!--  e dist ernout " estez mei ci -->
+<feat xlink:href="#line_163" value=" meie ert la terre e le païs"/><!--  meie ert la terre e le païs -->
+<feat xlink:href="#line_164" value=" que n en suleie home servir"/><!--  que n en suleie home servir -->
+<feat xlink:href="#line_165" value=" ne mes sul deu qui ne menti"/><!--  ne mes sul deu qui ne menti -->
+<feat xlink:href="#line_166" value=" e l emperrere lowis"/><!--  e l emperrere lowis -->
+<feat xlink:href="#line_167" value=" cest chalenge vos i ai mis"/><!--  cest chalenge vos i ai mis -->
+<feat xlink:href="#line_168" value=" a &quot; dist gormund &quot; bien l ai senti"/><!--  a " dist gormund " bien l ai senti -->
+<feat xlink:href="#line_169" value=" vos me ravrés pres a veisin &quot;"/><!--  vos me ravrés pres a veisin " -->
+<feat xlink:href="#line_170" value=" il traist d or enheudi"/><!--  il traist d or enheudi -->
+<feat xlink:href="#line_171" value=" si l fiert amunt al helme enclin"/><!--  si l fiert amunt al helme enclin -->
+<feat xlink:href="#line_172" value=" gesqu al brahel le purfendi"/><!--  gesqu al brahel le purfendi -->
+<feat xlink:href="#line_173" value=" que de cel cop mort l abati"/><!--  que de cel cop mort l abati -->
+<feat xlink:href="#line_174" value=" &quot; a &quot; dist gormund li arabi"/><!--  " a " dist gormund li arabi -->
+<feat xlink:href="#line_175" value=" &quot; vos estes del tut fini"/><!--  " vos estes del tut fini -->
+<feat xlink:href="#line_176" value=" n avez garant pur iceli"/><!--  n avez garant pur iceli -->
+<feat xlink:href="#line_177" value=" qui fut par force en cruiz mis"/><!--  qui fut par force en cruiz mis -->
+<feat xlink:href="#line_178" value=" e ja l unt fous jueus occis"/><!--  e ja l unt fous jueus occis -->
+<feat xlink:href="#line_179" value=" quidez vus dunc k il surrexist"/><!--  quidez vus dunc k il surrexist -->
+<feat xlink:href="#line_180" value=" ne qu il vus puisse guarantir"/><!--  ne qu il vus puisse guarantir -->
+<feat xlink:href="#line_181" value=" mal guarra par apollin"/><!--  mal guarra par apollin -->
+<feat xlink:href="#line_182" value=" qui sul son cors ne pot guarir"/><!--  qui sul son cors ne pot guarir -->
+<feat xlink:href="#line_183" value=" ke li n estust de mort murir &quot;"/><!--  ke li n estust de mort murir " -->
+<feat xlink:href="#line_184" value=" dunc l en esgarda hugelin"/><!--  dunc l en esgarda hugelin -->
+<feat xlink:href="#line_185" value=" celui qui le message fist"/><!--  celui qui le message fist -->
+<feat xlink:href="#line_186" value=" quant damnedeu out si laidir"/><!--  quant damnedeu out si laidir -->
+<feat xlink:href="#line_187" value=" forment en fut al cor mari"/><!--  forment en fut al cor mari -->
+<feat xlink:href="#line_188" value=" le cheval brocha u il sist"/><!--  le cheval brocha u il sist -->
+<feat xlink:href="#line_189" value=" poinant en vint al rei lowis"/><!--  poinant en vint al rei lowis -->
+<feat xlink:href="#line_190" value=" il l en apele fil li dist"/><!--  il l en apele fil li dist -->
+<feat xlink:href="#line_191" value=" &quot; a gentil rei de riche lin"/><!--  " a gentil rei de riche lin -->
+<feat xlink:href="#line_192" value=" aveez veü de antecrist"/><!--  aveez veü de antecrist -->
+<feat xlink:href="#line_193" value=" qui tuz nos homes nus ocist"/><!--  qui tuz nos homes nus ocist -->
+<feat xlink:href="#line_194" value=" e damnedeu tant fort laidist"/><!--  e damnedeu tant fort laidist -->
+<feat xlink:href="#line_195" value=" de ceo sui mut el quor marri"/><!--  de ceo sui mut el quor marri -->
+<feat xlink:href="#line_196" value=" si m&apos; aït deus qui ne menti"/><!--  si m' aït deus qui ne menti -->
+<feat xlink:href="#line_197" value=" jeo ne l lerroie pur murir"/><!--  jeo ne l lerroie pur murir -->
+<feat xlink:href="#line_198" value=" que jeo ne l auge ja ferir"/><!--  que jeo ne l auge ja ferir -->
+<feat xlink:href="#line_199" value=" queke m&apos; en deie avenir &quot;"/><!--  queke m' en deie avenir " -->
+<feat xlink:href="#line_200" value=" e l emperrere respondi"/><!--  e l emperrere respondi -->
+<feat xlink:href="#line_201" value=" &quot; avoi beau frere hugelin"/><!--  " avoi beau frere hugelin -->
+<feat xlink:href="#line_202" value=" veus me tu dunc issi guerpir"/><!--  veus me tu dunc issi guerpir -->
+<feat xlink:href="#line_203" value=" se tu esteies ore occis"/><!--  se tu esteies ore occis -->
+<feat xlink:href="#line_204" value=" dunc n ai jeo mais suz ciel ami &quot;"/><!--  dunc n ai jeo mais suz ciel ami " -->
+<feat xlink:href="#line_205" value=" dist huelin &quot; ne pot pas estre"/><!--  dist huelin " ne pot pas estre -->
+<feat xlink:href="#line_206" value=" pruz mun pere e mun ancestre"/><!--  pruz mun pere e mun ancestre -->
+<feat xlink:href="#line_207" value=" e jeo fui mut de bone geste"/><!--  e jeo fui mut de bone geste -->
+<feat xlink:href="#line_208" value=" e par meimes dei pruz estre"/><!--  e par meimes dei pruz estre -->
+<feat xlink:href="#line_209" value=" si m&apos; aï dous la grant paterne"/><!--  si m' aï dous la grant paterne -->
+<feat xlink:href="#line_210" value=" jeo ne l lerrai pur home terrestre"/><!--  jeo ne l lerrai pur home terrestre -->
+<feat xlink:href="#line_211" value=" que ne l auge ja requerre &quot;"/><!--  que ne l auge ja requerre " -->
+<feat xlink:href="#line_212" value=" le rei le vot seisir as resnes"/><!--  le rei le vot seisir as resnes -->
+<feat xlink:href="#line_213" value=" quant se pent sur destre"/><!--  quant se pent sur destre -->
+<feat xlink:href="#line_214" value=" al bon cheval lascha les resnes"/><!--  al bon cheval lascha les resnes -->
+<feat xlink:href="#line_215" value=" e od l aspee depart la presse"/><!--  e od l aspee depart la presse -->
+<feat xlink:href="#line_216" value=" il ne vait gens cumme terrestre"/><!--  il ne vait gens cumme terrestre -->
+<feat xlink:href="#line_217" value=" prof vait bruiant cumme tempeste"/><!--  prof vait bruiant cumme tempeste -->
+<feat xlink:href="#line_218" value=" gesques al rei gormund n areste"/><!--  gesques al rei gormund n areste -->
+<feat xlink:href="#line_219" value=" si l fert sur la targe novele"/><!--  si l fert sur la targe novele -->
+<feat xlink:href="#line_220" value=" qu il la li freint e eschantele"/><!--  qu il la li freint e eschantele -->
+<feat xlink:href="#line_221" value=" sa hanste brise par asteles"/><!--  sa hanste brise par asteles -->
+<feat xlink:href="#line_222" value=" e huon ad l espee treite"/><!--  e huon ad l espee treite -->
+<feat xlink:href="#line_223" value=" si l ad feru amunt el helme"/><!--  si l ad feru amunt el helme -->
+<feat xlink:href="#line_224" value=" tut l enclinot encuntre terre"/><!--  tut l enclinot encuntre terre -->
+<feat xlink:href="#line_225" value=" la l eust mort icist a certes"/><!--  la l eust mort icist a certes -->
+<feat xlink:href="#line_226" value=" quant il tolirent gent averse"/><!--  quant il tolirent gent averse -->
+<feat xlink:href="#line_227" value=" huelin dist une novele"/><!--  huelin dist une novele -->
+<feat xlink:href="#line_228" value=" qui a gormund ne fut pas bele"/><!--  qui a gormund ne fut pas bele -->
+<feat xlink:href="#line_229" value=" &quot; c&apos; est huelin qui vos meisele"/><!--  " c' est huelin qui vos meisele -->
+<feat xlink:href="#line_230" value=" qui l autrir fut a voz herberges"/><!--  qui l autrir fut a voz herberges -->
+<feat xlink:href="#line_231" value=" le message lowis faire"/><!--  le message lowis faire -->
+<feat xlink:href="#line_232" value=" si vos servi come pulcele"/><!--  si vos servi come pulcele -->
+<feat xlink:href="#line_233" value=" le poun mis en l asquiele"/><!--  le poun mis en l asquiele -->
+<feat xlink:href="#line_234" value=" unkes n en mustes la maissele"/><!--  unkes n en mustes la maissele -->
+<feat xlink:href="#line_235" value=" a &quot; dist gormund &quot; si vait de guerre"/><!--  a " dist gormund " si vait de guerre -->
+<feat xlink:href="#line_236" value=" le guerredon vus en dei faire"/><!--  le guerredon vus en dei faire -->
+<feat xlink:href="#line_237" value=" aincesk augiez guerres de terre"/><!--  aincesk augiez guerres de terre -->
+<feat xlink:href="#line_238" value=" men enscient l avrez mut pesme &quot;"/><!--  men enscient l avrez mut pesme " -->
+<feat xlink:href="#line_239" value=" del fort espie grant cop li serre"/><!--  del fort espie grant cop li serre -->
+<feat xlink:href="#line_240" value=" mut l ad nafré al flanc senestre"/><!--  mut l ad nafré al flanc senestre -->
+<feat xlink:href="#line_241" value=" que tute est muillee la suzcele"/><!--  que tute est muillee la suzcele -->
+<feat xlink:href="#line_242" value=" jus le trebucha a la terre"/><!--  jus le trebucha a la terre -->
+<feat xlink:href="#line_243" value=" puis s escria li reis gormund"/><!--  puis s escria li reis gormund -->
+<feat xlink:href="#line_244" value=" &quot; trop estes vantez bricun"/><!--  " trop estes vantez bricun -->
+<feat xlink:href="#line_245" value=" jeo te conois assez hugon"/><!--  jeo te conois assez hugon -->
+<feat xlink:href="#line_246" value=" qui l autrir fus as pavilluns"/><!--  qui l autrir fus as pavilluns -->
+<feat xlink:href="#line_247" value=" si me servis de mun poun"/><!--  si me servis de mun poun -->
+<feat xlink:href="#line_248" value=" que n en mui unkes le gernun"/><!--  que n en mui unkes le gernun -->
+<feat xlink:href="#line_249" value=" si pur folie dire nun"/><!--  si pur folie dire nun -->
+<feat xlink:href="#line_250" value=" e le cheval a mun barun"/><!--  e le cheval a mun barun -->
+<feat xlink:href="#line_251" value=" en amenas par traisun"/><!--  en amenas par traisun -->
+<feat xlink:href="#line_252" value=" or en averas le guerredun"/><!--  or en averas le guerredun -->
+<feat xlink:href="#line_253" value=" mort t en girras sur le sablun"/><!--  mort t en girras sur le sablun -->
+<feat xlink:href="#line_254" value=" ne dirras mes ne o ne nun"/><!--  ne dirras mes ne o ne nun -->
+<feat xlink:href="#line_255" value=" ne pur nul mire de cest mund"/><!--  ne pur nul mire de cest mund -->
+<feat xlink:href="#line_256" value=" nen avras mes guarrantisun"/><!--  nen avras mes guarrantisun -->
+<feat xlink:href="#line_257" value=" ne pur tun deu espaciun"/><!--  ne pur tun deu espaciun -->
+<feat xlink:href="#line_258" value=" vos i mentez &quot; ceo dist hugon"/><!--  vos i mentez " ceo dist hugon -->
+<feat xlink:href="#line_259" value=" &quot; jeo n ai trenché ke l alqeton"/><!--  " jeo n ai trenché ke l alqeton -->
+<feat xlink:href="#line_260" value=" e un petit del pelicon"/><!--  e un petit del pelicon -->
+<feat xlink:href="#line_261" value=" ja me raverez a cumpainon"/><!--  ja me raverez a cumpainon -->
+<feat xlink:href="#line_262" value=" e me verrez par is campon"/><!--  e me verrez par is campon -->
+<feat xlink:href="#line_263" value=" criant l enseinne al rei baron"/><!--  criant l enseinne al rei baron -->
+<feat xlink:href="#line_264" value=" la lowis le fiz charlun"/><!--  la lowis le fiz charlun -->
+<feat xlink:href="#line_265" value=" lie serrunt cil k aweron"/><!--  lie serrunt cil k aweron -->
+<feat xlink:href="#line_266" value=" dolent serrunt paien felun &quot;"/><!--  dolent serrunt paien felun " -->
+<feat xlink:href="#line_267" value=" il resaut sus encuntre munt"/><!--  il resaut sus encuntre munt -->
+<feat xlink:href="#line_268" value=" a dous poins prist le gunfanun"/><!--  a dous poins prist le gunfanun -->
+<feat xlink:href="#line_269" value=" ja n eust mort le rei gormund"/><!--  ja n eust mort le rei gormund -->
+<feat xlink:href="#line_270" value=" quant uns ireis saut entre dous"/><!--  quant uns ireis saut entre dous -->
+<feat xlink:href="#line_271" value=" hue le fiert tut a bandon"/><!--  hue le fiert tut a bandon -->
+<feat xlink:href="#line_272" value=" que mort l abat as piez gormund"/><!--  que mort l abat as piez gormund -->
+<feat xlink:href="#line_273" value=" puis rest munté sur le gascun"/><!--  puis rest munté sur le gascun -->
+<feat xlink:href="#line_274" value=" par la bataille vait huon"/><!--  par la bataille vait huon -->
+<feat xlink:href="#line_275" value=" tut depleié sun gunfanun"/><!--  tut depleié sun gunfanun -->
+<feat xlink:href="#line_276" value=" criant l enseine al rei baron"/><!--  criant l enseine al rei baron -->
+<feat xlink:href="#line_277" value=" la lowis le fiz charlun"/><!--  la lowis le fiz charlun -->
+<feat xlink:href="#line_278" value=" liez en sunt cil qui de suens sunt"/><!--  liez en sunt cil qui de suens sunt -->
+<feat xlink:href="#line_279" value=" dolenz en sunt paien felons"/><!--  dolenz en sunt paien felons -->
+<feat xlink:href="#line_280" value=" il fist sun tur par le champon"/><!--  il fist sun tur par le champon -->
+<feat xlink:href="#line_281" value=" si repaira al rei gormund"/><!--  si repaira al rei gormund -->
+<feat xlink:href="#line_282" value=" si l feri sur sun escu rund"/><!--  si l feri sur sun escu rund -->
+<feat xlink:href="#line_283" value=" k el pre l abat a genoillons"/><!--  k el pre l abat a genoillons -->
+<feat xlink:href="#line_284" value=" el tort qu il prist le fer gormund"/><!--  el tort qu il prist le fer gormund -->
+<feat xlink:href="#line_285" value=" l espie enz al cors li repont"/><!--  l espie enz al cors li repont -->
+<feat xlink:href="#line_286" value=" k il le rabat sur le sablon"/><!--  k il le rabat sur le sablon -->
+<feat xlink:href="#line_287" value=" or fu hugon al pre a pié"/><!--  or fu hugon al pre a pié -->
+<feat xlink:href="#line_288" value=" navré dous feiz del grant espie"/><!--  navré dous feiz del grant espie -->
+<feat xlink:href="#line_289" value=" dunc li eschapa sun destrier"/><!--  dunc li eschapa sun destrier -->
+<feat xlink:href="#line_290" value=" quant isembart le reneié"/><!--  quant isembart le reneié -->
+<feat xlink:href="#line_291" value=" vit le cheval cure estraer"/><!--  vit le cheval cure estraer -->
+<feat xlink:href="#line_292" value=" d une chose s est afichié"/><!--  d une chose s est afichié -->
+<feat xlink:href="#line_293" value=" si l poeit as puins baillier"/><!--  si l poeit as puins baillier -->
+<feat xlink:href="#line_294" value=" que einz se lerreit detrenchier"/><!--  que einz se lerreit detrenchier -->
+<feat xlink:href="#line_295" value=" que mes pur home le perdist"/><!--  que mes pur home le perdist -->
+<feat xlink:href="#line_296" value=" cele part vent tut eslessé"/><!--  cele part vent tut eslessé -->
+<feat xlink:href="#line_297" value=" od le restiu de sun espie"/><!--  od le restiu de sun espie -->
+<feat xlink:href="#line_298" value=" vot acoler le bon destrier"/><!--  vot acoler le bon destrier -->
+<feat xlink:href="#line_299" value=" le cheval porta haut le chef"/><!--  le cheval porta haut le chef -->
+<feat xlink:href="#line_300" value=" que il ne l pot mie baillier"/><!--  que il ne l pot mie baillier -->
+<feat xlink:href="#line_301" value=" hue s est tant avancié"/><!--  hue s est tant avancié -->
+<feat xlink:href="#line_302" value=" que il vait avant cuntre plein pié"/><!--  que il vait avant cuntre plein pié -->
+<feat xlink:href="#line_303" value=" delez li passe le destrier"/><!--  delez li passe le destrier -->
+<feat xlink:href="#line_304" value=" seissist le as resnes d or mer"/><!--  seissist le as resnes d or mer -->
+<feat xlink:href="#line_305" value=" entre les dous arcuns se set"/><!--  entre les dous arcuns se set -->
+<feat xlink:href="#line_306" value=" en prof traient arbalestiers"/><!--  en prof traient arbalestiers -->
+<feat xlink:href="#line_307" value=" e lur serganz e lur archiers"/><!--  e lur serganz e lur archiers -->
+<feat xlink:href="#line_308" value=" e hue point e broche e fiert"/><!--  e hue point e broche e fiert -->
+<feat xlink:href="#line_309" value=" qu il lur est auques esloinné"/><!--  qu il lur est auques esloinné -->
+<feat xlink:href="#line_310" value=" ses plaies prennent a sainnier"/><!--  ses plaies prennent a sainnier -->
+<feat xlink:href="#line_311" value=" li cor li ment e hue chiet"/><!--  li cor li ment e hue chiet -->
+<feat xlink:href="#line_312" value=" ceo fut damages e pechié"/><!--  ceo fut damages e pechié -->
+<feat xlink:href="#line_313" value=" car mut par ert bon chevalier"/><!--  car mut par ert bon chevalier -->
+<feat xlink:href="#line_314" value=" e en bataille fesant bien"/><!--  e en bataille fesant bien -->
+<feat xlink:href="#line_315" value=" de l autre part fut dan gontier"/><!--  de l autre part fut dan gontier -->
+<feat xlink:href="#line_316" value=" celui qui fut ja sun esquier"/><!--  celui qui fut ja sun esquier -->
+<feat xlink:href="#line_317" value=" fiz de sa sor si ert ses niez"/><!--  fiz de sa sor si ert ses niez -->
+<feat xlink:href="#line_318" value=" ceo dit la geste a seint richier"/><!--  ceo dit la geste a seint richier -->
+<feat xlink:href="#line_319" value=" uncore n ot oit jorz entier"/><!--  uncore n ot oit jorz entier -->
+<feat xlink:href="#line_320" value=" qu il ot armé a chevalier"/><!--  qu il ot armé a chevalier -->
+<feat xlink:href="#line_321" value=" quant sun seinur vit trebuchier"/><!--  quant sun seinur vit trebuchier -->
+<feat xlink:href="#line_322" value=" mut fu dolent e esmaié"/><!--  mut fu dolent e esmaié -->
+<feat xlink:href="#line_323" value=" cele part vint tut eslessé"/><!--  cele part vint tut eslessé -->
+<feat xlink:href="#line_324" value=" par les resnes prist le destrier"/><!--  par les resnes prist le destrier -->
+<feat xlink:href="#line_325" value=" entre les dous arcons s asiet"/><!--  entre les dous arcons s asiet -->
+<feat xlink:href="#line_326" value=" en sun poin tint le brant d acier"/><!--  en sun poin tint le brant d acier -->
+<feat xlink:href="#line_327" value=" tut fut sanglant e enoché"/><!--  tut fut sanglant e enoché -->
+<feat xlink:href="#line_328" value=" de sarrazins envermeillié"/><!--  de sarrazins envermeillié -->
+<feat xlink:href="#line_329" value=" al rei gormund brochant en vient"/><!--  al rei gormund brochant en vient -->
+<feat xlink:href="#line_330" value=" si l fiert sur sun helme vergié"/><!--  si l fiert sur sun helme vergié -->
+<feat xlink:href="#line_331" value=" que les quires en abatie"/><!--  que les quires en abatie -->
+<feat xlink:href="#line_332" value=" el pre le fist esgenoillier"/><!--  el pre le fist esgenoillier -->
+<feat xlink:href="#line_333" value=" puis li ad dit en reprover"/><!--  puis li ad dit en reprover -->
+<feat xlink:href="#line_334" value=" &quot; sire gormund rei dreturer"/><!--  " sire gormund rei dreturer -->
+<feat xlink:href="#line_335" value=" conoisterez l esquier"/><!--  conoisterez l esquier -->
+<feat xlink:href="#line_336" value=" qui a vostre tref fud l autrer"/><!--  qui a vostre tref fud l autrer -->
+<feat xlink:href="#line_337" value=" ove hue le messagier"/><!--  ove hue le messagier -->
+<feat xlink:href="#line_338" value=" jo n aportai le nef d or mier"/><!--  jo n aportai le nef d or mier -->
+<feat xlink:href="#line_339" value=" cele mis jo a seint richier"/><!--  cele mis jo a seint richier -->
+<feat xlink:href="#line_340" value=" que vus arsistes sun mustier"/><!--  que vus arsistes sun mustier -->
+<feat xlink:href="#line_341" value=" mesavenir vus en deit bien &quot;"/><!--  mesavenir vus en deit bien " -->
+<feat xlink:href="#line_342" value=" li rei gormund li respundie"/><!--  li rei gormund li respundie -->
+<feat xlink:href="#line_343" value=" cum orguillos e cum fier"/><!--  cum orguillos e cum fier -->
+<feat xlink:href="#line_344" value=" &quot; fui de sur mei garz pantener"/><!--  " fui de sur mei garz pantener -->
+<feat xlink:href="#line_345" value=" jeo sui de lin a chevalier"/><!--  jeo sui de lin a chevalier -->
+<feat xlink:href="#line_346" value=" de riches e de preisiez"/><!--  de riches e de preisiez -->
+<feat xlink:href="#line_347" value=" n i tocherai oi esquier &quot;"/><!--  n i tocherai oi esquier " -->
+<feat xlink:href="#line_348" value=" quant lowis le rei preisié"/><!--  quant lowis le rei preisié -->
+<feat xlink:href="#line_349" value=" vit si murir ses chevaliers"/><!--  vit si murir ses chevaliers -->
+<feat xlink:href="#line_350" value=" e ses cumpainnes detrenchier"/><!--  e ses cumpainnes detrenchier -->
+<feat xlink:href="#line_351" value=" mut fut dolenz e esmaié"/><!--  mut fut dolenz e esmaié -->
+<feat xlink:href="#line_352" value=" &quot; aïe deu pere del ciel &quot;"/><!--  " aïe deu pere del ciel " -->
+<feat xlink:href="#line_353" value=" dist lowis li reis preisié"/><!--  dist lowis li reis preisié -->
+<feat xlink:href="#line_354" value=" &quot; tant par me tenc enginné"/><!--  " tant par me tenc enginné -->
+<feat xlink:href="#line_355" value=" ke n i jostai oi premier"/><!--  ke n i jostai oi premier -->
+<feat xlink:href="#line_356" value=" tot cors a cors a l aversier"/><!--  tot cors a cors a l aversier -->
+<feat xlink:href="#line_357" value=" ja est il rei e rei sui jeo"/><!--  ja est il rei e rei sui jeo -->
+<feat xlink:href="#line_358" value=" la nostre avenist bien"/><!--  la nostre avenist bien -->
+<feat xlink:href="#line_359" value=" le quel de nus idune venquist"/><!--  le quel de nus idune venquist -->
+<feat xlink:href="#line_360" value=" n en fussent mort tant chevalier"/><!--  n en fussent mort tant chevalier -->
+<feat xlink:href="#line_361" value=" ne tanz francs homes detrenchiez"/><!--  ne tanz francs homes detrenchiez -->
+<feat xlink:href="#line_362" value=" ber saint denise or m&apos; an aidiez"/><!--  ber saint denise or m' an aidiez -->
+<feat xlink:href="#line_363" value=" jeo tenc de vus quite mun fiev"/><!--  jeo tenc de vus quite mun fiev -->
+<feat xlink:href="#line_364" value=" de nul autre n en conois ren"/><!--  de nul autre n en conois ren -->
+<feat xlink:href="#line_365" value=" fors sul deu le veir del ciel"/><!--  fors sul deu le veir del ciel -->
+<feat xlink:href="#line_366" value=" ber saint richier or m&apos; en adiez"/><!--  ber saint richier or m' en adiez -->
+<feat xlink:href="#line_367" value=" ja vus arst il vostre mustier"/><!--  ja vus arst il vostre mustier -->
+<feat xlink:href="#line_368" value=" en l onur deu le pur eshaucier"/><!--  en l onur deu le pur eshaucier -->
+<feat xlink:href="#line_369" value=" jeo vus crestrai trente set piez"/><!--  jeo vus crestrai trente set piez -->
+<feat xlink:href="#line_370" value=" pernez les resnes del destrier"/><!--  pernez les resnes del destrier -->
+<feat xlink:href="#line_371" value=" gesques a lui me cunduiez &quot;"/><!--  gesques a lui me cunduiez " -->
+<feat xlink:href="#line_372" value=" a icest mot s est eslessé"/><!--  a icest mot s est eslessé -->
+<feat xlink:href="#line_373" value=" gormund li ad treis darz lanciez"/><!--  gormund li ad treis darz lanciez -->
+<feat xlink:href="#line_374" value=" deu le guarri par sa pitié"/><!--  deu le guarri par sa pitié -->
+<feat xlink:href="#line_375" value=" k il ne l ad mie en char tochié"/><!--  k il ne l ad mie en char tochié -->
+<feat xlink:href="#line_376" value=" reis lowis fud mut irrié"/><!--  reis lowis fud mut irrié -->
+<feat xlink:href="#line_377" value=" a joste mie ne l requiert"/><!--  a joste mie ne l requiert -->
+<feat xlink:href="#line_378" value=" encuntre munt drescha l espie"/><!--  encuntre munt drescha l espie -->
+<feat xlink:href="#line_379" value=" si l ad feru parmi le chief"/><!--  si l ad feru parmi le chief -->
+<feat xlink:href="#line_380" value=" que les heaumes ad trenchié"/><!--  que les heaumes ad trenchié -->
+<feat xlink:href="#line_381" value=" e del hauberc le chapelier"/><!--  e del hauberc le chapelier -->
+<feat xlink:href="#line_382" value=" gesqu al brael le purfendie"/><!--  gesqu al brael le purfendie -->
+<feat xlink:href="#line_383" value=" que en pre en cheent les mertez"/><!--  que en pre en cheent les mertez -->
+<feat xlink:href="#line_384" value=" en terre cola li espie"/><!--  en terre cola li espie -->
+<feat xlink:href="#line_385" value=" tant bonement le pursiwie"/><!--  tant bonement le pursiwie -->
+<feat xlink:href="#line_386" value=" a ben petit que il ne chiet"/><!--  a ben petit que il ne chiet -->
+<feat xlink:href="#line_387" value=" quant sur le col del bon destrier"/><!--  quant sur le col del bon destrier -->
+<feat xlink:href="#line_388" value=" s est retenu li rei preisié"/><!--  s est retenu li rei preisié -->
+<feat xlink:href="#line_389" value=" mut li costa le hauberc dubler"/><!--  mut li costa le hauberc dubler -->
+<feat xlink:href="#line_390" value=" e le vert helme que ot al chief"/><!--  e le vert helme que ot al chief -->
+<feat xlink:href="#line_391" value=" al col sun escu de quartrés"/><!--  al col sun escu de quartrés -->
+<feat xlink:href="#line_392" value=" le fer del bon trenchant espie"/><!--  le fer del bon trenchant espie -->
+<feat xlink:href="#line_393" value=" ke de lé ot un dimi pié"/><!--  ke de lé ot un dimi pié -->
+<feat xlink:href="#line_394" value=" mut li costa a sus sachier"/><!--  mut li costa a sus sachier -->
+<feat xlink:href="#line_395" value=" e pur franceis s est vergoinié"/><!--  e pur franceis s est vergoinié -->
+<feat xlink:href="#line_396" value=" si s aficha sur ses estrius"/><!--  si s aficha sur ses estrius -->
+<feat xlink:href="#line_397" value=" le fer en plie sus ses piez"/><!--  le fer en plie sus ses piez -->
+<feat xlink:href="#line_398" value=" trei deie esloigna le quirrie"/><!--  trei deie esloigna le quirrie -->
+<feat xlink:href="#line_399" value=" de tel air s est redrescié"/><!--  de tel air s est redrescié -->
+<feat xlink:href="#line_400" value=" ke les corueilles sunt rumpiés"/><!--  ke les corueilles sunt rumpiés -->
+<feat xlink:href="#line_401" value=" ke trente jorz puis ne vesquie"/><!--  ke trente jorz puis ne vesquie -->
+<feat xlink:href="#line_402" value=" ceo fut damages e pechiez"/><!--  ceo fut damages e pechiez -->
+<feat xlink:href="#line_403" value=" car mut ert bon chevalier"/><!--  car mut ert bon chevalier -->
+<feat xlink:href="#line_404" value=" e en bataille fesant ben"/><!--  e en bataille fesant ben -->
+<feat xlink:href="#line_405" value=" a crestiens veir cunseillier"/><!--  a crestiens veir cunseillier -->
+<feat xlink:href="#line_406" value=" ceo dit la geste e il est veir"/><!--  ceo dit la geste e il est veir -->
+<feat xlink:href="#line_407" value=" puis n ot en france nul dreit eir"/><!--  puis n ot en france nul dreit eir -->
+<feat xlink:href="#line_408" value=" quant paiens virent gormund mort"/><!--  quant paiens virent gormund mort -->
+<feat xlink:href="#line_409" value=" fuiant s en turnent vers le port"/><!--  fuiant s en turnent vers le port -->
+<feat xlink:href="#line_410" value=" le margari les cris en ot"/><!--  le margari les cris en ot -->
+<feat xlink:href="#line_411" value=" a l estandart poinant tost"/><!--  a l estandart poinant tost -->
+<feat xlink:href="#line_412" value=" le rei gormund ad trové mort"/><!--  le rei gormund ad trové mort -->
+<feat xlink:href="#line_413" value=" treis feiz se pasma sur le cors"/><!--  treis feiz se pasma sur le cors -->
+<feat xlink:href="#line_414" value=" &quot; allas &quot; dist il &quot; veir dist le sort"/><!--  " allas " dist il " veir dist le sort -->
+<feat xlink:href="#line_415" value=" si jeo veneie en icest ost"/><!--  si jeo veneie en icest ost -->
+<feat xlink:href="#line_416" value=" que jeo i serreie u pris u mort"/><!--  que jeo i serreie u pris u mort -->
+<feat xlink:href="#line_417" value=" or sai jeo bien que veir dist trop &quot;"/><!--  or sai jeo bien que veir dist trop " -->
+<feat xlink:href="#line_418" value=" la bataille durra treis dis"/><!--  la bataille durra treis dis -->
+<feat xlink:href="#line_419" value=" entre gormund e reis lowis"/><!--  entre gormund e reis lowis -->
+<feat xlink:href="#line_420" value=" al quart comencent a fuïr"/><!--  al quart comencent a fuïr -->
+<feat xlink:href="#line_421" value=" turz e persanz e arabiz"/><!--  turz e persanz e arabiz -->
+<feat xlink:href="#line_422" value=" parmi vimeu e par pontif"/><!--  parmi vimeu e par pontif -->
+<feat xlink:href="#line_423" value=" vers les aloés saint valeri"/><!--  vers les aloés saint valeri -->
+<feat xlink:href="#line_424" value=" le margari en ot les crisz"/><!--  le margari en ot les crisz -->
+<feat xlink:href="#line_425" value=" il poinst vers eus si lur ad dit"/><!--  il poinst vers eus si lur ad dit -->
+<feat xlink:href="#line_426" value=" &quot; u fuez vus paiens chaitifz"/><!--  " u fuez vus paiens chaitifz -->
+<feat xlink:href="#line_427" value=" n avez recet en cest païs"/><!--  n avez recet en cest païs -->
+<feat xlink:href="#line_428" value=" parent ne uncle ne cusin"/><!--  parent ne uncle ne cusin -->
+<feat xlink:href="#line_429" value=" u vus puissiez revertir"/><!--  u vus puissiez revertir -->
+<feat xlink:href="#line_430" value=" tornez ariere les chimins"/><!--  tornez ariere les chimins -->
+<feat xlink:href="#line_431" value=" se vengerom le arabi"/><!--  se vengerom le arabi -->
+<feat xlink:href="#line_432" value=" nostre emperrere de leutiz"/><!--  nostre emperrere de leutiz -->
+<feat xlink:href="#line_433" value=" qui nos dona les granz païs"/><!--  qui nos dona les granz païs -->
+<feat xlink:href="#line_434" value=" le ver le gris e le ermin"/><!--  le ver le gris e le ermin -->
+<feat xlink:href="#line_435" value=" e les chastiaus e les fortiz &quot;"/><!--  e les chastiaus e les fortiz " -->
+<feat xlink:href="#line_436" value=" mais ne l entendent sarrazins"/><!--  mais ne l entendent sarrazins -->
+<feat xlink:href="#line_437" value=" fuiant s en turnent les chemins"/><!--  fuiant s en turnent les chemins -->
+<feat xlink:href="#line_438" value=" isembart veit n i metra fin"/><!--  isembart veit n i metra fin -->
+<feat xlink:href="#line_439" value=" tel dol en ot le margari"/><!--  tel dol en ot le margari -->
+<feat xlink:href="#line_440" value=" que il se quide esrager vif"/><!--  que il se quide esrager vif -->
+<feat xlink:href="#line_441" value=" a une part del camp se mist"/><!--  a une part del camp se mist -->
+<feat xlink:href="#line_442" value=" si fiert un chevalier seguin"/><!--  si fiert un chevalier seguin -->
+<feat xlink:href="#line_443" value=" cosin germein rei lowis"/><!--  cosin germein rei lowis -->
+<feat xlink:href="#line_444" value=" l escu li ad freit e malmis"/><!--  l escu li ad freit e malmis -->
+<feat xlink:href="#line_445" value=" le hauberc desmaela e malmist"/><!--  le hauberc desmaela e malmist -->
+<feat xlink:href="#line_446" value=" parmi le cors l espie li mist"/><!--  parmi le cors l espie li mist -->
+<feat xlink:href="#line_447" value=" tant cum la lance li tendi"/><!--  tant cum la lance li tendi -->
+<feat xlink:href="#line_448" value=" del bon cheval mort l abati"/><!--  del bon cheval mort l abati -->
+<feat xlink:href="#line_449" value=" e dous franceis des plus gentilz"/><!--  e dous franceis des plus gentilz -->
+<feat xlink:href="#line_450" value=" nos i a mot le margari"/><!--  nos i a mot le margari -->
+<feat xlink:href="#line_451" value=" e puis se rest al chemin"/><!--  e puis se rest al chemin -->
+<feat xlink:href="#line_452" value=" or vint gormund mort en la pree"/><!--  or vint gormund mort en la pree -->
+<feat xlink:href="#line_453" value=" envers sanglent gule baee"/><!--  envers sanglent gule baee -->
+<feat xlink:href="#line_454" value=" eis isembart par une estree"/><!--  eis isembart par une estree -->
+<feat xlink:href="#line_455" value=" vers li ad sa resne uuree"/><!--  vers li ad sa resne uuree -->
+<feat xlink:href="#line_456" value=" la fist grant del e grant pasmee"/><!--  la fist grant del e grant pasmee -->
+<feat xlink:href="#line_457" value=" oi mes orresz grant regretee"/><!--  oi mes orresz grant regretee -->
+<feat xlink:href="#line_458" value=" &quot; ahi &quot; dist il &quot; rei emperrere"/><!--  " ahi " dist il " rei emperrere -->
+<feat xlink:href="#line_459" value=" tant le vus dis plusures fiez"/><!--  tant le vus dis plusures fiez -->
+<feat xlink:href="#line_460" value=" a cirencestre a voz cuntrees"/><!--  a cirencestre a voz cuntrees -->
+<feat xlink:href="#line_461" value=" que franceis sunt gent aduree"/><!--  que franceis sunt gent aduree -->
+<feat xlink:href="#line_462" value=" mut le vus dis en la galee"/><!--  mut le vus dis en la galee -->
+<feat xlink:href="#line_463" value=" de ca troverez tel meisnee"/><!--  de ca troverez tel meisnee -->
+<feat xlink:href="#line_464" value=" mes veirement l avez trovee"/><!--  mes veirement l avez trovee -->
+<feat xlink:href="#line_465" value=" la gentil gent e l onuree"/><!--  la gentil gent e l onuree -->
+<feat xlink:href="#line_466" value=" tele ne fut de mere nee"/><!--  tele ne fut de mere nee -->
+<feat xlink:href="#line_467" value=" sur eus n ert terre cunquestee"/><!--  sur eus n ert terre cunquestee -->
+<feat xlink:href="#line_468" value=" ahi gormund rei emperere"/><!--  ahi gormund rei emperere -->
+<feat xlink:href="#line_469" value=" cum aviez la face clere"/><!--  cum aviez la face clere -->
+<feat xlink:href="#line_470" value=" la chere bele e culuree"/><!--  la chere bele e culuree -->
+<feat xlink:href="#line_471" value=" cum l avez ja teinte e muee"/><!--  cum l avez ja teinte e muee -->
+<feat xlink:href="#line_472" value=" a lowis bon emperere"/><!--  a lowis bon emperere -->
+<feat xlink:href="#line_473" value=" cum as oi france bien aquitee"/><!--  cum as oi france bien aquitee -->
+<feat xlink:href="#line_474" value=" e gormund l ad chier cumparee"/><!--  e gormund l ad chier cumparee -->
+<feat xlink:href="#line_475" value=" ja ne faudrai a sa meisnee"/><!--  ja ne faudrai a sa meisnee -->
+<feat xlink:href="#line_476" value=" pur tant cum pusse ceindre espee &quot;"/><!--  pur tant cum pusse ceindre espee " -->
+<feat xlink:href="#line_477" value=" isembart dist a sa voiz clere"/><!--  isembart dist a sa voiz clere -->
+<feat xlink:href="#line_478" value=" &quot; u fuiez vus gent esguaree"/><!--  " u fuiez vus gent esguaree -->
+<feat xlink:href="#line_479" value=" senz seinur en autre cuntree"/><!--  senz seinur en autre cuntree -->
+<feat xlink:href="#line_480" value=" turnez ariere les estrees"/><!--  turnez ariere les estrees -->
+<feat xlink:href="#line_481" value=" si vengerom nostre emperere"/><!--  si vengerom nostre emperere -->
+<feat xlink:href="#line_482" value=" l or e l argent e les soudees"/><!--  l or e l argent e les soudees -->
+<feat xlink:href="#line_483" value=" e les pelices engulees &quot;"/><!--  e les pelices engulees " -->
+<feat xlink:href="#line_484" value=" e eus si funt sanz redutee"/><!--  e eus si funt sanz redutee -->
+<feat xlink:href="#line_485" value=" ariere tornent les estrees"/><!--  ariere tornent les estrees -->
+<feat xlink:href="#line_486" value=" lowis ad sa gent jostee"/><!--  lowis ad sa gent jostee -->
+<feat xlink:href="#line_487" value=" emmi chevacha l emperrere"/><!--  emmi chevacha l emperrere -->
+<feat xlink:href="#line_488" value=" quant sarrazin li tresturnerent"/><!--  quant sarrazin li tresturnerent -->
+<feat xlink:href="#line_489" value=" la veissiez tant cop d espee"/><!--  la veissiez tant cop d espee -->
+<feat xlink:href="#line_490" value=" e tante lance enquarteree"/><!--  e tante lance enquarteree -->
+<feat xlink:href="#line_491" value=" tanz sarrazins par ces estrees"/><!--  tanz sarrazins par ces estrees -->
+<feat xlink:href="#line_492" value=" morir sanglent sor l erbe lee"/><!--  morir sanglent sor l erbe lee -->
+<feat xlink:href="#line_493" value=" en sun le munt a l estandart"/><!--  en sun le munt a l estandart -->
+<feat xlink:href="#line_494" value=" la u jut mort le satenas"/><!--  la u jut mort le satenas -->
+<feat xlink:href="#line_495" value=" vindrent paiens de tutes parz"/><!--  vindrent paiens de tutes parz -->
+<feat xlink:href="#line_496" value=" &quot; pur le tuen deu sire isembart"/><!--  " pur le tuen deu sire isembart -->
+<feat xlink:href="#line_497" value=" gentil ne nus faillir tu ja"/><!--  gentil ne nus faillir tu ja -->
+<feat xlink:href="#line_498" value=" n u ferai jeo &quot; dist isembart"/><!--  n u ferai jeo " dist isembart -->
+<feat xlink:href="#line_499" value=" &quot; tant cum li miens cors durra"/><!--  " tant cum li miens cors durra -->
+<feat xlink:href="#line_500" value=" paiens ne vos esmaiez pas &quot;"/><!--  paiens ne vos esmaiez pas " -->
+</featList>
+</paula>

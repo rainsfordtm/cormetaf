@@ -1,0 +1,63 @@
+Rules applied: R1, R4, R2
+Lines correct: 460 of 495
+Pass history:
+Tried rules R1; 454 lines correct.
+Tried rules R11; 409 lines correct.
+Tried rules R7; 254 lines correct.
+Tried rules R8; 420 lines correct.
+Tried rules R2; 422 lines correct.
+Tried rules R4; 427 lines correct.
+Tried rules R30; 421 lines correct.
+Tried rules R1, R11; 440 lines correct.
+Tried rules R1, R7; 265 lines correct.
+Tried rules R1, R8; 453 lines correct.
+Tried rules R1, R2; 455 lines correct.
+Tried rules R1, R4; 458 lines correct.
+Tried rules R1, R30; 454 lines correct.
+Tried rules R1, R4, R11; 444 lines correct.
+Tried rules R1, R4, R7; 261 lines correct.
+Tried rules R1, R4, R8; 457 lines correct.
+Tried rules R1, R4, R2; 460 lines correct.
+Tried rules R1, R4, R30; 458 lines correct.
+Tried rules R1, R4, R2, R11; 446 lines correct.
+Tried rules R1, R4, R2, R7; 261 lines correct.
+Tried rules R1, R4, R2, R8; 459 lines correct.
+Tried rules R1, R4, R2, R30; 460 lines correct.
+OPTIMIZED LINES
+4    29     son royaulme craintif , paoureux ,
+21    46     de medee soubz vostre main .
+72    97     assez avez congnu et veü
+88    113     ont refusee . | quel oultraige
+118    143     je les ay veü fortifier
+199    224     tant fouldroie comme tempeste .
+202    227     quant seroit pour faire enqueste
+203    228     de tout le monde , habondance
+214    239     car en noz faiz sommes eureux ;
+222    247     mais je vous cuydoie sur tous
+252    277     sçavoir ne voulions qu' ung seul point .
+339    364     povres , maleureux et coquins .
+343    368     courtaulx , plombees , chaussetrappes ...
+349    374     acop ne fault point d' autres ouvriers .
+356    381     ne sont point si tresresplandissant .
+371    396     nostre puissance on vous donne .
+375    400     car , congneu vostre renommee ,
+412    437     trescher sire . | il le fault bien ;
+424    449     n' espargnez femmes ne enfans .
+491    516     dessoubz la cheminee ! | paix !
+
+BAD LINES
+1    26     quant nous avons ce maleureux
+70    95     trescher seigneur , en ung tel affaire
+71    96     de sens n' estez pas despourveu .
+135    160     sans gaigner ; c' est toute joye .
+136    161     en efait , de guerre me resjoye ,
+141    166     autant que nul que de ce païs .
+161    186     sont tellez rebelles . | tost en place ,
+208    233     ceste terre je tien eureuse
+246    271     maleureux est qui ne redoubte
+271    296     toutes forteresses , tant soyent fortes .
+294    319     il humeroit plus d' honneur
+296    321     de vous deux n' est rien que plait .
+317    342     son devoir , veü le cas hatif .
+344    369     biquoquetz , heaulmes , sallades ...
+427    452     du cas avons le cueur tran

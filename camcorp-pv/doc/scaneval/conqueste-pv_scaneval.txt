@@ -1,0 +1,19 @@
+Rules applied: R2, R1
+Lines correct: 170 of 170
+Pass history:
+Tried rules R1; 151 lines correct.
+Tried rules R11; 134 lines correct.
+Tried rules R2; 153 lines correct.
+Tried rules R30; 134 lines correct.
+Tried rules R8; 134 lines correct.
+Tried rules R2, R1; 170 lines correct.
+Tried rules R2, R11; 153 lines correct.
+Tried rules R2, R30; 153 lines correct.
+Tried rules R2, R8; 153 lines correct.
+Tried rules R2, R1, R11; 170 lines correct.
+Tried rules R2, R1, R30; 170 lines correct.
+Tried rules R2, R1, R8; 170 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES

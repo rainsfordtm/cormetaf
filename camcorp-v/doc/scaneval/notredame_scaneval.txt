@@ -1,0 +1,37 @@
+Rules applied: R1, R8
+Lines correct: 608 of 621
+Pass history:
+Tried rules R1; 605 lines correct.
+Tried rules R11; 497 lines correct.
+Tried rules R7; 290 lines correct.
+Tried rules R8; 502 lines correct.
+Tried rules R2; 497 lines correct.
+Tried rules R4; 498 lines correct.
+Tried rules R30; 497 lines correct.
+Tried rules R1, R11; 601 lines correct.
+Tried rules R1, R7; 328 lines correct.
+Tried rules R1, R8; 608 lines correct.
+Tried rules R1, R2; 605 lines correct.
+Tried rules R1, R4; 591 lines correct.
+Tried rules R1, R30; 605 lines correct.
+Tried rules R1, R8, R11; 604 lines correct.
+Tried rules R1, R8, R7; 330 lines correct.
+Tried rules R1, R8, R2; 608 lines correct.
+Tried rules R1, R8, R4; 594 lines correct.
+Tried rules R1, R8, R30; 608 lines correct.
+OPTIMIZED LINES
+4    --     peussions hui ?
+16    --     noz places prendre et nous seons ,
+200    --     sui je homme qui doye ruser
+398    --     c' est nient , il fault que je me voise
+401    --     de dieu est du tout mis au nient
+499    --     m' aviez d' estre a moy venue :
+523    --     soiez en seür .
+534    --     mais pour nient prent ci de moy cure ,
+
+BAD LINES
+39    --     qui tant sainte damoiselle ,
+228    --     or m' atens .
+280    --     « il n' est vivant qui me doie
+281    --     blamer de celle servir
+282    --     dont tout bien me peut venir . »

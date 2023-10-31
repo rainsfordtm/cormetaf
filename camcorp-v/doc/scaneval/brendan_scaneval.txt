@@ -1,0 +1,76 @@
+Rules applied: R2, R1
+Lines correct: 442 of 500
+Pass history:
+Tried rules R1; 428 lines correct.
+Tried rules R11; 426 lines correct.
+Tried rules R2; 439 lines correct.
+Tried rules R30; 426 lines correct.
+Tried rules R8; 426 lines correct.
+Tried rules R2, R1; 442 lines correct.
+Tried rules R2, R11; 439 lines correct.
+Tried rules R2, R30; 439 lines correct.
+Tried rules R2, R8; 439 lines correct.
+Tried rules R2, R1, R11; 442 lines correct.
+Tried rules R2, R1, R30; 442 lines correct.
+Tried rules R2, R1, R8; 442 lines correct.
+OPTIMIZED LINES
+30    31     Prist e l' ordre e les habiz ,
+37    38     Par sa vertud que ert ample .
+63    64     Quel merite il recevrunt .
+123    124     Puis que out oït d' els les diz ;
+150    151     Cumandet eals lui obeïr ,
+182    183     Ne plus que a quarante dis
+204    205     E Deu prïet escordement
+233    234     Ne u devrunt lur curs prendre .
+269    270     De emperur mult riche feu .
+344    345     Dist al frere ço que il volt ,
+356    357     Pain lur portet e le beivre
+371    372     Que il eirent par Deu cumant ,
+373    374     Par miracles que unt voüt .
+419    420     Ja ci n' ert traite öeile ;
+424    425     En cel isle anuit entras
+435    436     Vait a l' isle que il bien vit .
+442    443     Beal servise e mult entrin
+448    449     De la busche en vunt quere
+468    469     N' est pas terre , ainz est beste
+
+BAD LINES
+5    6     E par le cunseil qui ert en tei ,
+7    8     Li apostoiles danz Benedeiz .
+38    39     Li abes Brendan prist en purpens ,
+45    46     Quer a trestuz ert amis .
+107    108     Tuz les meilurs qu' il i vit ,
+113    114     Que ço enprist vassalment ;
+147    148     Cument a Deu le voleit creire .
+174    175     Tut dedenz de fust sapin ,
+179    180     E cume la nef porter en pout .
+222    223     Li abes dunc les amonestet ,
+226    227     Quant averez vent , siglez sulunc ;
+234    235     Un meis sanz vent nagerent tut plein
+241    242     A ses fetheilz Deus n' est luinz :
+245    246     Deus li truverat ço que lui estout .
+253    254     U nul d' eals entrer n' ose .
+263    264     Cil fud faitiz en le rocheit blef .
+280    281     Enz en le palais Brandan se mist
+281    282     E sur un banc puis s' asist .
+291    292     Que forment fud e bone e bele .
+298    299     Pur ço les volt li abes guarnir
+302    303     Tant mangerent cum lur plout ,
+313    314     Cume dïables celui teneit ,
+314    315     Cume lui tendeit un hanap de or ;
+315    316     Plus riche n' i at en un tresor .
+326    327     Treis jurs enters i sujurnerent
+347    348     Veanz trestuz mort le prent .
+352    353     Cist fud un des tres freres
+365    366     Que vus ici asez n' en aiez :
+367    368     En tel leu u plus prendrez . "
+383    384     E n' i at nul de nager se tart .
+391    392     Ne nus muverum devant terz di .
+410    411     E si lur falt nule rien ,
+411    412     Tut lur truverat , ço promet bien .
+432    433     Mult pres d' ici , la vus truverai ;
+438    439     Eissi vait qui Deus maine .
+464    465     E de dis liuues bien choisirent
+475    476     En lui puis mult mielz crerrez .
+479    480     Bien ad curut de mer un grant pan .
+480    481     Veient terre alte e clere ,

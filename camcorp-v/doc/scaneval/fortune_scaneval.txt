@@ -1,0 +1,53 @@
+Rules applied: R1, R8
+Lines correct: 487 of 516
+Pass history:
+Tried rules R1; 484 lines correct.
+Tried rules R11; 391 lines correct.
+Tried rules R7; 230 lines correct.
+Tried rules R8; 406 lines correct.
+Tried rules R2; 405 lines correct.
+Tried rules R4; 395 lines correct.
+Tried rules R30; 404 lines correct.
+Tried rules R1, R11; 465 lines correct.
+Tried rules R1, R7; 265 lines correct.
+Tried rules R1, R8; 487 lines correct.
+Tried rules R1, R2; 481 lines correct.
+Tried rules R1, R4; 467 lines correct.
+Tried rules R1, R30; 484 lines correct.
+Tried rules R1, R8, R11; 468 lines correct.
+Tried rules R1, R8, R7; 266 lines correct.
+Tried rules R1, R8, R2; 484 lines correct.
+Tried rules R1, R8, R4; 468 lines correct.
+Tried rules R1, R8, R30; 487 lines correct.
+OPTIMIZED LINES
+7    58     Cinq ans d aage avoie avec .XX.
+21    72     Quan que on voit ou monde regner .
+32    83     Et meismes les façons des corps ,
+57    108     Si fait bon en service estre
+114    165     Et , pour ce , est drois que je le die :
+232    283     Et , pour ce , estoit il honoré
+237    288     Qui trop mieulx vault que or , par saint Pierre !
+249    300     Meismes les affollez fait sages ,
+293    344     Non obstant eust il moult appris ,
+317    368     Dieu freres et seurs tous nous sonne .
+349    400     Que tous semblables les eussions .
+354    405     Que elle meismes m alaicta ,
+380    431     Car je y eus bonne voulenté
+397    448     Par quoy l avoir dessus dit n eüsse ,
+505    556     Et , pour ce , en devins trop plus belle ,
+
+BAD LINES
+52    103     Servir , ce dit l Escripture ,
+53    104     Est regner qui met sa cure
+96    147     Homme suis , je ne ment pas ,
+132    183     Ne lui failloit , ne paour avoir
+324    375     Le nom du plus parfait homme ,
+325    376     Qui oncques fu , le mien nomme ,
+326    377     I. .N. .E. faut avec mettre ,
+327    378     Plus n y affiert autre lettre .
+358    409     Lors n avoit cure ne soing ,
+361    412     Avec les enfens de mon aage ,
+378    429     Que riche eusse esté , comble et pleine
+422    473     Pour ce que riens je n avoie en ce
+424    475     Affin que me peusse chevir
+448    499     En maniere que j apperceusse ,

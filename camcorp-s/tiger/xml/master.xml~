@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<corpus id="ID">
+    <head>
+        <meta>
+            <name/>
+            <author/>
+            <date/>
+            <description/>
+            <format>
+                Exported by tigertools.py, using syntag and synfunc tags
+            </format>
+            <history/>
+        </meta>
+        <annotation>
+            <feature domain="T" name="word"/>
+            <feature domain="T" name="syntag"/>
+	    <feature domain="T" name="syntag2"/>
+            <feature domain="T" name="lemma"/>
+	    <feature domain="T" name="speaker"/>
+	    <feature domain="T" name="ref"/>
+	    <feature domain="T" name="syllabified"/>
+            <feature domain="NT" name="cat"/>
+            <feature domain="NT" name="slength"/>
+            <edgelabel>
+		<value name="--"/>
+            </edgelabel>
+        </annotation>
+    </head>
+    <body>
+        <subcorpus external="file:quatrelivres_tiger.xml" name="quatrelivres"/>
+    </body>
+</corpus>

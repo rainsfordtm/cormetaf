@@ -1,0 +1,58 @@
+Rules applied: R1, R4, R8, R2
+Lines correct: 418 of 445
+Pass history:
+Tried rules R1; 409 lines correct.
+Tried rules R11; 360 lines correct.
+Tried rules R7; 197 lines correct.
+Tried rules R8; 370 lines correct.
+Tried rules R2; 368 lines correct.
+Tried rules R4; 373 lines correct.
+Tried rules R30; 366 lines correct.
+Tried rules R1, R11; 403 lines correct.
+Tried rules R1, R7; 205 lines correct.
+Tried rules R1, R8; 411 lines correct.
+Tried rules R1, R2; 411 lines correct.
+Tried rules R1, R4; 414 lines correct.
+Tried rules R1, R30; 409 lines correct.
+Tried rules R1, R4, R11; 408 lines correct.
+Tried rules R1, R4, R7; 206 lines correct.
+Tried rules R1, R4, R8; 416 lines correct.
+Tried rules R1, R4, R2; 416 lines correct.
+Tried rules R1, R4, R30; 414 lines correct.
+Tried rules R1, R4, R8, R11; 410 lines correct.
+Tried rules R1, R4, R8, R7; 205 lines correct.
+Tried rules R1, R4, R8, R2; 418 lines correct.
+Tried rules R1, R4, R8, R30; 416 lines correct.
+Tried rules R1, R4, R8, R2, R11; 412 lines correct.
+Tried rules R1, R4, R8, R2, R7; 205 lines correct.
+Tried rules R1, R4, R8, R2, R30; 418 lines correct.
+OPTIMIZED LINES
+46    47     seurement , sans parler plus hault ,
+61    63     pource qu' on veoyt trop d' ieulx ouvers .
+119    121     j' eusse bien dict : dieu vous avant !
+120    122     mais c' eust esté faict en village .
+121    123     sy tu joue ton personnage ,
+180    182     pour veoir loing et en divers lieux ,
+191    193     a veue d' euil , sans art d' anemy .
+231    233     et seriez sain comme un piot .
+267    269     qui eust cuidé qu' il eust tant seü ?
+271    273     quant j' ey bien son cas aperceu ,
+273    275     qui eust cuydé qu' il eust tant seü ?
+277    279     quant j' ey bien son cas aperceu ,
+279    281     qui eust cuydé qu' il eust tant seü ?
+350    352     il semble a les veoir qu' i l' agasent .
+362    364     monde , s' on leur a rien acreu ,
+380    382     quoy ? y vous a rompeu la teste ?
+395    397     soublz l' abaye de frevaulx ,
+
+BAD LINES
+30    31     sans s' effreer , chascun s' aseure ;
+105    107     pleust a dieu qu' i n' y eust que moy
+151    153     atendés a demain , atendés a demain !
+248    250     et vous , savez rien aussi ?
+280    282     jamais il ne seroyt deceu
+339    341     pour veoir que c' est a retirer .
+355    357     y me fault tous heurs endurer ,
+389    391     voyere , en plusieurs mos arunés ,
+408    410     voyere , mais donc il vous fauldra
+423    425     je vous ay veü longue saison ;

@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.abeville_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.abeville.line.xml">
+<feat xlink:href="#line_0" value=" or escoutez une merveille"/><!--  or escoutez une merveille -->
+<feat xlink:href="#line_1" value=" - onques n&apos; oïtes sa pareille -"/><!--  - onques n' oïtes sa pareille - -->
+<feat xlink:href="#line_2" value=" que je vos veil dire et conter ."/><!--  que je vos veil dire et conter . -->
+<feat xlink:href="#line_3" value=" or metez peine a l&apos; escouter :"/><!--  or metez peine a l' escouter : -->
+<feat xlink:href="#line_4" value=" parrolle qui n&apos; est entendue ,"/><!--  parrolle qui n' est entendue , -->
+<feat xlink:href="#line_5" value=" sachiez en fin qu&apos; el est perdue !"/><!--  sachiez en fin qu' el est perdue ! -->
+<feat xlink:href="#line_6" value=" a abevile ot un bochier ."/><!--  a abevile ot un bochier . -->
+<feat xlink:href="#line_7" value=" molt l&apos; avoient si voisin chier :"/><!--  molt l' avoient si voisin chier : -->
+<feat xlink:href="#line_8" value=" n&apos; estoit pas fel ne mesdisant ,"/><!--  n' estoit pas fel ne mesdisant , -->
+<feat xlink:href="#line_9" value=" més cortois , sages et vaillant ,"/><!--  més cortois , sages et vaillant , -->
+<feat xlink:href="#line_10" value=" et leaus hom de son mestier ;"/><!--  et leaus hom de son mestier ; -->
+<feat xlink:href="#line_11" value=" et s&apos; avoit sovent grant mestier"/><!--  et s' avoit sovent grant mestier -->
+<feat xlink:href="#line_12" value=" ses povres voisins soufreiteus :"/><!--  ses povres voisins soufreiteus : -->
+<feat xlink:href="#line_13" value=" n&apos; iert pas aver ne coveiteus ."/><!--  n' iert pas aver ne coveiteus . -->
+<feat xlink:href="#line_14" value=" a feste seint martin avint"/><!--  a feste seint martin avint -->
+<feat xlink:href="#line_15" value=" qu&apos; a oisemont au marchié vint"/><!--  qu' a oisemont au marchié vint -->
+<feat xlink:href="#line_16" value=" le bouchier bestes acheter ."/><!--  le bouchier bestes acheter . -->
+<feat xlink:href="#line_17" value=" més n&apos; i fist fors voie gaster :"/><!--  més n' i fist fors voie gaster : -->
+<feat xlink:href="#line_18" value=" molt i trova chieres les bestes ,"/><!--  molt i trova chieres les bestes , -->
+<feat xlink:href="#line_19" value=" ces cochons felons et rubestes ,"/><!--  ces cochons felons et rubestes , -->
+<feat xlink:href="#line_20" value=" felons et de mavés afere ;"/><!--  felons et de mavés afere ; -->
+<feat xlink:href="#line_21" value=" ne volt a eus nul marchié fere ."/><!--  ne volt a eus nul marchié fere . -->
+<feat xlink:href="#line_22" value=" povrement sa voie enploia ,"/><!--  povrement sa voie enploia , -->
+<feat xlink:href="#line_23" value=" c&apos; onques denier n&apos; i enploia ."/><!--  c' onques denier n' i enploia . -->
+<feat xlink:href="#line_24" value=" aprés espars marchié s&apos; en torne ."/><!--  aprés espars marchié s' en torne . -->
+<feat xlink:href="#line_25" value=" de tost aler molt bien s&apos; atourne ;"/><!--  de tost aler molt bien s' atourne ; -->
+<feat xlink:href="#line_26" value=" sa chape porte sus s&apos; espee ,"/><!--  sa chape porte sus s' espee , -->
+<feat xlink:href="#line_27" value=" que pres estoit de la vespree ."/><!--  que pres estoit de la vespree . -->
+<feat xlink:href="#line_28" value=" oez comment il esploita :"/><!--  oez comment il esploita : -->
+<feat xlink:href="#line_29" value=" droit a bailluel li anuita ,"/><!--  droit a bailluel li anuita , -->
+<feat xlink:href="#line_30" value=" a mi voie de son manoir ;"/><!--  a mi voie de son manoir ; -->
+<feat xlink:href="#line_31" value=" avespré fu , si fist molt noir ."/><!--  avespré fu , si fist molt noir . -->
+<feat xlink:href="#line_32" value=" pense qu&apos; il més avant n&apos; ira ,"/><!--  pense qu' il més avant n' ira , -->
+<feat xlink:href="#line_33" value=" més en la vile remeindra :"/><!--  més en la vile remeindra : -->
+<feat xlink:href="#line_34" value=" molt redoutoit la male gent ,"/><!--  molt redoutoit la male gent , -->
+<feat xlink:href="#line_35" value=" que ne li toillent son argent ,"/><!--  que ne li toillent son argent , -->
+<feat xlink:href="#line_36" value=" dont il avoit a grant foison ."/><!--  dont il avoit a grant foison . -->
+<feat xlink:href="#line_37" value=" a l&apos; entree d&apos; une meson"/><!--  a l' entree d' une meson -->
+<feat xlink:href="#line_38" value=" vit une preudefame estant ;"/><!--  vit une preudefame estant ; -->
+<feat xlink:href="#line_39" value=" si li demanda et dist tant :"/><!--  si li demanda et dist tant : -->
+<feat xlink:href="#line_40" value=" &quot; a il en ceste vile a vendre"/><!--  " a il en ceste vile a vendre -->
+<feat xlink:href="#line_41" value=" nule rien , c&apos; on i puist despendre"/><!--  nule rien , c' on i puist despendre -->
+<feat xlink:href="#line_42" value=" du soen por son cors aesier ?"/><!--  du soen por son cors aesier ? -->
+<feat xlink:href="#line_43" value=" c&apos; onques n&apos; amai autri dangier . &quot;"/><!--  c' onques n' amai autri dangier . " -->
+<feat xlink:href="#line_44" value=" la preude fame li respont :"/><!--  la preude fame li respont : -->
+<feat xlink:href="#line_45" value=" &quot; sire , por deu qui fist le mont ,"/><!--  " sire , por deu qui fist le mont , -->
+<feat xlink:href="#line_46" value=" ce dit mon baron sire mile ,"/><!--  ce dit mon baron sire mile , -->
+<feat xlink:href="#line_47" value=" de vin n&apos; a point en ceste vile ,"/><!--  de vin n' a point en ceste vile , -->
+<feat xlink:href="#line_48" value=" fors nos prestre sire gautier :"/><!--  fors nos prestre sire gautier : -->
+<feat xlink:href="#line_49" value=" a deus tonneaus en son chantier ,"/><!--  a deus tonneaus en son chantier , -->
+<feat xlink:href="#line_50" value=" qu&apos; il amena de nojentel ."/><!--  qu' il amena de nojentel . -->
+<feat xlink:href="#line_51" value=" tor jors a il vin en tonel :"/><!--  tor jors a il vin en tonel : -->
+<feat xlink:href="#line_52" value=" alez avec li ostel prendre !"/><!--  alez avec li ostel prendre ! -->
+<feat xlink:href="#line_53" value=" - dame , g&apos; irai sans plus atendre ,"/><!--  - dame , g' irai sans plus atendre , -->
+<feat xlink:href="#line_54" value=" dist le bouchier , et deus vos saut !"/><!--  dist le bouchier , et deus vos saut ! -->
+<feat xlink:href="#line_55" value=" - a foi , sire , dieus vos consaut . &quot;"/><!--  - a foi , sire , dieus vos consaut . " -->
+<feat xlink:href="#line_56" value=" le deans se siet sus son sueil ,"/><!--  le deans se siet sus son sueil , -->
+<feat xlink:href="#line_57" value=" qui molt avoit coilli d&apos; orgueil ."/><!--  qui molt avoit coilli d' orgueil . -->
+<feat xlink:href="#line_58" value=" il le salue et si li dit :"/><!--  il le salue et si li dit : -->
+<feat xlink:href="#line_59" value=" &quot; beau sire , se deus vos aït ,"/><!--  " beau sire , se deus vos aït , -->
+<feat xlink:href="#line_60" value=" hebergiez moi par charité ,"/><!--  hebergiez moi par charité , -->
+<feat xlink:href="#line_61" value=" si ferez aumosne et bonté !"/><!--  si ferez aumosne et bonté ! -->
+<feat xlink:href="#line_62" value=" - preudom , dist il , dieus vos hebert !"/><!--  - preudom , dist il , dieus vos hebert ! -->
+<feat xlink:href="#line_63" value=" foi que je doi a seint hebert ,"/><!--  foi que je doi a seint hebert , -->
+<feat xlink:href="#line_64" value=" ja laiz hom ceanz ne gerra"/><!--  ja laiz hom ceanz ne gerra -->
+<feat xlink:href="#line_65" value=" ne avec moi ne mengera ,"/><!--  ne avec moi ne mengera , -->
+<feat xlink:href="#line_66" value=" tant ne savroit estre loial !"/><!--  tant ne savroit estre loial ! -->
+<feat xlink:href="#line_67" value=" querez tant amont et aval"/><!--  querez tant amont et aval -->
+<feat xlink:href="#line_68" value=" que vos puissiez ostel avoir :"/><!--  que vos puissiez ostel avoir : -->
+<feat xlink:href="#line_69" value=" ja ne gerrez en mon manoir ,"/><!--  ja ne gerrez en mon manoir , -->
+<feat xlink:href="#line_70" value=" car ce n&apos; est mie costume a prestre"/><!--  car ce n' est mie costume a prestre -->
+<feat xlink:href="#line_71" value=" que vileins hons gise en son estre ."/><!--  que vileins hons gise en son estre . -->
+<feat xlink:href="#line_72" value=" - vilein ? sire , qu&apos; avez vos dit ?"/><!--  - vilein ? sire , qu' avez vos dit ? -->
+<feat xlink:href="#line_73" value=" tenez vos hom lai en despit ?"/><!--  tenez vos hom lai en despit ? -->
+<feat xlink:href="#line_74" value=" - oïl , certes , si ai reson !"/><!--  - oïl , certes , si ai reson ! -->
+<feat xlink:href="#line_75" value=" alez en sus de ma meson ,"/><!--  alez en sus de ma meson , -->
+<feat xlink:href="#line_76" value=" il m&apos; est avis ce soit ramposne ."/><!--  il m' est avis ce soit ramposne . -->
+<feat xlink:href="#line_77" value=" - nenil , sire , einz seroit aumosne"/><!--  - nenil , sire , einz seroit aumosne -->
+<feat xlink:href="#line_78" value=" s&apos; imés me prestiez l&apos; ostel ,"/><!--  s' imés me prestiez l' ostel , -->
+<feat xlink:href="#line_79" value=" car en la vile n&apos; a nul tel !"/><!--  car en la vile n' a nul tel ! -->
+<feat xlink:href="#line_80" value=" je sai molt bien le mien despendre :"/><!--  je sai molt bien le mien despendre : -->
+<feat xlink:href="#line_81" value=" se du vostre me volez vendre ,"/><!--  se du vostre me volez vendre , -->
+<feat xlink:href="#line_82" value=" molt volentiers l&apos; acheteroie"/><!--  molt volentiers l' acheteroie -->
+<feat xlink:href="#line_83" value=" et molt bon gré vos en saroie ."/><!--  et molt bon gré vos en saroie . -->
+<feat xlink:href="#line_84" value=" riens nule ne vos veil couster !"/><!--  riens nule ne vos veil couster ! -->
+<feat xlink:href="#line_85" value=" - ausi bien te vendroit hurter"/><!--  - ausi bien te vendroit hurter -->
+<feat xlink:href="#line_86" value=" ta teste a cele dure pierre ,"/><!--  ta teste a cele dure pierre , -->
+<feat xlink:href="#line_87" value=" ce dit le deans , par seint pierre ,"/><!--  ce dit le deans , par seint pierre , -->
+<feat xlink:href="#line_88" value=" ja ne gerras en mon manoir !"/><!--  ja ne gerras en mon manoir ! -->
+<feat xlink:href="#line_89" value=" - deable i puise remanoir ,"/><!--  - deable i puise remanoir , -->
+<feat xlink:href="#line_90" value=" dist le bouchier , fous chapeleins !"/><!--  dist le bouchier , fous chapeleins ! -->
+<feat xlink:href="#line_91" value=" pautonnier estes et vileins ! &quot;"/><!--  pautonnier estes et vileins ! " -->
+<feat xlink:href="#line_92" value=" a tant s&apos; en va , ne veut plus dire ,"/><!--  a tant s' en va , ne veut plus dire , -->
+<feat xlink:href="#line_93" value=" tot corocié et tot plein d&apos; ire ."/><!--  tot corocié et tot plein d' ire . -->
+<feat xlink:href="#line_94" value=" quant il fors de la vile vint ,"/><!--  quant il fors de la vile vint , -->
+<feat xlink:href="#line_95" value=" oez comment il li avint :"/><!--  oez comment il li avint : -->
+<feat xlink:href="#line_96" value=" devant une gaste meson"/><!--  devant une gaste meson -->
+<feat xlink:href="#line_97" value=" - decheu furent li chevron -"/><!--  - decheu furent li chevron - -->
+<feat xlink:href="#line_98" value=" encontre un grant tropé d&apos; oeilles ."/><!--  encontre un grant tropé d' oeilles . -->
+<feat xlink:href="#line_99" value=" por dieu , or escoutez merveilles !"/><!--  por dieu , or escoutez merveilles ! -->
+<feat xlink:href="#line_100" value=" il demanda au pastorel ,"/><!--  il demanda au pastorel , -->
+<feat xlink:href="#line_101" value=" qui meinte vache et meint torel"/><!--  qui meinte vache et meint torel -->
+<feat xlink:href="#line_102" value=" avoit gardé en sa janesce :"/><!--  avoit gardé en sa janesce : -->
+<feat xlink:href="#line_103" value=" &quot; pastour , se dieus te doint leesce ,"/><!--  " pastour , se dieus te doint leesce , -->
+<feat xlink:href="#line_104" value=" qui est l&apos; avoir ? - sire , nos prestre ."/><!--  qui est l' avoir ? - sire , nos prestre . -->
+<feat xlink:href="#line_105" value=" - de par deu , frere , puist il estre ! &quot;"/><!--  - de par deu , frere , puist il estre ! " -->
+<feat xlink:href="#line_106" value=" or oiez que le bouchier fist :"/><!--  or oiez que le bouchier fist : -->
+<feat xlink:href="#line_107" value=" tot coiement un mouton prist ,"/><!--  tot coiement un mouton prist , -->
+<feat xlink:href="#line_108" value=" que li pastour ne s&apos; aperchut ;"/><!--  que li pastour ne s' aperchut ; -->
+<feat xlink:href="#line_109" value=" bien l&apos; a enginié et deçut :"/><!--  bien l' a enginié et deçut : -->
+<feat xlink:href="#line_110" value=" onc ne le vit ne mot n&apos; en sot ."/><!--  onc ne le vit ne mot n' en sot . -->
+<feat xlink:href="#line_111" value=" le bouchier au plus tost qu&apos; il pot"/><!--  le bouchier au plus tost qu' il pot -->
+<feat xlink:href="#line_112" value=" meintenant a son col le rue ;"/><!--  meintenant a son col le rue ; -->
+<feat xlink:href="#line_113" value=" par mi une foreine rue"/><!--  par mi une foreine rue -->
+<feat xlink:href="#line_114" value=" vint au maneir au prestre ariere ,"/><!--  vint au maneir au prestre ariere , -->
+<feat xlink:href="#line_115" value=" qui molt fu fier de grant maniere ,"/><!--  qui molt fu fier de grant maniere , -->
+<feat xlink:href="#line_116" value=" si com il dut clore la porte ."/><!--  si com il dut clore la porte . -->
+<feat xlink:href="#line_117" value=" et cil , qui le mouton aporte ,"/><!--  et cil , qui le mouton aporte , -->
+<feat xlink:href="#line_118" value=" li dist : &quot; sire , cel dieu vos saut"/><!--  li dist : " sire , cel dieu vos saut -->
+<feat xlink:href="#line_119" value=" qui seur touz homes puet et vaut ! &quot;"/><!--  qui seur touz homes puet et vaut ! " -->
+<feat xlink:href="#line_120" value=" li dean son salu li rent ,"/><!--  li dean son salu li rent , -->
+<feat xlink:href="#line_121" value=" puis li demande inellement :"/><!--  puis li demande inellement : -->
+<feat xlink:href="#line_122" value=" &quot; dont ies tu ? - d&apos; abevile sui ;"/><!--  " dont ies tu ? - d' abevile sui ; -->
+<feat xlink:href="#line_123" value=" d&apos; oisemont vieing , au marchié fui ;"/><!--  d' oisemont vieing , au marchié fui ; -->
+<feat xlink:href="#line_124" value=" n&apos; i acheté c&apos; un seul mouton ,"/><!--  n' i acheté c' un seul mouton , -->
+<feat xlink:href="#line_125" value=" més cil a molt cras le crepon !"/><!--  més cil a molt cras le crepon ! -->
+<feat xlink:href="#line_126" value=" sire , ennuit més me hebergiez ,"/><!--  sire , ennuit més me hebergiez , -->
+<feat xlink:href="#line_127" value=" car bien en estes aesiez ."/><!--  car bien en estes aesiez . -->
+<feat xlink:href="#line_128" value=" je ne sui aver ne eschars :"/><!--  je ne sui aver ne eschars : -->
+<feat xlink:href="#line_129" value=" anuit iert mengie la chars"/><!--  anuit iert mengie la chars -->
+<feat xlink:href="#line_130" value=" de mon mouton , por qu&apos; il vos plese ,"/><!--  de mon mouton , por qu' il vos plese , -->
+<feat xlink:href="#line_131" value=" car porté l&apos; ai a grant mesese ;"/><!--  car porté l' ai a grant mesese ; -->
+<feat xlink:href="#line_132" value=" il est grant , si a char assez :"/><!--  il est grant , si a char assez : -->
+<feat xlink:href="#line_133" value=" nos en aron trestouz assez . &quot;"/><!--  nos en aron trestouz assez . " -->
+<feat xlink:href="#line_134" value=" le prestre pense qu&apos; il dit voir ,"/><!--  le prestre pense qu' il dit voir , -->
+<feat xlink:href="#line_135" value=" qui molt golouse autrui avoir :"/><!--  qui molt golouse autrui avoir : -->
+<feat xlink:href="#line_136" value=" mieus aime un mort que quatre vis ,"/><!--  mieus aime un mort que quatre vis , -->
+<feat xlink:href="#line_137" value=" ensi com moi en est avis ."/><!--  ensi com moi en est avis . -->
+<feat xlink:href="#line_138" value=" &quot; amis , dist il , molt volentiers !"/><!--  " amis , dist il , molt volentiers ! -->
+<feat xlink:href="#line_139" value=" se estiez ore vos tiers ,"/><!--  se estiez ore vos tiers , -->
+<feat xlink:href="#line_140" value=" s&apos; ariez ostel a talent ;"/><!--  s' ariez ostel a talent ; -->
+<feat xlink:href="#line_141" value=" onc nul hom ne me trova lent"/><!--  onc nul hom ne me trova lent -->
+<feat xlink:href="#line_142" value=" de cortoisie et d&apos; aneur fere ."/><!--  de cortoisie et d' aneur fere . -->
+<feat xlink:href="#line_143" value=" vos me semblez de bon afere . &quot;"/><!--  vos me semblez de bon afere . " -->
+<feat xlink:href="#line_144" value=" puis li dist : &quot; comment est vos nons ?"/><!--  puis li dist : " comment est vos nons ? -->
+<feat xlink:href="#line_145" value=" - sire , par deu et par ses nons ,"/><!--  - sire , par deu et par ses nons , -->
+<feat xlink:href="#line_146" value=" j&apos; ai non davi en droit baptesme ,"/><!--  j' ai non davi en droit baptesme , -->
+<feat xlink:href="#line_147" value=" quant je rechui l&apos; uille et le cresme ."/><!--  quant je rechui l' uille et le cresme . -->
+<feat xlink:href="#line_148" value=" traveilliez sui en ceste voie ;"/><!--  traveilliez sui en ceste voie ; -->
+<feat xlink:href="#line_149" value=" ja dieus de ses ieus ne le voie"/><!--  ja dieus de ses ieus ne le voie -->
+<feat xlink:href="#line_150" value=" celui qui ceste beste fu !"/><!--  celui qui ceste beste fu ! -->
+<feat xlink:href="#line_151" value=" huimais seroie pres du fu ! &quot;"/><!--  huimais seroie pres du fu ! " -->
+<feat xlink:href="#line_152" value=" adont entrent en la meson ,"/><!--  adont entrent en la meson , -->
+<feat xlink:href="#line_153" value=" ou li feu estoit en seson ."/><!--  ou li feu estoit en seson . -->
+<feat xlink:href="#line_154" value=" des qu&apos; il ot le mouton mis jus ,"/><!--  des qu' il ot le mouton mis jus , -->
+<feat xlink:href="#line_155" value=" ariere garde sus et jus ;"/><!--  ariere garde sus et jus ; -->
+<feat xlink:href="#line_156" value=" une coignie a demandee ,"/><!--  une coignie a demandee , -->
+<feat xlink:href="#line_157" value=" et hon li a tost aportee ."/><!--  et hon li a tost aportee . -->
+<feat xlink:href="#line_158" value=" la beste asome et puis l&apos; escorche ,"/><!--  la beste asome et puis l' escorche , -->
+<feat xlink:href="#line_159" value=" sus un banc a toute l&apos; escorche ,"/><!--  sus un banc a toute l' escorche , -->
+<feat xlink:href="#line_160" value=" pendi la pel , lour euz voiant ."/><!--  pendi la pel , lour euz voiant . -->
+<feat xlink:href="#line_161" value=" &quot; sire , dist il , venez avant ,"/><!--  " sire , dist il , venez avant , -->
+<feat xlink:href="#line_162" value=" por amor deu , car m&apos; esgardez"/><!--  por amor deu , car m' esgardez -->
+<feat xlink:href="#line_163" value=" com cest mouton est enlardez !"/><!--  com cest mouton est enlardez ! -->
+<feat xlink:href="#line_164" value=" vez com il est cras et refés !"/><!--  vez com il est cras et refés ! -->
+<feat xlink:href="#line_165" value=" més molt m&apos; en a grevé le fes ,"/><!--  més molt m' en a grevé le fes , -->
+<feat xlink:href="#line_166" value=" quant de si loing l&apos; ai aporté ."/><!--  quant de si loing l' ai aporté . -->
+<feat xlink:href="#line_167" value=" or en fetes vos volenté !"/><!--  or en fetes vos volenté ! -->
+<feat xlink:href="#line_168" value=" or en cuisiez l&apos; espaulle en rost ,"/><!--  or en cuisiez l' espaulle en rost , -->
+<feat xlink:href="#line_169" value=" et s&apos; en fetes bolir tantost"/><!--  et s' en fetes bolir tantost -->
+<feat xlink:href="#line_170" value=" c&apos; asez en aient la mesnie ."/><!--  c' asez en aient la mesnie . -->
+<feat xlink:href="#line_171" value=" je ne di mie vilenie :"/><!--  je ne di mie vilenie : -->
+<feat xlink:href="#line_172" value=" einz més tant bele char ne fu !"/><!--  einz més tant bele char ne fu ! -->
+<feat xlink:href="#line_173" value=" metez en rostir sus le fu ;"/><!--  metez en rostir sus le fu ; -->
+<feat xlink:href="#line_174" value=" vez com el est tendre et refete :"/><!--  vez com el est tendre et refete : -->
+<feat xlink:href="#line_175" value=" ençois que la savor soit fete"/><!--  ençois que la savor soit fete -->
+<feat xlink:href="#line_176" value=" ert ele cuite voirement !"/><!--  ert ele cuite voirement ! -->
+<feat xlink:href="#line_177" value=" biaus ostes , fetes vos talent :"/><!--  biaus ostes , fetes vos talent : -->
+<feat xlink:href="#line_178" value=" sus vos ne m&apos; en sai entremetre !"/><!--  sus vos ne m' en sai entremetre ! -->
+<feat xlink:href="#line_179" value=" fetes donques la table metre :"/><!--  fetes donques la table metre : -->
+<feat xlink:href="#line_180" value=" aprés n&apos; i a fors du laver"/><!--  aprés n' i a fors du laver -->
+<feat xlink:href="#line_181" value=" et des chandeles alumer . &quot;"/><!--  et des chandeles alumer . " -->
+<feat xlink:href="#line_182" value=" seignors , ne vos mentirai mie !"/><!--  seignors , ne vos mentirai mie ! -->
+<feat xlink:href="#line_183" value=" li prestres avoit une amie ,"/><!--  li prestres avoit une amie , -->
+<feat xlink:href="#line_184" value=" dont il si fin jalous estoit :"/><!--  dont il si fin jalous estoit : -->
+<feat xlink:href="#line_185" value=" totes les nuiz qu&apos; ostes avoit"/><!--  totes les nuiz qu' ostes avoit -->
+<feat xlink:href="#line_186" value=" la fesoit en sa chambre entrer ."/><!--  la fesoit en sa chambre entrer . -->
+<feat xlink:href="#line_187" value=" més cele nuit la fist souper"/><!--  més cele nuit la fist souper -->
+<feat xlink:href="#line_188" value=" a la table avec le bouchier :"/><!--  a la table avec le bouchier : -->
+<feat xlink:href="#line_189" value=" senblant li fet que l&apos; eit molt chier ."/><!--  senblant li fet que l' eit molt chier . -->
+<feat xlink:href="#line_190" value=" quant mengié ont par grant delit ,"/><!--  quant mengié ont par grant delit , -->
+<feat xlink:href="#line_191" value=" meintenant a fet fere un lit"/><!--  meintenant a fet fere un lit -->
+<feat xlink:href="#line_192" value=" a son oste , et bon et bel ,"/><!--  a son oste , et bon et bel , -->
+<feat xlink:href="#line_193" value=" de blans dras büés de novel ."/><!--  de blans dras büés de novel . -->
+<feat xlink:href="#line_194" value=" li prestre sa meschine apele :"/><!--  li prestre sa meschine apele : -->
+<feat xlink:href="#line_195" value=" &quot; je te commant , fet il , suer bele ,"/><!--  " je te commant , fet il , suer bele , -->
+<feat xlink:href="#line_196" value=" que nostre oste soit bien a ese ,"/><!--  que nostre oste soit bien a ese , -->
+<feat xlink:href="#line_197" value=" si qu&apos; il n&apos; ert rien qui li desplese . &quot;"/><!--  si qu' il n' ert rien qui li desplese . " -->
+<feat xlink:href="#line_198" value=" adont se vont couchier ensemble ,"/><!--  adont se vont couchier ensemble , -->
+<feat xlink:href="#line_199" value=" il et la dame , ce me semble ."/><!--  il et la dame , ce me semble . -->
+<feat xlink:href="#line_200" value=" et le bouchier remest au fu ,"/><!--  et le bouchier remest au fu , -->
+<feat xlink:href="#line_201" value=" ainz més si a ese ne fu :"/><!--  ainz més si a ese ne fu : -->
+<feat xlink:href="#line_202" value=" bel ostel ot et bel semblant ."/><!--  bel ostel ot et bel semblant . -->
+<feat xlink:href="#line_203" value=" &quot; meschine , dist il , vien avant !"/><!--  " meschine , dist il , vien avant ! -->
+<feat xlink:href="#line_204" value=" tré te ça , si parole a mi ,"/><!--  tré te ça , si parole a mi , -->
+<feat xlink:href="#line_205" value=" et si fei de moi ton ami :"/><!--  et si fei de moi ton ami : -->
+<feat xlink:href="#line_206" value=" bien i porras avoir grant preu ."/><!--  bien i porras avoir grant preu . -->
+<feat xlink:href="#line_207" value=" - ostes , tesiez , ne dites preu !"/><!--  - ostes , tesiez , ne dites preu ! -->
+<feat xlink:href="#line_208" value=" je n&apos; apris onques tel afere !"/><!--  je n' apris onques tel afere ! -->
+<feat xlink:href="#line_209" value=" - par foi , il le te covient fere"/><!--  - par foi , il le te covient fere -->
+<feat xlink:href="#line_210" value=" par tel covent que je dirai ."/><!--  par tel covent que je dirai . -->
+<feat xlink:href="#line_211" value=" - dites donques et je l&apos; orrai !"/><!--  - dites donques et je l' orrai ! -->
+<feat xlink:href="#line_212" value=" - se tu veus avec moi jesir ,"/><!--  - se tu veus avec moi jesir , -->
+<feat xlink:href="#line_213" value=" fere mon bon et mon plesir ,"/><!--  fere mon bon et mon plesir , -->
+<feat xlink:href="#line_214" value=" par dieu qui de bon cuer apel ,"/><!--  par dieu qui de bon cuer apel , -->
+<feat xlink:href="#line_215" value=" de mon mouton aras la pel ."/><!--  de mon mouton aras la pel . -->
+<feat xlink:href="#line_216" value=" - tesiez , onques més ne le dites !"/><!--  - tesiez , onques més ne le dites ! -->
+<feat xlink:href="#line_217" value=" vos n&apos; estes pas leaus ermites ,"/><!--  vos n' estes pas leaus ermites , -->
+<feat xlink:href="#line_218" value=" qui tel chose me requerez !"/><!--  qui tel chose me requerez ! -->
+<feat xlink:href="#line_219" value=" molt estes de mal enpensez :"/><!--  molt estes de mal enpensez : -->
+<feat xlink:href="#line_220" value=" dieus , merci , comme semblez sos !"/><!--  dieus , merci , comme semblez sos ! -->
+<feat xlink:href="#line_221" value=" vos bons feise , més je n&apos; os :"/><!--  vos bons feise , més je n' os : -->
+<feat xlink:href="#line_222" value=" vos le diriez demein madame ."/><!--  vos le diriez demein madame . -->
+<feat xlink:href="#line_223" value=" - suer , se dieus eit merci de m&apos; ame ,"/><!--  - suer , se dieus eit merci de m' ame , -->
+<feat xlink:href="#line_224" value=" en ma vie ne le dirai ,"/><!--  en ma vie ne le dirai , -->
+<feat xlink:href="#line_225" value=" ne ja ne t&apos; en encuserai ! &quot;"/><!--  ne ja ne t' en encuserai ! " -->
+<feat xlink:href="#line_226" value=" dont li a cele acreanté"/><!--  dont li a cele acreanté -->
+<feat xlink:href="#line_227" value=" qu&apos; ele fera sa volenté ."/><!--  qu' ele fera sa volenté . -->
+<feat xlink:href="#line_228" value=" avec li jut tant que jor fu ."/><!--  avec li jut tant que jor fu . -->
+<feat xlink:href="#line_229" value=" dont se lieve , si fist le fu ;"/><!--  dont se lieve , si fist le fu ; -->
+<feat xlink:href="#line_230" value=" son mestier fet et tret ses bestes ."/><!--  son mestier fet et tret ses bestes . -->
+<feat xlink:href="#line_231" value=" dont primes s&apos; est levé li prestres ."/><!--  dont primes s' est levé li prestres . -->
+<feat xlink:href="#line_232" value=" il et son clerc vont au moustier"/><!--  il et son clerc vont au moustier -->
+<feat xlink:href="#line_233" value=" chanter et fere lor mestier ,"/><!--  chanter et fere lor mestier , -->
+<feat xlink:href="#line_234" value=" et la dame remest dormant ."/><!--  et la dame remest dormant . -->
+<feat xlink:href="#line_235" value=" et li bouchier demeintenant"/><!--  et li bouchier demeintenant -->
+<feat xlink:href="#line_236" value=" se vest et chauce sanz demeure ,"/><!--  se vest et chauce sanz demeure , -->
+<feat xlink:href="#line_237" value=" car bien en est et tens et eure ."/><!--  car bien en est et tens et eure . -->
+<feat xlink:href="#line_238" value=" a la chambre , sanz plus atendre ,"/><!--  a la chambre , sanz plus atendre , -->
+<feat xlink:href="#line_239" value=" vint a l&apos; ostesse congié prendre ,"/><!--  vint a l' ostesse congié prendre , -->
+<feat xlink:href="#line_240" value=" la clique sache , l&apos; us ovri ."/><!--  la clique sache , l' us ovri . -->
+<feat xlink:href="#line_241" value=" la bele dame s&apos; esperi ,"/><!--  la bele dame s' esperi , -->
+<feat xlink:href="#line_242" value=" les euz euvre , son oste voit"/><!--  les euz euvre , son oste voit -->
+<feat xlink:href="#line_243" value=" devant l&apos; esponde ester droit ."/><!--  devant l' esponde ester droit . -->
+<feat xlink:href="#line_244" value=" lors se merveille dont il vient"/><!--  lors se merveille dont il vient -->
+<feat xlink:href="#line_245" value=" et de quel chose li sovient ."/><!--  et de quel chose li sovient . -->
+<feat xlink:href="#line_246" value=" &quot; dame , dist il , grasces vos rent :"/><!--  " dame , dist il , grasces vos rent : -->
+<feat xlink:href="#line_247" value=" hebergié m&apos; avez a talent ,"/><!--  hebergié m' avez a talent , -->
+<feat xlink:href="#line_248" value=" vos m&apos; avez molt bel semblant fet . &quot;"/><!--  vos m' avez molt bel semblant fet . " -->
+<feat xlink:href="#line_249" value=" a tant en envers li se tret"/><!--  a tant en envers li se tret -->
+<feat xlink:href="#line_250" value=" et voit sa gorge blanche et bele ,"/><!--  et voit sa gorge blanche et bele , -->
+<feat xlink:href="#line_251" value=" et la poitrine et la mamele ."/><!--  et la poitrine et la mamele . -->
+<feat xlink:href="#line_252" value=" &quot; hé , dieus , fet il , je voi miracles !"/><!--  " hé , dieus , fet il , je voi miracles ! -->
+<feat xlink:href="#line_253" value=" sainte marie , seint romacles ,"/><!--  sainte marie , seint romacles , -->
+<feat xlink:href="#line_254" value=" com cest prestres est bien venuz"/><!--  com cest prestres est bien venuz -->
+<feat xlink:href="#line_255" value=" c&apos; avec tel dame gist toz nuz !"/><!--  c' avec tel dame gist toz nuz ! -->
+<feat xlink:href="#line_256" value=" einsi m&apos; aït seint honorez ,"/><!--  einsi m' aït seint honorez , -->
+<feat xlink:href="#line_257" value=" c&apos; uns rois en seroit honorez !"/><!--  c' uns rois en seroit honorez ! -->
+<feat xlink:href="#line_258" value=" se j&apos; euse tant de loisir"/><!--  se j' euse tant de loisir -->
+<feat xlink:href="#line_259" value=" que g&apos; i peuse nu gesir ,"/><!--  que g' i peuse nu gesir , -->
+<feat xlink:href="#line_260" value=" refet seroie et respassez !"/><!--  refet seroie et respassez ! -->
+<feat xlink:href="#line_261" value=" - ostés , sire , n&apos; est mie asez"/><!--  - ostés , sire , n' est mie asez -->
+<feat xlink:href="#line_262" value=" que vos dites , par seint germein !"/><!--  que vos dites , par seint germein ! -->
+<feat xlink:href="#line_263" value=" alez lafors , ostez vos mein !"/><!--  alez lafors , ostez vos mein ! -->
+<feat xlink:href="#line_264" value=" mon seignor avra ja chanté :"/><!--  mon seignor avra ja chanté : -->
+<feat xlink:href="#line_265" value=" trop se tendroit a enchanté ,"/><!--  trop se tendroit a enchanté , -->
+<feat xlink:href="#line_266" value=" s&apos; il en sa chambre vos trovoit ;"/><!--  s' il en sa chambre vos trovoit ; -->
+<feat xlink:href="#line_267" value=" ja més nul jor ne m&apos; ameroit ,"/><!--  ja més nul jor ne m' ameroit , -->
+<feat xlink:href="#line_268" value=" si m&apos; ariez maubaillie et morte . &quot;"/><!--  si m' ariez maubaillie et morte . " -->
+<feat xlink:href="#line_269" value=" et cil molt bel la reconforte :"/><!--  et cil molt bel la reconforte : -->
+<feat xlink:href="#line_270" value=" &quot; dame , fet il , por deu , merci !"/><!--  " dame , fet il , por deu , merci ! -->
+<feat xlink:href="#line_271" value=" ja més ne me movrai de ci"/><!--  ja més ne me movrai de ci -->
+<feat xlink:href="#line_272" value=" por nul home vivant qui soit ."/><!--  por nul home vivant qui soit . -->
+<feat xlink:href="#line_273" value=" nis se li prestres i venoit ,"/><!--  nis se li prestres i venoit , -->
+<feat xlink:href="#line_274" value=" por qu&apos; il deist une parrolle"/><!--  por qu' il deist une parrolle -->
+<feat xlink:href="#line_275" value=" qui fust outrageuse ne fole ,"/><!--  qui fust outrageuse ne fole , -->
+<feat xlink:href="#line_276" value=" je l&apos; ociroie meintenant ,"/><!--  je l' ociroie meintenant , -->
+<feat xlink:href="#line_277" value=" se de riens nule aloit grouchant !"/><!--  se de riens nule aloit grouchant ! -->
+<feat xlink:href="#line_278" value=" més fetes ce que je voudré :"/><!--  més fetes ce que je voudré : -->
+<feat xlink:href="#line_279" value=" ma pel lafors je vos donré ,"/><!--  ma pel lafors je vos donré , -->
+<feat xlink:href="#line_280" value=" ele vaut molt de bon argent ."/><!--  ele vaut molt de bon argent . -->
+<feat xlink:href="#line_281" value=" - je n&apos; oseroie por la gent ,"/><!--  - je n' oseroie por la gent , -->
+<feat xlink:href="#line_282" value=" car je vos sent tant fort estoust ,"/><!--  car je vos sent tant fort estoust , -->
+<feat xlink:href="#line_283" value=" demein le diriez partout ."/><!--  demein le diriez partout . -->
+<feat xlink:href="#line_284" value=" - dame , fet il , ma foi tenez :"/><!--  - dame , fet il , ma foi tenez : -->
+<feat xlink:href="#line_285" value=" tant com je soie vif ne nez ,"/><!--  tant com je soie vif ne nez , -->
+<feat xlink:href="#line_286" value=" ne le dirai fame ne home ,"/><!--  ne le dirai fame ne home , -->
+<feat xlink:href="#line_287" value=" par touz les seinz qui sunt a rome ! &quot;"/><!--  par touz les seinz qui sunt a rome ! " -->
+<feat xlink:href="#line_288" value=" tant li dist et tant li promet"/><!--  tant li dist et tant li promet -->
+<feat xlink:href="#line_289" value=" que cele en sa merci se met :"/><!--  que cele en sa merci se met : -->
+<feat xlink:href="#line_290" value=" por la pel dont il li fist don"/><!--  por la pel dont il li fist don -->
+<feat xlink:href="#line_291" value=" li mist son cors en abandon ;"/><!--  li mist son cors en abandon ; -->
+<feat xlink:href="#line_292" value=" et le bouchier bien s&apos; en refet ."/><!--  et le bouchier bien s' en refet . -->
+<feat xlink:href="#line_293" value=" quant il en ot tot son bon fet ,"/><!--  quant il en ot tot son bon fet , -->
+<feat xlink:href="#line_294" value=" d&apos; iluec se part , plus n&apos; i areste ,"/><!--  d' iluec se part , plus n' i areste , -->
+<feat xlink:href="#line_295" value=" einz va au moustier , ou li prestre"/><!--  einz va au moustier , ou li prestre -->
+<feat xlink:href="#line_296" value=" ert entre li et son clerçon ,"/><!--  ert entre li et son clerçon , -->
+<feat xlink:href="#line_297" value=" s&apos; ot commencie sa leçon ."/><!--  s' ot commencie sa leçon . -->
+<feat xlink:href="#line_298" value=" si qu&apos; il dist : &quot; jubé dominé &quot; ,"/><!--  si qu' il dist : " jubé dominé " , -->
+<feat xlink:href="#line_299" value=" ez le vos eul chancel entré ."/><!--  ez le vos eul chancel entré . -->
+<feat xlink:href="#line_300" value=" &quot; sire , fet il , a vos congié"/><!--  " sire , fet il , a vos congié -->
+<feat xlink:href="#line_301" value=" m&apos; en vois : bien m&apos; avez hebergié ,"/><!--  m' en vois : bien m' avez hebergié , -->
+<feat xlink:href="#line_302" value=" molt me lo de vos bel semblant ."/><!--  molt me lo de vos bel semblant . -->
+<feat xlink:href="#line_303" value=" més une chose vos demant"/><!--  més une chose vos demant -->
+<feat xlink:href="#line_304" value=" et vos pri que vos le faciez :"/><!--  et vos pri que vos le faciez : -->
+<feat xlink:href="#line_305" value=" sire , ma pel achetisiez ,"/><!--  sire , ma pel achetisiez , -->
+<feat xlink:href="#line_306" value=" si m&apos; avrez delivré de peine ."/><!--  si m' avrez delivré de peine . -->
+<feat xlink:href="#line_307" value=" il i a trois livres de leine ,"/><!--  il i a trois livres de leine , -->
+<feat xlink:href="#line_308" value=" si est bone , si m&apos; aït dieus !"/><!--  si est bone , si m' aït dieus ! -->
+<feat xlink:href="#line_309" value=" trois sous vaut , vos l&apos; arez por deus ."/><!--  trois sous vaut , vos l' arez por deus . -->
+<feat xlink:href="#line_310" value=" et molt bon gré vos en saré ."/><!--  et molt bon gré vos en saré . -->
+<feat xlink:href="#line_311" value=" - biaus ostes , et je le feré"/><!--  - biaus ostes , et je le feré -->
+<feat xlink:href="#line_312" value=" por l&apos; amor de vos volentiers ."/><!--  por l' amor de vos volentiers . -->
+<feat xlink:href="#line_313" value=" bons compains estes et entiers :"/><!--  bons compains estes et entiers : -->
+<feat xlink:href="#line_314" value=" revenez moi voer sovent ! &quot;"/><!--  revenez moi voer sovent ! " -->
+<feat xlink:href="#line_315" value=" sa pel meimes cil li vent ;"/><!--  sa pel meimes cil li vent ; -->
+<feat xlink:href="#line_316" value=" congié demande , atant s&apos; en va ."/><!--  congié demande , atant s' en va . -->
+<feat xlink:href="#line_317" value=" la bele dame se leva ,"/><!--  la bele dame se leva , -->
+<feat xlink:href="#line_318" value=" qui molt fu cointe et mignote ;"/><!--  qui molt fu cointe et mignote ; -->
+<feat xlink:href="#line_319" value=" vestue ert d&apos; une verte cote ,"/><!--  vestue ert d' une verte cote , -->
+<feat xlink:href="#line_320" value=" molt bien faudee a ploiz rampans ."/><!--  molt bien faudee a ploiz rampans . -->
+<feat xlink:href="#line_321" value=" la dame ot escourcié ses pans"/><!--  la dame ot escourcié ses pans -->
+<feat xlink:href="#line_322" value=" a sa ceinture par orgeil ;"/><!--  a sa ceinture par orgeil ; -->
+<feat xlink:href="#line_323" value=" cler et riant furent si oeil ,"/><!--  cler et riant furent si oeil , -->
+<feat xlink:href="#line_324" value=" blanche et plesant fu a devise ."/><!--  blanche et plesant fu a devise . -->
+<feat xlink:href="#line_325" value=" en la chaere s&apos; est asise ."/><!--  en la chaere s' est asise . -->
+<feat xlink:href="#line_326" value=" et la meschine sanz atendre"/><!--  et la meschine sanz atendre -->
+<feat xlink:href="#line_327" value=" vint a la pel , si la volt prendre ,"/><!--  vint a la pel , si la volt prendre , -->
+<feat xlink:href="#line_328" value=" més sa dame li desfendi :"/><!--  més sa dame li desfendi : -->
+<feat xlink:href="#line_329" value=" &quot; diva , fet ele , car me di :"/><!--  " diva , fet ele , car me di : -->
+<feat xlink:href="#line_330" value=" qu&apos; as tu de cele pel a fere ?"/><!--  qu' as tu de cele pel a fere ? -->
+<feat xlink:href="#line_331" value=" - dame , j&apos; en ferai mon afere :"/><!--  - dame , j' en ferai mon afere : -->
+<feat xlink:href="#line_332" value=" je la veil au soleil porter"/><!--  je la veil au soleil porter -->
+<feat xlink:href="#line_333" value=" por le cuirien fere essuier ,"/><!--  por le cuirien fere essuier , -->
+<feat xlink:href="#line_334" value=" ele pent ci trop en la voie ."/><!--  ele pent ci trop en la voie . -->
+<feat xlink:href="#line_335" value=" - non feras ! lé la tote quoie !"/><!--  - non feras ! lé la tote quoie ! -->
+<feat xlink:href="#line_336" value=" - en non deu , dame , non ferai ,"/><!--  - en non deu , dame , non ferai , -->
+<feat xlink:href="#line_337" value=" einz tote m&apos; en entremetrai :"/><!--  einz tote m' en entremetrai : -->
+<feat xlink:href="#line_338" value=" j&apos; en ferai comme de la moie !"/><!--  j' en ferai comme de la moie ! -->
+<feat xlink:href="#line_339" value=" - dis tu donques que ele est toie ?"/><!--  - dis tu donques que ele est toie ? -->
+<feat xlink:href="#line_340" value=" - oïl , ce di ge voirement !"/><!--  - oïl , ce di ge voirement ! -->
+<feat xlink:href="#line_341" value=" - met jus la pel , va , si te pent ,"/><!--  - met jus la pel , va , si te pent , -->
+<feat xlink:href="#line_342" value=" ou tu te noies en la longaigne !"/><!--  ou tu te noies en la longaigne ! -->
+<feat xlink:href="#line_343" value=" molt me torne ore a grant engaigne"/><!--  molt me torne ore a grant engaigne -->
+<feat xlink:href="#line_344" value=" que tu deviens si orgeilleuse :"/><!--  que tu deviens si orgeilleuse : -->
+<feat xlink:href="#line_345" value=" pute , ribaude pooilleuse ,"/><!--  pute , ribaude pooilleuse , -->
+<feat xlink:href="#line_346" value=" va , si aroie ta meson !"/><!--  va , si aroie ta meson ! -->
+<feat xlink:href="#line_347" value=" - dame , vos fetes desreson ,"/><!--  - dame , vos fetes desreson , -->
+<feat xlink:href="#line_348" value=" qui por le mien me ledengiez ."/><!--  qui por le mien me ledengiez . -->
+<feat xlink:href="#line_349" value=" se vos sus seins le juriez ,"/><!--  se vos sus seins le juriez , -->
+<feat xlink:href="#line_350" value=" s&apos; est la pel moie tote voire !"/><!--  s' est la pel moie tote voire ! -->
+<feat xlink:href="#line_351" value=" - vide mon ostel , pute noire ,"/><!--  - vide mon ostel , pute noire , -->
+<feat xlink:href="#line_352" value=" je n&apos; ai cure de ton servise !"/><!--  je n' ai cure de ton servise ! -->
+<feat xlink:href="#line_353" value=" trop par es pautonniere et nice !"/><!--  trop par es pautonniere et nice ! -->
+<feat xlink:href="#line_354" value=" se mon seignor juré l&apos; avoit ,"/><!--  se mon seignor juré l' avoit , -->
+<feat xlink:href="#line_355" value=" ceanz ne te garantiroit ,"/><!--  ceanz ne te garantiroit , -->
+<feat xlink:href="#line_356" value=" tant t&apos; ai ore coilli en hé !"/><!--  tant t' ai ore coilli en hé ! -->
+<feat xlink:href="#line_357" value=" - par mi le col ait mau dahé ,"/><!--  - par mi le col ait mau dahé , -->
+<feat xlink:href="#line_358" value=" dame , qui més vos servira !"/><!--  dame , qui més vos servira ! -->
+<feat xlink:href="#line_359" value=" je atendré tant que vendra"/><!--  je atendré tant que vendra -->
+<feat xlink:href="#line_360" value=" mon sire , adont si m&apos; en irai :"/><!--  mon sire , adont si m' en irai : -->
+<feat xlink:href="#line_361" value=" de vos a lui me clamerai ."/><!--  de vos a lui me clamerai . -->
+<feat xlink:href="#line_362" value=" - voi , clameras ? pute bufarde ,"/><!--  - voi , clameras ? pute bufarde , -->
+<feat xlink:href="#line_363" value=" ribaude pulente , bastarde !"/><!--  ribaude pulente , bastarde ! -->
+<feat xlink:href="#line_364" value=" - bastarde , dame ? par grant mal !"/><!--  - bastarde , dame ? par grant mal ! -->
+<feat xlink:href="#line_365" value=" li vostre enfant sunt molt loial"/><!--  li vostre enfant sunt molt loial -->
+<feat xlink:href="#line_366" value=" que vos avez du prestre eüs ?"/><!--  que vos avez du prestre eüs ? -->
+<feat xlink:href="#line_367" value=" - por la passion dieu , met jus"/><!--  - por la passion dieu , met jus -->
+<feat xlink:href="#line_368" value=" ma pel , ou tu le comparras !"/><!--  ma pel , ou tu le comparras ! -->
+<feat xlink:href="#line_369" value=" mieus vos vendroit estre a arras ,"/><!--  mieus vos vendroit estre a arras , -->
+<feat xlink:href="#line_370" value=" par la mort dieu , voire a coloigne ! &quot;"/><!--  par la mort dieu , voire a coloigne ! " -->
+<feat xlink:href="#line_371" value=" et la dame tret sa queloigne ,"/><!--  et la dame tret sa queloigne , -->
+<feat xlink:href="#line_372" value=" un coup li done , et cele crie :"/><!--  un coup li done , et cele crie : -->
+<feat xlink:href="#line_373" value=" &quot; par la vertu seinte marie ,"/><!--  " par la vertu seinte marie , -->
+<feat xlink:href="#line_374" value=" mar m&apos; i avez a tort batue !"/><!--  mar m' i avez a tort batue ! -->
+<feat xlink:href="#line_375" value=" la pel vos iert molt chier vendue ,"/><!--  la pel vos iert molt chier vendue , -->
+<feat xlink:href="#line_376" value=" enchois que je muire de mort ! &quot;"/><!--  enchois que je muire de mort ! " -->
+<feat xlink:href="#line_377" value=" dont pleure et fet un duel fort ."/><!--  dont pleure et fet un duel fort . -->
+<feat xlink:href="#line_378" value=" a la noise et a la tenchon"/><!--  a la noise et a la tenchon -->
+<feat xlink:href="#line_379" value=" vint li prestres a la meson ."/><!--  vint li prestres a la meson . -->
+<feat xlink:href="#line_380" value=" &quot; qu&apos; est ce , dist il , qui t&apos; a ce fet ?"/><!--  " qu' est ce , dist il , qui t' a ce fet ? -->
+<feat xlink:href="#line_381" value=" - sire , madame , sanz forfet ."/><!--  - sire , madame , sanz forfet . -->
+<feat xlink:href="#line_382" value=" - por nient , voir , ne fu ce mie :"/><!--  - por nient , voir , ne fu ce mie : -->
+<feat xlink:href="#line_383" value=" di moi voir , ne me mentir mie !"/><!--  di moi voir , ne me mentir mie ! -->
+<feat xlink:href="#line_384" value=" - certes , sire , por la pel fu ,"/><!--  - certes , sire , por la pel fu , -->
+<feat xlink:href="#line_385" value=" qui la pent derriere cel fu ."/><!--  qui la pent derriere cel fu . -->
+<feat xlink:href="#line_386" value=" beau sire , vos me commandastes"/><!--  beau sire , vos me commandastes -->
+<feat xlink:href="#line_387" value=" ersoir , quant vos couchier alastes ,"/><!--  ersoir , quant vos couchier alastes , -->
+<feat xlink:href="#line_388" value=" que nostre oste , sire davis ,"/><!--  que nostre oste , sire davis , -->
+<feat xlink:href="#line_389" value=" fust aesiez et bien servis ,"/><!--  fust aesiez et bien servis , -->
+<feat xlink:href="#line_390" value=" et je fis vos commandement ;"/><!--  et je fis vos commandement ; -->
+<feat xlink:href="#line_391" value=" et il me dona voirement"/><!--  et il me dona voirement -->
+<feat xlink:href="#line_392" value=" sa pel , sus sainz le jurerai ,"/><!--  sa pel , sus sainz le jurerai , -->
+<feat xlink:href="#line_393" value=" car molt bien deservie l&apos; ai ! &quot;"/><!--  car molt bien deservie l' ai ! " -->
+<feat xlink:href="#line_394" value=" le prestres ot et aperçoit :"/><!--  le prestres ot et aperçoit : -->
+<feat xlink:href="#line_395" value=" as parolles qu&apos; ele disoit ,"/><!--  as parolles qu' ele disoit , -->
+<feat xlink:href="#line_396" value=" l&apos; avoit son oste enganee ;"/><!--  l' avoit son oste enganee ; -->
+<feat xlink:href="#line_397" value=" por ce li ot sa pel donee ."/><!--  por ce li ot sa pel donee . -->
+<feat xlink:href="#line_398" value=" s&apos; en fu corocié et plein d&apos; ire ,"/><!--  s' en fu corocié et plein d' ire , -->
+<feat xlink:href="#line_399" value=" més sa pensee ne vot dire ."/><!--  més sa pensee ne vot dire . -->
+<feat xlink:href="#line_400" value=" &quot; dame , dist il , se deus me saut ,"/><!--  " dame , dist il , se deus me saut , -->
+<feat xlink:href="#line_401" value=" vos avez fet trop mavés saut !"/><!--  vos avez fet trop mavés saut ! -->
+<feat xlink:href="#line_402" value=" petit me prisiez et doutez ,"/><!--  petit me prisiez et doutez , -->
+<feat xlink:href="#line_403" value=" qui ma beasse me batez !"/><!--  qui ma beasse me batez ! -->
+<feat xlink:href="#line_404" value=" - pour ma pel qu&apos; ele veut avoir !"/><!--  - pour ma pel qu' ele veut avoir ! -->
+<feat xlink:href="#line_405" value=" sire , s&apos; en saviez le voir"/><!--  sire , s' en saviez le voir -->
+<feat xlink:href="#line_406" value=" de la honte qu&apos; ele m&apos; a dite ,"/><!--  de la honte qu' ele m' a dite , -->
+<feat xlink:href="#line_407" value=" vos l&apos; en rendriez la merite ,"/><!--  vos l' en rendriez la merite , -->
+<feat xlink:href="#line_408" value=" car vos enfanz m&apos; a reprovez ."/><!--  car vos enfanz m' a reprovez . -->
+<feat xlink:href="#line_409" value=" mavesement voir vos provez ,"/><!--  mavesement voir vos provez , -->
+<feat xlink:href="#line_410" value=" qui soufrez qu&apos; ele vos blatenge"/><!--  qui soufrez qu' ele vos blatenge -->
+<feat xlink:href="#line_411" value=" et honist tote par sa gengle ."/><!--  et honist tote par sa gengle . -->
+<feat xlink:href="#line_412" value=" je ne sai qu&apos; il en avendra :"/><!--  je ne sai qu' il en avendra : -->
+<feat xlink:href="#line_413" value=" ja ma pel ne li remaindra ,"/><!--  ja ma pel ne li remaindra , -->
+<feat xlink:href="#line_414" value=" je di qu&apos; ele n&apos; est mie sieue !"/><!--  je di qu' ele n' est mie sieue ! -->
+<feat xlink:href="#line_415" value=" - qui est el donques ? - par foi , mieue !"/><!--  - qui est el donques ? - par foi , mieue ! -->
+<feat xlink:href="#line_416" value=" - vostre ? voire , par quel reson ?"/><!--  - vostre ? voire , par quel reson ? -->
+<feat xlink:href="#line_417" value=" - vostre oste jut en vos meson ,"/><!--  - vostre oste jut en vos meson , -->
+<feat xlink:href="#line_418" value=" sus mes coutes et mes linceus ;"/><!--  sus mes coutes et mes linceus ; -->
+<feat xlink:href="#line_419" value=" que maugré en ait seint aceus ,"/><!--  que maugré en ait seint aceus , -->
+<feat xlink:href="#line_420" value=" vos volez ore tot savoir ?"/><!--  vos volez ore tot savoir ? -->
+<feat xlink:href="#line_421" value=" - bele suer , or me di dont voir ,"/><!--  - bele suer , or me di dont voir , -->
+<feat xlink:href="#line_422" value=" par cele foi que me plevistes"/><!--  par cele foi que me plevistes -->
+<feat xlink:href="#line_423" value=" quant vos ceanz primes venistes ,"/><!--  quant vos ceanz primes venistes , -->
+<feat xlink:href="#line_424" value=" se ceste pel doit estre vostre ."/><!--  se ceste pel doit estre vostre . -->
+<feat xlink:href="#line_425" value=" - oïl , par seinte patenostre !"/><!--  - oïl , par seinte patenostre ! -->
+<feat xlink:href="#line_426" value=" - dites moi , qui la vos dona ?"/><!--  - dites moi , qui la vos dona ? -->
+<feat xlink:href="#line_427" value=" - nostre oste , quant il s&apos; en ala ."/><!--  - nostre oste , quant il s' en ala . -->
+<feat xlink:href="#line_428" value=" - os , por les costez seint martin ,"/><!--  - os , por les costez seint martin , -->
+<feat xlink:href="#line_429" value=" il se leva jui matin ,"/><!--  il se leva jui matin , -->
+<feat xlink:href="#line_430" value=" einz que levé fust li solaus !"/><!--  einz que levé fust li solaus ! -->
+<feat xlink:href="#line_431" value=" - dieus , com vos estes desloiaus ,"/><!--  - dieus , com vos estes desloiaus , -->
+<feat xlink:href="#line_432" value=" qui jurez si escordement !"/><!--  qui jurez si escordement ! -->
+<feat xlink:href="#line_433" value=" il prist congié trop bonement"/><!--  il prist congié trop bonement -->
+<feat xlink:href="#line_434" value=" a moi , quant il s&apos; en dut aler ."/><!--  a moi , quant il s' en dut aler . -->
+<feat xlink:href="#line_435" value=" - fu il donques a vos lever ?"/><!--  - fu il donques a vos lever ? -->
+<feat xlink:href="#line_436" value=" - nenil ! - quant dont ? - je me gisoie ,"/><!--  - nenil ! - quant dont ? - je me gisoie , -->
+<feat xlink:href="#line_437" value=" de lui garde ne me donoie ,"/><!--  de lui garde ne me donoie , -->
+<feat xlink:href="#line_438" value=" quant il vint devant mon esponde :"/><!--  quant il vint devant mon esponde : -->
+<feat xlink:href="#line_439" value=" il estuet que je vos esponde . . ."/><!--  il estuet que je vos esponde . . . -->
+<feat xlink:href="#line_440" value=" - et que dist il au congié prendre ?"/><!--  - et que dist il au congié prendre ? -->
+<feat xlink:href="#line_441" value=" ce me dites , sans plus atendre !"/><!--  ce me dites , sans plus atendre ! -->
+<feat xlink:href="#line_442" value=" - il dist : dame , a deus vos commant ,"/><!--  - il dist : dame , a deus vos commant , -->
+<feat xlink:href="#line_443" value=" vos m&apos; avez fet molt bel semblant ."/><!--  vos m' avez fet molt bel semblant . -->
+<feat xlink:href="#line_444" value=" plus n&apos; i parla ne plus n&apos; i fist ,"/><!--  plus n' i parla ne plus n' i fist , -->
+<feat xlink:href="#line_445" value=" ne riens nule ne me requist"/><!--  ne riens nule ne me requist -->
+<feat xlink:href="#line_446" value=" qui vos tornast a vilenie ."/><!--  qui vos tornast a vilenie . -->
+<feat xlink:href="#line_447" value=" més vos i pensez vilanie ;"/><!--  més vos i pensez vilanie ; -->
+<feat xlink:href="#line_448" value=" onques ne fui de vos creue ,"/><!--  onques ne fui de vos creue , -->
+<feat xlink:href="#line_449" value=" et si n&apos; avez en moi veüe ,"/><!--  et si n' avez en moi veüe , -->
+<feat xlink:href="#line_450" value=" grasce deu , se molt grant bien non !"/><!--  grasce deu , se molt grant bien non ! -->
+<feat xlink:href="#line_451" value=" més vos me fetes desreson ,"/><!--  més vos me fetes desreson , -->
+<feat xlink:href="#line_452" value=" qui m&apos; avez en tel ire mise"/><!--  qui m' avez en tel ire mise -->
+<feat xlink:href="#line_453" value=" dont ma char est teinte et remise !"/><!--  dont ma char est teinte et remise ! -->
+<feat xlink:href="#line_454" value=" - ahi , dist il , fole mauvese ,"/><!--  - ahi , dist il , fole mauvese , -->
+<feat xlink:href="#line_455" value=" je t&apos; ai norrie trop a ese !"/><!--  je t' ai norrie trop a ese ! -->
+<feat xlink:href="#line_456" value=" a poi que ne te bat ou tue :"/><!--  a poi que ne te bat ou tue : -->
+<feat xlink:href="#line_457" value=" voirement sai qu&apos; il t&apos; a fotue !"/><!--  voirement sai qu' il t' a fotue ! -->
+<feat xlink:href="#line_458" value=" diva , por quoi ne crias tu ?"/><!--  diva , por quoi ne crias tu ? -->
+<feat xlink:href="#line_459" value=" il t&apos; estuet rompre le festu :"/><!--  il t' estuet rompre le festu : -->
+<feat xlink:href="#line_460" value=" va t&apos; en , si vide mon ostel ."/><!--  va t' en , si vide mon ostel . -->
+<feat xlink:href="#line_461" value=" je jurerai sus mon autel ,"/><!--  je jurerai sus mon autel , -->
+<feat xlink:href="#line_462" value=" ja més en ton lit ne gerrai :"/><!--  ja més en ton lit ne gerrai : -->
+<feat xlink:href="#line_463" value=" or endroit te forjurerai ! &quot;"/><!--  or endroit te forjurerai ! " -->
+<feat xlink:href="#line_464" value=" par molt grant ire s&apos; est asis ,"/><!--  par molt grant ire s' est asis , -->
+<feat xlink:href="#line_465" value=" dolenz et tristres et pensis ."/><!--  dolenz et tristres et pensis . -->
+<feat xlink:href="#line_466" value=" et quant la dame iré le voit ,"/><!--  et quant la dame iré le voit , -->
+<feat xlink:href="#line_467" value=" forment li poise qu&apos; el avoit"/><!--  forment li poise qu' el avoit -->
+<feat xlink:href="#line_468" value=" tencié ne estrivé a lui :"/><!--  tencié ne estrivé a lui : -->
+<feat xlink:href="#line_469" value=" molt crient qu&apos; il ne li face anui ;"/><!--  molt crient qu' il ne li face anui ; -->
+<feat xlink:href="#line_470" value=" en sa chambre antre meintenant ."/><!--  en sa chambre antre meintenant . -->
+<feat xlink:href="#line_471" value=" li pastoreaus vint acorant ,"/><!--  li pastoreaus vint acorant , -->
+<feat xlink:href="#line_472" value=" qui ses moutons avoit contez :"/><!--  qui ses moutons avoit contez : -->
+<feat xlink:href="#line_473" value=" ersoir l&apos; en fu li uns enblez ,"/><!--  ersoir l' en fu li uns enblez , -->
+<feat xlink:href="#line_474" value=" si ne sot qu&apos; il fu devenuz ."/><!--  si ne sot qu' il fu devenuz . -->
+<feat xlink:href="#line_475" value=" grant aleure fu venuz ,"/><!--  grant aleure fu venuz , -->
+<feat xlink:href="#line_476" value=" gratant ses hines , en meson ."/><!--  gratant ses hines , en meson . -->
+<feat xlink:href="#line_477" value=" li prestre sist sor un bançon ,"/><!--  li prestre sist sor un bançon , -->
+<feat xlink:href="#line_478" value=" molt corocié et eschaufez ."/><!--  molt corocié et eschaufez . -->
+<feat xlink:href="#line_479" value=" &quot; qu&apos; est ce , el non de vi maufez ,"/><!--  " qu' est ce , el non de vi maufez , -->
+<feat xlink:href="#line_480" value=" ribaut pulent , dont reviens tu ?"/><!--  ribaut pulent , dont reviens tu ? -->
+<feat xlink:href="#line_481" value=" qu&apos; est ce , quel fet semblant fes tu ?"/><!--  qu' est ce , quel fet semblant fes tu ? -->
+<feat xlink:href="#line_482" value=" fiz a putein , pastor rubestes ,"/><!--  fiz a putein , pastor rubestes , -->
+<feat xlink:href="#line_483" value=" tu deuses garder tes bestes :"/><!--  tu deuses garder tes bestes : -->
+<feat xlink:href="#line_484" value=" por poi ne te fier d&apos; un baston !"/><!--  por poi ne te fier d' un baston ! -->
+<feat xlink:href="#line_485" value=" - sire , n&apos; ai mie d&apos; un mouton ,"/><!--  - sire , n' ai mie d' un mouton , -->
+<feat xlink:href="#line_486" value=" tot le plus bel de nos tropé ,"/><!--  tot le plus bel de nos tropé , -->
+<feat xlink:href="#line_487" value=" si ne sai qui l&apos; a atrapé ."/><!--  si ne sai qui l' a atrapé . -->
+<feat xlink:href="#line_488" value=" - as tu dont un mouton perdu ?"/><!--  - as tu dont un mouton perdu ? -->
+<feat xlink:href="#line_489" value=" on te deust avoir pendu ,"/><!--  on te deust avoir pendu , -->
+<feat xlink:href="#line_490" value=" mavesement les as gardez !"/><!--  mavesement les as gardez ! -->
+<feat xlink:href="#line_491" value=" - sire , fet il , or m&apos; entendez :"/><!--  - sire , fet il , or m' entendez : -->
+<feat xlink:href="#line_492" value=" ersoir , quant en la vile entrai ,"/><!--  ersoir , quant en la vile entrai , -->
+<feat xlink:href="#line_493" value=" un estrange home j&apos; encontrai ,"/><!--  un estrange home j' encontrai , -->
+<feat xlink:href="#line_494" value=" qui molt mes bestes esgarda ,"/><!--  qui molt mes bestes esgarda , -->
+<feat xlink:href="#line_495" value=" et molt m&apos; enquist et demanda"/><!--  et molt m' enquist et demanda -->
+<feat xlink:href="#line_496" value=" qui cel bel avoir poeit estre ;"/><!--  qui cel bel avoir poeit estre ; -->
+<feat xlink:href="#line_497" value=" et je li dis qu&apos; il iert nos prestre ."/><!--  et je li dis qu' il iert nos prestre . -->
+<feat xlink:href="#line_498" value=" cil le m&apos; embla , ce m&apos; est avis ."/><!--  cil le m' embla , ce m' est avis . -->
+<feat xlink:href="#line_499" value=" - par les denz dieu , ce fu davis ,"/><!--  - par les denz dieu , ce fu davis , -->
+<feat xlink:href="#line_500" value=" nostre oste qui ceanz a jut !"/><!--  nostre oste qui ceanz a jut ! -->
+<feat xlink:href="#line_501" value=" bien m&apos; a engignié et deçut ,"/><!--  bien m' a engignié et deçut , -->
+<feat xlink:href="#line_502" value=" qui ma mesnee m&apos; a fotue ;"/><!--  qui ma mesnee m' a fotue ; -->
+<feat xlink:href="#line_503" value=" ma pel meimes m&apos; a vendue :"/><!--  ma pel meimes m' a vendue : -->
+<feat xlink:href="#line_504" value=" de ma manche m&apos; a ters mon nés ."/><!--  de ma manche m' a ters mon nés . -->
+<feat xlink:href="#line_505" value=" en maleur fusse je nés ,"/><!--  en maleur fusse je nés , -->
+<feat xlink:href="#line_506" value=" quant je ne m&apos; en soi garde prendre !"/><!--  quant je ne m' en soi garde prendre ! -->
+<feat xlink:href="#line_507" value=" on puet molt chascun jor aprendre :"/><!--  on puet molt chascun jor aprendre : -->
+<feat xlink:href="#line_508" value=" de ma paste m&apos; a fet tourtel ."/><!--  de ma paste m' a fet tourtel . -->
+<feat xlink:href="#line_509" value=" reconnoistroies tu la pel ?"/><!--  reconnoistroies tu la pel ? -->
+<feat xlink:href="#line_510" value=" - que dites vos , sire , avoi !"/><!--  - que dites vos , sire , avoi ! -->
+<feat xlink:href="#line_511" value=" oïl , molt bien , se je la voi :"/><!--  oïl , molt bien , se je la voi : -->
+<feat xlink:href="#line_512" value=" je l&apos; ai eu cinc anz en garde . &quot;"/><!--  je l' ai eu cinc anz en garde . " -->
+<feat xlink:href="#line_513" value=" cil prent la pel , si la regarde ;"/><!--  cil prent la pel , si la regarde ; -->
+<feat xlink:href="#line_514" value=" as oreilles et a la teste"/><!--  as oreilles et a la teste -->
+<feat xlink:href="#line_515" value=" connut bien la pel de la beste ."/><!--  connut bien la pel de la beste . -->
+<feat xlink:href="#line_516" value=" &quot; e mi , las ! dist li pastoreaus ,"/><!--  " e mi , las ! dist li pastoreaus , -->
+<feat xlink:href="#line_517" value=" sire , certes , c&apos; est cornuiaus ,"/><!--  sire , certes , c' est cornuiaus , -->
+<feat xlink:href="#line_518" value=" la beste el mont que mieus amoie ,"/><!--  la beste el mont que mieus amoie , -->
+<feat xlink:href="#line_519" value=" qu&apos; en nos tropé n&apos; avoit si coie :"/><!--  qu' en nos tropé n' avoit si coie : -->
+<feat xlink:href="#line_520" value=" foi que je doi a seint climent ,"/><!--  foi que je doi a seint climent , -->
+<feat xlink:href="#line_521" value=" n&apos; avoit plus quoi mouton en cent ,"/><!--  n' avoit plus quoi mouton en cent , -->
+<feat xlink:href="#line_522" value=" mieusdre de lui ne poeit estre !"/><!--  mieusdre de lui ne poeit estre ! -->
+<feat xlink:href="#line_523" value=" - cha venez , dame , dist le prestre ,"/><!--  - cha venez , dame , dist le prestre , -->
+<feat xlink:href="#line_524" value=" parlez a moi , jel vos commant !"/><!--  parlez a moi , jel vos commant ! -->
+<feat xlink:href="#line_525" value=" et tu , bease , vien avant ,"/><!--  et tu , bease , vien avant , -->
+<feat xlink:href="#line_526" value=" parrolle a moi quant je t&apos; apel !"/><!--  parrolle a moi quant je t' apel ! -->
+<feat xlink:href="#line_527" value=" que claimes tu en ceste pel ?"/><!--  que claimes tu en ceste pel ? -->
+<feat xlink:href="#line_528" value=" - foi que doi vos , que je molt aim ,"/><!--  - foi que doi vos , que je molt aim , -->
+<feat xlink:href="#line_529" value=" sire , trestote la pel claim ."/><!--  sire , trestote la pel claim . -->
+<feat xlink:href="#line_530" value=" - et vos , que dites , bele dame ?"/><!--  - et vos , que dites , bele dame ? -->
+<feat xlink:href="#line_531" value=" - sire , se dieus ait part en m&apos; ame ,"/><!--  - sire , se dieus ait part en m' ame , -->
+<feat xlink:href="#line_532" value=" ele doit estre par droit mieue ."/><!--  ele doit estre par droit mieue . -->
+<feat xlink:href="#line_533" value=" - ele n&apos; iert ne vostre ne sieue ."/><!--  - ele n' iert ne vostre ne sieue . -->
+<feat xlink:href="#line_534" value=" je l&apos; achetai de mon avoir :"/><!--  je l' achetai de mon avoir : -->
+<feat xlink:href="#line_535" value=" qui la doit mieus de moi avoir ?"/><!--  qui la doit mieus de moi avoir ? -->
+<feat xlink:href="#line_536" value=" par seint pierre , le bon apostre ,"/><!--  par seint pierre , le bon apostre , -->
+<feat xlink:href="#line_537" value=" ele n&apos; iert ne sieue ne vostre ,"/><!--  ele n' iert ne sieue ne vostre , -->
+<feat xlink:href="#line_538" value=" se par jugement ne l&apos; avez !"/><!--  se par jugement ne l' avez ! -->
+<feat xlink:href="#line_539" value=" et vos , qui molt ce bien savez ,"/><!--  et vos , qui molt ce bien savez , -->
+<feat xlink:href="#line_540" value=" huitasce d&apos; amiens vos demande ,"/><!--  huitasce d' amiens vos demande , -->
+<feat xlink:href="#line_541" value=" par amours vos prie et commande"/><!--  par amours vos prie et commande -->
+<feat xlink:href="#line_542" value=" que vos faciez cest jugement ,"/><!--  que vos faciez cest jugement , -->
+<feat xlink:href="#line_543" value=" bien et a droit et leaument ."/><!--  bien et a droit et leaument . -->
+<feat xlink:href="#line_544" value=" chascun en die son savoir :"/><!--  chascun en die son savoir : -->
+<feat xlink:href="#line_545" value=" li quels doit mieus la pel avoir ,"/><!--  li quels doit mieus la pel avoir , -->
+<feat xlink:href="#line_546" value=" ou li prestres , ou la prestresse ,"/><!--  ou li prestres , ou la prestresse , -->
+<feat xlink:href="#line_547" value=" ou la bease piperesse ?"/><!--  ou la bease piperesse ? -->
+</featList>
+</paula>

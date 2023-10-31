@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.adam_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.adam.line.xml">
+<feat xlink:href="#line_0" value=" adam sire fourmé te ai"/><!--  adam sire fourmé te ai -->
+<feat xlink:href="#line_1" value=" de ben le sai"/><!--  de ben le sai -->
+<feat xlink:href="#line_2" value=" je te ai fourmé a mun semblant"/><!--  je te ai fourmé a mun semblant -->
+<feat xlink:href="#line_3" value=" a ma imagene t ai feit de terre"/><!--  a ma imagene t ai feit de terre -->
+<feat xlink:href="#line_4" value=" ne moi devez ja mais mover guere"/><!--  ne moi devez ja mais mover guere -->
+<feat xlink:href="#line_5" value=" nen frai ge mais te crerrai"/><!--  nen frai ge mais te crerrai -->
+<feat xlink:href="#line_6" value=" mun creatur oberai"/><!--  mun creatur oberai -->
+<feat xlink:href="#line_7" value=" je t ai duné bon cumpainun"/><!--  je t ai duné bon cumpainun -->
+<feat xlink:href="#line_8" value=" ce est ta femme eva a noun"/><!--  ce est ta femme eva a noun -->
+<feat xlink:href="#line_9" value=" ce est ta femme e tun pareil"/><!--  ce est ta femme e tun pareil -->
+<feat xlink:href="#line_10" value=" tu le devez estre ben fiel"/><!--  tu le devez estre ben fiel -->
+<feat xlink:href="#line_11" value=" tu aime lui e ele ame tei"/><!--  tu aime lui e ele ame tei -->
+<feat xlink:href="#line_12" value=" si serez ben ambedui de moi"/><!--  si serez ben ambedui de moi -->
+<feat xlink:href="#line_13" value=" ele soit a tun comandement"/><!--  ele soit a tun comandement -->
+<feat xlink:href="#line_14" value=" e vus ambedeus a mun talent"/><!--  e vus ambedeus a mun talent -->
+<feat xlink:href="#line_15" value=" de ta coste l&apos; ai fourmee"/><!--  de ta coste l' ai fourmee -->
+<feat xlink:href="#line_16" value=" n est pas estrange de tei est nee"/><!--  n est pas estrange de tei est nee -->
+<feat xlink:href="#line_17" value=" jo la plasmai de ton cors"/><!--  jo la plasmai de ton cors -->
+<feat xlink:href="#line_18" value=" de tei eissit non pas de fors"/><!--  de tei eissit non pas de fors -->
+<feat xlink:href="#line_19" value=" tu la governe par raison"/><!--  tu la governe par raison -->
+<feat xlink:href="#line_20" value=" n ait entre vus ja tencon"/><!--  n ait entre vus ja tencon -->
+<feat xlink:href="#line_21" value=" mais grant amor grant conservage"/><!--  mais grant amor grant conservage -->
+<feat xlink:href="#line_22" value=" tel soit la lei de mariage"/><!--  tel soit la lei de mariage -->
+<feat xlink:href="#line_23" value=" a tei parlerai evain"/><!--  a tei parlerai evain -->
+<feat xlink:href="#line_24" value=" co garde tu ne l&apos; tenez en vain"/><!--  co garde tu ne l' tenez en vain -->
+<feat xlink:href="#line_25" value=" si vos faire ma volenté"/><!--  si vos faire ma volenté -->
+<feat xlink:href="#line_26" value=" en ton cors garderas bonté"/><!--  en ton cors garderas bonté -->
+<feat xlink:href="#line_27" value=" aim et honor ton creator"/><!--  aim et honor ton creator -->
+<feat xlink:href="#line_28" value=" e moi reconuis a seignor"/><!--  e moi reconuis a seignor -->
+<feat xlink:href="#line_29" value=" a moi servir met ton porpens"/><!--  a moi servir met ton porpens -->
+<feat xlink:href="#line_30" value=" tut ta force e tot tun sens"/><!--  tut ta force e tot tun sens -->
+<feat xlink:href="#line_31" value=" adam aime et lui tien chier"/><!--  adam aime et lui tien chier -->
+<feat xlink:href="#line_32" value=" il est marid e tu sa mullier"/><!--  il est marid e tu sa mullier -->
+<feat xlink:href="#line_33" value=" a lui soies tot tens encline"/><!--  a lui soies tot tens encline -->
+<feat xlink:href="#line_34" value=" nen issir de sa discipline"/><!--  nen issir de sa discipline -->
+<feat xlink:href="#line_35" value=" lui serf e aim par bon coraje"/><!--  lui serf e aim par bon coraje -->
+<feat xlink:href="#line_36" value=" car co est droiz de mariage"/><!--  car co est droiz de mariage -->
+<feat xlink:href="#line_37" value=" se tu le fais bon adjutoire"/><!--  se tu le fais bon adjutoire -->
+<feat xlink:href="#line_38" value=" jo te mettrai od lui en gloire"/><!--  jo te mettrai od lui en gloire -->
+<feat xlink:href="#line_39" value=" jo l&apos; frai sire a ton plaisir"/><!--  jo l' frai sire a ton plaisir -->
+<feat xlink:href="#line_40" value=" ja n en voldrai de rien issir"/><!--  ja n en voldrai de rien issir -->
+<feat xlink:href="#line_41" value=" toi conustrai a seignor"/><!--  toi conustrai a seignor -->
+<feat xlink:href="#line_42" value=" lui a paraille et a forzor"/><!--  lui a paraille et a forzor -->
+<feat xlink:href="#line_43" value=" jo lui serrai tot tens feel"/><!--  jo lui serrai tot tens feel -->
+<feat xlink:href="#line_44" value=" de moi avra bon conseil"/><!--  de moi avra bon conseil -->
+<feat xlink:href="#line_45" value=" le ton pleisir le ton servise"/><!--  le ton pleisir le ton servise -->
+<feat xlink:href="#line_46" value=" frai sire en tote guise"/><!--  frai sire en tote guise -->
+<feat xlink:href="#line_47" value=" jo sai coment e moi que chalt"/><!--  jo sai coment e moi que chalt -->
+<feat xlink:href="#line_48" value=" por quei non rien ne me valt"/><!--  por quei non rien ne me valt -->
+<feat xlink:href="#line_49" value=" il te valdra jo ne sai quant"/><!--  il te valdra jo ne sai quant -->
+<feat xlink:href="#line_50" value=" ne l&apos; te dirrai pas en curant"/><!--  ne l' te dirrai pas en curant -->
+<feat xlink:href="#line_51" value=" or le me di non frai pas"/><!--  or le me di non frai pas -->
+<feat xlink:href="#line_52" value=" ainz te verrai del preer las"/><!--  ainz te verrai del preer las -->
+<feat xlink:href="#line_53" value=" n ai nul bosoing de co saveir"/><!--  n ai nul bosoing de co saveir -->
+<feat xlink:href="#line_54" value=" kar tu ne deiz nul bien aver"/><!--  kar tu ne deiz nul bien aver -->
+<feat xlink:href="#line_55" value=" tu as li bien ne seiez joir"/><!--  tu as li bien ne seiez joir -->
+<feat xlink:href="#line_56" value=" e jo coment voldras l&apos; oïr"/><!--  e jo coment voldras l' oïr -->
+<feat xlink:href="#line_57" value=" jo l&apos; te dirrai priveement"/><!--  jo l' te dirrai priveement -->
+<feat xlink:href="#line_58" value=" seurement"/><!--  seurement -->
+<feat xlink:href="#line_59" value=" escult adam entent a moi"/><!--  escult adam entent a moi -->
+<feat xlink:href="#line_60" value=" co iert ton pru e jo l&apos; otrei"/><!--  co iert ton pru e jo l' otrei -->
+<feat xlink:href="#line_61" value=" creras me tu oïl mult bien"/><!--  creras me tu oïl mult bien -->
+<feat xlink:href="#line_62" value=" del tut en tut fors de une rien"/><!--  del tut en tut fors de une rien -->
+<feat xlink:href="#line_63" value=" de quel chose jo l&apos; te dirrai"/><!--  de quel chose jo l' te dirrai -->
+<feat xlink:href="#line_64" value=" mon creator pas ne offendrai"/><!--  mon creator pas ne offendrai -->
+<feat xlink:href="#line_65" value=" criens le tu tant oïl par veir"/><!--  criens le tu tant oïl par veir -->
+<feat xlink:href="#line_66" value=" jo l&apos; aim e criem n est pas saveir"/><!--  jo l' aim e criem n est pas saveir -->
+<feat xlink:href="#line_67" value=" que te poet faire e bien e mal"/><!--  que te poet faire e bien e mal -->
+<feat xlink:href="#line_68" value=" molt es entré en fol jornal"/><!--  molt es entré en fol jornal -->
+<feat xlink:href="#line_69" value=" quant creiez mal te poisse venir"/><!--  quant creiez mal te poisse venir -->
+<feat xlink:href="#line_70" value=" n es tu en gloire nen poez morir"/><!--  n es tu en gloire nen poez morir -->
+<feat xlink:href="#line_71" value=" deus le m&apos; a dit que je murrai"/><!--  deus le m' a dit que je murrai -->
+<feat xlink:href="#line_72" value=" quant son precept trespasserai"/><!--  quant son precept trespasserai -->
+<feat xlink:href="#line_73" value=" quel est cist grant trespassement"/><!--  quel est cist grant trespassement -->
+<feat xlink:href="#line_74" value=" oïr le voil sens nul entent"/><!--  oïr le voil sens nul entent -->
+<feat xlink:href="#line_75" value=" jo l&apos; te dirrai tot veirement"/><!--  jo l' te dirrai tot veirement -->
+<feat xlink:href="#line_76" value=" il me fist un comandement"/><!--  il me fist un comandement -->
+<feat xlink:href="#line_77" value=" de tuit le fruit de paradis"/><!--  de tuit le fruit de paradis -->
+<feat xlink:href="#line_78" value=" puis jo manger co m&apos; a apris"/><!--  puis jo manger co m' a apris -->
+<feat xlink:href="#line_79" value=" fors de sul un cil m&apos; est defens"/><!--  fors de sul un cil m' est defens -->
+<feat xlink:href="#line_80" value=" colui ne tucherai de mains"/><!--  colui ne tucherai de mains -->
+<feat xlink:href="#line_81" value=" li quels est co veez le tu la"/><!--  li quels est co veez le tu la -->
+<feat xlink:href="#line_82" value=" colui tres bien me devia"/><!--  colui tres bien me devia -->
+<feat xlink:href="#line_83" value=" sez tu por quoi jo certes non"/><!--  sez tu por quoi jo certes non -->
+<feat xlink:href="#line_84" value=" jo te dirrai ja l&apos; achaison"/><!--  jo te dirrai ja l' achaison -->
+<feat xlink:href="#line_85" value=" de l&apos; altre fruit rien ne li chalt"/><!--  de l' altre fruit rien ne li chalt -->
+<feat xlink:href="#line_86" value=" fors de celui qui pent en halt"/><!--  fors de celui qui pent en halt -->
+<feat xlink:href="#line_87" value=" co est le fruit de sapience"/><!--  co est le fruit de sapience -->
+<feat xlink:href="#line_88" value=" de tut saveir done science"/><!--  de tut saveir done science -->
+<feat xlink:href="#line_89" value=" se tu le manjues bon le fras"/><!--  se tu le manjues bon le fras -->
+<feat xlink:href="#line_90" value=" e jo en quei tu le verras"/><!--  e jo en quei tu le verras -->
+<feat xlink:href="#line_91" value=" ti oil serrunt sempres overt"/><!--  ti oil serrunt sempres overt -->
+<feat xlink:href="#line_92" value=" quanque deit estre t iert apert"/><!--  quanque deit estre t iert apert -->
+<feat xlink:href="#line_93" value=" quanque vuldras porras faire"/><!--  quanque vuldras porras faire -->
+<feat xlink:href="#line_94" value=" mult le fait bon vers tei atraire"/><!--  mult le fait bon vers tei atraire -->
+<feat xlink:href="#line_95" value=" manjue le si fras bien"/><!--  manjue le si fras bien -->
+<feat xlink:href="#line_96" value=" ne crendras pois tun deu de rien"/><!--  ne crendras pois tun deu de rien -->
+<feat xlink:href="#line_97" value=" aienz serras puis del tut son per"/><!--  aienz serras puis del tut son per -->
+<feat xlink:href="#line_98" value=" por co le quidat veer"/><!--  por co le quidat veer -->
+<feat xlink:href="#line_99" value=" creras me tu guste del fruit"/><!--  creras me tu guste del fruit -->
+<feat xlink:href="#line_100" value=" no el frai pas or oez deduit"/><!--  no el frai pas or oez deduit -->
+<feat xlink:href="#line_101" value=" ne l&apos; feras non kar tu es soz"/><!--  ne l' feras non kar tu es soz -->
+<feat xlink:href="#line_102" value=" encore te membrera des moz"/><!--  encore te membrera des moz -->
+<feat xlink:href="#line_103" value=" adam que fais changeras tun sens"/><!--  adam que fais changeras tun sens -->
+<feat xlink:href="#line_104" value=" es tu encore en fol porpens"/><!--  es tu encore en fol porpens -->
+<feat xlink:href="#line_105" value=" jo l&apos; te quidai dire l&apos; autrer"/><!--  jo l' te quidai dire l' autrer -->
+<feat xlink:href="#line_106" value=" deus t a fait ci sun provender"/><!--  deus t a fait ci sun provender -->
+<feat xlink:href="#line_107" value=" ci t ad mis por mangier cest fruit"/><!--  ci t ad mis por mangier cest fruit -->
+<feat xlink:href="#line_108" value=" as tu donch altre deduit"/><!--  as tu donch altre deduit -->
+<feat xlink:href="#line_109" value=" jo oïl ne me falt"/><!--  jo oïl ne me falt -->
+<feat xlink:href="#line_110" value=" ne munteras ja mes plus halt"/><!--  ne munteras ja mes plus halt -->
+<feat xlink:href="#line_111" value=" molt te porras tenir por chier"/><!--  molt te porras tenir por chier -->
+<feat xlink:href="#line_112" value=" quant deus t a fet sun jardenier"/><!--  quant deus t a fet sun jardenier -->
+<feat xlink:href="#line_113" value=" deus t a feit gardein de son ort"/><!--  deus t a feit gardein de son ort -->
+<feat xlink:href="#line_114" value=" ja ne querras altre deport"/><!--  ja ne querras altre deport -->
+<feat xlink:href="#line_115" value=" forma il toi por ventre faire"/><!--  forma il toi por ventre faire -->
+<feat xlink:href="#line_116" value=" altre honor ne te voldra atraire"/><!--  altre honor ne te voldra atraire -->
+<feat xlink:href="#line_117" value=" escut adam entent a moi"/><!--  escut adam entent a moi -->
+<feat xlink:href="#line_118" value=" jo te conseillerai en fei"/><!--  jo te conseillerai en fei -->
+<feat xlink:href="#line_119" value=" que porras estre senz seignor"/><!--  que porras estre senz seignor -->
+<feat xlink:href="#line_120" value=" e seras per del creatur"/><!--  e seras per del creatur -->
+<feat xlink:href="#line_121" value=" jo te dirrai tute la summe"/><!--  jo te dirrai tute la summe -->
+<feat xlink:href="#line_122" value=" si tu manjues la pome"/><!--  si tu manjues la pome -->
+<feat xlink:href="#line_123" value=" tu regneras en majesté"/><!--  tu regneras en majesté -->
+<feat xlink:href="#line_124" value=" od deu poez partir poesté"/><!--  od deu poez partir poesté -->
+<feat xlink:href="#line_125" value=" fui tei de ci que dit adam"/><!--  fui tei de ci que dit adam -->
+<feat xlink:href="#line_126" value=" fui tei de ci tu es sathan"/><!--  fui tei de ci tu es sathan -->
+<feat xlink:href="#line_127" value=" mal conseil dones e jo coment"/><!--  mal conseil dones e jo coment -->
+<feat xlink:href="#line_128" value=" tu me voels livrer a torment"/><!--  tu me voels livrer a torment -->
+<feat xlink:href="#line_129" value=" mesler me vols o mun seignor"/><!--  mesler me vols o mun seignor -->
+<feat xlink:href="#line_130" value=" tolir de joie mettre en dolor"/><!--  tolir de joie mettre en dolor -->
+<feat xlink:href="#line_131" value=" ne te crerrai fui te de ci"/><!--  ne te crerrai fui te de ci -->
+<feat xlink:href="#line_132" value=" ne soies ja mais tant hardi"/><!--  ne soies ja mais tant hardi -->
+<feat xlink:href="#line_133" value=" que tu ja viengez devant moi"/><!--  que tu ja viengez devant moi -->
+<feat xlink:href="#line_134" value=" tu es traitres e sanz foi"/><!--  tu es traitres e sanz foi -->
+<feat xlink:href="#line_135" value=" eva ca sui venuz a toi"/><!--  eva ca sui venuz a toi -->
+<feat xlink:href="#line_136" value=" di moi sathan et tu pur quoi"/><!--  di moi sathan et tu pur quoi -->
+<feat xlink:href="#line_137" value=" jo vois querant tun pru tun honor"/><!--  jo vois querant tun pru tun honor -->
+<feat xlink:href="#line_138" value=" co dunge deu n aiez poür"/><!--  co dunge deu n aiez poür -->
+<feat xlink:href="#line_139" value=" molt a grant tens que jo ai apris"/><!--  molt a grant tens que jo ai apris -->
+<feat xlink:href="#line_140" value=" toz les conseils de parais"/><!--  toz les conseils de parais -->
+<feat xlink:href="#line_141" value=" une partie t en dirrai"/><!--  une partie t en dirrai -->
+<feat xlink:href="#line_142" value=" ore le comence e jo l&apos; orrai"/><!--  ore le comence e jo l' orrai -->
+<feat xlink:href="#line_143" value=" orras me tu si frai bien"/><!--  orras me tu si frai bien -->
+<feat xlink:href="#line_144" value=" ne te curcerai de rien"/><!--  ne te curcerai de rien -->
+<feat xlink:href="#line_145" value=" celeras m&apos; en oïl par foi"/><!--  celeras m' en oïl par foi -->
+<feat xlink:href="#line_146" value=" iert descovert nenil par moi"/><!--  iert descovert nenil par moi -->
+<feat xlink:href="#line_147" value=" or me metrai en ta creance"/><!--  or me metrai en ta creance -->
+<feat xlink:href="#line_148" value=" ne voil de toi altre fiance"/><!--  ne voil de toi altre fiance -->
+<feat xlink:href="#line_149" value=" bien te pois creire a ma parole"/><!--  bien te pois creire a ma parole -->
+<feat xlink:href="#line_150" value=" tu as esté en bone escole"/><!--  tu as esté en bone escole -->
+<feat xlink:href="#line_151" value=" jo vi adam mais trop est fols"/><!--  jo vi adam mais trop est fols -->
+<feat xlink:href="#line_152" value=" un poi est durs il serra mols"/><!--  un poi est durs il serra mols -->
+<feat xlink:href="#line_153" value=" il est plus dors que n est emfers"/><!--  il est plus dors que n est emfers -->
+<feat xlink:href="#line_154" value=" il est mult francs ainz est mult serf"/><!--  il est mult francs ainz est mult serf -->
+<feat xlink:href="#line_155" value=" cure nen voelt prendre de soi"/><!--  cure nen voelt prendre de soi -->
+<feat xlink:href="#line_156" value=" car la prenge sevals de toi"/><!--  car la prenge sevals de toi -->
+<feat xlink:href="#line_157" value=" tu es fieblette et tendre chose"/><!--  tu es fieblette et tendre chose -->
+<feat xlink:href="#line_158" value=" e es plus fresche que n est rose"/><!--  e es plus fresche que n est rose -->
+<feat xlink:href="#line_159" value=" tu es plus blanche que cristal"/><!--  tu es plus blanche que cristal -->
+<feat xlink:href="#line_160" value=" que neif que chiét sor glace enval"/><!--  que neif que chiét sor glace enval -->
+<feat xlink:href="#line_161" value=" mal cuple em fist li criator"/><!--  mal cuple em fist li criator -->
+<feat xlink:href="#line_162" value=" tu es trop tendre e il trop dur"/><!--  tu es trop tendre e il trop dur -->
+<feat xlink:href="#line_163" value=" mais neporquant tu es plus sage"/><!--  mais neporquant tu es plus sage -->
+<feat xlink:href="#line_164" value=" en grant sens as mis tun corrage"/><!--  en grant sens as mis tun corrage -->
+<feat xlink:href="#line_165" value=" por co fait bon traire a toi"/><!--  por co fait bon traire a toi -->
+<feat xlink:href="#line_166" value=" parler te voil ore i ait fai"/><!--  parler te voil ore i ait fai -->
+<feat xlink:href="#line_167" value=" nen sache nuls ki le deit saver"/><!--  nen sache nuls ki le deit saver -->
+<feat xlink:href="#line_168" value=" neïs adam nenil par moi"/><!--  neïs adam nenil par moi -->
+<feat xlink:href="#line_169" value=" or te dirrai e tu m&apos; ascute"/><!--  or te dirrai e tu m' ascute -->
+<feat xlink:href="#line_170" value=" n a que nus dous en ceste rote"/><!--  n a que nus dous en ceste rote -->
+<feat xlink:href="#line_171" value=" e adam la qu il ne nus ot"/><!--  e adam la qu il ne nus ot -->
+<feat xlink:href="#line_172" value=" parlez en halt n en savrat molt"/><!--  parlez en halt n en savrat molt -->
+<feat xlink:href="#line_173" value=" jo vus acoint d un grant engin"/><!--  jo vus acoint d un grant engin -->
+<feat xlink:href="#line_174" value=" que vus est fait en cest gardin"/><!--  que vus est fait en cest gardin -->
+<feat xlink:href="#line_175" value=" le fruit que deus vus ad doné"/><!--  le fruit que deus vus ad doné -->
+<feat xlink:href="#line_176" value=" nen a en soi gaires bonté"/><!--  nen a en soi gaires bonté -->
+<feat xlink:href="#line_177" value=" cil qu il vus ad tant defendu"/><!--  cil qu il vus ad tant defendu -->
+<feat xlink:href="#line_178" value=" il ad en soi grant vertu"/><!--  il ad en soi grant vertu -->
+<feat xlink:href="#line_179" value=" en celui est grace de vie"/><!--  en celui est grace de vie -->
+<feat xlink:href="#line_180" value=" de poeste e de seignorie"/><!--  de poeste e de seignorie -->
+<feat xlink:href="#line_181" value=" de tut saver bien e mal"/><!--  de tut saver bien e mal -->
+<feat xlink:href="#line_182" value=" quel savor a celestial"/><!--  quel savor a celestial -->
+<feat xlink:href="#line_183" value=" a ton bels cors a ta figure"/><!--  a ton bels cors a ta figure -->
+<feat xlink:href="#line_184" value=" bien covendreit tel aventure"/><!--  bien covendreit tel aventure -->
+<feat xlink:href="#line_185" value=" que tu fusses dame del mond"/><!--  que tu fusses dame del mond -->
+<feat xlink:href="#line_186" value=" del soverain et del parfont"/><!--  del soverain et del parfont -->
+<feat xlink:href="#line_187" value=" e seusez quanque a estre"/><!--  e seusez quanque a estre -->
+<feat xlink:href="#line_188" value=" que de tuit fuissez bone maistre"/><!--  que de tuit fuissez bone maistre -->
+<feat xlink:href="#line_189" value=" est tel li fruiz oïl par voir"/><!--  est tel li fruiz oïl par voir -->
+<feat xlink:href="#line_190" value=" ja me fait bien sol le veer"/><!--  ja me fait bien sol le veer -->
+<feat xlink:href="#line_191" value=" si tu le mangues que feras"/><!--  si tu le mangues que feras -->
+<feat xlink:href="#line_192" value=" e jo que sai ne me crerras"/><!--  e jo que sai ne me crerras -->
+<feat xlink:href="#line_193" value=" primes le pren e a adam le done"/><!--  primes le pren e a adam le done -->
+<feat xlink:href="#line_194" value=" del ciel averez sempres corone"/><!--  del ciel averez sempres corone -->
+<feat xlink:href="#line_195" value=" al creator serrez pareil"/><!--  al creator serrez pareil -->
+<feat xlink:href="#line_196" value=" ne vus purra celer conseil"/><!--  ne vus purra celer conseil -->
+<feat xlink:href="#line_197" value=" puisque del fruit avrez mangié"/><!--  puisque del fruit avrez mangié -->
+<feat xlink:href="#line_198" value=" sempres vus iert le cuer changié"/><!--  sempres vus iert le cuer changié -->
+<feat xlink:href="#line_199" value=" o deus serrez sanz faillance"/><!--  o deus serrez sanz faillance -->
+<feat xlink:href="#line_200" value=" de egal bonté de egal puissance"/><!--  de egal bonté de egal puissance -->
+<feat xlink:href="#line_201" value=" guste del fruit jo n ai regard"/><!--  guste del fruit jo n ai regard -->
+<feat xlink:href="#line_202" value=" ne creire adam jo l&apos; ferai"/><!--  ne creire adam jo l' ferai -->
+<feat xlink:href="#line_203" value=" quant suffrez moi"/><!--  quant suffrez moi -->
+<feat xlink:href="#line_204" value=" tant que adam soit en recoi"/><!--  tant que adam soit en recoi -->
+<feat xlink:href="#line_205" value=" manjue le n aiez dutance"/><!--  manjue le n aiez dutance -->
+<feat xlink:href="#line_206" value=" le demorer serrat emfance"/><!--  le demorer serrat emfance -->
+<feat xlink:href="#line_207" value=" di moi muiller que te querroit"/><!--  di moi muiller que te querroit -->
+<feat xlink:href="#line_208" value=" li mal satan que te voleit"/><!--  li mal satan que te voleit -->
+<feat xlink:href="#line_209" value=" il me parla de nostre honor"/><!--  il me parla de nostre honor -->
+<feat xlink:href="#line_210" value=" ne creire ja le traitor"/><!--  ne creire ja le traitor -->
+<feat xlink:href="#line_211" value=" il est traitre bien le sai"/><!--  il est traitre bien le sai -->
+<feat xlink:href="#line_212" value=" e tu coment car l&apos; asaiai"/><!--  e tu coment car l' asaiai -->
+<feat xlink:href="#line_213" value=" de co qu en chat me del veer"/><!--  de co qu en chat me del veer -->
+<feat xlink:href="#line_214" value=" il te ferra changer saver"/><!--  il te ferra changer saver -->
+<feat xlink:href="#line_215" value=" ne l&apos; fra pas car ne l&apos; crerai"/><!--  ne l' fra pas car ne l' crerai -->
+<feat xlink:href="#line_216" value=" de nule rien tantque l&apos; asai"/><!--  de nule rien tantque l' asai -->
+<feat xlink:href="#line_217" value=" ne l&apos; laisser mais venir sor toi"/><!--  ne l' laisser mais venir sor toi -->
+<feat xlink:href="#line_218" value=" car il est mult de pute foi"/><!--  car il est mult de pute foi -->
+<feat xlink:href="#line_219" value=" il volst trair ja son seignor"/><!--  il volst trair ja son seignor -->
+<feat xlink:href="#line_220" value=" e s oposer al des halzor"/><!--  e s oposer al des halzor -->
+<feat xlink:href="#line_221" value=" tel paltonier qui co ad fait"/><!--  tel paltonier qui co ad fait -->
+<feat xlink:href="#line_222" value=" ne voil que vers vus ait nul retrait"/><!--  ne voil que vers vus ait nul retrait -->
+<feat xlink:href="#line_223" value=" manjue adam ne sez que est"/><!--  manjue adam ne sez que est -->
+<feat xlink:href="#line_224" value=" pernum co bien que nus est prest"/><!--  pernum co bien que nus est prest -->
+<feat xlink:href="#line_225" value=" est il tant bon tu le saveras"/><!--  est il tant bon tu le saveras -->
+<feat xlink:href="#line_226" value=" ne l&apos; poez saver si n gusteras"/><!--  ne l' poez saver si n gusteras -->
+<feat xlink:href="#line_227" value=" j en duit lai le nen frai pas"/><!--  j en duit lai le nen frai pas -->
+<feat xlink:href="#line_228" value=" del demorer fai tu que las"/><!--  del demorer fai tu que las -->
+<feat xlink:href="#line_229" value=" e jo le prendrai manjue ten"/><!--  e jo le prendrai manjue ten -->
+<feat xlink:href="#line_230" value=" par co saveras e mal e bien"/><!--  par co saveras e mal e bien -->
+<feat xlink:href="#line_231" value=" jo en manjerai premirement"/><!--  jo en manjerai premirement -->
+<feat xlink:href="#line_232" value=" e jo aprés seurement"/><!--  e jo aprés seurement -->
+<feat xlink:href="#line_233" value=" gusté en ai deus quele savor"/><!--  gusté en ai deus quele savor -->
+<feat xlink:href="#line_234" value=" unc ne tastai d itel dolcor"/><!--  unc ne tastai d itel dolcor -->
+<feat xlink:href="#line_235" value=" d itel savor est ceste pome"/><!--  d itel savor est ceste pome -->
+<feat xlink:href="#line_236" value=" de quel d itel nen gusta home"/><!--  de quel d itel nen gusta home -->
+<feat xlink:href="#line_237" value=" or sunt mes oil tant cler veant"/><!--  or sunt mes oil tant cler veant -->
+<feat xlink:href="#line_238" value=" jo semble deu le tuit puissant"/><!--  jo semble deu le tuit puissant -->
+<feat xlink:href="#line_239" value=" quanque fu quanque doit estre"/><!--  quanque fu quanque doit estre -->
+<feat xlink:href="#line_240" value=" sai jo trestut bien en sui maistre"/><!--  sai jo trestut bien en sui maistre -->
+<feat xlink:href="#line_241" value=" manjue adam ne faz demore"/><!--  manjue adam ne faz demore -->
+<feat xlink:href="#line_242" value=" tu le prendras en mult bon ore"/><!--  tu le prendras en mult bon ore -->
+<feat xlink:href="#line_243" value=" jo t en crerra tu es ma per"/><!--  jo t en crerra tu es ma per -->
+<feat xlink:href="#line_244" value=" manjue nen poez doter"/><!--  manjue nen poez doter -->
+<feat xlink:href="#line_245" value=" allas pecchor que ai jo fait"/><!--  allas pecchor que ai jo fait -->
+<feat xlink:href="#line_246" value=" or sui mort sanz nul retrait"/><!--  or sui mort sanz nul retrait -->
+<feat xlink:href="#line_247" value=" senz nul rescus sui jo mort"/><!--  senz nul rescus sui jo mort -->
+<feat xlink:href="#line_248" value=" tant est chaite mal ma sort"/><!--  tant est chaite mal ma sort -->
+<feat xlink:href="#line_249" value=" mal m&apos; est changé ma aventure"/><!--  mal m' est changé ma aventure -->
+<feat xlink:href="#line_250" value=" mult fu ja bone or est mult dore"/><!--  mult fu ja bone or est mult dore -->
+<feat xlink:href="#line_251" value=" jo ai guerpi mun criator"/><!--  jo ai guerpi mun criator -->
+<feat xlink:href="#line_252" value=" par le conseil de mal uxor"/><!--  par le conseil de mal uxor -->
+<feat xlink:href="#line_253" value=" allas pecchable que frai"/><!--  allas pecchable que frai -->
+<feat xlink:href="#line_254" value=" mun criator cum atendrai"/><!--  mun criator cum atendrai -->
+<feat xlink:href="#line_255" value=" cum atendrai mon criator"/><!--  cum atendrai mon criator -->
+<feat xlink:href="#line_256" value=" que jo ai guerpi por ma folor"/><!--  que jo ai guerpi por ma folor -->
+<feat xlink:href="#line_257" value=" unches ne fis tant mal marchié"/><!--  unches ne fis tant mal marchié -->
+<feat xlink:href="#line_258" value=" or sai jo ja que est pecchié"/><!--  or sai jo ja que est pecchié -->
+<feat xlink:href="#line_259" value=" ai mort por quoi me laisses vivre"/><!--  ai mort por quoi me laisses vivre -->
+<feat xlink:href="#line_260" value=" que n est li monde de moi delivre"/><!--  que n est li monde de moi delivre -->
+<feat xlink:href="#line_261" value=" por quoi faz encombrer al mond"/><!--  por quoi faz encombrer al mond -->
+<feat xlink:href="#line_262" value=" d emfer m&apos; estoet tempter le fond"/><!--  d emfer m' estoet tempter le fond -->
+<feat xlink:href="#line_263" value=" en emfer serra ma demure"/><!--  en emfer serra ma demure -->
+<feat xlink:href="#line_264" value=" tantque vienge qui me sucure"/><!--  tantque vienge qui me sucure -->
+<feat xlink:href="#line_265" value=" en emfer si avrai ma vie"/><!--  en emfer si avrai ma vie -->
+<feat xlink:href="#line_266" value=" dont me vendra iloc aïe"/><!--  dont me vendra iloc aïe -->
+<feat xlink:href="#line_267" value=" dont me vendra iloec socors"/><!--  dont me vendra iloec socors -->
+<feat xlink:href="#line_268" value=" ki me trara d ités dolors"/><!--  ki me trara d ités dolors -->
+<feat xlink:href="#line_269" value=" por quei vers mon seignor mesfis"/><!--  por quei vers mon seignor mesfis -->
+<feat xlink:href="#line_270" value=" ne me deit estre nul amis"/><!--  ne me deit estre nul amis -->
+<feat xlink:href="#line_271" value=" non iert nul que gaires vaille"/><!--  non iert nul que gaires vaille -->
+<feat xlink:href="#line_272" value=" jo sui perdu senz nule faille"/><!--  jo sui perdu senz nule faille -->
+<feat xlink:href="#line_273" value=" vers mon seignor sui si mesfait"/><!--  vers mon seignor sui si mesfait -->
+<feat xlink:href="#line_274" value=" nen puis contre lui entrer em plait"/><!--  nen puis contre lui entrer em plait -->
+<feat xlink:href="#line_275" value=" car jo ai tort e il ad droit"/><!--  car jo ai tort e il ad droit -->
+<feat xlink:href="#line_276" value=" deu tant a ci mal plait"/><!--  deu tant a ci mal plait -->
+<feat xlink:href="#line_277" value=" chi avrad mais de moi memorie"/><!--  chi avrad mais de moi memorie -->
+<feat xlink:href="#line_278" value=" car sui mesfet au roi de gloire"/><!--  car sui mesfet au roi de gloire -->
+<feat xlink:href="#line_279" value=" au roi del ciel sui si mesfait"/><!--  au roi del ciel sui si mesfait -->
+<feat xlink:href="#line_280" value=" de raison n ai vers lui un trait"/><!--  de raison n ai vers lui un trait -->
+<feat xlink:href="#line_281" value=" nen ai ami ne nul veisin"/><!--  nen ai ami ne nul veisin -->
+<feat xlink:href="#line_282" value=" qui me trai del plait a fin"/><!--  qui me trai del plait a fin -->
+<feat xlink:href="#line_283" value=" qui preirai jo ja qui m&apos; aït"/><!--  qui preirai jo ja qui m' aït -->
+<feat xlink:href="#line_284" value=" quant ma femme m&apos; a traït"/><!--  quant ma femme m' a traït -->
+<feat xlink:href="#line_285" value=" qui deus me dona por pareil"/><!--  qui deus me dona por pareil -->
+<feat xlink:href="#line_286" value=" ele me dona mal conseil"/><!--  ele me dona mal conseil -->
+<feat xlink:href="#line_287" value=" ai eve ai femme deavee"/><!--  ai eve ai femme deavee -->
+<feat xlink:href="#line_288" value=" mal fussez vus de moi nee"/><!--  mal fussez vus de moi nee -->
+<feat xlink:href="#line_289" value=" car fust arse iceste coste"/><!--  car fust arse iceste coste -->
+<feat xlink:href="#line_290" value=" qui m&apos; ad mis en si male poste"/><!--  qui m' ad mis en si male poste -->
+<feat xlink:href="#line_291" value=" car fust la coste en fu brudlee"/><!--  car fust la coste en fu brudlee -->
+<feat xlink:href="#line_292" value=" qui m&apos; ad basti si grant meslee"/><!--  qui m' ad basti si grant meslee -->
+<feat xlink:href="#line_293" value=" quant cele coste de moi prist"/><!--  quant cele coste de moi prist -->
+<feat xlink:href="#line_294" value=" por quei ne l&apos; arst e moi oscist"/><!--  por quei ne l' arst e moi oscist -->
+<feat xlink:href="#line_295" value=" la coste ad tut le cors trai"/><!--  la coste ad tut le cors trai -->
+<feat xlink:href="#line_296" value=" e afolé e mal bailli"/><!--  e afolé e mal bailli -->
+<feat xlink:href="#line_297" value=" ne sa que die ne ken face"/><!--  ne sa que die ne ken face -->
+<feat xlink:href="#line_298" value=" si ne me vient del ciel la grace"/><!--  si ne me vient del ciel la grace -->
+<feat xlink:href="#line_299" value=" nem puis estre gieté de paine"/><!--  nem puis estre gieté de paine -->
+<feat xlink:href="#line_300" value=" tel est li mals que me demaine"/><!--  tel est li mals que me demaine -->
+<feat xlink:href="#line_301" value=" ai eve cum a mal ore"/><!--  ai eve cum a mal ore -->
+<feat xlink:href="#line_302" value=" cume grant peine me curut sore"/><!--  cume grant peine me curut sore -->
+<feat xlink:href="#line_303" value=" quant onches fustes mi parail"/><!--  quant onches fustes mi parail -->
+<feat xlink:href="#line_304" value=" ore sui perriz par ton conseil"/><!--  ore sui perriz par ton conseil -->
+<feat xlink:href="#line_305" value=" par ton conseil sui mis a mal"/><!--  par ton conseil sui mis a mal -->
+<feat xlink:href="#line_306" value=" de grant haltesce sui mis aval"/><!--  de grant haltesce sui mis aval -->
+<feat xlink:href="#line_307" value=" n en serrai trait por home né"/><!--  n en serrai trait por home né -->
+<feat xlink:href="#line_308" value=" si deu nen est de majesté"/><!--  si deu nen est de majesté -->
+<feat xlink:href="#line_309" value=" que di jo las por quoi le nomai"/><!--  que di jo las por quoi le nomai -->
+<feat xlink:href="#line_310" value=" il me aidera corocé l&apos; ai"/><!--  il me aidera corocé l' ai -->
+<feat xlink:href="#line_311" value=" ne me ferat ja nul aïe"/><!--  ne me ferat ja nul aïe -->
+<feat xlink:href="#line_312" value=" for le filz que istra de marie"/><!--  for le filz que istra de marie -->
+<feat xlink:href="#line_313" value=" ne sai de nus prendre conroi"/><!--  ne sai de nus prendre conroi -->
+<feat xlink:href="#line_314" value=" quant a deu ne portames foi"/><!--  quant a deu ne portames foi -->
+<feat xlink:href="#line_315" value=" or en soit tot a deu plaisir"/><!--  or en soit tot a deu plaisir -->
+<feat xlink:href="#line_316" value=" n i ad conseil que del morir"/><!--  n i ad conseil que del morir -->
+<feat xlink:href="#line_317" value=" ci sui jo beal sire"/><!--  ci sui jo beal sire -->
+<feat xlink:href="#line_318" value=" repost me sui ja por ta ire"/><!--  repost me sui ja por ta ire -->
+<feat xlink:href="#line_319" value=" e por co que sui tut nuz"/><!--  e por co que sui tut nuz -->
+<feat xlink:href="#line_320" value=" me sui je ici si embatuz"/><!--  me sui je ici si embatuz -->
+<feat xlink:href="#line_321" value=" ke as tu fet cum as erré"/><!--  ke as tu fet cum as erré -->
+<feat xlink:href="#line_322" value=" qui t a toleit de ta bonté"/><!--  qui t a toleit de ta bonté -->
+<feat xlink:href="#line_323" value=" que as tu fet por quei as honte"/><!--  que as tu fet por quei as honte -->
+<feat xlink:href="#line_324" value=" cum entrerai od toi en conte"/><!--  cum entrerai od toi en conte -->
+<feat xlink:href="#line_325" value=" tu n avois rien l&apos; autrier"/><!--  tu n avois rien l' autrier -->
+<feat xlink:href="#line_326" value=" dunt tu duses vergunder"/><!--  dunt tu duses vergunder -->
+<feat xlink:href="#line_327" value=" or te voi mult triste et morne"/><!--  or te voi mult triste et morne -->
+<feat xlink:href="#line_328" value=" mal sen joist qui ensi sojorne"/><!--  mal sen joist qui ensi sojorne -->
+<feat xlink:href="#line_329" value=" tel vergoine ai jo sire de toi"/><!--  tel vergoine ai jo sire de toi -->
+<feat xlink:href="#line_330" value=" e tu por quoi"/><!--  e tu por quoi -->
+<feat xlink:href="#line_331" value=" si grant honte mon cors enlace"/><!--  si grant honte mon cors enlace -->
+<feat xlink:href="#line_332" value=" ne t os veer en la face"/><!--  ne t os veer en la face -->
+<feat xlink:href="#line_333" value=" por quei trespassas mon devé"/><!--  por quei trespassas mon devé -->
+<feat xlink:href="#line_334" value=" as tu gaires gaainnié"/><!--  as tu gaires gaainnié -->
+<feat xlink:href="#line_335" value=" tu es mon serf e jo ton sire"/><!--  tu es mon serf e jo ton sire -->
+<feat xlink:href="#line_336" value=" ne l&apos; te puis pas contredire"/><!--  ne l' te puis pas contredire -->
+<feat xlink:href="#line_337" value=" jo te formai a mon semblant"/><!--  jo te formai a mon semblant -->
+<feat xlink:href="#line_338" value=" por quei trespassas mon comant"/><!--  por quei trespassas mon comant -->
+<feat xlink:href="#line_339" value=" jo toi plasmai dreit a ma ymage"/><!--  jo toi plasmai dreit a ma ymage -->
+<feat xlink:href="#line_340" value=" por co me fis cel oltrage"/><!--  por co me fis cel oltrage -->
+<feat xlink:href="#line_341" value=" mun defens un pas ne gardas"/><!--  mun defens un pas ne gardas -->
+<feat xlink:href="#line_342" value=" delivrement le trespassas"/><!--  delivrement le trespassas -->
+<feat xlink:href="#line_343" value=" le fruit manjas dunt jo t oi dit"/><!--  le fruit manjas dunt jo t oi dit -->
+<feat xlink:href="#line_344" value=" que jo t avoie contredit"/><!--  que jo t avoie contredit -->
+<feat xlink:href="#line_345" value=" por co quidas estre mon per"/><!--  por co quidas estre mon per -->
+<feat xlink:href="#line_346" value=" ne sai si tu voldras gabber"/><!--  ne sai si tu voldras gabber -->
+<feat xlink:href="#line_347" value=" la femme que tu me donas"/><!--  la femme que tu me donas -->
+<feat xlink:href="#line_348" value=" ele fist prime icest trespas"/><!--  ele fist prime icest trespas -->
+<feat xlink:href="#line_349" value=" donat le moi e jo mangai"/><!--  donat le moi e jo mangai -->
+<feat xlink:href="#line_350" value=" or m&apos; est avis que tornez est a gwai"/><!--  or m' est avis que tornez est a gwai -->
+<feat xlink:href="#line_351" value=" mal acontai icest mangier"/><!--  mal acontai icest mangier -->
+<feat xlink:href="#line_352" value=" jo ai mesfait par ma moiller"/><!--  jo ai mesfait par ma moiller -->
+<feat xlink:href="#line_353" value=" ta moiller creistes plus que moi"/><!--  ta moiller creistes plus que moi -->
+<feat xlink:href="#line_354" value=" manjas le fruit sanz mon otroi"/><!--  manjas le fruit sanz mon otroi -->
+<feat xlink:href="#line_355" value=" or te rendrai itel guerdon"/><!--  or te rendrai itel guerdon -->
+<feat xlink:href="#line_356" value=" la terre avrat maleicon"/><!--  la terre avrat maleicon -->
+<feat xlink:href="#line_357" value=" ou tu voldras ton blé semer"/><!--  ou tu voldras ton blé semer -->
+<feat xlink:href="#line_358" value=" il te faldrat al fruit porter"/><!--  il te faldrat al fruit porter -->
+<feat xlink:href="#line_359" value=" ele est maleite soz ta main"/><!--  ele est maleite soz ta main -->
+<feat xlink:href="#line_360" value=" tu le cotiveras en vain"/><!--  tu le cotiveras en vain -->
+<feat xlink:href="#line_361" value=" son fruit a toi deveerat"/><!--  son fruit a toi deveerat -->
+<feat xlink:href="#line_362" value=" espines e chardons te rendrat"/><!--  espines e chardons te rendrat -->
+<feat xlink:href="#line_363" value=" changer te voldra ta semence"/><!--  changer te voldra ta semence -->
+<feat xlink:href="#line_364" value=" malait iert por ta sentence"/><!--  malait iert por ta sentence -->
+<feat xlink:href="#line_365" value=" od grant travail od grant hahan"/><!--  od grant travail od grant hahan -->
+<feat xlink:href="#line_366" value=" toi covendra manger ton pan"/><!--  toi covendra manger ton pan -->
+<feat xlink:href="#line_367" value=" od grant paine od grant suor"/><!--  od grant paine od grant suor -->
+<feat xlink:href="#line_368" value=" vivras tu noit e jor"/><!--  vivras tu noit e jor -->
+<feat xlink:href="#line_369" value=" et tu eve mala muiller"/><!--  et tu eve mala muiller -->
+<feat xlink:href="#line_370" value=" tost me comencas de guerreer"/><!--  tost me comencas de guerreer -->
+<feat xlink:href="#line_371" value=" poi tenis mes comandemenz"/><!--  poi tenis mes comandemenz -->
+<feat xlink:href="#line_372" value=" ja m&apos; engingna li mal serpenz"/><!--  ja m' engingna li mal serpenz -->
+<feat xlink:href="#line_373" value=" par lui quidas estre mon per"/><!--  par lui quidas estre mon per -->
+<feat xlink:href="#line_374" value=" ses tu ja bien deviner"/><!--  ses tu ja bien deviner -->
+<feat xlink:href="#line_375" value=" oreinz aviez la maistrie"/><!--  oreinz aviez la maistrie -->
+<feat xlink:href="#line_376" value=" de quanque doit estre en vie"/><!--  de quanque doit estre en vie -->
+<feat xlink:href="#line_377" value=" cum l&apos; as tu ja si tost perdue"/><!--  cum l' as tu ja si tost perdue -->
+<feat xlink:href="#line_378" value=" or te voi triste et mal venue"/><!--  or te voi triste et mal venue -->
+<feat xlink:href="#line_379" value=" as tu fait gain ou perte"/><!--  as tu fait gain ou perte -->
+<feat xlink:href="#line_380" value=" jo toi rendrai ta deserte"/><!--  jo toi rendrai ta deserte -->
+<feat xlink:href="#line_381" value=" jo t en donrai por ton servise"/><!--  jo t en donrai por ton servise -->
+<feat xlink:href="#line_382" value=" mal te vendra en tote guise"/><!--  mal te vendra en tote guise -->
+<feat xlink:href="#line_383" value=" en dolor porteras emfanz"/><!--  en dolor porteras emfanz -->
+<feat xlink:href="#line_384" value=" e em paine vivront tot lor anz"/><!--  e em paine vivront tot lor anz -->
+<feat xlink:href="#line_385" value=" tes emfanz en dolor naistront"/><!--  tes emfanz en dolor naistront -->
+<feat xlink:href="#line_386" value=" e en grant anguisse finerunt"/><!--  e en grant anguisse finerunt -->
+<feat xlink:href="#line_387" value=" en tel hahan en tel damage"/><!--  en tel hahan en tel damage -->
+<feat xlink:href="#line_388" value=" as mis toi e tun lignage"/><!--  as mis toi e tun lignage -->
+<feat xlink:href="#line_389" value=" toit ceals qui de toi istront"/><!--  toit ceals qui de toi istront -->
+<feat xlink:href="#line_390" value=" li ton pecché ploreront"/><!--  li ton pecché ploreront -->
+<feat xlink:href="#line_391" value=" go sui mesfait co fu par folage"/><!--  go sui mesfait co fu par folage -->
+<feat xlink:href="#line_392" value=" por une pome soffrirai si grant damage"/><!--  por une pome soffrirai si grant damage -->
+<feat xlink:href="#line_393" value=" que en paine met moi e mon lignage"/><!--  que en paine met moi e mon lignage -->
+<feat xlink:href="#line_394" value=" petit aquest me rent grant trauage"/><!--  petit aquest me rent grant trauage -->
+<feat xlink:href="#line_395" value=" si jo mesfis ne fu merveille grant"/><!--  si jo mesfis ne fu merveille grant -->
+<feat xlink:href="#line_396" value=" quant trai moi le serpent suduiant"/><!--  quant trai moi le serpent suduiant -->
+<feat xlink:href="#line_397" value=" mult set de mal nen semble pas oeille"/><!--  mult set de mal nen semble pas oeille -->
+<feat xlink:href="#line_398" value=" mal est bailliz qui a lui se conseille"/><!--  mal est bailliz qui a lui se conseille -->
+<feat xlink:href="#line_399" value=" la pome pris or sai que fis folie"/><!--  la pome pris or sai que fis folie -->
+<feat xlink:href="#line_400" value=" sor ton defens de co fis folonie"/><!--  sor ton defens de co fis folonie -->
+<feat xlink:href="#line_401" value=" mal en gustai or sui de toi haïe"/><!--  mal en gustai or sui de toi haïe -->
+<feat xlink:href="#line_402" value=" por poi de froit moi covient perdre la vie"/><!--  por poi de froit moi covient perdre la vie -->
+<feat xlink:href="#line_403" value=" e tu serpent soiez maleit"/><!--  e tu serpent soiez maleit -->
+<feat xlink:href="#line_404" value=" de toi reprendrai bien mon droit"/><!--  de toi reprendrai bien mon droit -->
+<feat xlink:href="#line_405" value=" sor ton piz te traineras"/><!--  sor ton piz te traineras -->
+<feat xlink:href="#line_406" value=" a tuz les jors que ja viveras"/><!--  a tuz les jors que ja viveras -->
+<feat xlink:href="#line_407" value=" la puldre iert tut dis ta viande"/><!--  la puldre iert tut dis ta viande -->
+<feat xlink:href="#line_408" value=" en bois en plain en lande"/><!--  en bois en plain en lande -->
+<feat xlink:href="#line_409" value=" femme te portera haine"/><!--  femme te portera haine -->
+<feat xlink:href="#line_410" value=" oncore te iert male veisine"/><!--  oncore te iert male veisine -->
+<feat xlink:href="#line_411" value=" tu son talon aguaiteras"/><!--  tu son talon aguaiteras -->
+<feat xlink:href="#line_412" value=" cele te sachera le ras"/><!--  cele te sachera le ras -->
+<feat xlink:href="#line_413" value=" ta teste ferra de itel mail"/><!--  ta teste ferra de itel mail -->
+<feat xlink:href="#line_414" value=" qui te ferra mult grant travail"/><!--  qui te ferra mult grant travail -->
+<feat xlink:href="#line_415" value=" encore en prendra bien conrei"/><!--  encore en prendra bien conrei -->
+<feat xlink:href="#line_416" value=" cum porra vengier de toi"/><!--  cum porra vengier de toi -->
+<feat xlink:href="#line_417" value=" mal acointas tu sun train"/><!--  mal acointas tu sun train -->
+<feat xlink:href="#line_418" value=" ele te fra le chief enclin"/><!--  ele te fra le chief enclin -->
+<feat xlink:href="#line_419" value=" oncore raiz de lui istra"/><!--  oncore raiz de lui istra -->
+<feat xlink:href="#line_420" value=" qui toz tes vertuz confundra"/><!--  qui toz tes vertuz confundra -->
+<feat xlink:href="#line_421" value=" ore issé hors de paradis"/><!--  ore issé hors de paradis -->
+<feat xlink:href="#line_422" value=" mal change avez fet de païs"/><!--  mal change avez fet de païs -->
+<feat xlink:href="#line_423" value=" en terre vus frez maison"/><!--  en terre vus frez maison -->
+<feat xlink:href="#line_424" value=" en paradis n avez raison"/><!--  en paradis n avez raison -->
+<feat xlink:href="#line_425" value=" n i avez rien que chalengier"/><!--  n i avez rien que chalengier -->
+<feat xlink:href="#line_426" value=" fors isterez sen recoverer"/><!--  fors isterez sen recoverer -->
+<feat xlink:href="#line_427" value=" n i avez rien par jugement"/><!--  n i avez rien par jugement -->
+<feat xlink:href="#line_428" value=" or pernez aillors chasement"/><!--  or pernez aillors chasement -->
+<feat xlink:href="#line_429" value=" fors en issez de bonaurté"/><!--  fors en issez de bonaurté -->
+<feat xlink:href="#line_430" value=" ne vus falt mais faim ne lasseté"/><!--  ne vus falt mais faim ne lasseté -->
+<feat xlink:href="#line_431" value=" ne vus falt mais dolor ne paine"/><!--  ne vus falt mais dolor ne paine -->
+<feat xlink:href="#line_432" value=" a toz les jors de la semaine"/><!--  a toz les jors de la semaine -->
+<feat xlink:href="#line_433" value=" en terre avrez malvais sojor"/><!--  en terre avrez malvais sojor -->
+<feat xlink:href="#line_434" value=" aprés morrez al chief de tor"/><!--  aprés morrez al chief de tor -->
+<feat xlink:href="#line_435" value=" des pois qu averez gusté mort"/><!--  des pois qu averez gusté mort -->
+<feat xlink:href="#line_436" value=" en emfer irrez sanz deport"/><!--  en emfer irrez sanz deport -->
+<feat xlink:href="#line_437" value=" ici avront les cors eissil"/><!--  ici avront les cors eissil -->
+<feat xlink:href="#line_438" value=" les almes en emfern peril"/><!--  les almes en emfern peril -->
+<feat xlink:href="#line_439" value=" satan vus avra en baillie"/><!--  satan vus avra en baillie -->
+<feat xlink:href="#line_440" value=" n est hom que vus en face aïe"/><!--  n est hom que vus en face aïe -->
+<feat xlink:href="#line_441" value=" par cui soiez vus ja rescos"/><!--  par cui soiez vus ja rescos -->
+<feat xlink:href="#line_442" value=" se moi n en prenge pité de vus"/><!--  se moi n en prenge pité de vus -->
+<feat xlink:href="#line_443" value=" gardez moi bien le paradis"/><!--  gardez moi bien le paradis -->
+<feat xlink:href="#line_444" value=" que mais n i entre icist faudis"/><!--  que mais n i entre icist faudis -->
+<feat xlink:href="#line_445" value=" qu il n ait mais poeir ne baillie"/><!--  qu il n ait mais poeir ne baillie -->
+<feat xlink:href="#line_446" value=" ne de tocher li fruit de vie"/><!--  ne de tocher li fruit de vie -->
+<feat xlink:href="#line_447" value=" o cele spee qui flamboie"/><!--  o cele spee qui flamboie -->
+<feat xlink:href="#line_448" value=" si li defendez tres bien la voie"/><!--  si li defendez tres bien la voie -->
+<feat xlink:href="#line_449" value=" chaim bel frere entent a moi"/><!--  chaim bel frere entent a moi -->
+<feat xlink:href="#line_450" value=" volentiers ore di de quoi"/><!--  volentiers ore di de quoi -->
+<feat xlink:href="#line_451" value=" co est de ton pru tant m&apos; est plus bel"/><!--  co est de ton pru tant m' est plus bel -->
+<feat xlink:href="#line_452" value=" nen fai ja vers deu revel"/><!--  nen fai ja vers deu revel -->
+<feat xlink:href="#line_453" value=" nen aez envers lui orguil"/><!--  nen aez envers lui orguil -->
+<feat xlink:href="#line_454" value=" jo t en chasti jo bien le voil"/><!--  jo t en chasti jo bien le voil -->
+<feat xlink:href="#line_455" value=" creez mon conseil aloms offrir"/><!--  creez mon conseil aloms offrir -->
+<feat xlink:href="#line_456" value=" a dampnedeu por lui plaisir"/><!--  a dampnedeu por lui plaisir -->
+<feat xlink:href="#line_457" value=" s il est vers nos apaiez"/><!--  s il est vers nos apaiez -->
+<feat xlink:href="#line_458" value=" ja ne nus prendra pecchiez"/><!--  ja ne nus prendra pecchiez -->
+<feat xlink:href="#line_459" value=" ne sor nus ne vendra tristor"/><!--  ne sor nus ne vendra tristor -->
+<feat xlink:href="#line_460" value=" mult fait bon porchacer s amor"/><!--  mult fait bon porchacer s amor -->
+<feat xlink:href="#line_461" value=" aloms offrir a son altier"/><!--  aloms offrir a son altier -->
+<feat xlink:href="#line_462" value=" tel don que il voille regarder"/><!--  tel don que il voille regarder -->
+<feat xlink:href="#line_463" value=" preom lui qu il nus doinst s amor"/><!--  preom lui qu il nus doinst s amor -->
+<feat xlink:href="#line_464" value=" e nus defende de mal noit e jor"/><!--  e nus defende de mal noit e jor -->
+<feat xlink:href="#line_465" value=" bel frere abel mult as bien dit"/><!--  bel frere abel mult as bien dit -->
+<feat xlink:href="#line_466" value=" icest sermon as bien escrit"/><!--  icest sermon as bien escrit -->
+<feat xlink:href="#line_467" value=" e jo crerai bien ton sermon"/><!--  e jo crerai bien ton sermon -->
+<feat xlink:href="#line_468" value=" alom offrir bien est raison"/><!--  alom offrir bien est raison -->
+<feat xlink:href="#line_469" value=" quoi offriras tu jo un aignel"/><!--  quoi offriras tu jo un aignel -->
+<feat xlink:href="#line_470" value=" tuit le meillor e le plus bel"/><!--  tuit le meillor e le plus bel -->
+<feat xlink:href="#line_471" value=" que porrai trover a l&apos; ostel"/><!--  que porrai trover a l' ostel -->
+<feat xlink:href="#line_472" value=" icel offrirai n en frai el"/><!--  icel offrirai n en frai el -->
+<feat xlink:href="#line_473" value=" si lui offrirai encens"/><!--  si lui offrirai encens -->
+<feat xlink:href="#line_474" value=" or vus ai dit tot mon porpens"/><!--  or vus ai dit tot mon porpens -->
+<feat xlink:href="#line_475" value=" tu que offriras jo de mon blé"/><!--  tu que offriras jo de mon blé -->
+<feat xlink:href="#line_476" value=" itel cum deus le m&apos; a doné"/><!--  itel cum deus le m' a doné -->
+<feat xlink:href="#line_477" value=" iert del meillor nenil por voir"/><!--  iert del meillor nenil por voir -->
+<feat xlink:href="#line_478" value=" de cel frai jo pain al soir"/><!--  de cel frai jo pain al soir -->
+<feat xlink:href="#line_479" value=" tel offrende n est pas aceptable"/><!--  tel offrende n est pas aceptable -->
+<feat xlink:href="#line_480" value=" ja est co fable"/><!--  ja est co fable -->
+<feat xlink:href="#line_481" value=" riches hom es e mult as bestes"/><!--  riches hom es e mult as bestes -->
+<feat xlink:href="#line_482" value=" si ai por quei ne contes toit par testes"/><!--  si ai por quei ne contes toit par testes -->
+<feat xlink:href="#line_483" value=" e de totes donez las dismes"/><!--  e de totes donez las dismes -->
+<feat xlink:href="#line_484" value=" si offriras a deu maimes"/><!--  si offriras a deu maimes -->
+<feat xlink:href="#line_485" value=" offrez le lui de bon cuer"/><!--  offrez le lui de bon cuer -->
+<feat xlink:href="#line_486" value=" si recevras bon luer"/><!--  si recevras bon luer -->
+<feat xlink:href="#line_487" value=" fras le tu ensi or oez furor"/><!--  fras le tu ensi or oez furor -->
+<feat xlink:href="#line_488" value=" de dis ne remaindront que noef"/><!--  de dis ne remaindront que noef -->
+<feat xlink:href="#line_489" value=" icist conseil ne vealt un oef"/><!--  icist conseil ne vealt un oef -->
+<feat xlink:href="#line_490" value=" alom offrir de ca chescons par soi"/><!--  alom offrir de ca chescons par soi -->
+<feat xlink:href="#line_491" value=" qu il voldra e jo l&apos; otrei"/><!--  qu il voldra e jo l' otrei -->
+<feat xlink:href="#line_492" value=" bel frere abel issum ca fors"/><!--  bel frere abel issum ca fors -->
+<feat xlink:href="#line_493" value=" por quoi por deporter nos cors"/><!--  por quoi por deporter nos cors -->
+<feat xlink:href="#line_494" value=" e por reguarder nostre labor"/><!--  e por reguarder nostre labor -->
+<feat xlink:href="#line_495" value=" cum sunt creu s il sunt em flor"/><!--  cum sunt creu s il sunt em flor -->
+<feat xlink:href="#line_496" value=" as prez puis en irrums"/><!--  as prez puis en irrums -->
+<feat xlink:href="#line_497" value=" plus leegier aprés en serroms"/><!--  plus leegier aprés en serroms -->
+<feat xlink:href="#line_498" value=" jo irrai ovec toi ou tu voldras"/><!--  jo irrai ovec toi ou tu voldras -->
+<feat xlink:href="#line_499" value=" or en vien donc bon le fras"/><!--  or en vien donc bon le fras -->
+</featList>
+</paula>

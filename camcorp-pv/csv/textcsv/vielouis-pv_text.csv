@@ -1,0 +1,773 @@
+wd_id,line_id,linewd,word,lex_id,tag,old_wd_id,para_id,syntag,syntag2,lemma,lemma_auto,NCA_src,boundary,synfunc,NCA_taggerpos,NCA_sent,syllabified
+1,1,1,que,que,PROCON,38,19,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', ''), ('Prn', 's')]",,PROCON,41,C/(e)\
+2,1,2,je,je,PRO:pers:suj:1:sg:unb,39,19,Prn,Prn$,1ps,je,CIST,"[('SubVfin', ''), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,41,C/(e)\
+3,1,3,fu,fu,VER:simp:3:sg,40,19,Vfin,Vfin,être1|ester,estre1|estre,+I|CMI,"[('SubVfin', ''), ('Vfin', ''), ('PreN', 'a')]",,VER,41,C/V\
+4,1,4,en,en,PRO:clit,41,19,Pre,Pre,en1,en1|en,+IST|CI,"[('PreN', 'a'), ('Pre', ''), ('Det', '')]",,PRE,41,/V\
+5,1,5,sa,sa,DET:poss:obj:femi:sg,42,19,Det,Det,son4,son4|son,S|C,"[('PreN', 'a'), ('Det', ''), ('N', '')]",,DET:poss,41,C/V\
+6,1,6,compaignie,compaignie,NOM:obj:femi:sg,43,19,N,N,,compagne1|compagne2,*+IT|+IT,"[('PreN', 'a'), ('N', ''), ('PreN', '&')]",,NOM,41,C/V\.C/V\.'C/V\./(e)\
+7,2,1,et,et,CON:coord,80,19,Crd,Crd,et,et,ST,"[('PreN', '&'), ('Crd', ''), ('Pre', '')]",,CON:coord,42,/V\
+8,2,2,de,de,PRE,81,19,Pre,Pre,de,de,+CIST,"[('PreN', '&'), ('Pre', ''), ('Det', '')]",,PRE,42,C/(e)\
+9,2,3,ses,ses,DET:poss:obj:masc:pl,82,19,Det,Det,son4,son4|son,S|C,"[('PreN', '&'), ('Det', ''), ('Adj', '')]",,DET:poss,42,C/V\
+10,2,4,bons,bons,ADJ:obj:masc:pl,83,19,Adj,Adj,bon,bon,+CI,"[('PreN', '&'), ('Adj', ''), ('N', '')]",,ADJ,42,C/V\
+11,2,5,enseignemens,enseignemens,NOM:obj:masc:pl,84,19,N,N,,UNKNOWN,,"[('SubVfin', 'c'), ('PreN', ''), ('PrePrnSubVfin', '')]",,NOM,42,/V\.C/V\.C/e\.'C/V\
+12,3,1,mist,mist,VER:simp:3:sg,140,20,Vfin,Vfin,mettre,manoir|metre|mettre,M|CIM|M,"[('SubVfin', ''), ('Vfin', ''), ('Prn', 's')]",,VER,44,C/V\
+13,3,2,il,il,PRO:pers:suj:3:masc:sg:unb,141,20,Prn,Prn%,3p,il,CIST,"[('SubVfin', ''), ('Prn', 's'), ('NGrp', 'c')]",s,PRO:pers,44,/V\
+14,3,3,son,son,DET:poss:obj:masc:sg,142,20,Det,Det,son4,son4|son,S|C,"[('NGrp', 'c'), ('Det', ''), ('N', '')]",,DET:poss,44,C/V\
+15,3,4,cors,cors,NOM:obj:masc:sg,143,20,N,N,,cors1|cors2,+IT|+IT,"[('SubVfin', ''), ('NGrp', 'c'), ('PreN', '')]",,NOM,44,C/V\
+16,3,5,en,en,PRE,144,20,Pre,Pre,en1,en1|en,+IST|CI,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,44,/V\
+17,3,6,avanture,avanture,NOM:obj:femi:sg,145,20,N,N,,aventure,+I,"[('SubVfin', ''), ('PreN', ''), ('PreN', '')]",,NOM,44,/V\.C/V\.'C/V\.C/(e)\
+18,4,1,en,en,PRE,196,21,Pre,Pre,en1,en1|en,+IST|CI,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,45,/V\
+19,4,2,une,une,DET:ndf:obj:femi:sg,197,21,QIs,QIs,un,un,CS,"[('PreN', ''), ('Det', ''), ('AdjGrp', '')]",,DET:ndf,45,'/V\.C/(e)\
+20,4,3,moult,moult,ADV,198,21,QIs,QIs,moult,mout,I,"[('AdjGrp', ''), ('Adv', ''), ('Adj', '')]",,ADV,45,C/V\
+21,4,4,grant,grant,ADJ:obj:femi:sg,199,21,Adj,Adj,grand,grant,+CIT,"[('PreN', ''), ('AdjGrp', ''), ('N', '')]",,ADJ,45,C/V\
+22,4,5,maladie,maladie,NOM:obj:femi:sg,200,21,N,N,,maladie,+T,"[('PreN', ''), ('N', ''), ('SubVfin', '')]",,NOM,45,C/V\.C/V\.'C/V\./(e)\
+23,5,1,de,de,PRE,290,22,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,47,C/(e)\
+24,5,2,la,la,DET:def:obj:femi:sg,291,22,Det,Det,le,le,CST,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:def,47,C/V\
+25,5,3,bouche,bouche,NOM:obj:femi:sg,292,22,N,N,,boche,*+IT,"[('VfinGrp', ''), ('PreN', ''), ('Vfin', '')]",,NOM,47,'C/V\.C/(e)\
+26,5,4,fu,fu,VER:simp:3:sg,293,22,Vfin,Vfin,être1|ester,estre1|estre,+I|CMI,"[('VfinGrp', ''), ('Vfin', ''), ('Prn', 's')]",,VER,47,C/V\
+27,5,5,il,il,PRO:pers:suj:3:masc:sg:unb,294,22,Prn,Prn%,3p,il,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('AdjGrp', 'a')]",s,PRO:pers,47,/V\
+28,5,6,si,si,PROCON,295,22,Adv,Adv,si4,si,C,"[('AdjGrp', 'a'), ('Adv', ''), ('Adj', '')]",,PROCON,47,C/V\
+29,5,7,sobre,sobre,ADJ:suj:masc:sg,296,22,Adj,Adj,,<unknown>,,"[('VfinGrp', ''), ('AdjGrp', 'a'), ('SubVfin', '')]",,ADJ,47,'C/V\.C/(e)\
+30,6,1,fu,fu,VER:simp:3:sg,293,22,Vfin,Vfin,être1|ester,estre1|estre,+I|CMI,"[('VfinGrp', ''), ('Vfin', ''), ('Prn', 's')]",,VER,47,C/V\
+31,6,2,il,il,PRO:pers:suj:3:masc:sg:unb,294,22,Prn,Prn%,3p,il,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('AdjGrp', 'a')]",s,PRO:pers,47,/V\
+32,6,3,si,si,PROCON,295,22,Adv,Adv,si4,si,C,"[('AdjGrp', 'a'), ('Adv', ''), ('Adj', '')]",,PROCON,47,C/V\
+33,6,4,sobre,sobre,ADJ:suj:masc:sg,296,22,Adj,Adj,,<unknown>,,"[('VfinGrp', ''), ('AdjGrp', 'a'), ('SubVfin', '')]",,ADJ,47,'C/V\.C/(e)\
+34,6,5,",",",",PON,297,22,Pnc,Pnc,,",",,,,PON,47,
+35,6,6,que,que,PROCON,298,22,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', ''), ('NGrp', '')]",,PROCON,47,C/(e)\
+36,6,7,onques,onques,ADV,299,22,Adv,Adv,onques,onque,+CIT,"[('NGrp', ''), ('Adv', ''), ('N', '')]",,ADV,47,'/V\.C/e\
+37,6,8,jour,jour,NOM:obj:masc:sg,300,22,N,N,,jor,+C,"[('NGrp', ''), ('N', ''), ('PreN', '')]",,NOM,47,C/V\
+38,7,1,je,je,PRO:pers:suj:1:sg:unb,304,22,Prn,Prn$,1ps,je,CIST,"[('SubVfin', ''), ('Prn', 's'), ('Adv', '')]",s,PRO:pers,47,C/(e)\
+39,7,2,ne,ne,PRO:clit,305,22,Neg,Neg$$,ne1,en2|ne,S|C,"[('SubVfin', ''), ('Adv', ''), ('Prn', '')]",,PRO:clit,47,C/(e)\
+40,7,3,li,li,PRO:pers:suj:3:masc:sg:bet,306,22,Prn,Prn$$,3p,ele|il,C|CIST,"[('SubVfin', ''), ('Prn', ''), ('Vfin', '')]",,PRO:pers,47,C/V\
+41,7,4,oy,oÿ,VER:simp:1:sg,307,22,Vfin,Vfin,ouïr,ouir|oïr,M|M,"[('SubVfin', ''), ('Vfin', ''), ('VinfGrp', 'c')]",,VER,47,/V\.'C/V\
+42,7,5,deviser,deviser,VER:infi,308,22,Vinf,Vinf,,deviser,+IMT,"[('VinfGrp', 'c'), ('Vinf', ''), ('NGrp', 'c')]",,VER,47,C/V\.C/V\.'C/V\
+43,8,1,aussi,aussi,ADV,312,22,Adv,Adv,aussi,aussi,+CIT,"[('AdvSubVfin', ''), ('Adv', ''), ('SubVfin', '')]",,ADV,47,/V\.'C/V\
+44,8,2,comme,comme,CON:subord,313,22,Sub,Sub,comme,come1|come,*I|CI,"[('SubVfin', ''), ('Sub', ''), ('NGrp', 's')]",,CON:subord,47,'C/V\.C/(e)\
+45,8,3,maint,maint,DET:ind:suj:masc:pl,314,22,QIs,QIs,maint,maint,S,"[('NGrp', 's'), ('Det', ''), ('Adj', '')]",,DET:ind,47,C/V\
+46,8,4,richez,richëz,ADJ:suj:masc:pl,315,22,Adj,Adj,riche,riche,*+IT,"[('NGrp', 's'), ('Adj', ''), ('N', '')]",,ADJ,47,'C/V\.C/e\
+47,8,5,homes,homes,NOM:suj:masc:pl,316,22,N,N,,ome,+CI,"[('SubVfin', ''), ('NGrp', 's'), ('Vfin', '')]",,NOM,47,'/V\.C/e\
+48,9,1,ne,ne,PROCON,353,22,Crd,Crd,ne2,ni,C,"[('VfinGrp', '&'), ('Crd', ''), ('Adv', '')]",,PROCON,49,C/(e)\
+49,9,2,onques,onques,ADV,354,22,Adv,Adv,onques,onque,+CIT,"[('VfinGrp', '&'), ('Adv', ''), ('Adv', '')]",,ADV,49,'/V\.C/e\
+50,9,3,ne,ne,PRO:clit,355,22,Neg,Neg$$,ne1,en2|ne,S|C,"[('VfinGrp', '&'), ('Adv', ''), ('Prn', '')]",,PRO:clit,49,C/(e)\
+51,9,4,li,li,PRO:pers:suj:3:masc:sg:bet,356,22,Prn,Prn$$,3p,ele|il,C|CIST,"[('VfinGrp', '&'), ('Prn', ''), ('Vfin', '')]",,PRO:pers,49,C/V\
+52,9,5,oy,oÿ,VER:simp:1:sg,357,22,Vfin,Vfin,ouïr,ouir|oïr,M|M,"[('VfinGrp', '&'), ('Vfin', ''), ('VinfGrp', 'c')]",,VER,49,/V\.'C/V\
+53,9,6,nommer,nommer,VER:infi,358,22,Vinf,Vinf,,nommer,M,"[('VinfGrp', 'c'), ('Vinf', ''), ('NGrp', 'c')]",,VER,49,C/V\.'C/V\
+54,10,1,le,le,DET:def:suj:masc:sg,362,22,Det,Det,le,le,CST,"[('NGrp+Sub', 's'), ('Det', ''), ('Adj_S', '')]",,DET:def,49,C/(e)\
+55,10,2,quel,quel,ADJ:suj:masc:sg,363,22,Qux,Qux,quel,quel1|quel,I|CI,"[('NGrp+Sub', 's'), ('Adj_S', ''), ('N', '')]",,ADJ,49,C/V\
+56,10,3,nons,nons,NOM:suj:masc:sg,364,22,N,N,,noinz|nom,+T|+I,"[('SubVfin', ''), ('NGrp+Sub', 's'), ('Vfin', '')]",,NOM,49,C/V\
+57,10,4,est,est,VER:pres:3:sg,365,22,Vfin,Vfin,être1|ester,ester|estre1,+M|+I,"[('SubVfin', ''), ('Vfin', ''), ('Adv', '')]",,VER,49,/V\
+58,10,5,bien,bien,ADV,366,22,Adv,Adv,bien,bien1|bien2|bien,+IT|C|I,"[('SubVfin', ''), ('Adv', ''), ('Vpp', 'a')]",,ADV,49,C/V\
+59,10,6,espandu,espandu,VER:pper:masc:sg,367,22,Vpp,Vpp,épandre,espandre|pandre,+I|M,"[('SubVfin', ''), ('Vpp', 'a'), ('PreN', '')]",a,VER,49,/V\.C/V\.'C/V\
+60,11,1,et,et,CON:coord,474,23,Crd,Crd,et,et,ST,"[('VfinGrp', '&'), ('Crd', ''), ('Prn', 's')]",,CON:coord,53,/V\
+61,11,2,je,je,PRO:pers:suj:1:sg:unb,475,23,Prn,Prn$,1ps,je,CIST,"[('VfinGrp', '&'), ('Prn', 's'), ('Prn', 'c')]",s,PRO:pers,53,C/(e)\
+62,11,3,le,le,PRO:pers:obj:3:masc:sg:unb,476,23,Prn,Prn$$,3p,il,CIST,"[('VfinGrp', '&'), ('Prn', 'c'), ('Vfin', '')]",c,PRO:pers,53,C/(e)\
+63,11,4,vouloie,vouloie,VER:impf:1:sg,477,23,Vfin,Vfin,vouloir,voloir,*+I,"[('VfinGrp', '&'), ('Vfin', ''), ('Vinf', 'c')]",,VER,53,C/V\.'C/V\./(e)\
+64,11,5,tremprer,tremprer,VER:infi,478,23,Vinf,Vinf,,UNKNOWN,,"[('VfinGrp', '&'), ('Vinf', 'c'), ('PreN', '')]",c,VER,53,C/V\.'C/V\
+65,12,1,les,les,DET:def:suj:femi:pl,483,23,Det,Det,le,le,CST,"[('NGrp', 's'), ('Det', ''), ('N', '')]",,DET:def,53,C/V\
+66,12,2,goutes,goutes,NOM:suj:femi:pl,484,23,N,N,,gote,*+I,"[('NGrp', 's'), ('N', ''), ('NGrp', '&')]",,NOM,53,'C/V\.C/e\
+67,12,3,et,et,CON:coord,485,23,Crd,Crd,et,et,ST,"[('NGrp', '&'), ('Crd', ''), ('Det', '')]",,CON:coord,53,/V\
+68,12,4,les,les,DET:def:suj:femi:pl,486,23,Det,Det,le,le,CST,"[('NGrp', '&'), ('Det', ''), ('N', '')]",,DET:def,53,C/V\
+69,12,5,maladies,maladies,NOM:suj:femi:pl,487,23,N,N,,maladie,*+T,"[('NGrp', '&'), ('N', ''), ('PreN', '')]",,NOM,53,C/V\.C/V\.'C/V\./e\
+70,13,1,et,et,CON:coord,499,23,Crd,Crd,et,et,ST,"[('VfinGrp', ''), ('Crd', ''), ('SubVfin', '')]",,CON:coord,54,/V\
+71,13,2,se,se,PROCON,500,23,Sub,Sub,si3,se,C,"[('SubVfin', ''), ('Sub', ''), ('Prn', 's')]",,PROCON,54,C/(e)\
+72,13,3,je,je,PRO:pers:suj:1:sg:unb,501,23,Prn,Prn$,1ps,je,CIST,"[('SubVfin', ''), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,54,C/(e)\
+73,13,4,bevoie,bevoie,VER:impf:1:sg,502,23,Vfin,Vfin,boire,boivre,*+MI,"[('SubVfin', ''), ('Vfin', ''), ('NGrp', 'c')]",,VER,54,C/V\.'C/V\./(e)\
+74,13,5,le,le,DET:def:obj:masc:sg,503,23,Det,Det,le,le,CST,"[('NGrp', 'c'), ('Det', ''), ('N', '')]",,DET:def,54,C/(e)\
+75,13,6,vin,vin,NOM:obj:masc:sg,504,23,N,N,,vin,+IT,"[('NGrp', 'c'), ('N', ''), ('AdjGrp', '')]",,NOM,54,C/V\
+76,14,1,nulle,nulle,DET:ind:obj:femi:sg,575,24,QIs,QIs,nul,nul,CS,"[('DetAdvSubVfin', 'c'), ('Det', ''), ('Adv', '')]",,DET:ind,58,'C/V\.C/(e)\
+77,14,2,riens,riens,ADV,576,24,N,N,rien,riens,Z,"[('DetAdvSubVfin', 'c'), ('Adv', ''), ('SubVfin', '')]",,ADV,58,C/V\
+78,14,3,",",",",PON,577,24,Pnc,Pnc,,",",,,,PON,58,
+79,14,4,que,que,PROCON,578,24,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', ''), ('SubVfin', '')]",,PROCON,58,C/(e)\
+80,14,5,se,se,PROCON,579,24,Sub,Sub,si3,se,C,"[('SubVfin', ''), ('Sub', ''), ('NGrp', 's')]",,PROCON,58,C/(e)\
+81,14,6,tout,tout,DET:ind:suj:masc:sg,580,24,QIs,QIs,tout,tot,CS,"[('NGrp', 's'), ('Det', ''), ('Det', '')]",,DET:ind,58,C/V\
+82,14,7,le,le,DET:def:suj:masc:sg,581,24,Det,Det,le,le,CST,"[('NGrp', 's'), ('Det', ''), ('N', '')]",,DET:def,58,C/(e)\
+83,14,8,monde,monde,NOM:suj:masc:sg,582,24,N,N,,monde1|monde,+IT|CI,"[('SubVfin', ''), ('NGrp', 's'), ('Prn', 'c')]",,NOM,58,'C/V\.C/(e)\
+84,15,1,que,que,PROCON,586,24,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', ''), ('Prn', 's')]",,PROCON,58,C/(e)\
+85,15,2,vous,vous,PRO:pers:2:pl,587,24,Prn,Prn$,2pp,ous2|vos1,T|S,"[('SubVfin', ''), ('Prn', 's'), ('Adv', '')]",s,PRO:pers,58,C/V\
+86,15,3,ne,ne,PRO:clit,588,24,Neg,Neg$$,ne1,en2|ne,S|C,"[('SubVfin', ''), ('Adv', ''), ('Vfin', '')]",,PRO:clit,58,C/(e)\
+87,15,4,peussiez,peussiez,VER:subi:2:pl,589,24,Vfin,Vfin,pouvoir2,pouvoir,M,"[('SubVfin', ''), ('Vfin', ''), ('Vinf', 'c')]",,VER,58,C/(V)\./V\.C/<V>\.'/V\
+88,15,5,congnoistre,congnoistre,VER:infi,590,24,Vinf,Vinf,connaître,cognoistre,*M,#,c,VER,58,C/V\.'C/V\.C/(e)\
+89,16,1,pour,pour,PRE,637,24,Pre,Pre,pour,por2|por,+ST|C,"[('PrePrnSubVfin', ''), ('Pre', ''), ('Prn', '')]",,PRE,59,C/V\
+90,16,2,ce,ce,PRO:invar,638,24,Prn,Prn,ce1,ce1|ce,S|C,"[('PrePrnSubVfin', ''), ('Prn', ''), ('SubVfin', '')]",,PRO:invar,59,C/(e)\
+91,16,3,que,que,PROCON,639,24,Qux,Qux,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', ''), ('PreN', '')]",,PROCON,59,C/(e)\
+92,16,4,des,des,PREDET:de:obj:femi:pl,640,24,Pre+Det,Pre+Det,de+le,de+le|le,S|C,"[('PreN', ''), ('Pre+Det', ''), ('Adj', '')]",,PREDET:de,59,C/V\
+93,16,5,dures,dures,ADJ:obj:femi:pl,641,24,Adj,Adj,dur,dur,+I,"[('PreN', ''), ('Adj', ''), ('N', '')]",,ADJ,59,'C/V\.C/e\
+94,16,6,paroles,paroles,NOM:obj:femi:pl,642,24,N,N,,parole,+I,"[('SubVfin', ''), ('PreN', ''), ('Vfin', '')]",,NOM,59,C/V\.'C/V\.C/e\
+95,17,1,et,et,CON:coord,660,25,Crd,Crd,et,et,ST,"[('VinfGrp', '&'), ('Crd', ''), ('Vinf', '')]",,CON:coord,60,/V\
+96,17,2,armer,armer,VER:infi,661,25,Vinf,Vinf,armer,armer,+IMT,"[('VinfGrp', 'c'), ('VinfGrp', '&'), ('PreN', '')]",,VER,60,/V\.'C/V\
+97,17,3,en,en,PRE,662,25,Pre,Pre,en1,en1|en,+IST|CI,"[('PreN', ''), ('Pre', ''), ('Adj', '')]",,PRE,60,/V\
+98,17,4,tele,tele,ADJ:obj:femi:sg,663,25,Adj,Adj,tel,tel,+CI,"[('PreN', ''), ('Adj', ''), ('N', '')]",,ADJ,60,'C/V\.C/(e)\
+99,17,5,maniere,maniere,NOM:obj:femi:sg,664,25,N,N,,maniere,+CIT,"[('PreN', ''), ('N', ''), ('SubVfin', '')]",,NOM,60,C/V\.'C/V\.C/(e)\
+100,18,1,ne,ne,PRO:clit,684,25,Neg,Neg$$,ne1,en2|ne,S|C,"[('SubVfin', '&'), ('Adv', ''), ('Vfin', '')]",,PRO:clit,60,C/(e)\
+101,18,2,deissent,deissent,VER:subi:3:pl,685,25,Vfin,Vfin,dire,dire,+MMd,"[('SubVfin', '&'), ('Vfin', ''), ('SubVfin', 'c')]",,VER,60,C/(V)\.'/V\.C/e\
+102,18,3,que,que,PROCON,686,25,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', 'c'), ('Sub', ''), ('Prn', 's')]",,PROCON,60,C/(e)\
+103,18,4,il,il,PRO:pers:suj:3:masc:sg:unb,687,25,Prn,Prn$,3p,il,CIST,"[('SubVfin', 'c'), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,60,/V\
+104,18,5,feist,feist,VER:subi:3:sg,688,25,Vfin,Vfin,faire,faire|feire,+MIdMd|Md,"[('SubVfin', 'c'), ('Vfin', ''), ('Adv', '')]",,VER,60,C/(V)\.'/V\
+105,18,6,pou,pou,ADV,689,25,Adv,Adv,peu,poi,*I,#,,ADV,60,C/V\
+106,19,1,huit,huit,ADJ:card,765,25,QIs,QIs,8,uit,CIT,"[('NGrp', 'c'), ('Adj', ''), ('Adj', '')]",,ADJ:card,62,/V\
+107,19,2,cenz,cenz,ADJ:card,766,25,QIs,QIs,100,cent,CI,"[('NGrp', 'c'), ('Adj', ''), ('N', '')]",,ADJ:card,62,C/V\
+108,19,3,livres,livres,NOM:obj:masc:pl,767,25,N,N,,livre2|livre3,+I|+I,"[('NGrp', 'c'), ('N', ''), ('PreN', '')]",,NOM,62,'C/V\.C/e\
+109,19,4,de,de,PRE,768,25,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,62,C/(e)\
+110,19,5,parisis,parisis,NOM:obj:masc:pl,769,25,N,N,,parasis|parisis,+T|+T,#,,NOM,62,C/V\.C/V\.'C/V\
+111,20,1,se,se,PROCON,781,25,Sub,Sub,si3,se,C,"[('SubVfin', ''), ('Sub', ''), ('Prn', 's')]",,PROCON,63,C/(e)\
+112,20,2,il,il,PRO:pers:suj:3:masc:sg:unb,782,25,Prn,Prn$,3p,il,CIST,"[('SubVfin', ''), ('Prn', 's'), ('Prn', 'c')]",s,PRO:pers,63,/V\
+113,20,3,les,les,PRO:pers:acc:3:masc:pl,783,25,Prn,Prn$$,3p,il,CIST,"[('SubVfin', ''), ('Prn', 'c'), ('Vfin', '')]",c,PRO:pers,63,C/V\
+114,20,4,eust,eust,VER:subi:3:sg,784,25,Vfin,Vfin,avoir1,avoir,+CMMdId,"[('SubVfin', ''), ('Vfin', ''), ('Vpp', '')]",,VER,63,/(V)\.'/V\
+115,20,5,donnez,donnez,VER:pper:masc:pl,785,25,Vpp,Vpp,donner,doner,*+CM,"[('SubVfin', ''), ('Vpp', ''), ('PreN', '')]",,VER,63,C/V\.'C/V\
+116,20,6,pour,pour,PRE,786,25,Pre,Pre,pour,por2|por,+ST|C,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,63,C/V\
+117,20,7,dieu,dieu,NOM:obj:masc:sg,787,25,N,N,,dieu,+CIT,"[('SubVfin', ''), ('PreN', ''), ('VfinGrp', '&')]",,NOM,63,C/V\
+118,21,1,si,si,PROCON,801,25,Adv,Adv,si4,si,C,"[('AdvSubVfin', ''), ('Adv', ''), ('SubVfin', '')]",,PROCON,63,C/V\
+119,21,2,comme,comme,CON:subord,802,25,Sub,Sub,comme,come1|come,*I|CI,"[('SubVfin', ''), ('Sub', ''), ('NGrp', 's')]",,CON:subord,63,'C/V\.C/(e)\
+120,21,3,son,son,DET:poss:suj:masc:sg,803,25,Det,Det,son4,son4|son,S|C,"[('NGrp', 's'), ('Det', ''), ('N', '')]",,DET:poss,63,C/V\
+121,21,4,pere,pere,NOM:suj:masc:sg,804,25,N,N,,paire|pere1|piere,+T|+T|+T,"[('SubVfin', ''), ('NGrp', 's'), ('Vfin', '')]",,NOM,63,'C/V\.C/(e)\
+122,21,5,faisoit,faisoit,VER:impf:3:sg,805,25,Vfin,Vfin,faire,faire,+CM,#,,VER,63,C/V\.'C/V\
+123,22,1,et,et,CON:coord,838,26,Crd,Crd,et,et,ST,"[('VfinGrp', ''), ('Crd', ''), ('PrePrn', '')]",,CON:coord,65,/V\
+124,22,2,pour,pour,PRE,839,26,Pre,Pre,pour,por2|por,+ST|C,"[('PrePrn', ''), ('Pre', ''), ('Prn', '')]",,PRE,65,C/V\
+125,22,3,ce,ce,PRO:invar,840,26,Prn,Prn,ce1,ce1|ce,S|C,"[('VfinGrp', ''), ('PrePrn', ''), ('Vfin', '')]",,PRO:invar,65,C/(e)\
+126,22,4,ai,ai,VER:pres:1:sg,841,26,Vfin,Vfin,avoir1,aidier|avoir,+Md|+CMI,"[('VfinGrp', ''), ('Vfin', ''), ('Prn', 's')]",,VER,65,/V\
+127,22,5,je,je,PRO:pers:suj:1:sg:unb,842,26,Prn,Prn%,1ps,je,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('Vpp', '')]",s,PRO:pers,65,C/(e)\
+128,22,6,appelé,appelé,VER:pper:masc:sg,843,26,Vpp,Vpp,appeler,apeler,*+MI,"[('VfinGrp', ''), ('Vpp', ''), ('NGrp', 'c')]",,VER,65,/V\.C/e\.'C/V\
+129,22,7,ces,ces,DET:demo:obj:masc:pl,844,26,Dem,Dem,cist,cel|cest,S|CS,"[('NGrp', 'c'), ('Det', ''), ('N', '')]",,DET:demo,65,C/V\
+130,22,8,freres,freres,NOM:obj:masc:pl,845,26,N,N,,frere,+CI,"[('NGrp', 'c'), ('N', ''), ('SubVfin', '')]",,NOM,65,'C/V\.C/e\
+131,23,1,qui,qui,PROCON,846,26,Qux,Qux,qui,qui,CST,"[('SubVfin', ''), ('Sub', 's'), ('Adv', 'a')]",s,PROCON,65,C/V\
+132,23,2,ci,ci,ADV,847,26,Adv,Adv,ci,ci,+CIT,"[('SubVfin', ''), ('Adv', 'a'), ('Vfin', '')]",a,ADV,65,C/V\
+133,23,3,sont,sont,VER:pres:3:pl,848,26,Vfin,Vfin,être1|ester,estre1|estre,+I|CMI,"[('VfinGrp', ''), ('NGrp', 'c'), ('SubVfin', '')]",,VER,65,C/V\
+134,23,4,",",",",PON,849,26,Pnc,Pnc,,",",,,,PON,65,
+135,23,5,que,que,PROCON,850,26,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', ''), ('Prn', 's')]",,PROCON,65,C/(e)\
+136,23,6,je,je,PRO:pers:suj:1:sg:unb,851,26,Prn,Prn$,1ps,je,CIST,"[('SubVfin', ''), ('Prn', 's'), ('Prn', '')]",s,PRO:pers,65,C/(e)\
+137,23,7,vous,vous,PRO:pers:2:pl,852,26,Prn,Prn$$,2pp,ous2|vos1,T|S,"[('SubVfin', ''), ('Prn', ''), ('Vfin', '')]",,PRO:pers,65,C/V\
+138,23,8,vueil,vueil,VER:pres:1:sg,853,26,Vfin,Vfin,vouloir,voloir,+Z,"[('SubVfin', ''), ('Vfin', ''), ('VinfGrp', 'c')]",,VER,65,C/V\
+139,23,9,faire,faire,VER:infi,854,26,Vinf,Vinf,faire,faire,+MIT,"[('VinfGrp', 'c'), ('Vinf', ''), ('NGrp', 'c')]",,VER,65,'C/V\.C/(e)\
+140,24,1,fu,fu,VER:simp:3:sg,861,26,Vfin,Vfin,être1|ester,estre1|estre,+I|CMI,"[('VfinGrp', ''), ('Vfin', ''), ('Adj', 'a')]",,VER,66,C/V\
+141,24,2,tele,tele,ADJ:suj:femi:sg,862,26,Adj,Adj,tel,tel,+CI,#,a,ADJ,66,'C/V\.C/(e)\
+142,24,3,:,:,PON,863,26,Pnc,Pnc,,:,,,,PON,66,
+143,24,4,',',PON:cit,864,26,Pnc,Pnc,,QUOTES,,,,PON:cit,66,
+144,24,5,seneschal,seneschal,NOM:suj:masc:sg,865,26,N,N,,seneschal,+IT,"[('VfinGrp', ''), ('N', ''), ('VfinGrp', 'inc')]",,NOM,66,C/V\.C/e\.'C/V\
+145,24,6,"""","""",PON:cit,866,26,Pnc,Pnc,,QUOTED,,,,PON:cit,66,
+146,24,7,",",",",PON,867,26,Pnc,Pnc,,",",,,,PON,66,
+147,24,8,fist,fist,VER:simp:3:sg,868,26,Vfin,Vfin,faire,faire|feire|fere,+CMI|M|M,"[('VfinGrp', 'inc'), ('Vfin', ''), ('Prn', 's')]",,VER,66,C/V\
+148,24,9,il,il,PRO:pers:suj:3:masc:sg:unb,869,26,Prn,Prn%,3p,il,CIST,"[('VfinGrp', ''), ('VfinGrp', 'inc'), ('NGrp', 'a')]",s,PRO:pers,66,/V\
+149,25,1,quel,quel,ADJ:suj:femi:sg,872,26,Qux,Qux,quel,quel1|quel,I|CI,"[('NGrp', 'a'), ('Adj', ''), ('N', '')]",,ADJ,66,C/V\
+150,25,2,chose,chose,NOM:suj:femi:sg,873,26,N,N,,chose,+CIT,"[('VfinGrp', ''), ('NGrp', 'a'), ('Vfin', '')]",,NOM,66,'C/V\.C/(e)\
+151,25,3,est,est,VER:pres:3:sg,874,26,Vfin,Vfin,être1|ester,ester|estre1,+M|+I,"[('VfinGrp', ''), ('Vfin', ''), ('N', 's')]",,VER,66,/V\
+152,25,4,dieu,dieu,NOM:suj:masc:sg,875,26,N,N,,dieu,+CIT,#,s,NOM,66,C/V\
+153,25,5,?,?,PON,876,26,Pnc,Pnc,,?,,,,PON,66,
+154,25,6,"""","""",PON:cit,877,26,Pnc,Pnc,,QUOTED,,,,PON:cit,67,
+155,25,7,et,et,CON:coord,878,26,Crd,Crd,et,et,ST,"[('VfinGrp', ''), ('Crd', ''), ('Prn', 's')]",,CON:coord,67,/V\
+156,25,8,je,je,PRO:pers:suj:1:sg:unb,879,26,Prn,Prn$,1ps,je,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('Prn', '')]",s,PRO:pers,67,C/(e)\
+157,25,9,li,li,PRO:pers:suj:3:masc:sg:bet,880,26,Prn,Prn$$,3p,ele|il,C|CIST,"[('VfinGrp', ''), ('Prn', ''), ('Vfin', '')]",,PRO:pers,67,C/V\
+158,25,10,diz,diz,VER:simp:1:sg,881,26,Vfin,Vfin,dire,dire,+CMI,#,,VER,67,C/V\
+159,26,1,que,que,PROCON,912,26,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', 'c'), ('Prn', 's')]",c,PROCON,68,C/(e)\
+160,26,2,vous,vous,PRO:pers:2:pl,913,26,Prn,Prn$,2pp,ous2|vos1,T|S,"[('SubVfin', ''), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,68,C/V\
+161,26,3,avez,avez,VER:pres:2:pl,914,26,Vfin,Vfin,avoir1,avoir,+IM,"[('SubVfin', ''), ('Vfin', ''), ('Vpp', '')]",,VER,68,/V\.'C/V\
+162,26,4,faite,faite,VER:pper:femi:sg,915,26,Vpp,Vpp,faire,faire,+CMI,"[('SubVfin', ''), ('NGrp', 's'), ('Vfin', '')]",,VER,68,'C/V\.C/(e)\
+163,26,5,est,est,VER:pres:3:sg,916,26,Vfin,Vfin,être1|ester,ester|estre1,+M|+I,"[('SubVfin', ''), ('Vfin', ''), ('Vpp', '')]",,VER,68,/V\
+164,26,6,escripte,escripte,VER:pper:femi:sg,917,26,Vpp,Vpp,écrire,escrire,+Z,"[('SubVfin', ''), ('Vpp', ''), ('PreN', '')]",,VER,68,/V\.'C/V\.C/(e)\
+165,27,1,or,or,ADV,928,27,Adv,Adv,or2,or4|or,+IT|CI,"[('VfinGrp', ''), ('Adv', ''), ('Prn', '')]",,ADV,69,/V\
+166,27,2,vous,vous,PRO:pers:2:pl,929,27,Prn,Prn$$,2pp,ous2|vos1,T|S,"[('VfinGrp', ''), ('Prn', ''), ('Vfin', '')]",,PRO:pers,69,C/V\
+167,27,3,demande,demande,VER:pres:1:sg,930,27,Vfin,Vfin,demander,demander,+CI,"[('VfinGrp', ''), ('Vfin', ''), ('Prn', 's')]",,VER,69,C/V\.'C/V\.C/(e)\
+168,27,4,je,je,PRO:pers:suj:1:sg:unb,931,27,Prn,Prn%,1ps,je,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('VfinGrp', 'inc')]",s,PRO:pers,69,C/(e)\
+169,27,5,",",",",PON,932,27,Pnc,Pnc,,",",,,,PON,69,
+170,27,6,"""","""",PON:cit,933,27,Pnc,Pnc,,QUOTED,,,,PON:cit,69,
+171,27,7,fist,fist,VER:simp:3:sg,934,27,Vfin,Vfin,faire,faire|feire|fere,+CMI|M|M,"[('VfinGrp', 'inc'), ('Vfin', ''), ('Prn', 's')]",,VER,69,C/V\
+172,27,8,il,il,PRO:pers:suj:3:masc:sg:unb,935,27,Prn,Prn%,3p,il,CIST,"[('VfinGrp', ''), ('VfinGrp', 'inc'), ('SubVfin', 'c')]",s,PRO:pers,69,/V\
+173,28,1,et,et,CON:coord,996,27,Crd,Crd,et,et,ST,"[('VfinGrp', '&'), ('Crd', ''), ('Prn', '')]",,CON:coord,71,/V\
+174,28,2,me,me,PRO:pers:obj:1:sg:unb,997,27,Prn,Prn$$,1ps,je|moi,IS|T,"[('VfinGrp', '&'), ('Prn', ''), ('Vfin', '')]",,PRO:pers,71,C/(e)\
+175,28,3,fist,fist,VER:simp:3:sg,998,27,Vfin,Vfin,faire,faire|feire|fere,+CMI|M|M,"[('VfinGrp', '&'), ('Vfin', ''), ('VinfGrp', 'c')]",,VER,71,C/V\
+176,28,4,seoir,seoir,VER:infi,999,27,Vinf,Vinf,seoir,sëoir,+IIdTd,"[('VinfGrp', 'c'), ('Vinf', ''), ('PreN', '')]",,VER,71,C/(V)\.'/V\
+177,28,5,a,a,PRE,1000,27,Pre,Pre,à,a3|a,+T|CGIS,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,71,/V\
+178,28,6,sez,sez,DET:poss:obj:masc:pl,1001,27,Det,Det,son4,son4,S,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:poss,71,C/V\
+179,28,7,piez,piez,NOM:obj:masc:pl,1002,27,N,N,,pie|pié,+C|+I,"[('VfinGrp', ''), ('VfinGrp', '&'), ('VfinGrp', '&')]",,NOM,71,C/V\
+180,29,1,comment,comment,ADV,1008,27,Qux,Qux,comment,coment1|coment,*+T|I,"[('SubVfin', ''), ('Sub', ''), ('Prn', '')]",,ADV,71,C/V\.'C/V\
+181,29,2,me,me,PRO:pers:obj:1:sg:unb,1009,27,Prn,Prn$$,1ps,je|moi,IS|T,"[('SubVfin', ''), ('Prn', ''), ('Vfin', '')]",,PRO:pers,71,C/(e)\
+182,29,3,deistes,deistes,VER:simp:2:pl,1010,27,Vfin,Vfin,dire,dire,+IdMMd,"[('SubVfin', ''), ('Vfin', ''), ('Prn', 's')]",,VER,71,C/(V)\.'/V\.C/e\
+183,29,4,-,-,PON,1011,27,Pnc,Pnc,,-,,,,PON,71,
+184,29,5,vous,vous,PRO:pers:2:pl,1012,27,Prn,Prn%,2pp,ous2|vos1,T|S,"[('SubVfin', ''), ('Prn', 's'), ('Adv', '')]",s,PRO:pers,71,C/V\
+185,29,6,hier,hier,ADV,1013,27,Adv,Adv,hier1,ier,+IT,"[('SubVfin', ''), ('Adv', ''), ('Prn', 'c')]",,ADV,71,/V\
+186,29,7,ce,ce,PRO:invar,1014,27,Prn,Prn,ce1,ce1|ce,S|C,#,c,PRO:invar,71,C/(e)\
+187,30,1,vous,vous,PRO:pers:2:pl,1034,27,Prn,Prn$,2pp,ous2|vos1,T|S,"[('VfinGrp', ''), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,73,C/V\
+188,30,2,deistes,deistes,VER:simp:2:pl,1035,27,Vfin,Vfin,dire,dire,+IdMMd,"[('VfinGrp', ''), ('Vfin', ''), ('SubN', '')]",,VER,73,C/(V)\.'/V\.C/e\
+189,30,3,comme,comme,CON:subord,1036,27,Sub,Sub,comme,come1|come,*I|CI,"[('SubN', ''), ('Sub', ''), ('Adj', '')]",,CON:subord,73,'C/V\.C/(e)\
+190,30,4,hastis,hastis,ADJ:suj:masc:sg,1037,27,Adj,Adj,,hastif,+Z,"[('SubN', ''), ('Adj', ''), ('N', '')]",,ADJ,73,C/V\.'C/V\
+191,31,1,qui,qui,PROCON,1102,28,Qux,Qux,qui,qui,CST,"[('SubVfin', 's'), ('Sub', ''), ('Vfin', '')]",,PROCON,75,C/V\
+192,31,2,a,a,VER:pres:3:sg,1103,28,Vfin,Vfin,avoir1,a3|a,+T|CGIS,"[('SubVfin', 's'), ('Vfin', ''), ('Vpp', '')]",,PRE,75,/V\
+193,31,3,fait,fait,VER:pper:masc:sg,1104,28,Vpp,Vpp,faire,faire|farre,+CMI|M,"[('SubVfin', 's'), ('Vpp', ''), ('NGrp', 'c')]",,VER,75,C/V\
+194,31,4,le,le,DET:def:obj:masc:sg,1105,28,Det,Det,le,le,CST,"[('NGrp', 'c'), ('Det', ''), ('N', '')]",,DET:def,75,C/(e)\
+195,31,5,pechie,pechié,NOM:obj:masc:sg,1106,28,N,N,,pechié,*+I,"[('NGrp', 'c'), ('N', ''), ('Adj', '')]",,NOM,75,C/V\.'C/V\
+196,31,6,mortel,mortel,ADJ:obj:masc:sg,1107,28,Adj,Adj,,mortel,+IT,"[('SubVfin', ''), ('NGrp', 's'), ('Vfin', '')]",,ADJ,75,C/V\.'C/V\
+197,32,1,il,il,PRO:pers:suj:3:masc:sg:unb,1110,28,Prn,Prn$,3p,il,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('Adv', '')]",s,PRO:pers,75,/V\
+198,32,2,ne,ne,PRO:clit,1111,28,Neg,Neg$$,ne1,en2|ne,S|C,"[('VfinGrp', ''), ('Adv', ''), ('Vfin', '')]",,PRO:clit,75,C/(e)\
+199,32,3,sceit,sceit,VER:pres:3:sg,1112,28,Vfin,Vfin,savoir,savoir,+Z,"[('VfinGrp', ''), ('Vfin', ''), ('Adv', '')]",,VER,75,C/V\
+200,32,4,pas,pas,NOM:obj:masc:pl,1113,28,Neg,Neg,pas1,pas|past2,+IT|+T,"[('VfinGrp', ''), ('Adv', ''), ('VfinGrp', '&')]",,NOM,75,C/V\
+201,32,5,ne,ne,PRO:clit,1114,28,Crd,Crd,ne2,en2|ne,S|C,"[('VfinGrp', '&'), ('Crd', ''), ('Adv', '')]",,PRO:clit,75,C/(e)\
+202,32,6,n,n,PRO:clit,1115,28,Neg,Neg$$,ne1,en2|ne,S|C,"[('VfinGrp', '&'), ('Adv', ''), ('Vfin', '')]",,PRO:clit,75,C/\
+203,32,7,est,est,VER:pres:3:sg,1116,28,Vfin,Vfin,être1|ester,ester|estre1,+M|+I,"[('VfinGrp', '&'), ('Vfin', ''), ('Adj', 'a')]",,VER,75,/V\
+204,32,8,certeins,certeins,ADJ:suj:masc:sg,1117,28,Adj,Adj,certain,certain,+I,"[('VfinGrp', ''), ('VfinGrp', '&'), ('SubVfin', 'c')]",a,ADJ,75,C/V\.'C/V\
+205,33,1,par,par,PRE,1129,28,Pre,Pre,par1,par,CIS,"[('PreSub+Sub', ''), ('Pre', ''), ('Sub', '')]",,PRE,75,C/V\
+206,33,2,quoy,quoy,PRO:invar,1130,28,Qux,Qux,que,coi2,S,"[('SubVfin', '+'), ('PreSub+Sub', ''), ('VinfGrp', 'c')]",,PRO:invar,75,C/V\
+207,33,3,grant,grant,ADJ:obj:femi:sg,1131,28,Adj,Adj,grand,grant,+CIT,"[('NGrp', 'c'), ('Adj', ''), ('N', '')]",,ADJ,75,C/V\
+208,33,4,poour,poour,NOM:obj:femi:sg,1132,28,N,N,,pëor,*+Td,"[('SubVfin', '+'), ('VinfGrp', 'c'), ('Vfin', '')]",,NOM,75,C/V\.'C/V\
+209,33,5,doit,doit,VER:pres:3:sg,1133,28,Vfin,Vfin,devoir2,devoir|dire,+CMI|+M,"[('SubVfin', '+'), ('Vfin', ''), ('VinfGrp', 'c')]",,VER,75,C/V\
+210,33,6,avoir,avoir,VER:infi,1134,28,Vinf,Vinf,avoir1,avoir,+MIT,"[('VinfGrp', 'c'), ('Vinf', ''), ('SubVfin', '')]",,VER,75,/V\.'C/V\
+211,34,1,yert,yert,VER:futu:3:sg,1143,28,Vfin,Vfin,être1|ester,estre,M,"[('SubVfin', ''), ('Vfin', ''), ('PreN', 'a')]",,VER,75,/V\
+212,34,2,en,en,PRO:clit,1144,28,Pre,Pre,en1,en1|en,+IST|CI,"[('PreN', 'a'), ('Pre', ''), ('N', '')]",,PRE,75,/V\
+213,34,3,paradis,paradis,NOM:obj:masc:sg,1145,28,N,N,,paradis,+IT,#,,NOM,75,C/V\.C/V\.'C/V\
+214,34,4,.,.,PON,1146,28,Pnc,Pnc,,.,,,,PON,75,
+215,34,5,si,si,PROCON,1147,28,Adv,Adv,si4,si,C,"[('VfinGrp', ''), ('Adv', ''), ('Prn', '')]",,PROCON,76,C/V\
+216,34,6,vous,vous,PRO:pers:2:pl,1148,28,Prn,Prn$$,2pp,ous2|vos1,T|S,"[('VfinGrp', ''), ('Prn', ''), ('Vfin', '')]",,PRO:pers,76,C/V\
+217,34,7,pri,pri,VER:pres:1:sg,1149,28,Vfin,Vfin,?,prendre|priier|prisier,+M|+I|+M,"[('VfinGrp', ''), ('Vfin', ''), ('VfinGrp', 'inc')]",,VER,76,C/V\
+218,35,1,que,que,PROCON,1161,28,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', 'c'), ('Sub', ''), ('Prn', 's')]",,PROCON,76,C/(e)\
+219,35,2,vous,vous,PRO:pers:2:pl,1162,28,Prn,Prn$,2pp,ous2|vos1,T|S,"[('SubVfin', 'c'), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,76,C/V\
+220,35,3,metés,metés,VER:subp:2:pl,1163,28,Vfin,Vfin,mettre,metre,M,"[('SubVfin', 'c'), ('Vfin', ''), ('NGrp', 'c')]",,VER,76,C/V\.'C/V\
+221,35,4,votre,votre,DET:poss:obj:masc:sg,1164,28,Det,Det,votre,vostre,S,"[('NGrp', 'c'), ('Det', ''), ('N', '')]",,DET:poss,76,'C/V\.C/(e)\
+222,35,5,cuer,cuer,NOM:obj:masc:sg,1165,28,N,N,,cuer1|cuer2,+T|+IT,"[('SubVfin', 'c'), ('NGrp', 'c'), ('PrePrnSubVfin', '')]",,NOM,76,C/V\
+223,35,6,a,a,PRE,1166,28,Pre,Pre,à,a3|a,+T|CGIS,"[('PrePrnSubVfin', ''), ('Pre', ''), ('Prn', '')]",,PRE,76,/V\
+224,35,7,ce,ce,PRO:invar,1167,28,Prn,Prn,ce1,ce1|ce,S|C,"[('SubVfin', 'c'), ('PrePrnSubVfin', ''), ('PreN', '')]",,PRO:invar,76,C/(e)\
+225,36,1,pour,pour,PRE,1169,28,Pre,Pre,pour,por2|por,+ST|C,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,76,C/V\
+226,36,2,l,l',DET:def:obj:femi:sg,1170,28,Det,Det,le,le,CS,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:def,76,C/\
+227,36,3,amour,amour,NOM:obj:femi:sg,1171,28,N,N,,amor,+G,"[('PreN', ''), ('N', ''), ('PreN', '')]",,NOM,76,/V\.'C/V\
+228,36,4,de,de,PRE,1172,28,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,76,C/(e)\
+229,36,5,dieu,dieu,NOM:obj:masc:sg,1173,28,N,N,,dieu,+CIT,"[('PreN', ''), ('N', ''), ('PrePrn', '&')]",,NOM,76,C/V\
+230,36,6,et,et,CON:coord,1174,28,Crd,Crd,et,et,ST,"[('PrePrn', '&'), ('Crd', ''), ('Pre', '')]",,CON:coord,76,/V\
+231,36,7,de,de,PRE,1175,28,Pre,Pre,de,de,+CIST,"[('PrePrn', '&'), ('Pre', ''), ('Prn', '')]",,PRE,76,C/(e)\
+232,36,8,moy,moy,PRO:pers:obj:1:sg:bet,1176,28,Prn,Prn,1ps,je,S,"[('SubVfin', 'c'), ('PreN', ''), ('PrePrnSubVfin', '')]",,PRO:pers,76,C/V\
+233,37,1,que,que,PROCON,1196,28,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubPrnSubVfin', ''), ('Sub', ''), ('Prn', '')]",,PROCON,76,C/(e)\
+234,37,2,ce,ce,PRO:invar,1197,28,Prn,Prn,ce1,ce1|ce,S|C,"[('SubPrnSubVfin', ''), ('Prn', ''), ('SubVfin', '')]",,PRO:invar,76,C/(e)\
+235,37,3,que,que,PROCON,1198,28,Qux,Qux,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', ''), ('NGrp', 's')]",,PROCON,76,C/(e)\
+236,37,4,le,le,DET:def:suj:masc:sg,1199,28,Det,Det,le,le,CST,"[('NGrp', 's'), ('Det', ''), ('N', '')]",,DET:def,76,C/(e)\
+237,37,5,pechie,pechié,NOM:suj:masc:sg,1200,28,N,N,,pechié,*+I,"[('NGrp', 's'), ('N', ''), ('Adj', '')]",,NOM,76,C/V\.'C/V\
+238,37,6,mortel,mortel,ADJ:suj:masc:sg,1201,28,Adj,Adj,,mortel,+IT,"[('SubVfin', ''), ('NGrp', 's'), ('Vfin', '')]",,ADJ,76,C/V\.'C/V\
+239,38,1,car,car,CON:coord,1263,29,Crd,Crd,car,car,ST,"[('VfinGrp', '+'), ('Crd', ''), ('Prn', 's')]",,CON:coord,79,C/V\
+240,38,2,vous,vous,PRO:pers:2:pl,1264,29,Prn,Prn$,2pp,ous2|vos1,T|S,"[('VfinGrp', '+'), ('Prn', 's'), ('Adv', '')]",s,PRO:pers,79,C/V\
+241,38,3,ne,ne,PRO:clit,1265,29,Neg,Neg$$,ne1,en2|ne,S|C,"[('VfinGrp', '+'), ('Adv', ''), ('Vfin', '')]",,PRO:clit,79,C/(e)\
+242,38,4,devez,devez,VER:pres:2:pl,1266,29,Vfin,Vfin,devoir2,devoir,+MI,"[('VfinGrp', '+'), ('Vfin', ''), ('Adv', '')]",,VER,79,C/V\.'C/V\
+243,38,5,mie,mie,ADV,1267,29,Neg,Neg,mie3,mie,C,"[('VfinGrp', '+'), ('Adv', ''), ('VinfGrp', 'c')]",,ADV,79,'C/V\./(e)\
+244,38,6,avoir,avoir,VER:infi,1268,29,Vinf,Vinf,avoir1,avoir,+MIT,"[('VinfGrp', 'c'), ('Vinf', ''), ('PreN', '')]",,VER,79,/V\.'C/V\
+245,39,1,de,de,PRE,1286,29,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,80,C/(e)\
+246,39,2,dieu,dieu,NOM:obj:masc:sg,1287,29,N,N,,dieu,+CIT,"[('PreN', ''), ('PreN', ''), ('Adv', '')]",,NOM,80,C/V\
+247,39,3,premier,premier,ADJ:ord:obj:masc:sg,1288,29,Adv,Adv,premier1,premier,C,"[('PreN', ''), ('Adv', ''), ('--', '&')]",,ADJ:ord,80,C/V\.C/<V>\.'/V\
+248,39,4,et,et,CON:coord,1289,29,Crd,Crd,et,et,ST,"[('--', '&'), ('Crd', ''), ('PreN', '')]",,CON:coord,80,/V\
+249,39,5,pour,pour,PRE,1290,29,Pre,Pre,pour,por2|por,+ST|C,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,80,C/V\
+250,39,6,l,l',DET:def:obj:femi:sg,1291,29,Det,Det,le,le,CS,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:def,80,C/\
+251,39,7,amour,amour,NOM:obj:femi:sg,1292,29,N,N,,amor,+G,"[('PreN', ''), ('N', ''), ('PrePrn', '')]",,NOM,80,/V\.'C/V\
+252,40,1,premier,premier,ADJ:ord:obj:masc:sg,1288,29,Adv,Adv,premier1,premier,C,"[('PreN', ''), ('Adv', ''), ('--', '&')]",,ADJ:ord,80,C/V\.C/<V>\.'/V\
+253,40,2,et,et,CON:coord,1289,29,Crd,Crd,et,et,ST,"[('--', '&'), ('Crd', ''), ('PreN', '')]",,CON:coord,80,/V\
+254,40,3,pour,pour,PRE,1290,29,Pre,Pre,pour,por2|por,+ST|C,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,80,C/V\
+255,40,4,l,l',DET:def:obj:femi:sg,1291,29,Det,Det,le,le,CS,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:def,80,C/\
+256,40,5,amour,amour,NOM:obj:femi:sg,1292,29,N,N,,amor,+G,"[('PreN', ''), ('N', ''), ('PrePrn', '')]",,NOM,80,/V\.'C/V\
+257,40,6,de,de,PRE,1293,29,Pre,Pre,de,de,+CIST,"[('PrePrn', ''), ('Pre', ''), ('Prn', '')]",,PRE,80,C/(e)\
+258,40,7,moy,moy,PRO:pers:obj:1:sg:bet,1294,29,Prn,Prn,1ps,je,S,"[('VfinGrp', ''), ('PreN', ''), ('SubVfin', 'c')]",,PRO:pers,80,C/V\
+259,41,1,il,il,PRO:pers:suj:3:masc:sg:unb,1303,30,Prn,Prn$,3p,il,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,81,/V\
+260,41,2,ama,ama,VER:simp:3:sg,1304,30,Vfin,Vfin,aimer,aamer|amer1,+M|+I,"[('VfinGrp', ''), ('Vfin', ''), ('Adv', '')]",,VER,81,/V\.'C/V\
+261,41,3,tant,tant,ADV,1305,30,QIs,QIs,tant,tant,CI,"[('VfinGrp', ''), ('Adv', ''), ('NGrp', 'c')]",,ADV,81,C/V\
+262,41,4,toutes,toutes,DET:ind:obj:femi:pl,1306,30,QIs,QIs,tout,tot,CS,"[('NGrp', 'c'), ('Det', ''), ('N', '')]",,DET:ind,81,'C/V\.C/e\
+263,41,5,manieres,manieres,NOM:obj:femi:pl,1307,30,N,N,,maniere,*+CIT,"[('NGrp', 'c'), ('N', ''), ('PreN', '')]",,NOM,81,C/V\.'C/V\.C/e\
+264,42,1,qui,qui,PROCON,1310,30,Qux,Qux,qui,qui,CST,"[('SubVfin', ''), ('Sub', 's'), ('N', 's')]",s,PROCON,81,C/V\
+265,42,2,dieu,dieu,NOM:obj:masc:sg,1311,30,N,N,,dieu,+CIT,"[('SubVfin', ''), ('N', 's'), ('Vfin', '')]",s,NOM,81,C/V\
+266,42,3,creoient,creoient,VER:impf:3:pl,1312,30,Vfin,Vfin,croire,croire,+M,"[('SubVfin', ''), ('Vfin', ''), ('VfinGrp', '&')]",,VER,81,C/(V)\.'/V\./e\
+267,42,4,et,et,CON:coord,1313,30,Crd,Crd,et,et,ST,"[('VfinGrp', '&'), ('Crd', ''), ('Vfin', '')]",,CON:coord,81,/V\
+268,42,5,amoient,amoient,VER:impf:3:pl,1314,30,Vfin,Vfin,aimer,amer1|amer,+I|IM,"[('VfinGrp', ''), ('NGrp', 'c'), ('SubVfin', '')]",,VER,81,/V\.'C/V\./e\
+269,43,1,que,que,PROCON,1316,30,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', ''), ('Prn', 's')]",,PROCON,81,C/(e)\
+270,43,2,il,il,PRO:pers:suj:3:masc:sg:unb,1317,30,Prn,Prn$,3p,il,CIST,"[('SubVfin', ''), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,81,/V\
+271,43,3,donna,donna,VER:simp:3:sg,1318,30,Vfin,Vfin,donner,doner,*+CM,"[('SubVfin', ''), ('Vfin', ''), ('NGrp', 'c')]",,VER,81,C/V\.'C/V\
+272,43,4,la,la,DET:def:obj:femi:sg,1319,30,Det,Det,le,le,CST,"[('NGrp', 'c'), ('Det', ''), ('N', '')]",,DET:def,81,C/V\
+273,43,5,connestablie,connestablie,NOM:obj:femi:sg,1320,30,N,N,,conestablie,*+T,"[('NGrp', 'c'), ('N', ''), ('PreN', '')]",,NOM,81,C/V\.C/V\.C/V\.'C/V\./(e)\
+274,44,1,a,a,PRE,1323,30,Pre,Pre,à,a3|a,+T|CGIS,"[('PreN', ''), ('Pre', ''), ('NGrp', '')]",,PRE,81,/V\
+275,44,2,mon,mon,DET:poss:obj:masc:sg,1324,30,Det,Det,mon1,mon1|mon,S|C,"[('NGrp', ''), ('Det', ''), ('N', '')]",,DET:poss,81,C/V\
+276,44,3,seigneur,seigneur,NOM:obj:masc:sg,1325,30,N,N,,seignor,+CI,"[('PreN', ''), ('NGrp', ''), ('NGrp', '')]",,NOM,81,C/V\.'C/V\
+277,44,4,gilles,gilles,NPR:obj:masc:sg,1326,30,N,N,,gile,*Z,"[('NGrp', ''), ('N', ''), ('DetAdj', '')]",,NPR,81,'C/V\.C/e\
+278,44,5,le,le,DET:def:obj:masc:sg,1327,30,Det,Det,le,le,CST,"[('DetAdj', ''), ('Det', ''), ('Adj', '')]",,DET:def,81,C/(e)\
+279,44,6,brun,brun,ADJ:obj:masc:sg,1328,30,Adj,Adj,,brun,+IT,"[('PreN', ''), ('NGrp', ''), ('SubVfin', '')]",,ADJ,81,C/V\
+280,45,1,et,et,CON:coord,1353,30,Crd,Crd,et,et,ST,"[('VfinGrp', ''), ('Crd', ''), ('Prn', 's')]",,CON:coord,82,/V\
+281,45,2,je,je,PRO:pers:suj:1:sg:unb,1354,30,Prn,Prn$,1ps,je,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,82,C/(e)\
+282,45,3,croy,croy,VER:pres:1:sg,1355,30,Vfin,Vfin,croire,croire,+M,"[('VfinGrp', ''), ('Vfin', ''), ('Adv', '')]",,VER,82,C/V\
+283,45,4,vraiement,vraiement,ADV,1356,30,Adv,Adv,,veraiement,Z,"[('VfinGrp', ''), ('Adv', ''), ('SubVfin', 'c')]",,ADV,82,C/V\.C/(V)\.'/V\
+284,45,5,que,que,PROCON,1357,30,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', 'c'), ('Sub', ''), ('Adj', 'a')]",,PROCON,82,C/(e)\
+285,45,6,tel,tel,ADJ:suj:masc:sg,1358,30,Adj,Adj,tel,tel,+CIT,"[('SubVfin', 'c'), ('Adj', 'a'), ('Vfin', '')]",a,ADJ,82,C/V\
+286,46,1,preudomme,preudomme,NOM:suj:masc:sg,1376,31,N,N,,pro,*I,"[('VfinGrp', ''), ('PreN', ''), ('Prn', 's')]",a,NOM,83,C/V\.'C/V\.C/(e)\
+287,46,2,",",",",PON,1377,31,Pnc,Pnc,,",",,,,PON,83,
+288,46,3,il,il,PRO:pers:suj:3:masc:sg:unb,1378,31,Prn,Prn$,3p,il,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('Prn', 'c')]",s,PRO:pers,83,/V\
+289,46,4,le,le,PRO:pers:obj:3:masc:sg:unb,1379,31,Prn,Prn$$,3p,il,CIST,"[('VfinGrp', ''), ('Prn', 'c'), ('Vfin', '')]",c,PRO:pers,83,C/(e)\
+290,46,5,faisoit,faisoit,VER:impf:3:sg,1380,31,Vfin,Vfin,faire,faire,+CM,"[('VfinGrp', ''), ('Vfin', ''), ('VinfGrp', 'c')]",,VER,83,C/V\.'C/V\
+291,46,6,manger,manger,VER:infi,1381,31,Vinf,Vinf,manger,mangier,+I,"[('VinfGrp', 'c'), ('Vinf', ''), ('PreN', '')]",,VER,83,C/V\.'C/V\
+292,47,1,cuident,cuident,VER:pres:3:pl,1420,31,Vfin,Vfin,cuider,cuider|cuidier,M|MI,"[('VfinGrp', ''), ('Vfin', ''), ('SubVfin', 'c')]",,VER,85,'C/V\.C/e\
+293,47,2,que,que,PROCON,1421,31,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', 'c'), ('Sub', ''), ('Prn', 's')]",,PROCON,85,C/(e)\
+294,47,3,vous,vous,PRO:pers:2:pl,1422,31,Prn,Prn$,2pp,ous2|vos1,T|S,"[('SubVfin', 'c'), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,85,C/V\
+295,47,4,mesdisiés,mesdisiés,VER:subp:2:pl,1423,31,Vfin,Vfin,médire,UNKNOWN,,"[('SubVfin', 'c'), ('Vfin', ''), ('PrePrn', '')]",,VER,85,C/V\.C/V\.'C/V\
+296,47,5,d,d',PRE,1424,31,Pre,Pre,de,de,+CS,"[('PrePrn', ''), ('Pre', ''), ('Prn', '')]",,PRE,85,C/\
+297,47,6,eulz,eulz,PRO:pers:acc:3:masc:pl:bet,1425,31,Prn,Prn,3p,il,S,#,,PRO:pers,85,/V\
+298,48,1,de,de,PRE,1432,31,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,86,C/(e)\
+299,48,2,chose,chose,NOM:obj:femi:sg,1433,31,N,N,,chose,+CIT,"[('PreN', ''), ('N', ''), ('SubVfin', '')]",,NOM,86,'C/V\.C/(e)\
+300,48,3,qui,qui,PROCON,1434,31,Qux,Qux,qui,qui,CST,"[('SubVfin', ''), ('Sub', 's'), ('Prn', 'c')]",s,PROCON,86,C/V\
+301,48,4,nous,nous,PRO:pers:1:pl,1435,31,Prn,Prn$$,1pp,nos1|nos,S|C,"[('SubVfin', ''), ('Prn', 'c'), ('Vfin', '')]",c,PRO:pers,86,C/V\
+302,48,5,doie,doie,VER:subp:3:sg,1436,31,Vfin,Vfin,devoir2,devoir|dire,+CIM|+M,"[('SubVfin', ''), ('Vfin', ''), ('Vinf', 'c')]",,VER,86,'C/V\./(e)\
+303,48,6,plaire,plaire,VER:infi,1437,31,Vinf,Vinf,plaire,plaire|plaisir,+MIT|M,"[('VfinGrp', ''), ('SubVfin', ''), ('Adv', '')]",c,VER,86,'C/V\.C/(e)\
+304,49,1,ou,ou,PROCON,1443,31,Crd,Crd,ou1,o|où,C|Td,"[('VfinGrp', '&'), ('Crd', ''), ('SubPrn', '')]",,PROCON,86,/V\
+305,49,2,se,se,PROCON,1444,31,Sub,Sub,si3,se,C,"[('SubPrn', ''), ('Sub', ''), ('Prn', '')]",,PROCON,86,C/(e)\
+306,49,3,ce,ce,PRO:invar,1445,31,Prn,Prn,ce1,ce1|ce,S|C,"[('SubPrn', ''), ('Prn', ''), ('Adv', '')]",,PRO:invar,86,C/(e)\
+307,49,4,non,non,ADV,1446,31,Neg,Neg,non,ne1,+Z,"[('VfinGrp', '&'), ('SubPrn', ''), ('Adv', '')]",,ADV,86,C/V\
+308,49,5,",",",",PON,1447,31,Pnc,Pnc,,",",,,,PON,86,
+309,49,6,si,si,PROCON,1448,31,Adv,Adv,si4,si,C,"[('VfinGrp', '&'), ('Adv', ''), ('Prn', '')]",,PROCON,86,C/V\
+310,49,7,vous,vous,PRO:pers:2:pl,1449,31,Prn,Prn$$,2pp,ous2|vos1,T|S,"[('VfinGrp', '&'), ('Prn', ''), ('Vfin', '')]",,PRO:pers,86,C/V\
+311,49,8,taisiés,taisiés,VER:impe:2:pl,1450,31,Vfin,Vfin,taire,taisir,M,#,,VER,86,C/V\.'C/V\
+312,50,1,de,de,PRE,1485,32,Pre,Pre,de,de,+CIST,"[('PrePrn', ''), ('Pre', ''), ('Prn', '')]",,PRE,88,C/(e)\
+313,50,2,moy,moy,PRO:pers:obj:1:sg:bet,1486,32,Prn,Prn,1ps,je,S,"[('PrePrn', ''), ('Prn', ''), ('PreN', '&')]",,PRO:pers,88,C/V\
+314,50,3,et,et,CON:coord,1487,32,Crd,Crd,et,et,ST,"[('PreN', '&'), ('Crd', ''), ('Pre', '')]",,CON:coord,88,/V\
+315,50,4,de,de,PRE,1488,32,Pre,Pre,de,de,+CIST,"[('PreN', '&'), ('Pre', ''), ('N', '')]",,PRE,88,C/(e)\
+316,50,5,maistre,maistre,NOM:obj:masc:sg,1489,32,N,N,,mitre1,+T,"[('PreN', '&'), ('N', ''), ('N', '')]",,NOM,88,'C/V\.C/(e)\
+317,50,6,robert,robert,NPR:obj:masc:sg,1490,32,N,N,,robert,C|Z,#,,NPR,88,C/V\.'C/V\
+318,51,1,enplist,enplist,VER:pres:3:sg,1545,32,Vfin,Vfin,,emplir,+Z,"[('SubVfin', ''), ('Vfin', ''), ('Prn', 's')]",,VER,91,/V\.'C/V\
+319,51,2,il,il,PRO:pers:suj:3:masc:sg:unb,1546,32,Prn,Prn%,3p,il,CIST,"[('SubVfin', ''), ('Prn', 's'), ('NGrp', 'c')]",s,PRO:pers,91,/V\
+320,51,3,la,la,DET:def:obj:femi:sg,1547,32,Det,Det,le,le,CST,"[('NGrp', 'c'), ('Det', ''), ('N', '')]",,DET:def,91,C/V\
+321,51,4,bouche,bouche,NOM:obj:femi:sg,1548,32,N,N,,boche,*+IT,#,,NOM,91,'C/V\.C/(e)\
+322,51,5,.,.,PON,1549,32,Pnc,Pnc,,.,,,,PON,91,
+323,51,6,"""","""",PON:cit,1550,32,Pnc,Pnc,,QUOTED,,,,PON:cit,92,
+324,51,7,au,au,PREDET:a:obj:masc:sg,1551,33,Pre+Det,Pre+Det,à+le,a+le|le,S|C,"[('PreAdj', ''), ('Pre+Det', ''), ('Adj', '')]",,PREDET:a,92,/V\
+325,51,8,contraire,contraire,ADJ:obj:masc:sg,1552,33,Adj,Adj,,contraire1|contraire,T|I,"[('--', ''), ('PreAdj', ''), ('VfinGrp', 'inc')]",,ADJ,92,C/V\.'C/V\.C/(e)\
+326,52,1,que,que,PROCON,1558,33,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', ''), ('NGrp', 'a')]",,PROCON,92,C/(e)\
+327,52,2,male,male,ADJ:suj:femi:sg,1559,33,Adj,Adj,mal2,mal1|mal,I|I,"[('NGrp', 'a'), ('Adj', ''), ('N', '')]",,ADJ,92,'C/V\.C/(e)\
+328,52,3,chose,chose,NOM:suj:femi:sg,1560,33,N,N,,chose,+CIT,"[('SubVfin', ''), ('NGrp', 'a'), ('Vfin', '')]",,NOM,92,'C/V\.C/(e)\
+329,52,4,estoit,estoit,VER:impf:3:sg,1561,33,Vfin,Vfin,être1|ester,ester|estre1,+IM|+I,"[('SubVfin', ''), ('Vfin', ''), ('PreVinf', '')]",,VER,92,/V\.'C/V\
+330,52,5,de,de,PRE,1562,33,Pre,Pre,de,de,+CIST,"[('PreVinf', ''), ('Pre', ''), ('Vinf', '')]",,PRE,92,C/(e)\
+331,52,6,prendre,prendre,VER:infi,1563,33,Vinf,Vinf,prendre,prendre,+MIT,"[('PreVinf', ''), ('Vinf', ''), ('PrePrn', '')]",,VER,92,'C/V\.C/(e)\
+332,53,1,estoit,estoit,VER:impf:3:sg,1561,33,Vfin,Vfin,être1|ester,ester|estre1,+IM|+I,"[('SubVfin', ''), ('Vfin', ''), ('PreVinf', '')]",,VER,92,/V\.'C/V\
+333,53,2,de,de,PRE,1562,33,Pre,Pre,de,de,+CIST,"[('PreVinf', ''), ('Pre', ''), ('Vinf', '')]",,PRE,92,C/(e)\
+334,53,3,prendre,prendre,VER:infi,1563,33,Vinf,Vinf,prendre,prendre,+MIT,"[('PreVinf', ''), ('Vinf', ''), ('PrePrn', '')]",,VER,92,'C/V\.C/(e)\
+335,53,4,de,de,PRE,1564,33,Pre,Pre,de,de,+CIST,"[('PrePrn', ''), ('Pre', ''), ('Det', '')]",,PRE,92,C/(e)\
+336,53,5,l,l',DET:def,1565,33,Det,Det,le,il,CS,"[('PrePrn', ''), ('Det', ''), ('Prn', '')]",,PRO:pers,92,C/\
+337,53,6,autrui,autrui,PRO:invar,1566,33,Adj,Adj,autrui,autrui,CS,"[('--', ''), ('SubVfin', ''), ('VfinGrp', '+')]",,PRO:invar,92,/V\.'C/V\
+338,54,1,pour,pour,PRE,1642,33,Pre,Pre,pour,por2|por,+ST|C,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,93,C/V\
+339,54,2,dieu,dieu,NOM:obj:masc:sg,1643,33,N,N,,dieu,+CIT,"[('VinfGrp', 'c'), ('PreN', ''), ('PrnSubVfin', 'c')]",,NOM,93,C/V\
+340,54,3,ce,ce,PRO:invar,1644,33,Prn,Prn,ce1,ce1|ce,S|C,"[('PrnSubVfin', 'c'), ('Prn', ''), ('SubVfin', '')]",,PRO:invar,93,C/(e)\
+341,54,4,que,que,PROCON,1645,33,Qux,Qux,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', 'c'), ('Prn', 's')]",c,PROCON,93,C/(e)\
+342,54,5,il,il,PRO:pers:suj:3:masc:pl,1646,33,Prn,Prn$,3p,il,CIST,"[('SubVfin', ''), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,93,/V\
+343,54,6,devroient,devroient,VER:cond:3:pl,1647,33,Vfin,Vfin,devoir2,devoir,+M,"[('SubVfin', ''), ('Vfin', ''), ('Vinf', 'c')]",,VER,93,C/V\.'C/V\./e\
+344,54,7,rendre,rendre,VER:infi,1648,33,Vinf,Vinf,rendre,rendre,+MIT,#,c,VER,93,'C/V\.C/(e)\
+345,55,1,de,de,PRE,1660,34,Pre,Pre,de,de,+CIST,"[('PrePrn', ''), ('Pre', ''), ('Pre', '')]",,PRE,94,C/(e)\
+346,55,2,par,par,PRE,1661,34,Pre,Pre,par1,par,CIS,"[('PrePrn', ''), ('Pre', ''), ('Prn', '')]",,PRE,94,C/V\
+347,55,3,li,li,PRO:pers:obj:3:masc:sg:bet,1662,34,Prn,Prn,3p,ele|il,C|CIST,"[('SubVfin', 'c'), ('PrePrn', ''), ('SubVfin', 'c')]",,PRO:pers,94,C/V\
+348,55,4,",",",",PON,1663,34,Pnc,Pnc,,",",,,,PON,94,
+349,55,5,que,que,PROCON,1664,34,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', 'c'), ('Sub', ''), ('Prn', 's')]",,PROCON,94,C/(e)\
+350,55,6,il,il,PRO:pers:suj:3:masc:sg:unb,1665,34,Prn,Prn$,3p,il,CIST,"[('SubVfin', 'c'), ('Prn', 's'), ('Sub', '')]",s,PRO:pers,94,/V\
+351,55,7,se,se,PROCON,1666,34,Prn,Prn$$,soi,se,C,"[('SubVfin', 'c'), ('Sub', ''), ('Vfin', '')]",,PROCON,94,C/(e)\
+352,55,8,preist,preist,VER:subi:3:sg,1667,34,Vfin,Vfin,prendre,prendre|prier,+IdMMd|M,"[('SubVfin', 'c'), ('Vfin', ''), ('N', 'c')]",,VER,94,C/V\.'C/V\
+353,55,9,garde,garde,NOM:obj:femi:sg,1668,34,N,N,,garder,+MI,"[('SubVfin', 'c'), ('N', 'c'), ('PreN', '')]",c,VER,94,'C/V\.C/(e)\
+354,56,1,a,a,PRE,1669,34,Pre,Pre,à,a3|a,+T|CGIS,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,94,/V\
+355,56,2,la,la,DET:def:obj:femi:sg,1670,34,Det,Det,le,le,CST,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:def,94,C/V\
+356,56,3,meson,meson,NOM:obj:femi:sg,1671,34,N,N,,maison,+C,"[('PreN', ''), ('N', ''), ('PreN', '')]",,NOM,94,C/V\.'C/V\
+357,56,4,des,des,PREDET:de:obj:masc:pl,1672,34,Pre+Det,Pre+Det,de+le,de+le|le,S|C,"[('PreN', ''), ('Pre+Det', ''), ('N', '')]",,PREDET:de,94,C/V\
+358,56,5,preescheurs,preescheurs,NOM:obj:masc:pl,1673,34,N,N,,UNKNOWN,,"[('PreN', ''), ('N', ''), ('PreN', '')]",,NOM,94,C/(V)\./V\.'C/V\
+359,57,1,que,que,PROCON,1676,34,Qux,Qux,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', 'c'), ('Prn', 's')]",c,PROCON,94,C/(e)\
+360,57,2,il,il,PRO:pers:suj:3:masc:sg:unb,1677,34,Prn,Prn$,3p,il,CIST,"[('SubVfin', ''), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,94,/V\
+361,57,3,faisoit,faisoit,VER:impf:3:sg,1678,34,Vfin,Vfin,faire,faire,+CM,"[('SubVfin', 'c'), ('PreN', ''), ('SubVfin', '')]",,VER,94,C/V\.'C/V\
+362,57,4,",",",",PON,1679,34,Pnc,Pnc,,",",,,,PON,94,
+363,57,5,que,que,PROCON,1680,34,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', ''), ('Prn', 's')]",,PROCON,94,C/(e)\
+364,57,6,il,il,PRO:pers:suj:3:masc:sg:unb,1681,34,Prn,Prn$,3p,il,CIST,"[('SubVfin', ''), ('Prn', 's'), ('Adv', '')]",s,PRO:pers,94,/V\
+365,57,7,n,n,PRO:clit,1682,34,Neg,Neg$$,ne1,en2|ne,S|C,"[('SubVfin', ''), ('Adv', ''), ('Vfin', '')]",,PRO:clit,94,C/\
+366,57,8,encombrast,encombrast,VER:subi:3:sg,1683,34,Vfin,Vfin,,UNKNOWN,,"[('SubVfin', ''), ('Vfin', ''), ('NGrp', 'c')]",,VER,94,/V\.C/V\.'C/V\
+367,57,9,l,l',DET:def:obj:femi:sg,1684,34,Det,Det,le,le,CS,"[('NGrp', 'c'), ('Det', ''), ('N', '')]",,DET:def,94,C/\
+368,57,10,ame,ame,NOM:obj:femi:sg,1685,34,N,N,,ame,+CGIT,"[('NGrp', 'c'), ('N', ''), ('PrePrn', '')]",,NOM,94,'/V\.C/(e)\
+369,58,1,que,que,PROCON,1680,34,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', ''), ('Prn', 's')]",,PROCON,94,C/(e)\
+370,58,2,il,il,PRO:pers:suj:3:masc:sg:unb,1681,34,Prn,Prn$,3p,il,CIST,"[('SubVfin', ''), ('Prn', 's'), ('Adv', '')]",s,PRO:pers,94,/V\
+371,58,3,n,n,PRO:clit,1682,34,Neg,Neg$$,ne1,en2|ne,S|C,"[('SubVfin', ''), ('Adv', ''), ('Vfin', '')]",,PRO:clit,94,C/\
+372,58,4,encombrast,encombrast,VER:subi:3:sg,1683,34,Vfin,Vfin,,UNKNOWN,,"[('SubVfin', ''), ('Vfin', ''), ('NGrp', 'c')]",,VER,94,/V\.C/V\.'C/V\
+373,58,5,l,l',DET:def:obj:femi:sg,1684,34,Det,Det,le,le,CS,"[('NGrp', 'c'), ('Det', ''), ('N', '')]",,DET:def,94,C/\
+374,58,6,ame,ame,NOM:obj:femi:sg,1685,34,N,N,,ame,+CGIT,"[('NGrp', 'c'), ('N', ''), ('PrePrn', '')]",,NOM,94,'/V\.C/(e)\
+375,58,7,de,de,PRE,1686,34,Pre,Pre,de,de,+CIST,"[('PrePrn', ''), ('Pre', ''), ('Prn', '')]",,PRE,94,C/(e)\
+376,58,8,li,li,PRO:pers:obj:3:masc:sg:bet,1687,34,Prn,Prn,3p,ele|il,C|CIST,"[('SubVfin', ''), ('NGrp', 'c'), ('PreN', '')]",,PRO:pers,94,C/V\
+377,59,1,et,et,CON:coord,1739,34,Crd,Crd,et,et,ST,"[('VfinGrp', '&'), ('Crd', ''), ('PreN', '')]",,CON:coord,96,/V\
+378,59,2,du,du,PREDET:de:obj:masc:sg,1740,34,Pre+Det,Pre+Det,de+le,de+le|le,S|C,"[('PreN', ''), ('Pre+Det', ''), ('N', '')]",,PREDET:de,96,C/V\
+379,59,3,remenant,remenant,NOM:obj:masc:sg,1741,34,N,N,,remanant,+IT,"[('PreN', ''), ('N', ''), ('PreVinf', '')]",,NOM,96,C/V\.C/e\.'C/V\
+380,59,4,de,de,PRE,1742,34,Pre,Pre,de,de,+CIST,"[('PreVinf', ''), ('Pre', ''), ('Det', '')]",,PRE,96,C/(e)\
+381,59,5,l,l',DET:def:obj:masc:sg,1743,34,Det,Det,le,il,CS,"[('PreVinf', ''), ('Det', ''), ('Vinf', '')]",,PRO:pers,96,C/\
+382,59,6,avoir,avoir,VER:infi,1744,34,Vinf,Vinf,avoir1,avoir,+MIT,"[('PreVinf', ''), ('Vinf', ''), ('PreVpp', '')]",,VER,96,/V\.'C/V\
+383,60,1,de,de,PRE,1742,34,Pre,Pre,de,de,+CIST,"[('PreVinf', ''), ('Pre', ''), ('Det', '')]",,PRE,96,C/(e)\
+384,60,2,l,l',DET:def:obj:masc:sg,1743,34,Det,Det,le,il,CS,"[('PreVinf', ''), ('Det', ''), ('Vinf', '')]",,PRO:pers,96,C/\
+385,60,3,avoir,avoir,VER:infi,1744,34,Vinf,Vinf,avoir1,avoir,+MIT,"[('PreVinf', ''), ('Vinf', ''), ('PreVpp', '')]",,VER,96,/V\.'C/V\
+386,60,4,au,au,PREDET:a:obj:masc:sg,1745,34,Pre+Det,Pre+Det,à+le,a+le|le,S|C,"[('PreVpp', ''), ('Pre+Det', ''), ('Vpp', '')]",,PREDET:a,96,/V\
+387,60,5,mort,mort,VER:pper:masc:sg,1746,34,Vpp,Vpp,mourir,mort,+CIT,"[('VfinGrp', '&'), ('PreN', ''), ('Vfin', '')]",,NOM,96,C/V\
+388,60,6,",",",",PON,1747,34,Pnc,Pnc,,",",,,,PON,96,
+389,60,7,font,font,VER:pres:3:pl,1748,34,Vfin,Vfin,faire,faire|fondre,+MI|+MI,"[('VfinGrp', '&'), ('Vfin', ''), ('N', 'c')]",,VER,96,C/V\
+390,60,8,aumosnes,aumosnes,NOM:obj:femi:pl,1749,34,N,N,,aumosne,*+CIT,#,c,NOM,96,/V\.'C/V\.C/e\
+391,61,1,ou,ou,PREDET:en:obj:masc:sg,1775,35,Pre+Det,Pre+Det,en1+le,en1+le|le,S|C,"[('PreN', ''), ('Pre+Det', ''), ('N', '')]",,PREDET:en,98,/V\
+392,61,2,prael,prael,NOM:obj:masc:sg,1776,35,N,N,,präel,+IIdTd,"[('VfinGrp', ''), ('PreN', ''), ('PreN', '')]",,NOM,98,C/V\.'C/V\
+393,61,3,",",",",PON,1777,35,Pnc,Pnc,,",",,,,PON,98,
+394,61,4,desouz,desouz,ADV,1778,35,PrA,PrA,dessous,desoz,*IT,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,ADV,98,C/e\.'C/V\
+395,61,5,la,la,DET:def:obj:femi:sg,1779,35,Det,Det,le,le,CST,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:def,98,C/V\
+396,61,6,chapelle,chapelle,NOM:obj:femi:sg,1780,35,N,N,,chapele,*+IT,"[('VfinGrp', ''), ('PreN', ''), ('VfinGrp', '&')]",,NOM,98,C/V\.'C/V\.C/(e)\
+397,62,1,et,et,CON:coord,1782,35,Crd,Crd,et,et,ST,"[('VfinGrp', '&'), ('Crd', ''), ('Vfin', '')]",,CON:coord,98,/V\
+398,62,2,parloit,parloit,VER:impf:3:sg,1783,35,Vfin,Vfin,parler,parler,+MI,"[('VfinGrp', '&'), ('Vfin', ''), ('PreN', '')]",,VER,98,C/V\.'C/V\
+399,62,3,a,a,PRE,1784,35,Pre,Pre,à,a3|a,+T|CGIS,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,98,/V\
+400,62,4,l,l',DET:def:obj:masc:sg,1785,35,Det,Det,le,le,CS,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:def,98,C/\
+401,62,5,uys,uys,NOM:obj:masc:sg,1786,35,N,N,,uis,*+IT,"[('PreN', ''), ('N', ''), ('PreN', '')]",,NOM,98,/V\
+402,62,6,de,de,PRE,1787,35,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,98,C/(e)\
+403,62,7,la,la,DET:def:obj:femi:sg,1788,35,Det,Det,le,le,CST,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:def,98,C/V\
+404,62,8,porte,porte,NOM:obj:femi:sg,1789,35,N,N,,porte1|porte2,+IT|+T,"[('PreN', ''), ('N', ''), ('PreN', '')]",,NOM,98,'C/V\.C/(e)\
+405,63,1,de,de,PRE,1792,35,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,98,C/(e)\
+406,63,2,bretaigne,bretaigne,NPR:obj:femi:sg,1793,35,N,N,,bretagne,I|Z,"[('PreN', ''), ('PreN', ''), ('NGrp', '')]",,NPR,98,C/V\.'C/V\.C/(e)\
+407,63,3,",",",",PON,1794,35,Pnc,Pnc,,",",,,,PON,98,
+408,63,4,le,le,DET:def:obj:masc:sg,1795,35,Det,Det,le,le,CST,"[('NGrp', ''), ('Det', ''), ('N', '')]",,DET:def,98,C/(e)\
+409,63,5,pere,pere,NOM:obj:masc:sg,1796,35,N,N,,paire|pere1|piere,+T|+T|+T,"[('NGrp', ''), ('N', ''), ('PreN', '')]",,NOM,98,'C/V\.C/(e)\
+410,63,6,au,au,PREDET:a:obj:masc:sg,1797,35,Pre+Det,Pre+Det,à+le,a+le|le,S|C,"[('PreN', ''), ('Pre+Det', ''), ('N', '')]",,PREDET:a,98,/V\
+411,63,7,duc,duc,NOM:obj:masc:sg,1798,35,N,N,,duc1|duc2,+T|+IT,"[('PreN', ''), ('N', ''), ('SubVfin', '')]",,NOM,98,C/V\
+412,64,1,au,au,PREDET:a:obj:masc:sg,1797,35,Pre+Det,Pre+Det,à+le,a+le|le,S|C,"[('PreN', ''), ('Pre+Det', ''), ('N', '')]",,PREDET:a,98,/V\
+413,64,2,duc,duc,NOM:obj:masc:sg,1798,35,N,N,,duc1|duc2,+T|+IT,"[('PreN', ''), ('N', ''), ('SubVfin', '')]",,NOM,98,C/V\
+414,64,3,qui,qui,PROCON,1799,35,Qux,Qux,qui,qui,CST,"[('SubVfin', ''), ('Sub', 's'), ('Adv', '')]",s,PROCON,98,C/V\
+415,64,4,ore,ore,ADV,1800,35,Adv,Adv,or2,or4|or,+IT|I,"[('SubVfin', ''), ('Adv', ''), ('Vfin', '')]",,ADV,98,'/V\.C/(e)\
+416,64,5,est,est,VER:pres:3:sg,1801,35,Vfin,Vfin,être1|ester,ester|estre1,+M|+I,"[('VfinGrp', '&'), ('PreN', ''), ('SubVfin', 'c')]",,VER,98,/V\
+417,64,6,",",",",PON,1802,35,Pnc,Pnc,,",",,,,PON,98,
+418,64,7,que,que,PROCON,1803,35,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', 'c'), ('Sub', ''), ('N', 's')]",,PROCON,98,C/(e)\
+419,64,8,dieu,dieu,NOM:suj:masc:sg,1804,35,N,N,,dieu,+CIT,"[('SubVfin', 'c'), ('N', 's'), ('Vfin', '')]",s,NOM,98,C/V\
+420,64,9,gart,gart,VER:subp:3:sg,1805,35,Vfin,Vfin,garder,garder|garir,+MI|+M,#,,VER,98,C/V\
+421,65,1,et,et,CON:coord,1832,35,Crd,Crd,et,et,ST,"[('VfinGrp', ''), ('Crd', ''), ('NGrp', 's')]",,CON:coord,100,/V\
+422,65,2,tuit,tuit,DET:ind:suj:masc:pl,1833,35,QIs,QIs,tout,tot,S,"[('NGrp', 's'), ('Det', ''), ('Det', '')]",,DET:ind,100,C/V\
+423,65,3,li,li,DET:def:suj:masc:pl,1834,35,Det,Det,le,le,CST,"[('NGrp', 's'), ('Det', ''), ('Adj', '')]",,DET:def,100,C/V\
+424,65,4,autre,autre,ADJ:suj:masc:pl,1835,35,Adj,Adj,autre,autre,CIId,"[('NGrp', 's'), ('Adj', ''), ('N', '')]",,ADJ,100,'/V\.C/(e)\
+425,65,5,chevalier,chevalier,NOM:suj:masc:pl,1836,35,N,N,,chevalier,+IT,"[('VfinGrp', ''), ('NGrp', 's'), ('Vfin', '')]",,NOM,100,C/V\.C/V\.'C/V\
+426,66,1,que,que,PROCON,1853,35,Qux,Qux,que,que2|que3|que,T|S|C,"[('SubVfin', 'q'), ('Sub', 'c'), ('Prn', '')]",c,PROCON,102,C/(e)\
+427,66,2,me,me,PRO:pers:obj:1:sg:unb,1854,35,Prn,Prn$$,1ps,je|moi,IS|T,"[('SubVfin', 'q'), ('Prn', ''), ('Vfin', '')]",,PRO:pers,102,C/(e)\
+428,66,3,voulez,voulez,VER:pres:2:pl,1855,35,Vfin,Vfin,vouloir,voler|voloir,*+I|+I,"[('SubVfin', 'q'), ('Vfin', ''), ('Prn', 's')]",,VER,102,C/V\.'C/V\
+429,66,4,-,-,PON,1856,35,Pnc,Pnc,,-,,,,PON,102,
+430,66,5,vous,vous,PRO:pers:2:pl,1857,35,Prn,Prn%,2pp,ous2|vos1,T|S,#,s,PRO:pers,102,C/V\
+431,66,6,?,?,PON,1858,35,Pnc,Pnc,,?,,,,PON,102,
+432,66,7,"""","""",PON:cit,1859,35,Pnc,Pnc,,QUOTED,,,,PON:cit,103,
+433,66,8,et,et,CON:coord,1860,35,Crd,Crd,et,et,ST,"[('VfinGrp', ''), ('Crd', ''), ('Prn', '')]",,CON:coord,103,/V\
+434,66,9,me,me,PRO:pers:obj:1:sg:unb,1861,35,Prn,Prn$$,1ps,je|moi,IS|T,"[('VfinGrp', ''), ('Prn', ''), ('Vfin', '')]",,PRO:pers,103,C/(e)\
+435,66,10,dist,dist,VER:simp:3:sg,1862,35,Vfin,Vfin,dire,dire,+CMI,#,,VER,103,C/V\
+436,67,1,et,et,CON:coord,1878,35,Crd,Crd,et,et,ST,"[('VfinGrp', '&'), ('Crd', ''), ('Prn', 's')]",,CON:coord,103,/V\
+437,67,2,vous,vous,PRO:pers:2:pl,1879,35,Prn,Prn$,2pp,ous2|vos1,T|S,"[('VfinGrp', '&'), ('Prn', 's'), ('Prn', '')]",s,PRO:pers,103,C/V\
+438,67,3,vous,vous,PRO:pers:2:pl,1880,35,Prn,Prn$$,2pp,ous2|vos1,T|S,"[('VfinGrp', '&'), ('Prn', ''), ('Vfin', '')]",,PRO:pers,103,C/V\
+439,67,4,aliez,aliez,VER:impf:2:pl,1881,35,Vfin,Vfin,aller,aler,+M,"[('VfinGrp', '&'), ('Vfin', ''), ('Vinf', '')]",,VER,103,/V\.C/V\.'C/V\
+440,67,5,seoir,seoir,VER:infi,1882,35,Vinf,Vinf,seoir,sëoir,+IIdTd,"[('VfinGrp', '&'), ('Vinf', ''), ('PreN', '')]",,VER,103,C/(V)\.'/V\
+441,68,1,se,se,PROCON,1891,35,Sub,Sub,si3,se,C,"[('SubVfin', 'c'), ('Sub', ''), ('Prn', 's')]",,PROCON,103,C/(e)\
+442,68,2,en,en,PRO:invar,1892,35,Prn,Prn$,on,en2|en,S|C,"[('SubVfin', 'c'), ('Prn', 's'), ('Prn', 'c')]",s,PRO:clit,103,/V\
+443,68,3,vous,vous,PRO:pers:2:pl,1893,35,Prn,Prn$$,2pp,ous2|vos1,T|S,"[('SubVfin', 'c'), ('Prn', 'c'), ('Prn', '')]",c,PRO:pers,103,C/V\
+444,68,4,en,en,PRO:clit,1894,35,Prn,Prn$$,en2,en2|en,S|C,"[('SubVfin', 'c'), ('Prn', ''), ('Vfin', '')]",,PRO:clit,103,/V\
+445,68,5,devroit,devroit,VER:cond:3:sg,1895,35,Vfin,Vfin,devoir2,devoir,+IM,"[('SubVfin', 'c'), ('Vfin', ''), ('Adv', '')]",,VER,103,C/V\.'C/V\
+446,68,6,bien,bien,ADV,1896,35,Adv,Adv,bien,bien1|bien2|bien,+IT|C|I,"[('SubVfin', 'c'), ('Adv', ''), ('Vinf', 'c')]",,ADV,103,C/V\
+447,68,7,blasmer,blasmer,VER:infi,1897,35,Vinf,Vinf,,blasmer,+MIT,#,c,VER,103,C/V\.'C/V\
+448,69,1,dont,dont,ADV,1913,36,Adv,Adv,donc,dont,CS,"[('VfinGrp', ''), ('Adv', ''), ('Vfin', '')]",,PRO:invar,105,C/V\
+449,69,2,faites,faites,VER:pres:2:pl,1914,36,Vfin,Vfin,faire,faire,+CMI,"[('VfinGrp', ''), ('Vfin', ''), ('Prn', 's')]",,VER,105,'C/V\.C/e\
+450,69,3,-,-,PON,1915,36,Pnc,Pnc,,-,,,,PON,105,
+451,69,4,vous,vous,PRO:pers:2:pl,1916,36,Prn,Prn$,2pp,ous2|vos1,T|S,"[('VfinGrp', ''), ('Prn', 's'), ('Adv', '')]",s,PRO:pers,105,C/V\
+452,69,5,bien,bien,ADV,1917,36,Adv,Adv,bien,bien1|bien2|bien,+IT|C|I,"[('VfinGrp', ''), ('Adv', ''), ('PreVinf', '')]",,ADV,105,C/V\
+453,69,6,a,a,PRE,1918,36,Pre,Pre,à,a3|a,+T|CGIS,"[('PreVinf', ''), ('Pre', ''), ('Vinf', '')]",,PRE,105,/V\
+454,69,7,blasmer,blasmer,VER:infi,1919,36,Vinf,Vinf,,blasmer,+MIT,"[('VfinGrp', ''), ('PreVinf', ''), ('SubVfin', '')]",,VER,105,C/V\.'C/V\
+455,70,1,quant,quant,ADV,1921,36,Sub,Sub,quand,cant,CI,"[('SubVfin', ''), ('Sub', ''), ('Prn', 's')]",,ADV,105,C/V\
+456,70,2,vous,vous,PRO:pers:2:pl,1922,36,Prn,Prn$,2pp,ous2|vos1,T|S,"[('SubVfin', ''), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,105,C/V\
+457,70,3,estes,estes,VER:pres:2:pl,1923,36,Vfin,Vfin,être1|ester,ester|estre1,+M|+I,"[('SubVfin', ''), ('Vfin', ''), ('NGrp', 'a')]",,VER,105,'/V\.C/e\
+458,70,4,plus,plus,ADV,1924,36,Adv,Adv,plus,plus,CI,"[('NGrp', ''), ('Adv', ''), ('Adv', '')]",,ADV,105,C/V\
+459,70,5,noblement,noblement,ADV,1925,36,Adv,Adv,,noblement,Z,"[('NGrp', 'a'), ('NGrp', ''), ('Vpp', '')]",,ADV,105,C/V\.C/e\.'C/V\
+460,71,1,et,et,CON:coord,1950,36,Crd,Crd,et,et,ST,"[('VfinGrp', ''), ('Crd', ''), ('Prn', 's')]",,CON:coord,107,/V\
+461,71,2,je,je,PRO:pers:suj:1:sg:unb,1951,36,Prn,Prn$,1ps,je,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('Prn', '')]",s,PRO:pers,107,C/(e)\
+462,71,3,li,li,PRO:pers:suj:3:masc:sg:bet,1952,36,Prn,Prn$$,3p,ele|il,C|CIST,"[('VfinGrp', ''), ('Prn', ''), ('Vfin', '')]",,PRO:pers,107,C/V\
+463,71,4,diz,diz,VER:simp:1:sg,1953,36,Vfin,Vfin,dire,dire,+CMI,#,,VER,107,C/V\
+464,71,5,:,:,PON,1954,36,Pnc,Pnc,,:,,,,PON,107,
+465,71,6,',',PON:cit,1955,36,Pnc,Pnc,,QUOTES,,,,PON:cit,107,
+466,71,7,mestre,mestre,NOM:suj:masc:sg,1956,36,N,N,,maistre,CI,"[('NGrp', ''), ('N', ''), ('N', '')]",,NOM,107,'C/V\.C/(e)\
+467,71,8,robert,robert,NPR:suj:masc:sg,1957,36,N,N,,robert,C|Z,"[('VfinGrp', ''), ('NGrp', ''), ('VfinGrp', 'par')]",,NPR,107,C/V\.'C/V\
+468,72,1,me,me,PRO:pers:obj:1:sg:unb,1982,36,Prn,Prn$$,1ps,je|moi,IS|T,"[('VfinGrp', '+'), ('Prn', ''), ('Vfin', '')]",,PRO:pers,107,C/(e)\
+469,72,2,lessa,lessa,VER:simp:3:sg,1983,36,Vfin,Vfin,laisser,laissier,+CI,"[('VfinGrp', '+'), ('Vfin', ''), ('NGrp', 's')]",,VER,107,C/V\.'C/V\
+470,72,3,mon,mon,DET:poss:suj:masc:sg,1984,36,Det,Det,mon1,mon1|mon,S|C,"[('NGrp', 's'), ('Det', ''), ('N', '')]",,DET:poss,107,C/V\
+471,72,4,pere,pere,NOM:suj:masc:sg,1985,36,N,N,,paire|pere1|piere,+T|+T|+T,"[('NGrp', 's'), ('N', ''), ('NGrp', '&')]",,NOM,107,'C/V\.C/(e)\
+472,72,5,et,et,CON:coord,1986,36,Crd,Crd,et,et,ST,"[('NGrp', '&'), ('Crd', ''), ('Det', '')]",,CON:coord,107,/V\
+473,72,6,ma,ma,DET:poss:suj:femi:sg,1987,36,Det,Det,mon1,mon1|mon,S|C,"[('NGrp', '&'), ('Det', ''), ('N', '')]",,DET:poss,107,C/V\
+474,72,7,mere,mere,NOM:suj:femi:sg,1988,36,N,N,,mere,+CIT,#,,NOM,107,'C/V\.C/(e)\
+475,73,1,car,car,CON:coord,1996,36,Crd,Crd,car,car,ST,"[('VfinGrp', '+'), ('Crd', ''), ('Prn', 's')]",,CON:coord,108,C/V\
+476,73,2,vous,vous,PRO:pers:2:pl,1997,36,Prn,Prn$,2pp,ous2|vos1,T|S,"[('VfinGrp', '+'), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,108,C/V\
+477,73,3,estes,estes,VER:pres:2:pl,1998,36,Vfin,Vfin,être1|ester,ester|estre1,+M|+I,"[('VfinGrp', '+'), ('Vfin', ''), ('NGrp', 'a')]",,VER,108,'/V\.C/e\
+478,73,4,filz,filz,NOM:suj:masc:sg,1999,36,N,N,,fil1|fil2|fils2,+I|+IT|+T,"[('NGrp', 'a'), ('N', ''), ('PreAdj', '')]",,NOM,108,C/V\
+479,73,5,de,de,PRE,2000,36,Pre,Pre,de,de,+CIST,"[('PreAdj', ''), ('Pre', ''), ('Adj', '')]",,PRE,108,C/(e)\
+480,73,6,vilain,vilain,ADJ:obj:masc:sg,2001,36,Adj,Adj,vilain,vilain,IT,"[('PreAdj', ''), ('Adj', ''), ('PreAdj', '&')]",,NOM,108,C/V\.'C/V\
+481,74,1,de,de,PRE,2038,36,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,109,C/(e)\
+482,74,2,son,son,DET:poss:obj:masc:sg,2039,36,Det,Det,son4,son4|son,S|C,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:poss,109,C/V\
+483,74,3,seurcot,seurcot,NOM:obj:masc:sg,2040,36,N,N,,sorcot,+T,"[('PreN', ''), ('N', ''), ('PreN', '&')]",,NOM,109,C/V\.'C/V\
+484,74,4,et,et,CON:coord,2041,36,Crd,Crd,et,et,ST,"[('PreN', '&'), ('Crd', ''), ('Pre+Det', '')]",,CON:coord,109,/V\
+485,74,5,du,du,PREDET:de:obj:masc:sg,2042,36,Pre+Det,Pre+Det,de+le,de+le|le,S|C,"[('PreN', '&'), ('Pre+Det', ''), ('N', '')]",,PREDET:de,109,C/V\
+486,74,6,seurcot,seurcot,NOM:obj:masc:sg,2043,36,N,N,,sorcot,+T,"[('PreN', '&'), ('N', ''), ('NGrp', 'o')]",,NOM,109,C/V\.'C/V\
+487,75,1,or,or,ADV,2052,36,Adv,Adv,or2,or4|or,+IT|CI,"[('VfinGrp', ''), ('Adv', ''), ('Vfin', '')]",,ADV,109,/V\
+488,75,2,esgardez,esgardez,VER:impe:2:pl,2053,36,Vfin,Vfin,égarder,esgarder,+I,"[('VfinGrp', ''), ('Vfin', ''), ('SubVfin', 'c')]",,VER,109,/V\.C/V\.'C/V\
+489,75,3,se,se,PROCON,2054,36,Sub,Sub,si3,se,C,"[('SubVfin', 'c'), ('Sub', ''), ('Prn', 's')]",,PROCON,109,C/(e)\
+490,75,4,je,je,PRO:pers:suj:1:sg:unb,2055,36,Prn,Prn$,1ps,je,CIST,"[('SubVfin', 'c'), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,109,C/(e)\
+491,75,5,diz,diz,VER:simp:1:sg,2056,36,Vfin,Vfin,dire,dire,+CMI,"[('SubVfin', 'c'), ('Vfin', ''), ('Adj', 'c')]",,VER,109,C/V\
+492,75,6,voir,voir,ADJ:obj:masc:sg,2057,36,Adj,Adj,voir2,voir,+IT,#,c,ADJ,109,C/V\
+493,76,1,qui,qui,PROCON,2096,37,Qux,Qux,qui,qui,CST,"[('SubVfin', ''), ('Sub', 's'), ('Adv', '')]",s,PROCON,111,C/V\
+494,76,2,ore,ore,ADV,2097,37,Adv,Adv,or2,or4|or,+IT|I,"[('SubVfin', ''), ('Adv', ''), ('Vfin', '')]",,ADV,111,'/V\.C/(e)\
+495,76,3,est,est,VER:pres:3:sg,2098,37,Vfin,Vfin,être1|ester,ester|estre1,+M|+I,"[('NGrp', 'c'), ('NGrp', ''), ('NGrp', '&')]",,VER,111,/V\
+496,76,4,",",",",PON,2099,37,Pnc,Pnc,,",",,,,PON,111,
+497,76,5,et,et,CON:coord,2100,37,Crd,Crd,et,et,ST,"[('NGrp', '&'), ('Crd', ''), ('NGrp', '')]",,CON:coord,111,/V\
+498,76,6,le,le,DET:def:obj:masc:sg,2101,37,Det,Det,le,le,CST,"[('NGrp', ''), ('Det', ''), ('N', '')]",,DET:def,111,C/(e)\
+499,76,7,roy,roy,NOM:obj:masc:sg,2102,37,N,N,,roi,C,"[('NGrp', '&'), ('NGrp', ''), ('N', '')]",,NOM,111,C/V\
+500,76,8,tybaut,tybaut,NPR:obj:masc:sg,2103,37,N,N,,thibaut,*Z,#,,NPR,111,C/V\.'C/V\
+501,77,1,et,et,CON:coord,2114,37,Crd,Crd,et,et,ST,"[('VfinGrp', '&'), ('Crd', ''), ('Vfin', '')]",,CON:coord,112,/V\
+502,77,2,mist,mist,VER:simp:3:sg,2115,37,Vfin,Vfin,mettre,manoir|metre|mettre,M|CIM|M,"[('VfinGrp', '&'), ('Vfin', ''), ('NGrp', 'c')]",,VER,112,C/V\
+503,77,3,la,la,DET:def:obj:femi:sg,2116,37,Det,Det,le,le,CST,"[('NGrp', 'c'), ('Det', ''), ('N', '')]",,DET:def,112,C/V\
+504,77,4,main,main,NOM:obj:femi:sg,2117,37,N,N,,main2|main3,+IT|+T,"[('VfinGrp', '&'), ('NGrp', 'c'), ('PreN', '')]",,NOM,112,C/V\
+505,77,5,a,a,PRE,2118,37,Pre,Pre,à,a3|a,+T|CGIS,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,112,/V\
+506,77,6,terre,terre,NOM:obj:femi:sg,2119,37,N,N,,terre,+CIT,"[('VfinGrp', ''), ('VfinGrp', '&'), ('VfinGrp', '&')]",,NOM,112,'C/V\.C/(e)\
+507,77,7,",",",",PON,2120,37,Pnc,Pnc,,",",,,,PON,112,
+508,77,8,et,et,CON:coord,2121,37,Crd,Crd,et,et,ST,"[('VfinGrp', '&'), ('Crd', ''), ('Vfin', '')]",,CON:coord,112,/V\
+509,77,9,dist,dist,VER:simp:3:sg,2122,37,Vfin,Vfin,dire,dire,+CMI,#,,VER,112,C/V\
+510,78,1,si,si,PROCON,2157,37,Adv,Adv,si4,si,C,"[('AdvPrePrn', ''), ('Adv', ''), ('Adv', '')]",,PROCON,112,C/V\
+511,78,2,pres,pres,ADV,2158,37,PrA,PrA,près,près,IId,"[('AdvPrePrn', ''), ('Adv', ''), ('PrePrn', '')]",,ADV,112,C/V\
+512,78,3,de,de,PRE,2159,37,Pre,Pre,de,de,+CIST,"[('PrePrn', ''), ('Pre', ''), ('Prn', '')]",,PRE,112,C/(e)\
+513,78,4,vous,vous,PRO:pers:2:pl,2160,37,Prn,Prn,2pp,ous2|vos1,T|S,#,,PRO:pers,112,C/V\
+514,78,5,"""","""",PON:cit,2161,37,Pnc,Pnc,,QUOTED,,,,PON:cit,112,
+515,78,6,.,.,PON,2162,37,Pnc,Pnc,,.,,,,PON,112,
+516,78,7,et,et,CON:coord,2163,37,Crd,Crd,et,et,ST,"[('VfinGrp', ''), ('Crd', ''), ('Prn', 's')]",,CON:coord,113,/V\
+517,78,8,il,il,PRO:pers:suj:3:masc:sg:unb,2164,37,Prn,Prn$,3p,il,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('Prn', '')]",s,PRO:pers,113,/V\
+518,78,9,me,me,PRO:pers:obj:1:sg:unb,2165,37,Prn,Prn$$,1ps,je|moi,IS|T,"[('VfinGrp', ''), ('Prn', ''), ('Vfin', '')]",,PRO:pers,113,C/(e)\
+519,78,10,dist,dist,VER:simp:3:sg,2166,37,Vfin,Vfin,dire,dire,+CMI,#,,VER,113,C/V\
+520,79,1,et,et,CON:coord,2219,37,Crd,Crd,et,et,ST,"[('VfinGrp', '&'), ('Crd', ''), ('Adv', '')]",,CON:coord,115,/V\
+521,79,2,n,n,PRO:clit,2220,37,Neg,Neg$$,ne1,en2|ne,S|C,"[('VfinGrp', '&'), ('Adv', ''), ('Vfin', '')]",,PRO:clit,115,C/\
+522,79,3,avez,avez,VER:pres:2:pl,2221,37,Vfin,Vfin,avoir1,avoir,+IM,"[('VfinGrp', '&'), ('Vfin', ''), ('Vpp', '')]",,VER,115,/V\.'C/V\
+523,79,4,fait,fait,VER:pper:masc:sg,2222,37,Vpp,Vpp,faire,faire|farre,+CMI|M,"[('VfinGrp', '&'), ('Vpp', ''), ('PreN', '')]",,VER,115,C/V\
+524,79,5,au,au,PREDET:a:obj:masc:sg,2223,37,Pre+Det,Pre+Det,à+le,a+le|le,S|C,"[('PreN', ''), ('Pre+Det', ''), ('Adj', '')]",,PREDET:a,115,/V\
+525,79,6,premier,premier,ADJ:ord:obj:masc:sg,2224,37,Adj,Adj,premier1,premier,C,"[('PreN', ''), ('Adj', ''), ('N', '')]",,ADJ:ord,115,C/V\.C/<V>\.'/V\
+526,79,7,coup,coup,NOM:obj:masc:sg,2225,37,N,N,,coup1|coup2,+IT|+T,"[('VfinGrp', '&'), ('PreN', ''), ('PrnSubVfin', 'c')]",,NOM,115,C/V\
+527,80,1,mestre,mestre,NOM:obj:masc:sg,2273,38,N,N,,maistre,CI,"[('NGrp', 'c'), ('N', ''), ('N', '')]",,NOM,117,'C/V\.C/(e)\
+528,80,2,robert,robert,NPR:obj:masc:sg,2274,38,N,N,,robert,C|Z,"[('SubVfin', ''), ('NGrp', 'c'), ('PrePrn', '')]",,NPR,117,C/V\.'C/V\
+529,80,3,encontre,encontre,PRE,2275,38,PrA,PrA,encontre2,encontre1|encontre,IST|CI,"[('PrePrn', ''), ('Pre', ''), ('Prn', '')]",,PRE,117,/V\.'C/V\.C/(e)\
+530,80,4,moy,moy,PRO:pers:obj:1:sg:bet,2276,38,Prn,Prn,1ps,je,S,#,,PRO:pers,117,C/V\
+531,81,1,on,on,PRO:invar,2358,38,Prn,Prn$,on,on,CS,"[('VfinGrp', ''), ('Prn', 's'), ('Prn', '')]",s,PRO:invar,120,/V\
+532,81,2,se,se,PROCON,2359,38,Prn,Prn$$,soi,se,C,"[('VfinGrp', ''), ('Prn', ''), ('Vfin', '')]",,PROCON,120,C/(e)\
+533,81,3,doit,doit,VER:pres:3:sg,2360,38,Vfin,Vfin,devoir2,devoir|dire,+CMI|+M,"[('VfinGrp', ''), ('Vfin', ''), ('VinfGrp', 'c')]",,VER,120,C/V\
+534,81,4,assemer,assemer,VER:infi,2361,38,Vinf,Vinf,,acesmer,*+M,"[('VinfGrp', 'c'), ('Vinf', ''), ('PreN', '')]",,VER,120,/V\.C/e\.'C/V\
+535,81,5,en,en,PRE,2362,38,Pre,Pre,en1,en1|en,+IST|CI,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,120,/V\
+536,81,6,robes,robes,NOM:obj:femi:pl,2363,38,N,N,,robe,+I,"[('PreN', ''), ('N', ''), ('PreN', '&')]",,NOM,120,'C/V\.C/e\
+537,82,1,et,et,CON:coord,2364,38,Crd,Crd,et,et,ST,"[('PreN', '&'), ('Crd', ''), ('Pre', '')]",,CON:coord,120,/V\
+538,82,2,en,en,PRE,2365,38,Pre,Pre,en1,en1|en,+IST|CI,"[('PreN', '&'), ('Pre', ''), ('N', '')]",,PRE,120,/V\
+539,82,3,armes,armes,NOM:obj:femi:pl,2366,38,N,N,,ame|arme,+C|+I,"[('VinfGrp', 'c'), ('PreN', ''), ('PreN', '')]",,NOM,120,'/V\.C/e\
+540,82,4,en,en,PRE,2367,38,Pre,Pre,en1,en1|en,+IST|CI,"[('PreN', ''), ('Pre', ''), ('Adj', '')]",,PRE,120,/V\
+541,82,5,tel,tel,ADJ:obj:femi:sg,2368,38,Adj,Adj,tel,tel,+CIT,"[('PreN', ''), ('Adj', ''), ('N', '')]",,ADJ,120,C/V\
+542,82,6,maniere,maniere,NOM:obj:femi:sg,2369,38,N,N,,maniere,+CIT,"[('PreN', ''), ('N', ''), ('SubVfin', '')]",,NOM,120,C/V\.'C/V\.C/(e)\
+543,83,1,ne,ne,PRO:clit,2376,38,Neg,Neg$$,ne1,en2|ne,S|C,"[('SubVfin', ''), ('Adv', ''), ('Vfin', '')]",,PRO:clit,120,C/(e)\
+544,83,2,dient,dient,VER:subp:3:pl,2377,38,Vfin,Vfin,dire,dire,+CMIIdMd,"[('SubVfin', ''), ('Vfin', ''), ('SubVfin', 'c')]",,VER,120,'C/V\./e\
+545,83,3,que,que,PROCON,2378,38,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', 'c'), ('Sub', ''), ('Prn', 's')]",,PROCON,120,C/(e)\
+546,83,4,on,on,PRO:invar,2379,38,Prn,Prn$,on,on,CS,"[('SubVfin', 'c'), ('Prn', 's'), ('Prn', '')]",s,PRO:invar,120,/V\
+547,83,5,en,en,PRO:clit,2380,38,Prn,Prn$$,en2,en2|en,S|C,"[('SubVfin', 'c'), ('Prn', ''), ('Vfin', '')]",,PRO:clit,120,/V\
+548,83,6,face,face,VER:subp:3:sg,2381,38,Vfin,Vfin,faire,faire|farre|feire,+CMI|M|M,"[('SubVfin', 'c'), ('Vfin', ''), ('Adv', '')]",,VER,120,'C/V\.C/(e)\
+549,83,7,trop,trop,ADV,2382,38,Adv,Adv,trop,trop,+IT,"[('SubVfin', ''), ('SubVfin', 'c'), ('VfinGrp', '&')]",,ADV,120,C/V\
+550,84,1,ne,ne,PROCON,2384,38,Crd,Crd,ne2,ni,C,"[('VfinGrp', '&'), ('Crd', ''), ('NGrp', 's')]",,PROCON,120,C/(e)\
+551,84,2,les,les,DET:def:suj:femi:pl,2385,38,Det,Det,le,le,CST,"[('NGrp', 's'), ('Det', ''), ('Adj', '')]",,DET:def,120,C/V\
+552,84,3,joenes,joenes,ADJ:suj:femi:pl,2386,38,Adj,Adj,,juene,*T,"[('NGrp', 's'), ('Adj', ''), ('N', '')]",,ADJ,120,'C/V\.C/e\
+553,84,4,gens,gens,NOM:suj:femi:pl,2387,38,N,N,,gent1|giens,+I|+T,"[('NGrp', 's'), ('N', ''), ('PreN', '')]",,NOM,120,C/V\
+554,84,5,de,de,PRE,2388,38,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,120,C/(e)\
+555,84,6,cest,cest,DET:demo:obj:masc:sg,2389,38,Dem,Dem,cist,cest,CS,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:demo,120,C/V\
+556,84,7,siecle,siecle,NOM:obj:masc:sg,2390,38,N,N,,seule|siecle,+T|+IT,"[('VfinGrp', '&'), ('NGrp', 's'), ('Adv', '')]",,NOM,120,'C/V\.C/(e)\
+557,85,1,ne,ne,PRO:clit,2391,38,Neg,Neg$$,ne1,en2|ne,S|C,"[('VfinGrp', '&'), ('Adv', ''), ('Vfin', '')]",,PRO:clit,120,C/(e)\
+558,85,2,dient,dient,VER:subp:3:pl,2392,38,Vfin,Vfin,dire,dire,+CMIIdMd,"[('VfinGrp', '&'), ('Vfin', ''), ('SubVfin', 'c')]",,VER,120,'C/V\./e\
+559,85,3,que,que,PROCON,2393,38,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', 'c'), ('Sub', ''), ('Prn', 's')]",,PROCON,120,C/(e)\
+560,85,4,en,en,PRO:invar,2394,38,Prn,Prn$,on,en2|en,S|C,"[('SubVfin', 'c'), ('Prn', 's'), ('Prn', '')]",s,PRO:clit,120,/V\
+561,85,5,en,en,PRO:clit,2395,38,Prn,Prn$$,en2,en2|en,S|C,"[('SubVfin', 'c'), ('Prn', ''), ('Vfin', '')]",,PRO:clit,120,/V\
+562,85,6,face,face,VER:subp:3:sg,2396,38,Vfin,Vfin,faire,faire|farre|feire,+CMI|M|M,"[('SubVfin', 'c'), ('Vfin', ''), ('Adv', '')]",,VER,120,'C/V\.C/(e)\
+563,85,7,pou,pou,ADV,2397,38,Adv,Adv,peu,poi,*I,#,,ADV,120,C/V\
+564,86,1,hurta,hurta,VER:simp:3:sg,2424,39,Vfin,Vfin,,hurter,+IM,"[('SubVfin', 'c'), ('Vfin', ''), ('PreN', '')]",,VER,122,C/V\.'C/V\
+565,86,2,devant,devant,PRE,2425,39,PrA,PrA,devant,devant,IST,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,122,C/V\.'C/V\
+566,86,3,l,l',DET:def:obj:femi:sg,2426,39,Det,Det,le,le,CS,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:def,122,C/\
+567,86,4,ille,ille,NOM:obj:femi:sg,2427,39,N,N,,isle,+T,"[('PreN', ''), ('N', ''), ('PreN', '')]",,NOM,122,'/V\.C/(e)\
+568,86,5,de,de,PRE,2428,39,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,122,C/(e)\
+569,86,6,cypre,cypre,NPR:obj:femi:sg,2429,39,N,N,,chypre,Z,"[('SubVfin', 'c'), ('PreN', ''), ('PreN', '')]",,NPR,122,'C/V\.C/(e)\
+570,87,1,par,par,PRE,2430,39,Pre,Pre,par1,par,CIS,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,122,C/V\
+571,87,2,un,un,DET:ndf:obj:masc:sg,2431,39,QIs,QIs,un,un,CS,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:ndf,122,/V\
+572,87,3,vent,vent,NOM:obj:masc:sg,2432,39,N,N,,vent,+IT,"[('PreN', ''), ('N', ''), ('SubVfin', '')]",,NOM,122,C/V\
+573,87,4,qui,qui,PROCON,2433,39,Qux,Qux,qui,qui,CST,"[('SubVfin', ''), ('Sub', 's'), ('Vfin', '')]",s,PROCON,122,C/V\
+574,87,5,a,a,VER:pres:3:sg,2434,39,Vfin,Vfin,avoir1,a3|a,+T|CGIS,"[('SubVfin', ''), ('Vfin', ''), ('N', 'c')]",,PRE,122,/V\
+575,87,6,non,non,NOM:obj:masc:sg,2435,39,N,N,,nom,+CIT,"[('SubVfin', ''), ('N', 'c'), ('N', 'a')]",c,NOM,122,C/V\
+576,87,7,guerbin,guerbin,NPR:obj:masc:sg,2436,39,N,N,,UNKNOWN,,"[('PreN', ''), ('SubVfin', ''), ('SubVfin', '')]",a,NPR,122,C/V\.'C/V\
+577,88,1,et,et,CON:coord,2447,39,Crd,Crd,et,et,ST,"[('VfinGrp', ''), ('Crd', ''), ('PreN', '')]",,CON:coord,123,/V\
+578,88,2,de,de,PRE,2448,39,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,123,C/(e)\
+579,88,3,ce,ce,DET:demo:obj:masc:sg,2449,39,Dem,Dem,cist,ce|cel|cist,C|S|S,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:demo,123,C/(e)\
+580,88,4,coup,coup,NOM:obj:masc:sg,2450,39,N,N,,coup1|coup2,+IT|+T,"[('PreN', ''), ('N', ''), ('SubVfin', '')]",,NOM,123,C/V\
+581,88,5,que,que,PROCON,2451,39,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', 'c'), ('NGrp', 's')]",c,PROCON,123,C/(e)\
+582,88,6,nostre,nostre,DET:poss:suj:femi:sg,2452,39,Det,Det,notre,nostre,CS,"[('NGrp', 's'), ('Det', ''), ('N', '')]",,DET:poss,123,'C/V\.C/(e)\
+583,88,7,nef,nef,NOM:suj:femi:sg,2453,39,N,N,,nef1|nef2,+T|+IT,"[('SubVfin', ''), ('NGrp', 's'), ('Vfin', '')]",,NOM,123,C/V\
+584,89,1,sailli,sailli,VER:simp:3:sg,2472,39,Vfin,Vfin,,salir2,+I,"[('VfinGrp', ''), ('Vfin', ''), ('PreN', '')]",,VER,124,C/V\.'C/V\
+585,89,2,de,de,PRE,2473,39,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,124,C/(e)\
+586,89,3,son,son,DET:poss:obj:masc:sg,2474,39,Det,Det,son4,son4|son,S|C,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:poss,124,C/V\
+587,89,4,lit,lit,NOM:obj:masc:sg,2475,39,N,N,,lit1|lit2,+IT|+T,"[('VfinGrp', ''), ('PreN', ''), ('AdjGrp', 'a')]",,NOM,124,C/V\
+588,89,5,tout,tout,PRO:ind:obj:masc:sg,2476,39,QIs,QIs,tout,tot,CS,"[('AdjGrp', 'a'), ('Adv', ''), ('Adj', '')]",,PRO:ind,124,C/V\
+589,89,6,deschaus,deschaus,ADJ:suj:masc:sg,2477,39,Adj,Adj,,deschauz,+Z,"[('VfinGrp', ''), ('AdjGrp', 'a'), ('VfinGrp', 'par')]",,ADJ,124,C/V\.'C/V\
+590,90,1,une,une,DET:ndf:obj:femi:sg,2483,39,QIs,QIs,un,un,CS,"[('NGrp', 'a'), ('Det', ''), ('N', '')]",,DET:ndf,124,'/V\.C/(e)\
+591,90,2,cote,cote,NOM:obj:femi:sg,2484,39,N,N,,cote1|cote2|cote3|koute,+IT|+IT|+T|+T,"[('NGrp', 'a'), ('N', ''), ('PreVpp', '')]",,NOM,124,'C/V\.C/(e)\
+592,90,3,sanz,sanz,PRE,2485,39,Pre,Pre,sans,sans|senz,+IS|C,"[('PreVpp', ''), ('Pre', ''), ('Adv', '')]",,PRE,124,C/V\
+593,90,4,plus,plus,ADV,2486,39,Adv,Adv,plus,plus,CI,"[('PreVpp', ''), ('Adv', ''), ('Vpp', '')]",,ADV,124,C/V\
+594,90,5,vestue,vestue,VER:pper:femi:sg,2487,39,Vpp,Vpp,vêtir,vestir,+IM,"[('VfinGrp', ''), ('NGrp', 'a'), ('VfinGrp', '+')]",,VER,124,C/V\.'C/V\./(e)\
+595,91,1,devant,devant,PRE,2495,39,PrA,PrA,devant,devant,IST,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,124,C/V\.'C/V\
+596,91,2,le,le,DET:def:obj:masc:sg,2496,39,Det,Det,le,le,CST,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:def,124,C/(e)\
+597,91,3,cors,cors,NOM:obj:masc:sg,2497,39,N,N,,cors1|cors2,+IT|+IT,"[('PreN', ''), ('N', ''), ('NGrp', 'o')]",,NOM,124,C/V\
+598,91,4,nostre,nostre,DET:poss:obj:masc:sg,2498,39,Det,Det,notre,nostre,CS,"[('NGrp', 'o'), ('Det', ''), ('N', '')]",,DET:poss,124,'C/V\.C/(e)\
+599,91,5,seigneur,seigneur,NOM:obj:masc:sg,2499,39,N,N,,seignor,+CI,"[('VinfGrp', 'c'), ('PreN', ''), ('SubPrnSubVfin', '')]",,NOM,124,C/V\.'C/V\
+600,92,1,que,que,PROCON,2551,40,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', 'c'), ('PreN', '')]",c,PROCON,126,C/(e)\
+601,92,2,a,a,PRE,2552,40,Pre,Pre,à,a3|a,+T|CGIS,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,126,/V\
+602,92,3,peinne,peinne,NOM:obj:femi:sg,2553,40,N,N,,peine,+I,"[('SubVfin', ''), ('PreN', ''), ('Prn', 'c')]",,NOM,126,'C/V\.C/(e)\
+603,92,4,le,le,PRO:pers:obj:3:masc:sg:unb,2554,40,Prn,Prn$$,3p,il,CIST,"[('SubVfin', ''), ('Prn', 'c'), ('Vfin', '')]",c,PRO:pers,126,C/(e)\
+604,92,5,sceit,sceit,ERROR,2555,40,Vfin,Vfin,savoir,savoir,+Z,"[('SubVfin', ''), ('Vfin', ''), ('Prn', 's')]",,VER,126,C/V\
+605,92,6,on,on,PRO:invar,2556,40,Prn,Prn%,on,on,CS,"[('SubVfin', ''), ('Prn', 's'), ('Vinf', 'c')]",s,PRO:invar,126,/V\
+606,92,7,nommer,nommer,VER:infi,2557,40,Vinf,Vinf,,nommer,M,"[('VfinGrp', ''), ('--', 's'), ('Vfin', '')]",c,VER,126,C/V\.'C/V\
+607,93,1,le,le,DET:def:obj:masc:sg,2561,40,Det,Det,le,le,CST,"[('NGrp', 'c'), ('Det', ''), ('N', '')]",,DET:def,126,C/(e)\
+608,93,2,roy,roy,NOM:obj:masc:sg,2562,40,N,N,,roi,C,"[('NGrp', 'c'), ('N', ''), ('PreN', '')]",,NOM,126,C/V\
+609,93,3,de,de,PRE,2563,40,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,126,C/(e)\
+610,93,4,france,france,NPR:obj:femi:sg,2564,40,N,N,,france,CI|Z,"[('NGrp', 'c'), ('PreN', ''), ('NGrp', '&')]",,NPR,126,'C/V\.C/(e)\
+611,93,5,",",",",PON,2565,40,Pnc,Pnc,,",",,,,PON,126,
+612,93,6,ses,ses,DET:poss:obj:masc:pl,2566,40,Det,Det,son4,son4|son,S|C,"[('NGrp', '&'), ('Det', ''), ('N', '')]",,DET:poss,126,C/V\
+613,93,7,enfans,enfans,NOM:obj:masc:pl,2567,40,N,N,,enfant,+C,"[('NGrp', 'c'), ('NGrp', '&'), ('NGrp', '&')]",,NOM,126,/V\.'C/V\
+614,94,1,et,et,CON:coord,2568,40,Crd,Crd,et,et,ST,"[('NGrp', '&'), ('Crd', ''), ('Det', '')]",,CON:coord,126,/V\
+615,94,2,sa,sa,DET:poss:obj:femi:sg,2569,40,Det,Det,son4,son4|son,S|C,"[('NGrp', '&'), ('Det', ''), ('N', '')]",,DET:poss,126,C/V\
+616,94,3,femme,femme,NOM:obj:femi:sg,2570,40,N,N,,feme,+CI,"[('NGrp', 'c'), ('NGrp', '&'), ('NGrp', '&')]",,NOM,126,'C/V\.C/(e)\
+617,94,4,et,et,CON:coord,2571,40,Crd,Crd,et,et,ST,"[('NGrp', '&'), ('Crd', ''), ('Det', '')]",,CON:coord,126,/V\
+618,94,5,ses,ses,DET:poss:obj:femi:pl,2572,40,Det,Det,son4,son4|son,S|C,"[('NGrp', '&'), ('Det', ''), ('N', '')]",,DET:poss,126,C/V\
+619,94,6,gens,gens,NOM:obj:femi:pl,2573,40,N,N,,gent1|giens,+I|+T,"[('VinfGrp', 'c'), ('NGrp', 'c'), ('Vpp', '')]",,NOM,126,C/V\
+620,94,7,noiés,noiés,VER:pper:masc:pl,2574,40,Vpp,Vpp,noyer,nier,M,#,,VER,126,C/V\.'C/V\
+621,95,1,or,or,ADV,2596,40,Adv,Adv,or2,or4|or,+IT|CI,"[('VfinGrp', ''), ('Adv', ''), ('Prn', 'c')]",,ADV,128,/V\
+622,95,2,vous,vous,PRO:pers:2:pl,2597,40,Prn,Prn$$,2pp,ous2|vos1,T|S,"[('VfinGrp', ''), ('Prn', 'c'), ('Vfin', '')]",c,PRO:pers,128,C/V\
+623,95,3,eusse,eusse,VER:subi:1:sg,2598,40,Vfin,Vfin,avoir1,avoir,+MIdMd,"[('VfinGrp', ''), ('Vfin', ''), ('Prn', 's')]",,VER,128,/(V)\.'/V\.C/(e)\
+624,95,4,-,-,PON,2599,40,Pnc,Pnc,,-,,,,PON,128,
+625,95,5,je,je,PRO:pers:suj:1:sg:unb,2600,40,Prn,Prn%,1ps,je,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('Adv', '')]",s,PRO:pers,128,C/(e)\
+626,95,6,bien,bien,ADV,2601,40,Adv,Adv,bien,bien1|bien2|bien,+IT|C|I,"[('VfinGrp', ''), ('Adv', ''), ('Vpp', '')]",,ADV,128,C/V\
+627,95,7,mors,mors,VER:pper:masc:pl,2602,40,Vpp,Vpp,mourir,morir,*+I,"[('VfinGrp', ''), ('Vpp', ''), ('SubVfin', '')]",,VER,128,C/V\
+628,96,1,se,se,PROCON,2603,40,Sub,Sub,si3,se,C,"[('SubVfin', ''), ('Sub', ''), ('Prn', 's')]",,PROCON,128,C/(e)\
+629,96,2,je,je,PRO:pers:suj:1:sg:unb,2604,40,Prn,Prn$,1ps,je,CIST,"[('SubVfin', ''), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,128,C/(e)\
+630,96,3,vousisse,vousisse,VER:subi:1:sg,2605,40,Vfin,Vfin,vouloir,voloir,+I,#,,VER,128,C/V\.'C/V\.C/(e)\
+631,96,4,.,.,PON,2606,40,Pnc,Pnc,,.,,,,PON,128,
+632,96,5,-,-,PON,2607,40,Pnc,Pnc,,-,,,,PON,129,
+633,96,6,sire,sire,NOM:suj:masc:sg,2608,40,N,N,,seignor|sire2,+CIT|+T,"[('SubVfin', 'q'), ('N', ''), ('N', '')]",,NOM,129,'C/V\.C/(e)\
+634,96,7,dieu,dieu,NOM:suj:masc:sg,2609,40,N,N,,dieu,+CIT,"[('SubVfin', 'q'), ('N', ''), ('VfinGrp', 'inc')]",,NOM,129,C/V\
+635,97,1,se,se,PROCON,2685,40,Sub,Sub,si3,se,C,"[('SubVfin', ''), ('Sub', ''), ('Prn', 's')]",,PROCON,132,C/(e)\
+636,97,2,nous,nous,PRO:pers:1:pl,2686,40,Prn,Prn$,1pp,nos1|nos,S|C,"[('SubVfin', ''), ('Prn', 's'), ('Prn', 'c')]",s,PRO:pers,132,C/V\
+637,97,3,le,le,PRO:pers:obj:3:masc:sg:unb,2687,40,Prn,Prn$$,3p,il,CIST,"[('SubVfin', ''), ('Prn', 'c'), ('Vfin', '')]",c,PRO:pers,132,C/(e)\
+638,97,4,savons,savons,VER:pres:1:pl,2688,40,Vfin,Vfin,savoir,savoir,+IM,"[('SubVfin', ''), ('Vfin', ''), ('VinfGrp', 'c')]",,VER,132,C/V\.'C/V\
+639,97,5,mettre,mettre,VER:infi,2689,40,Vinf,Vinf,mettre,manumettre|metre|mettre,M|IMMd|M,"[('VinfGrp', 'c'), ('Vinf', ''), ('PreN', '')]",,VER,132,'C/V\.C/(e)\
+640,97,6,a,a,PRE,2690,40,Pre,Pre,à,a3|a,+T|CGIS,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,132,/V\
+641,97,7,oeuvre,oeuvre,NOM:obj:femi:sg,2691,40,N,N,,uevre,+Z,#,,NOM,132,'/V\.C/(e)\
+642,98,1,nous,nous,PRO:pers:1:pl,2702,41,Prn,Prn$$,1pp,nos1|nos,S|C,"[('SubVfin', ''), ('Prn', ''), ('Vfin', '')]",,PRO:pers,133,C/V\
+643,98,2,a,a,VER:pres:3:sg,2703,41,Vfin,Vfin,avoir1,avoir,+CMI,"[('SubVfin', ''), ('Vfin', ''), ('Vpp', '')]",,VER,133,/V\
+644,98,3,faite,faite,VER:pper:femi:sg,2704,41,Vpp,Vpp,faire,faire,+CMI,"[('VfinGrp', ''), ('VinfGrp', 'c'), ('PreN', '')]",,VER,133,'C/V\.C/(e)\
+645,98,4,",",",",PON,2705,41,Pnc,Pnc,,",",,,,PON,133,
+646,98,5,en,en,PRE,2706,41,Pre,Pre,en1,en1|en,+IST|CI,"[('PreN', ''), ('Pre', ''), ('Adj', '')]",,PRE,133,/V\
+647,98,6,tele,tele,ADJ:obj:femi:sg,2707,41,Adj,Adj,tel,tel,+CI,"[('PreN', ''), ('Adj', ''), ('N', '')]",,ADJ,133,'C/V\.C/(e)\
+648,98,7,maniere,maniere,NOM:obj:femi:sg,2708,41,N,N,,maniere,+CIT,"[('PreN', ''), ('N', ''), ('SubVfin', '')]",,NOM,133,C/V\.'C/V\.C/(e)\
+649,99,1,et,et,CON:coord,2750,41,Crd,Crd,et,et,ST,"[('VfinGrp', ''), ('Crd', ''), ('SubVfin', '')]",,CON:coord,135,/V\
+650,99,2,se,se,PROCON,2751,41,Sub,Sub,si3,se,C,"[('SubVfin', ''), ('Sub', ''), ('Prn', 's')]",,PROCON,135,C/(e)\
+651,99,3,nous,nous,PRO:pers:1:pl,2752,41,Prn,Prn$,1pp,nos1|nos,S|C,"[('SubVfin', ''), ('Prn', 's'), ('Prn', 'c')]",s,PRO:pers,135,C/V\
+652,99,4,le,le,PRO:pers:obj:3:masc:sg:unb,2753,41,Prn,Prn$$,3p,il,CIST,"[('SubVfin', ''), ('Prn', 'c'), ('Vfin', '')]",c,PRO:pers,135,C/(e)\
+653,99,5,faisons,faisons,VER:pres:1:pl,2754,41,Vfin,Vfin,faire,faire,+CM,"[('SubVfin', ''), ('Vfin', ''), ('Adv', '')]",,VER,135,C/V\.'C/V\
+654,99,6,ainsinc,ainsinc,ADV,2755,41,Adv,Adv,ainsi,ainsi,+C,"[('VfinGrp', ''), ('SubVfin', ''), ('NGrp', 's')]",,ADV,135,/V\.'C/V\
+655,100,1,doit,doit,VER:pres:3:sg,2794,41,Vfin,Vfin,devoir2,devoir|dire,+CMI|+M,"[('SubVfin', ''), ('Vfin', ''), ('VinfGrp', 'c')]",,VER,136,C/V\
+656,100,2,faire,faire,VER:infi,2795,41,Vinf,Vinf,faire,faire,+MIT,"[('VinfGrp', 'c'), ('Vinf', ''), ('PreN', '')]",,VER,136,'C/V\.C/(e)\
+657,100,3,a,a,PRE,2796,41,Pre,Pre,à,a3|a,+T|CGIS,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,136,/V\
+658,100,4,son,son,DET:poss:obj:masc:sg,2797,41,Det,Det,son4,son4|son,S|C,"[('PreN', ''), ('Det', ''), ('Adj', '')]",,DET:poss,136,C/V\
+659,100,5,mauvais,mauvais,ADJ:obj:masc:sg,2798,41,Adj,Adj,,mauvais,+IT,"[('PreN', ''), ('Adj', ''), ('N', '')]",,ADJ,136,C/V\.'C/V\
+660,100,6,sergant,sergant,NOM:obj:masc:sg,2799,41,N,N,,serjant,+T,#,,NOM,136,C/V\.'C/V\
+661,101,1,ou,ou,PROCON,2821,41,Crd,Crd,ou1,o|où,C|Td,"[('PreN', '&'), ('Crd', ''), ('Pre', '')]",,PROCON,137,/V\
+662,101,2,de,de,PRE,2822,41,Pre,Pre,de,de,+CIST,"[('PreN', '&'), ('Pre', ''), ('Adj', '')]",,PRE,137,C/(e)\
+663,101,3,autres,autres,ADJ:obj:femi:pl,2823,41,Adj,Adj,autre,autre,CI,"[('PreN', '&'), ('Adj', ''), ('Adj', '')]",,ADJ,137,'/V\.C/e\
+664,101,4,greingneurs,greingneurs,ADJ:obj:femi:pl,2824,41,Adj,Adj,graindre,graignor,*+Z,"[('PreN', '&'), ('Adj', ''), ('N', '')]",,ADJ,137,C/V\.'C/V\
+665,101,5,mescheances,mescheances,NOM:obj:femi:pl,2825,41,N,N,,meschëance,+I,"[('PreN', '&'), ('N', ''), ('SubVfin', '')]",,NOM,137,C/V\.C/(V)\.'/V\.C/e\
+666,102,1,si,si,PROCON,2833,42,Adv,Adv,si4,si,C,"[('VfinGrp', ''), ('Adv', ''), ('Prn', '')]",,PROCON,138,C/V\
+667,102,2,y,y,PRO:clit,2834,42,Prn,Prn$$,y,i2|y,S|C,"[('VfinGrp', ''), ('Prn', ''), ('Vfin', '')]",,PRO:clit,138,/V\
+668,102,3,preingne,preingne,VER:subp:3:sg,2835,42,Vfin,Vfin,prendre,prendre,+MI,"[('VfinGrp', ''), ('Vfin', ''), ('N', 'c')]",,VER,138,'C/V\.C/(e)\
+669,102,4,garde,garde,NOM:obj:femi:sg,2836,42,N,N,,garder,+MI,"[('VfinGrp', ''), ('N', 'c'), ('NGrp', 's')]",c,VER,138,'C/V\.C/(e)\
+670,102,5,li,li,DET:def:suj:masc:sg,2837,42,Det,Det,le,le,CST,"[('NGrp', 's'), ('Det', ''), ('N', '')]",,DET:def,138,C/V\
+671,102,6,roys,roys,NOM:suj:masc:sg,2838,42,N,N,,roi,C,"[('NGrp', 's'), ('N', ''), ('SubVfin', '')]",,NOM,138,C/V\
+672,103,1,si,si,PROCON,2858,42,Adv,Adv,si4,si,C,"[('VfinGrp', ''), ('Adv', ''), ('Prn', 'c')]",,PROCON,139,C/V\
+673,103,2,s,s,PROCON,2859,42,Prn,Prn$$,soi,son4|son,S|C,"[('VfinGrp', ''), ('Prn', 'c'), ('Vfin', '')]",c,DET:poss,139,C/\
+674,103,3,amende,amende,VER:subp:3:sg,2860,42,Vfin,Vfin,,alemande|amende1|amende2,+T|+IT|+T,"[('VfinGrp', ''), ('Vfin', ''), ('PreN', '')]",,NOM,139,/V\.'C/V\.C/(e)\
+675,103,4,de,de,PRE,2861,42,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,139,C/(e)\
+676,103,5,ses,ses,DET:poss:obj:masc:pl,2862,42,Det,Det,son4,son4|son,S|C,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:poss,139,C/V\
+677,103,6,mesfais,mesfais,NOM:obj:masc:pl,2863,42,N,N,,mesfait,+Z,"[('VfinGrp', ''), ('PreN', ''), ('PreN', '')]",,NOM,139,C/V\.'C/V\
+678,104,1,se,se,PROCON,2882,43,Prn,Prn$$,soi,se,C,"[('VfinGrp', ''), ('Prn', 'c'), ('Vfin', '')]",c,PROCON,140,C/(e)\
+679,104,2,esforca,esforca,VER:simp:3:sg,2883,43,Vfin,Vfin,,esforcier,Id,"[('VfinGrp', ''), ('Vfin', ''), ('PreVinf', '')]",,VER,140,/V\.C/V\.'C/V\
+680,104,3,de,de,PRE,2884,43,Pre,Pre,de,de,+CIST,"[('PreVinf', ''), ('Pre', ''), ('Det', '')]",,PRE,140,C/(e)\
+681,104,4,tout,tout,DET:ind:obj:masc:sg,2885,43,QIs,QIs,tout,tot,CS,"[('PreVinf', ''), ('Det', ''), ('Det', '')]",,DET:ind,140,C/V\
+682,104,5,son,son,DET:poss:obj:masc:sg,2886,43,Det,Det,son4,son4|son,S|C,"[('PreVinf', ''), ('Det', ''), ('Vinf', '')]",,DET:poss,140,C/V\
+683,104,6,pooir,pooir,VER:infi,2887,43,Vinf,Vinf,pouvoir2,pöoir,+IIdTd=C,"[('VfinGrp', ''), ('PreVinf', ''), ('PreN', '')]",,NOM,140,C/V\.'C/V\
+684,105,1,par,par,PRE,2889,43,Pre,Pre,par1,par,CIS,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,140,C/V\
+685,105,2,ses,ses,DET:poss:obj:femi:pl,2890,43,Det,Det,son4,son4|son,S|C,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:poss,140,C/V\
+686,105,3,paroles,paroles,NOM:obj:femi:pl,2891,43,N,N,,parole,+I,"[('VfinGrp', ''), ('PreN', ''), ('PreVinf', '')]",,NOM,140,C/V\.'C/V\.C/e\
+687,105,4,",",",",PON,2892,43,Pnc,Pnc,,",",,,,PON,140,
+688,105,5,de,de,PRE,2893,43,Pre,Pre,de,de,+CIST,"[('PreVinf', ''), ('Pre', ''), ('Prn', 'c')]",,PRE,140,C/(e)\
+689,105,6,moy,moy,PRO:pers:obj:1:sg:bet,2894,43,Prn,Prn,1ps,je,S,"[('PreVinf', ''), ('Prn', 'c'), ('Vinf', '')]",c,PRO:pers,140,C/V\
+690,105,7,faire,faire,VER:infi,2895,43,Vinf,Vinf,faire,faire,+MIT,"[('PreVinf', ''), ('Vinf', ''), ('VinfGrp', 'c')]",,VER,140,'C/V\.C/(e)\
+691,106,1,d,d',PRE,2946,43,Pre,Pre,de,de,+CS,"[('PreVinf', ''), ('Pre', ''), ('Vinf', '')]",,PRE,141,C/\
+692,106,2,aler,aler,VER:infi,2947,43,Vinf,Vinf,aller,aler|foraler,+MIT|+T,"[('PreVinf', ''), ('Vinf', ''), ('Pre', '')]",,VER,141,/V\.'C/V\
+693,106,3,encontre,encontre,PRE,2948,43,PrA,PrA,encontre2,encontre1|encontre,IST|CI,"[('PreVinf', ''), ('Pre', ''), ('PreN', '')]",,PRE,141,/V\.'C/V\.C/(e)\
+694,106,4,par,par,PRE,2949,43,Pre,Pre,par1,par,CIS,"[('PreN', ''), ('Pre', ''), ('N', '')]",,PRE,141,C/V\
+695,106,5,parole,parole,NOM:obj:femi:sg,2950,43,N,N,,parole,+IT,"[('PreN', ''), ('N', ''), ('PreN', '&')]",,NOM,141,C/V\.'C/V\.C/(e)\
+696,107,1,est,est,VER:pres:3:sg,2960,43,Vfin,Vfin,être1|ester,ester|estre1,+M|+I,"[('SubVfin', 'c'), ('Vfin', ''), ('AdjGrp', 'a')]",,VER,142,/V\
+697,107,2,si,si,PROCON,2961,43,Adv,Adv,si4,si,C,"[('AdjGrp', 'a'), ('Adv', ''), ('Adj', '')]",,PROCON,142,C/V\
+698,107,3,soutilz,soutilz,ADJ:suj:masc:sg,2962,43,Adj,Adj,,sotil,*+I,"[('SubVfin', 'c'), ('AdjGrp', 'a'), ('SubVfin', '')]",,ADJ,142,C/V\.'C/V\
+699,107,4,que,que,PROCON,2963,43,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', ''), ('SubVfin', '')]",,PROCON,142,C/(e)\
+700,107,5,",",",",PON,2964,43,Pnc,Pnc,,",",,,,PON,142,
+701,107,6,quant,quant,ADV,2965,43,Sub,Sub,quand,cant,CI,"[('SubVfin', ''), ('Sub', ''), ('NGrp', 's')]",,ADV,142,C/V\
+702,107,7,les,les,DET:def:suj:femi:pl,2966,43,Det,Det,le,le,CST,"[('NGrp', 's'), ('Det', ''), ('N', '')]",,DET:def,142,C/V\
+703,107,8,gens,gens,NOM:suj:femi:pl,2967,43,N,N,,gent1|giens,+I|+T,"[('SubVfin', ''), ('NGrp', 's'), ('Prn', '')]",,NOM,142,C/V\
+704,108,1,que,que,PROCON,2978,43,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', ''), ('Sub', ''), ('Prn', 's')]",,PROCON,142,C/(e)\
+705,108,2,il,il,PRO:pers:suj:3:masc:sg:unb,2979,43,Prn,Prn$,3p,il,CIST,"[('SubVfin', ''), ('Prn', 's'), ('Prn', 'c')]",s,PRO:pers,142,/V\
+706,108,3,les,les,PRO:pers:acc:3:masc:pl,2980,43,Prn,Prn$$,3p,il,CIST,"[('SubVfin', ''), ('Prn', 'c'), ('Vfin', '')]",c,PRO:pers,142,C/V\
+707,108,4,puisse,puisse,VER:subp:3:sg,2981,43,Vfin,Vfin,pouvoir2,pöoir,+I,"[('SubVfin', ''), ('Vfin', ''), ('VinfGrp', 'c')]",,VER,142,'C/V\.C/(e)\
+708,108,5,faire,faire,VER:infi,2982,43,Vinf,Vinf,faire,faire,+MIT,"[('VinfGrp', 'c'), ('Vinf', ''), ('VinfGrp', 'c')]",,VER,142,'C/V\.C/(e)\
+709,108,6,mourir,mourir,VER:infi,2983,43,Vinf,Vinf,mourir,morir,*+IT,"[('VinfGrp', 'c'), ('Vinf', ''), ('PreN', '')]",,VER,142,C/V\.'C/V\
+710,109,1,mourir,mourir,VER:infi,2983,43,Vinf,Vinf,mourir,morir,*+IT,"[('VinfGrp', 'c'), ('Vinf', ''), ('PreN', '')]",,VER,142,C/V\.'C/V\
+711,109,2,en,en,PRE,2984,43,Pre,Pre,en1,en1|en,+IST|CI,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,142,/V\
+712,109,3,aucune,aucune,DET:ind:obj:femi:sg,2985,43,QIs,QIs,aucun,aucun,CS,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:ind,142,/V\.'C/V\.C/(e)\
+713,109,4,doutance,doutance,NOM:obj:femi:sg,2986,43,N,N,,dotance,+C,"[('PreN', ''), ('N', ''), ('PreN', '')]",,NOM,142,C/V\.'C/V\.C/(e)\
+714,110,1,car,car,CON:coord,2993,43,Crd,Crd,car,car,ST,"[('VfinGrp', ''), ('Crd', ''), ('Prn', 's')]",,CON:coord,143,C/V\
+715,110,2,il,il,PRO:pers:suj:3:masc:sg:unb,2994,43,Prn,Prn$,3p,il,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,143,/V\
+716,110,3,voit,voit,VER:pres:3:sg,2995,43,Vfin,Vfin,voir1|aller,aler|vëoir,+M|+I,"[('VfinGrp', ''), ('Vfin', ''), ('SubVfin', 'c')]",,VER,143,C/V\
+717,110,4,que,que,PROCON,2996,43,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', 'c'), ('Sub', ''), ('NGrp', '')]",,PROCON,143,C/(e)\
+718,110,5,les,les,DET:def:obj:femi:pl,2997,43,Det,Det,le,le,CST,"[('NGrp', ''), ('Det', ''), ('Adj', '')]",,DET:def,143,C/V\
+719,110,6,bones,bones,ADJ:obj:femi:pl,2998,43,Adj,Adj,bon,bon,+CI,"[('NGrp', ''), ('Adj', ''), ('N', '')]",,ADJ,143,'C/V\.C/e\
+720,110,7,oeuvres,oeuvres,NOM:obj:femi:pl,2999,43,N,N,,uevre,*+Z,"[('NGrp', ''), ('N', ''), ('SubVfin', '')]",,NOM,143,'C/V\.C/e\
+721,111,1,et,et,CON:coord,3028,44,Crd,Crd,et,et,ST,"[('VfinGrp', ''), ('Crd', ''), ('PrePrn', '')]",,CON:coord,144,/V\
+722,111,2,pour,pour,PRE,3029,44,Pre,Pre,pour,por2|por,+ST|C,"[('PrePrn', ''), ('Pre', ''), ('Prn', '')]",,PRE,144,C/V\
+723,111,3,ce,ce,PRO:invar,3030,44,Prn,Prn,ce1,ce1|ce,S|C,"[('VfinGrp', ''), ('PrePrn', ''), ('Prn', 'c')]",,PRO:invar,144,C/(e)\
+724,111,4,",",",",PON,3031,44,Pnc,Pnc,,",",,,,PON,144,
+725,111,5,se,se,PROCON,3032,44,Prn,Prn$$,soi,se,C,"[('VfinGrp', ''), ('Prn', 'c'), ('Vfin', '')]",c,PROCON,144,C/(e)\
+726,111,6,doit,doit,VER:pres:3:sg,3033,44,Vfin,Vfin,devoir2,devoir|dire,+CMI|+M,"[('VfinGrp', ''), ('Vfin', ''), ('Prn', 's')]",,VER,144,C/V\
+727,111,7,-,-,PON,3034,44,Pnc,Pnc,,-,,,,PON,144,
+728,111,8,on,on,PRO:invar,3035,44,Prn,Prn%,on,on,CS,"[('VfinGrp', ''), ('Prn', 's'), ('VinfGrp', 'c')]",s,PRO:invar,144,/V\
+729,111,9,garder,garder,VER:infi,3036,44,Vinf,Vinf,garder,garder,+MIT,"[('VinfGrp', 'c'), ('Vinf', ''), ('VinfGrp', '&')]",,VER,144,C/V\.'C/V\
+730,112,1,de,de,PRE,3125,44,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,147,C/(e)\
+731,112,2,son,son,DET:poss:obj:masc:sg,3126,44,Det,Det,son4,son4|son,S|C,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:poss,147,C/V\
+732,112,3,baston,baston,NOM:obj:masc:sg,3127,44,N,N,,baston,+IT,"[('PreN', ''), ('N', ''), ('PreN', '&')]",,NOM,147,C/V\.'C/V\
+733,112,4,et,et,CON:coord,3128,44,Crd,Crd,et,et,ST,"[('PreN', '&'), ('Crd', ''), ('Pre', '')]",,CON:coord,147,/V\
+734,112,5,de,de,PRE,3129,44,Pre,Pre,de,de,+CIST,"[('PreN', '&'), ('Pre', ''), ('Det', '')]",,PRE,147,C/(e)\
+735,112,6,s,s,DET:poss:obj:femi:sg,3130,44,Det,Det,son4,son4|son,S|C,"[('PreN', '&'), ('Det', ''), ('N', '')]",,DET:poss,147,C/\
+736,112,7,espee,espee,NOM:obj:femi:sg,3131,44,N,N,,espee,+IT,"[('PreN', ''), ('PreN', '&'), ('SubVfin', '')]",,NOM,147,/V\.'C/V\./(e)\
+737,113,1,il,il,PRO:pers:suj:3:masc:sg:unb,3140,45,Prn,Prn$,3p,il,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,148,/V\
+738,113,2,disoit,disoit,VER:impf:3:sg,3141,45,Vfin,Vfin,dire,dire,+CIM,"[('VfinGrp', ''), ('Vfin', ''), ('SubVfin', 'c')]",,VER,148,C/V\.'C/V\
+739,113,3,que,que,PROCON,3142,45,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', 'c'), ('Sub', ''), ('NGrp', 's')]",,PROCON,148,C/(e)\
+740,113,4,foy,foy,NOM:suj:femi:sg,3143,45,N,N,,foi,+C,"[('NGrp', 's'), ('N', ''), ('NGrp', '&')]",,NOM,148,C/V\
+741,113,5,et,et,CON:coord,3144,45,Crd,Crd,et,et,ST,"[('NGrp', '&'), ('Crd', ''), ('N', '')]",,CON:coord,148,/V\
+742,113,6,creance,creance,NOM:suj:femi:sg,3145,45,N,N,,crëance,+IIdTd,"[('SubVfin', 'c'), ('NGrp', 's'), ('Vfin', '')]",,NOM,148,C/V\.'C/V\.C/(e)\
+743,114,1,et,et,CON:coord,3144,45,Crd,Crd,et,et,ST,"[('NGrp', '&'), ('Crd', ''), ('N', '')]",,CON:coord,148,/V\
+744,114,2,creance,creance,NOM:suj:femi:sg,3145,45,N,N,,crëance,+IIdTd,"[('SubVfin', 'c'), ('NGrp', 's'), ('Vfin', '')]",,NOM,148,C/V\.'C/V\.C/(e)\
+745,114,3,estoit,estoit,VER:impf:3:sg,3146,45,Vfin,Vfin,être1|ester,ester|estre1,+IM|+I,"[('SubVfin', 'c'), ('Vfin', ''), ('NGrp', 'a')]",,VER,148,/V\.'C/V\
+746,114,4,une,une,DET:ndf:suj:femi:sg,3147,45,QIs,QIs,un,un,CS,"[('NGrp', 'a'), ('Det', ''), ('N', '')]",,DET:ndf,148,'/V\.C/(e)\
+747,114,5,chose,chose,NOM:suj:femi:sg,3148,45,N,N,,chose,+CIT,"[('NGrp', 'a'), ('N', ''), ('SubVfin', '')]",,NOM,148,'C/V\.C/(e)\
+748,115,1,et,et,CON:coord,3184,45,Crd,Crd,et,et,ST,"[('VfinGrp', ''), ('Crd', ''), ('Prn', 's')]",,CON:coord,150,/V\
+749,115,2,je,je,PRO:pers:suj:1:sg:unb,3185,45,Prn,Prn$,1ps,je,CIST,"[('VfinGrp', ''), ('Prn', 's'), ('Prn', '')]",s,PRO:pers,150,C/(e)\
+750,115,3,li,li,PRO:pers:suj:3:masc:sg:bet,3186,45,Prn,Prn$$,3p,ele|il,C|CIST,"[('VfinGrp', ''), ('Prn', ''), ('Vfin', '')]",,PRO:pers,150,C/V\
+751,115,4,diz,diz,VER:simp:1:sg,3187,45,Vfin,Vfin,dire,dire,+CMI,"[('VfinGrp', ''), ('Vfin', ''), ('SubVfin', 'c')]",,VER,150,C/V\
+752,115,5,que,que,PROCON,3188,45,Sub,Sub,que,que2|que3|que,T|S|C,"[('SubVfin', 'c'), ('Sub', ''), ('Prn', 's')]",,PROCON,150,C/(e)\
+753,115,6,il,il,PRO:pers:suj:3:masc:sg:unb,3189,45,Prn,Prn$,3p,il,CIST,"[('SubVfin', 'c'), ('Prn', 's'), ('Vfin', '')]",s,PRO:pers,150,/V\
+754,115,7,avoit,avoit,VER:impf:3:sg,3190,45,Vfin,Vfin,avoir1,avoiier|avoir,+MI|+MI,"[('SubVfin', 'c'), ('Vfin', ''), ('N', 'c')]",,VER,150,/V\.'C/V\
+755,115,8,non,non,NOM:obj:masc:sg,3191,45,N,N,,ne1,+Z,"[('SubVfin', 'c'), ('N', 'c'), ('N', 'a')]",c,ADV,150,C/V\
+756,116,1,et,et,CON:coord,3213,45,Crd,Crd,et,et,ST,"[('VfinGrp', '&'), ('Crd', ''), ('Prn', 'c')]",,CON:coord,152,/V\
+757,116,2,le,le,PRO:pers:obj:3:masc:sg:unb,3214,45,Prn,Prn$$,3p,il,CIST,"[('VfinGrp', '&'), ('Prn', 'c'), ('Vfin', '')]",c,PRO:pers,152,C/(e)\
+758,116,3,creoie,creoie,VER:impf:1:sg,3215,45,Vfin,Vfin,croire,croire,+IMMd,"[('VfinGrp', '&'), ('Vfin', ''), ('Adv', '')]",,VER,152,C/(V)\.'/V\./(e)\
+759,116,4,fermement,fermement,ADV,3216,45,Adv,Adv,,fermement,C,"[('SubVfin', 'c'), ('VfinGrp', '&'), ('PrePrnSubVfin', '')]",,ADV,152,C/V\.C/e\.'C/V\
+760,117,1,de,de,PRE,3243,45,Pre,Pre,de,de,+CIST,"[('PreN', ''), ('Pre', ''), ('Det', '')]",,PRE,153,C/(e)\
+761,117,2,la,la,DET:def:obj:femi:sg,3244,45,Det,Det,le,le,CST,"[('PreN', ''), ('Det', ''), ('N', '')]",,DET:def,153,C/V\
+762,117,3,foy,foy,NOM:obj:femi:sg,3245,45,N,N,,foi,+C,"[('NGrp', 'c'), ('PreN', ''), ('SubVfin', '')]",,NOM,153,C/V\
+763,117,4,",",",",PON,3246,45,Pnc,Pnc,,",",,,,PON,153,
+764,117,5,les,les,DET:def:obj:masc:pl,3247,45,Det,Det,le,le,CST,"[('DetAdj+Sub', 'c'), ('Det', ''), ('Adj_S', '')]",,DET:def,153,C/V\
+765,117,6,quiex,quiex,ADJ:obj:masc:pl,3248,45,Qux,Qux,quel,quel1|quel,I|CI,"[('SubVfin', ''), ('DetAdj+Sub', 'c'), ('NGrp', 's')]",,ADJ,153,C/V\
+766,117,7,les,les,DET:def:suj:masc:pl,3249,45,Det,Det,le,le,CST,"[('NGrp', 's'), ('Det', ''), ('N', '')]",,DET:def,153,C/V\
+767,117,8,apostres,apostres,NOM:suj:masc:pl,3250,45,N,N,,apostle,+I,"[('SubVfin', ''), ('NGrp', 's'), ('Vfin', '')]",,NOM,153,/V\.'C/V\.C/e\
+768,118,1,les,les,DET:def:obj:masc:pl,3247,45,Det,Det,le,le,CST,"[('DetAdj+Sub', 'c'), ('Det', ''), ('Adj_S', '')]",,DET:def,153,C/V\
+769,118,2,quiex,quiex,ADJ:obj:masc:pl,3248,45,Qux,Qux,quel,quel1|quel,I|CI,"[('SubVfin', ''), ('DetAdj+Sub', 'c'), ('NGrp', 's')]",,ADJ,153,C/V\
+770,118,3,les,les,DET:def:suj:masc:pl,3249,45,Det,Det,le,le,CST,"[('NGrp', 's'), ('Det', ''), ('N', '')]",,DET:def,153,C/V\
+771,118,4,apostres,apostres,NOM:suj:masc:pl,3250,45,N,N,,apostle,+I,"[('SubVfin', ''), ('NGrp', 's'), ('Vfin', '')]",,NOM,153,/V\.'C/V\.C/e\
+772,118,5,tesmoingnent,tesmoingnent,VER:pres:3:pl,3251,45,Vfin,Vfin,,tesmoignier,*+I,"[('VinfGrp', 'c'), ('NGrp', 'c'), ('AdvSubVfin', '')]",,VER,153,C/V\.'C/V\.C/e\

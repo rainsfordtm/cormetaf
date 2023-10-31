@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.belledame_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.belledame.line.xml">
+<feat xlink:href="#line_0" value=" Nagaires , chevauchant , pensoye"/><!--  Nagaires , chevauchant , pensoye -->
+<feat xlink:href="#line_1" value=" Com home triste et doloreux ,"/><!--  Com home triste et doloreux , -->
+<feat xlink:href="#line_2" value=" Au dueil ou il fault que je soye"/><!--  Au dueil ou il fault que je soye -->
+<feat xlink:href="#line_3" value=" Le plus dolent des amoureux ,"/><!--  Le plus dolent des amoureux , -->
+<feat xlink:href="#line_4" value=" Puis que , par son dart rigoreux ,"/><!--  Puis que , par son dart rigoreux , -->
+<feat xlink:href="#line_5" value=" La mort me tolly ma maistresse"/><!--  La mort me tolly ma maistresse -->
+<feat xlink:href="#line_6" value=" Et me laissa seul , langoreux"/><!--  Et me laissa seul , langoreux -->
+<feat xlink:href="#line_7" value=" En la conduite de Tristesse ."/><!--  En la conduite de Tristesse . -->
+<feat xlink:href="#line_8" value=" Si disoye : « Il fault que je cesse"/><!--  Si disoye : « Il fault que je cesse -->
+<feat xlink:href="#line_9" value=" De dicter et de rimoyer ,"/><!--  De dicter et de rimoyer , -->
+<feat xlink:href="#line_10" value=" Et que j&apos; abandonne et delaisse"/><!--  Et que j' abandonne et delaisse -->
+<feat xlink:href="#line_11" value=" Le rire pour le lermoyer ."/><!--  Le rire pour le lermoyer . -->
+<feat xlink:href="#line_12" value=" La me fault le temps employer ,"/><!--  La me fault le temps employer , -->
+<feat xlink:href="#line_13" value=" Car plus n&apos; ay sentement në aise ,"/><!--  Car plus n' ay sentement në aise , -->
+<feat xlink:href="#line_14" value=" Soit d&apos; escrire , soit d&apos; envoyer"/><!--  Soit d' escrire , soit d' envoyer -->
+<feat xlink:href="#line_15" value=" Chose qu&apos; a moy në autre playse ."/><!--  Chose qu' a moy në autre playse . -->
+<feat xlink:href="#line_16" value=" Qui vouldroit mon vouloir contraindre"/><!--  Qui vouldroit mon vouloir contraindre -->
+<feat xlink:href="#line_17" value=" A joyeuses choses escrire ,"/><!--  A joyeuses choses escrire , -->
+<feat xlink:href="#line_18" value=" Ma plume n&apos; y savroit actaindre ,"/><!--  Ma plume n' y savroit actaindre , -->
+<feat xlink:href="#line_19" value=" Non feroit ma langue a les dire ."/><!--  Non feroit ma langue a les dire . -->
+<feat xlink:href="#line_20" value=" Je n&apos; ay bouche qui puisse rire"/><!--  Je n' ay bouche qui puisse rire -->
+<feat xlink:href="#line_21" value=" Que les yeulx ne la desmantissent ,"/><!--  Que les yeulx ne la desmantissent , -->
+<feat xlink:href="#line_22" value=" Car le cuer l&apos; envoyeroit desdire"/><!--  Car le cuer l' envoyeroit desdire -->
+<feat xlink:href="#line_23" value=" Par les larmes qui des yeulx yssent ."/><!--  Par les larmes qui des yeulx yssent . -->
+<feat xlink:href="#line_24" value=" Je laysse aux amoreux malades"/><!--  Je laysse aux amoreux malades -->
+<feat xlink:href="#line_25" value=" Qui ont espoir d&apos; alegement"/><!--  Qui ont espoir d' alegement -->
+<feat xlink:href="#line_26" value=" Faire chançons , diz et balades ,"/><!--  Faire chançons , diz et balades , -->
+<feat xlink:href="#line_27" value=" Chascun a son entendement ,"/><!--  Chascun a son entendement , -->
+<feat xlink:href="#line_28" value=" Car ma dame en son testament"/><!--  Car ma dame en son testament -->
+<feat xlink:href="#line_29" value=" Print a la mort , Dieu en ait l&apos; ame ,"/><!--  Print a la mort , Dieu en ait l' ame , -->
+<feat xlink:href="#line_30" value=" Et emporta mon sentement"/><!--  Et emporta mon sentement -->
+<feat xlink:href="#line_31" value=" Qui gist o elle soubs la lame ."/><!--  Qui gist o elle soubs la lame . -->
+<feat xlink:href="#line_32" value=" Desormais est temps de moy tayre ,"/><!--  Desormais est temps de moy tayre , -->
+<feat xlink:href="#line_33" value=" Car de dire suis je lassé ."/><!--  Car de dire suis je lassé . -->
+<feat xlink:href="#line_34" value=" Je vueil laissier aux autres faire :"/><!--  Je vueil laissier aux autres faire : -->
+<feat xlink:href="#line_35" value=" Leur temps est ; le mien est passé ."/><!--  Leur temps est ; le mien est passé . -->
+<feat xlink:href="#line_36" value=" Fortune a le forcier cassé"/><!--  Fortune a le forcier cassé -->
+<feat xlink:href="#line_37" value=" Ou j&apos; espargnoye ma richesse"/><!--  Ou j' espargnoye ma richesse -->
+<feat xlink:href="#line_38" value=" Et le bien que j&apos; ay amassé"/><!--  Et le bien que j' ay amassé -->
+<feat xlink:href="#line_39" value=" Ou meilleur temps de ma jennesse ."/><!--  Ou meilleur temps de ma jennesse . -->
+<feat xlink:href="#line_40" value=" Amours a gouverné mon sens :"/><!--  Amours a gouverné mon sens : -->
+<feat xlink:href="#line_41" value=" Se faulte y a , Dieu me pardonne ;"/><!--  Se faulte y a , Dieu me pardonne ; -->
+<feat xlink:href="#line_42" value=" Se j&apos; ay bien fait , plus ne m&apos; en sens ,"/><!--  Se j' ay bien fait , plus ne m' en sens , -->
+<feat xlink:href="#line_43" value=" Cela ne me toult ne me donne ,"/><!--  Cela ne me toult ne me donne , -->
+<feat xlink:href="#line_44" value=" Car au trespas de la tresbonne"/><!--  Car au trespas de la tresbonne -->
+<feat xlink:href="#line_45" value=" Tout mon bienfait se trespassa ."/><!--  Tout mon bienfait se trespassa . -->
+<feat xlink:href="#line_46" value=" La mort m&apos; assist ilec la bonne"/><!--  La mort m' assist ilec la bonne -->
+<feat xlink:href="#line_47" value=" Qu&apos; onques puis mon cuer ne passa . »"/><!--  Qu' onques puis mon cuer ne passa . » -->
+<feat xlink:href="#line_48" value=" En ce penser et en ce soing"/><!--  En ce penser et en ce soing -->
+<feat xlink:href="#line_49" value=" Chevauchay toute matinee ,"/><!--  Chevauchay toute matinee , -->
+<feat xlink:href="#line_50" value=" Tant que je ne fu gaire loing"/><!--  Tant que je ne fu gaire loing -->
+<feat xlink:href="#line_51" value=" Du lieu ou estoit la dinee ;"/><!--  Du lieu ou estoit la dinee ; -->
+<feat xlink:href="#line_52" value=" Et quant j&apos; euz ma voye finee"/><!--  Et quant j' euz ma voye finee -->
+<feat xlink:href="#line_53" value=" Et que je cuiday herbergier ,"/><!--  Et que je cuiday herbergier , -->
+<feat xlink:href="#line_54" value=" J&apos; ouÿ par droicte destinee"/><!--  J' ouÿ par droicte destinee -->
+<feat xlink:href="#line_55" value=" Les menestriers en un vergier ."/><!--  Les menestriers en un vergier . -->
+<feat xlink:href="#line_56" value=" Si me retrahy voulentiers"/><!--  Si me retrahy voulentiers -->
+<feat xlink:href="#line_57" value=" En un lieu tout coy et privé ,"/><!--  En un lieu tout coy et privé , -->
+<feat xlink:href="#line_58" value=" Mais quant mes bons amis antiers"/><!--  Mais quant mes bons amis antiers -->
+<feat xlink:href="#line_59" value=" Sçurent que je fu arrivé ,"/><!--  Sçurent que je fu arrivé , -->
+<feat xlink:href="#line_60" value=" Ilz vindrent . Tant ont estrivé ,"/><!--  Ilz vindrent . Tant ont estrivé , -->
+<feat xlink:href="#line_61" value=" Moitié force , moitié requeste ,"/><!--  Moitié force , moitié requeste , -->
+<feat xlink:href="#line_62" value=" Que je n&apos; ay oncques eschivé"/><!--  Que je n' ay oncques eschivé -->
+<feat xlink:href="#line_63" value=" Qu&apos; ilz ne me mainent a la feste ."/><!--  Qu' ilz ne me mainent a la feste . -->
+<feat xlink:href="#line_64" value=" A l&apos; entrer fu bien recueilli"/><!--  A l' entrer fu bien recueilli -->
+<feat xlink:href="#line_65" value=" Des dames et des damoiselles ,"/><!--  Des dames et des damoiselles , -->
+<feat xlink:href="#line_66" value=" Et de celles bien acueilly"/><!--  Et de celles bien acueilly -->
+<feat xlink:href="#line_67" value=" Qui toutes sont bonnes et belles ;"/><!--  Qui toutes sont bonnes et belles ; -->
+<feat xlink:href="#line_68" value=" Et de la courtoisie d&apos; elles"/><!--  Et de la courtoisie d' elles -->
+<feat xlink:href="#line_69" value=" Me tindrent ilec tout ce jour"/><!--  Me tindrent ilec tout ce jour -->
+<feat xlink:href="#line_70" value=" En plaisans parolles nouvelles"/><!--  En plaisans parolles nouvelles -->
+<feat xlink:href="#line_71" value=" Et en tresgracïeux sejour ."/><!--  Et en tresgracïeux sejour . -->
+<feat xlink:href="#line_72" value=" Disner fu prest et tables mises ."/><!--  Disner fu prest et tables mises . -->
+<feat xlink:href="#line_73" value=" Les dames a table s&apos; assirent"/><!--  Les dames a table s' assirent -->
+<feat xlink:href="#line_74" value=" Et quant elles furent assises ,"/><!--  Et quant elles furent assises , -->
+<feat xlink:href="#line_75" value=" Les plus gracïeux les servirent ."/><!--  Les plus gracïeux les servirent . -->
+<feat xlink:href="#line_76" value=" Telz y ot qui a ce jour virent"/><!--  Telz y ot qui a ce jour virent -->
+<feat xlink:href="#line_77" value=" En la compaignie lïens"/><!--  En la compaignie lïens -->
+<feat xlink:href="#line_78" value=" Leurs juges , dont semblant ne firent ,"/><!--  Leurs juges , dont semblant ne firent , -->
+<feat xlink:href="#line_79" value=" Qui les tiennent en leurs lïens ."/><!--  Qui les tiennent en leurs lïens . -->
+<feat xlink:href="#line_80" value=" Un entre les autres y vy ,"/><!--  Un entre les autres y vy , -->
+<feat xlink:href="#line_81" value=" Qui souvent aloit et venoit ,"/><!--  Qui souvent aloit et venoit , -->
+<feat xlink:href="#line_82" value=" Et pensoit comme homme ravy"/><!--  Et pensoit comme homme ravy -->
+<feat xlink:href="#line_83" value=" Et gaires de bruit ne menoit ."/><!--  Et gaires de bruit ne menoit . -->
+<feat xlink:href="#line_84" value=" Son semblant fort contretenoit ;"/><!--  Son semblant fort contretenoit ; -->
+<feat xlink:href="#line_85" value=" Mais Desir passoit la raison ,"/><!--  Mais Desir passoit la raison , -->
+<feat xlink:href="#line_86" value=" Qui souvent son regart menoit"/><!--  Qui souvent son regart menoit -->
+<feat xlink:href="#line_87" value=" Tel foiz qu&apos; il n&apos; estoit pas saison ."/><!--  Tel foiz qu' il n' estoit pas saison . -->
+<feat xlink:href="#line_88" value=" De faire chiere s&apos; efforsoit"/><!--  De faire chiere s' efforsoit -->
+<feat xlink:href="#line_89" value=" Et menoit une joye fainte ,"/><!--  Et menoit une joye fainte , -->
+<feat xlink:href="#line_90" value=" Et a chanter son cuer forsoit"/><!--  Et a chanter son cuer forsoit -->
+<feat xlink:href="#line_91" value=" Non pas pour plaisir mais pour crainte ,"/><!--  Non pas pour plaisir mais pour crainte , -->
+<feat xlink:href="#line_92" value=" Car tousjours un relais de plainte"/><!--  Car tousjours un relais de plainte -->
+<feat xlink:href="#line_93" value=" S&apos; enlaçoit au son de sa voix ;"/><!--  S' enlaçoit au son de sa voix ; -->
+<feat xlink:href="#line_94" value=" Et revenoit a son atainte"/><!--  Et revenoit a son atainte -->
+<feat xlink:href="#line_95" value=" Comme l&apos; oisel au chant du bois ."/><!--  Comme l' oisel au chant du bois . -->
+<feat xlink:href="#line_96" value=" Des autres y ot plaine sale ,"/><!--  Des autres y ot plaine sale , -->
+<feat xlink:href="#line_97" value=" Mais cellui trop bien me sembloit"/><!--  Mais cellui trop bien me sembloit -->
+<feat xlink:href="#line_98" value=" Ennuyé , maigre , blesme et pale ,"/><!--  Ennuyé , maigre , blesme et pale , -->
+<feat xlink:href="#line_99" value=" Et la parolle lui trembloit"/><!--  Et la parolle lui trembloit -->
+<feat xlink:href="#line_100" value=" Gaires aux autres n&apos; assembloit ;"/><!--  Gaires aux autres n' assembloit ; -->
+<feat xlink:href="#line_101" value=" Le noir portoit et sans devise ,"/><!--  Le noir portoit et sans devise , -->
+<feat xlink:href="#line_102" value=" Et trop bien home ressembloit"/><!--  Et trop bien home ressembloit -->
+<feat xlink:href="#line_103" value=" Qui n&apos; a pas son cuer en franchise ."/><!--  Qui n' a pas son cuer en franchise . -->
+<feat xlink:href="#line_104" value=" De toutes festoyer faingnoit ,"/><!--  De toutes festoyer faingnoit , -->
+<feat xlink:href="#line_105" value=" Bien le fist et bien lui sëoit ;"/><!--  Bien le fist et bien lui sëoit ; -->
+<feat xlink:href="#line_106" value=" Mais a la foiz le contraingnoit"/><!--  Mais a la foiz le contraingnoit -->
+<feat xlink:href="#line_107" value=" Amours qui son cuer hardëoit"/><!--  Amours qui son cuer hardëoit -->
+<feat xlink:href="#line_108" value=" Pour sa maistresse qu&apos; il vëoit ,"/><!--  Pour sa maistresse qu' il vëoit , -->
+<feat xlink:href="#line_109" value=" Que je choysi lors clerement"/><!--  Que je choysi lors clerement -->
+<feat xlink:href="#line_110" value=" A son regart qu&apos; il assëoit"/><!--  A son regart qu' il assëoit -->
+<feat xlink:href="#line_111" value=" Sur elle si piteusement ."/><!--  Sur elle si piteusement . -->
+<feat xlink:href="#line_112" value=" Assez sa face destournoit"/><!--  Assez sa face destournoit -->
+<feat xlink:href="#line_113" value=" Pour regarder en autres lieux ,"/><!--  Pour regarder en autres lieux , -->
+<feat xlink:href="#line_114" value=" Mais au travers l&apos; ueil retournoit"/><!--  Mais au travers l' ueil retournoit -->
+<feat xlink:href="#line_115" value=" Au lieu qui lui plaisoit le mieulx ."/><!--  Au lieu qui lui plaisoit le mieulx . -->
+<feat xlink:href="#line_116" value=" J&apos; apperceu le trait de ses yeulx ,"/><!--  J' apperceu le trait de ses yeulx , -->
+<feat xlink:href="#line_117" value=" Tout empenné d&apos; umbles requestes ;"/><!--  Tout empenné d' umbles requestes ; -->
+<feat xlink:href="#line_118" value=" Si dis a par moy : « Se m&apos; aist Dieux ,"/><!--  Si dis a par moy : « Se m' aist Dieux , -->
+<feat xlink:href="#line_119" value=" Autel fumes comme vous estes » ."/><!--  Autel fumes comme vous estes » . -->
+<feat xlink:href="#line_120" value=" A la foiz a part se tiroit"/><!--  A la foiz a part se tiroit -->
+<feat xlink:href="#line_121" value=" Pour raffermer sa contenance ,"/><!--  Pour raffermer sa contenance , -->
+<feat xlink:href="#line_122" value=" Et trestendrement souspiroit"/><!--  Et trestendrement souspiroit -->
+<feat xlink:href="#line_123" value=" Par doloreuse souvenance ."/><!--  Par doloreuse souvenance . -->
+<feat xlink:href="#line_124" value=" Puis reprenoit son ordonnance"/><!--  Puis reprenoit son ordonnance -->
+<feat xlink:href="#line_125" value=" Et venoit pour servir les mes ,"/><!--  Et venoit pour servir les mes , -->
+<feat xlink:href="#line_126" value=" Mais a bien jugier sa semblence ,"/><!--  Mais a bien jugier sa semblence , -->
+<feat xlink:href="#line_127" value=" C&apos; estoit un piteux entremés ."/><!--  C' estoit un piteux entremés . -->
+<feat xlink:href="#line_128" value=" Aprés disner on s&apos; avança"/><!--  Aprés disner on s' avança -->
+<feat xlink:href="#line_129" value=" De dancer , chascun et chascune ,"/><!--  De dancer , chascun et chascune , -->
+<feat xlink:href="#line_130" value=" Et le triste amoureux dança"/><!--  Et le triste amoureux dança -->
+<feat xlink:href="#line_131" value=" Adés o l&apos; autre , adés o l&apos; une ."/><!--  Adés o l' autre , adés o l' une . -->
+<feat xlink:href="#line_132" value=" A toutes fist chiere commune ,"/><!--  A toutes fist chiere commune , -->
+<feat xlink:href="#line_133" value=" O chascune a son tour aloit ;"/><!--  O chascune a son tour aloit ; -->
+<feat xlink:href="#line_134" value=" Mais tousjours retournoit a une"/><!--  Mais tousjours retournoit a une -->
+<feat xlink:href="#line_135" value=" Dont sur toutes plus lui chaloit ."/><!--  Dont sur toutes plus lui chaloit . -->
+<feat xlink:href="#line_136" value=" Bien avoit a mon gré visé"/><!--  Bien avoit a mon gré visé -->
+<feat xlink:href="#line_137" value=" Entre celles que je vi lors ,"/><!--  Entre celles que je vi lors , -->
+<feat xlink:href="#line_138" value=" S&apos; il eust au gré du cuer visé"/><!--  S' il eust au gré du cuer visé -->
+<feat xlink:href="#line_139" value=" Autant que a la beauté du corps ;"/><!--  Autant que a la beauté du corps ; -->
+<feat xlink:href="#line_140" value=" Qui croit de legier les rappors"/><!--  Qui croit de legier les rappors -->
+<feat xlink:href="#line_141" value=" De ses yeulx sans autre esperance"/><!--  De ses yeulx sans autre esperance -->
+<feat xlink:href="#line_142" value=" Pourroit mourir de mille mors"/><!--  Pourroit mourir de mille mors -->
+<feat xlink:href="#line_143" value=" Avant qu&apos; ataindre a sa plaisance ."/><!--  Avant qu' ataindre a sa plaisance . -->
+<feat xlink:href="#line_144" value=" En la dame ne failloit riens ,"/><!--  En la dame ne failloit riens , -->
+<feat xlink:href="#line_145" value=" Ne plus avant ne plus arriere ."/><!--  Ne plus avant ne plus arriere . -->
+<feat xlink:href="#line_146" value=" C&apos; estoit garnison de tous biens"/><!--  C' estoit garnison de tous biens -->
+<feat xlink:href="#line_147" value=" Pour faire a cuer d&apos; amant frontiere :"/><!--  Pour faire a cuer d' amant frontiere : -->
+<feat xlink:href="#line_148" value=" Jeune , gente , fresche et entiere ;"/><!--  Jeune , gente , fresche et entiere ; -->
+<feat xlink:href="#line_149" value=" Maintien rassis et sans changier ;"/><!--  Maintien rassis et sans changier ; -->
+<feat xlink:href="#line_150" value=" Doulce parolle et grant maniere ,"/><!--  Doulce parolle et grant maniere , -->
+<feat xlink:href="#line_151" value=" Dessoubz l&apos; estendart de Danger ."/><!--  Dessoubz l' estendart de Danger . -->
+<feat xlink:href="#line_152" value=" De celle feste me lassay ,"/><!--  De celle feste me lassay , -->
+<feat xlink:href="#line_153" value=" Car joye triste cuer travaille ,"/><!--  Car joye triste cuer travaille , -->
+<feat xlink:href="#line_154" value=" Et hors de la presse passay ;"/><!--  Et hors de la presse passay ; -->
+<feat xlink:href="#line_155" value=" Si m&apos; assis derriere une treille"/><!--  Si m' assis derriere une treille -->
+<feat xlink:href="#line_156" value=" Drue de fueilles a merveille ,"/><!--  Drue de fueilles a merveille , -->
+<feat xlink:href="#line_157" value=" Entrelacee de saulx vers ,"/><!--  Entrelacee de saulx vers , -->
+<feat xlink:href="#line_158" value=" Si que nul , pour l&apos; espesse fueille ,"/><!--  Si que nul , pour l' espesse fueille , -->
+<feat xlink:href="#line_159" value=" Ne me peüst veoir au travers ."/><!--  Ne me peüst veoir au travers . -->
+<feat xlink:href="#line_160" value=" L&apos; amoureux sa dame menoit"/><!--  L' amoureux sa dame menoit -->
+<feat xlink:href="#line_161" value=" Dancer quant venoit a son tour ,"/><!--  Dancer quant venoit a son tour , -->
+<feat xlink:href="#line_162" value=" Et puis sëoir s&apos; en revenoit"/><!--  Et puis sëoir s' en revenoit -->
+<feat xlink:href="#line_163" value=" Sur un prëau vert au retour ."/><!--  Sur un prëau vert au retour . -->
+<feat xlink:href="#line_164" value=" Nulz autres n&apos; avoit a l&apos; entour"/><!--  Nulz autres n' avoit a l' entour -->
+<feat xlink:href="#line_165" value=" Assis , fors seulement les deux ;"/><!--  Assis , fors seulement les deux ; -->
+<feat xlink:href="#line_166" value=" Et n&apos; y avoit autre destour"/><!--  Et n' y avoit autre destour -->
+<feat xlink:href="#line_167" value=" Fors la treille entre moy et eulx ."/><!--  Fors la treille entre moy et eulx . -->
+<feat xlink:href="#line_168" value=" J&apos; ouÿ l&apos; amant qui sospiroit ,"/><!--  J' ouÿ l' amant qui sospiroit , -->
+<feat xlink:href="#line_169" value=" Car qui plus est pres plus desire ,"/><!--  Car qui plus est pres plus desire , -->
+<feat xlink:href="#line_170" value=" Et la grant doleur qu&apos; il tiroit"/><!--  Et la grant doleur qu' il tiroit -->
+<feat xlink:href="#line_171" value=" Ne savoit taire et n&apos; osoit dire ;"/><!--  Ne savoit taire et n' osoit dire ; -->
+<feat xlink:href="#line_172" value=" Si languissoit auprés du mire"/><!--  Si languissoit auprés du mire -->
+<feat xlink:href="#line_173" value=" Et nuysoit a sa garison ,"/><!--  Et nuysoit a sa garison , -->
+<feat xlink:href="#line_174" value=" Car qui art ne se puet plus nuyre"/><!--  Car qui art ne se puet plus nuyre -->
+<feat xlink:href="#line_175" value=" Qu&apos; approucher le feu du tison ."/><!--  Qu' approucher le feu du tison . -->
+<feat xlink:href="#line_176" value=" Le cuer ens ou corps lui croissoit ,"/><!--  Le cuer ens ou corps lui croissoit , -->
+<feat xlink:href="#line_177" value=" D&apos; engoisse et de päeur estraint ,"/><!--  D' engoisse et de päeur estraint , -->
+<feat xlink:href="#line_178" value=" Tant qu&apos; a bien peu qu&apos; il ne froissoit"/><!--  Tant qu' a bien peu qu' il ne froissoit -->
+<feat xlink:href="#line_179" value=" Quant l&apos; un et l&apos; autre le contraint ."/><!--  Quant l' un et l' autre le contraint . -->
+<feat xlink:href="#line_180" value=" Desir boute : Crainte restraint ;"/><!--  Desir boute : Crainte restraint ; -->
+<feat xlink:href="#line_181" value=" L&apos; un eslargist : l&apos; autre resserre ;"/><!--  L' un eslargist : l' autre resserre ; -->
+<feat xlink:href="#line_182" value=" Si n&apos; a pas peu de mal empraint"/><!--  Si n' a pas peu de mal empraint -->
+<feat xlink:href="#line_183" value=" Qui porte en son cuer telle guerre ."/><!--  Qui porte en son cuer telle guerre . -->
+<feat xlink:href="#line_184" value=" De parler souvent s&apos; efforça ,"/><!--  De parler souvent s' efforça , -->
+<feat xlink:href="#line_185" value=" Se Crainte ne l&apos; eust destourné ;"/><!--  Se Crainte ne l' eust destourné ; -->
+<feat xlink:href="#line_186" value=" Mais en la fin son cuer força"/><!--  Mais en la fin son cuer força -->
+<feat xlink:href="#line_187" value=" Quant il ot assez sejourné ."/><!--  Quant il ot assez sejourné . -->
+<feat xlink:href="#line_188" value=" Puis s&apos; est vers la dame tourné"/><!--  Puis s' est vers la dame tourné -->
+<feat xlink:href="#line_189" value=" Et dist bas , en plourant adoncques :"/><!--  Et dist bas , en plourant adoncques : -->
+<feat xlink:href="#line_190" value=" Mal jour fu pour moy adjourné ,"/><!--  Mal jour fu pour moy adjourné , -->
+<feat xlink:href="#line_191" value=" Ma dame , quant je vous vy oncques ."/><!--  Ma dame , quant je vous vy oncques . -->
+<feat xlink:href="#line_192" value=" Je souffre mal ardent et chault"/><!--  Je souffre mal ardent et chault -->
+<feat xlink:href="#line_193" value=" Dont je muir pour vous bien vouloir ,"/><!--  Dont je muir pour vous bien vouloir , -->
+<feat xlink:href="#line_194" value=" Et si voy qu&apos; il ne vous en chault"/><!--  Et si voy qu' il ne vous en chault -->
+<feat xlink:href="#line_195" value=" Et n&apos; avez d&apos; y penser vouloir ;"/><!--  Et n' avez d' y penser vouloir ; -->
+<feat xlink:href="#line_196" value=" Mais en trop moins qu&apos; en nonchaloir"/><!--  Mais en trop moins qu' en nonchaloir -->
+<feat xlink:href="#line_197" value=" Le mectez quant je le vous compte ,"/><!--  Le mectez quant je le vous compte , -->
+<feat xlink:href="#line_198" value=" Et si n&apos; en pouez pis valoir ,"/><!--  Et si n' en pouez pis valoir , -->
+<feat xlink:href="#line_199" value=" N&apos; avoir moins honneur ne plus honte ."/><!--  N' avoir moins honneur ne plus honte . -->
+<feat xlink:href="#line_200" value=" Helas ! Que vous grieve , ma dame ,"/><!--  Helas ! Que vous grieve , ma dame , -->
+<feat xlink:href="#line_201" value=" S&apos; un franc cuer d&apos; omme vous veult bien ?"/><!--  S' un franc cuer d' omme vous veult bien ? -->
+<feat xlink:href="#line_202" value=" Et se par honneur et sans blame"/><!--  Et se par honneur et sans blame -->
+<feat xlink:href="#line_203" value=" Je suis voustre et voustre me tien ?"/><!--  Je suis voustre et voustre me tien ? -->
+<feat xlink:href="#line_204" value=" De droit je n&apos; y chalenge rien ,"/><!--  De droit je n' y chalenge rien , -->
+<feat xlink:href="#line_205" value=" Car ma volenté s&apos; est soubzmise"/><!--  Car ma volenté s' est soubzmise -->
+<feat xlink:href="#line_206" value=" En voustre gré , non pas au mien ,"/><!--  En voustre gré , non pas au mien , -->
+<feat xlink:href="#line_207" value=" Pour plus asservir ma franchise ."/><!--  Pour plus asservir ma franchise . -->
+<feat xlink:href="#line_208" value=" Ja soit ce que pas ne desserve"/><!--  Ja soit ce que pas ne desserve -->
+<feat xlink:href="#line_209" value=" Voustre grace par mon servir ,"/><!--  Voustre grace par mon servir , -->
+<feat xlink:href="#line_210" value=" Souffrez au moins que je vous serve"/><!--  Souffrez au moins que je vous serve -->
+<feat xlink:href="#line_211" value=" Sans voustre mal gré desservir ."/><!--  Sans voustre mal gré desservir . -->
+<feat xlink:href="#line_212" value=" Je serviray sans desservir"/><!--  Je serviray sans desservir -->
+<feat xlink:href="#line_213" value=" En ma loiauté observant ,"/><!--  En ma loiauté observant , -->
+<feat xlink:href="#line_214" value=" Car pour ce me fist asservir"/><!--  Car pour ce me fist asservir -->
+<feat xlink:href="#line_215" value=" Amours d&apos; estre voustre servant ."/><!--  Amours d' estre voustre servant . -->
+<feat xlink:href="#line_216" value=" Quant la dame oÿ ce langage ,"/><!--  Quant la dame oÿ ce langage , -->
+<feat xlink:href="#line_217" value=" Elle respondy bassement ,"/><!--  Elle respondy bassement , -->
+<feat xlink:href="#line_218" value=" Sans müer couleur ne courage"/><!--  Sans müer couleur ne courage -->
+<feat xlink:href="#line_219" value=" Mais tout amesureement :"/><!--  Mais tout amesureement : -->
+<feat xlink:href="#line_220" value=" Beau sire , ce foul pensement"/><!--  Beau sire , ce foul pensement -->
+<feat xlink:href="#line_221" value=" Ne vous laissera il jamais ?"/><!--  Ne vous laissera il jamais ? -->
+<feat xlink:href="#line_222" value=" Ne penserez vous autrement"/><!--  Ne penserez vous autrement -->
+<feat xlink:href="#line_223" value=" De donner a voustre cuer paix ?"/><!--  De donner a voustre cuer paix ? -->
+<feat xlink:href="#line_224" value=" Nulli n&apos; y pourroit la paix mectre"/><!--  Nulli n' y pourroit la paix mectre -->
+<feat xlink:href="#line_225" value=" Fors vous qui la guerre y meïstes"/><!--  Fors vous qui la guerre y meïstes -->
+<feat xlink:href="#line_226" value=" Quant voz yeulx escrirent la lectre"/><!--  Quant voz yeulx escrirent la lectre -->
+<feat xlink:href="#line_227" value=" Par quoy deffïer me feïstes ,"/><!--  Par quoy deffïer me feïstes , -->
+<feat xlink:href="#line_228" value=" Et que Doulx Regart transmeïstes ,"/><!--  Et que Doulx Regart transmeïstes , -->
+<feat xlink:href="#line_229" value=" Herault de celle deffïance ,"/><!--  Herault de celle deffïance , -->
+<feat xlink:href="#line_230" value=" Par lequel vous me promeïstes"/><!--  Par lequel vous me promeïstes -->
+<feat xlink:href="#line_231" value=" En deffïant , bonne fïance ."/><!--  En deffïant , bonne fïance . -->
+<feat xlink:href="#line_232" value=" Il a grant fain de vivre en dueil"/><!--  Il a grant fain de vivre en dueil -->
+<feat xlink:href="#line_233" value=" Et fait de son cuer lasche garde ,"/><!--  Et fait de son cuer lasche garde , -->
+<feat xlink:href="#line_234" value=" Qui contre un tout seul regard d&apos; ueil"/><!--  Qui contre un tout seul regard d' ueil -->
+<feat xlink:href="#line_235" value=" Sa paix et sa joye ne garde ."/><!--  Sa paix et sa joye ne garde . -->
+<feat xlink:href="#line_236" value=" Se moy ou aultre vous regarde ,"/><!--  Se moy ou aultre vous regarde , -->
+<feat xlink:href="#line_237" value=" Les yeulx sont faiz pour regarder ."/><!--  Les yeulx sont faiz pour regarder . -->
+<feat xlink:href="#line_238" value=" Je n&apos; y prent point aultrement garde ;"/><!--  Je n' y prent point aultrement garde ; -->
+<feat xlink:href="#line_239" value=" Qui y sent mal s&apos; en doit garder ."/><!--  Qui y sent mal s' en doit garder . -->
+<feat xlink:href="#line_240" value=" S&apos; aucun blece autruy d&apos; aventure"/><!--  S' aucun blece autruy d' aventure -->
+<feat xlink:href="#line_241" value=" Par coulpe de cellui qui blece ,"/><!--  Par coulpe de cellui qui blece , -->
+<feat xlink:href="#line_242" value=" Quoy qu&apos; il n&apos; en puet mais par droicture ,"/><!--  Quoy qu' il n' en puet mais par droicture , -->
+<feat xlink:href="#line_243" value=" Si en a il dueil et tristece ."/><!--  Si en a il dueil et tristece . -->
+<feat xlink:href="#line_244" value=" Et puis que Fortune ou Rudece"/><!--  Et puis que Fortune ou Rudece -->
+<feat xlink:href="#line_245" value=" Ne m&apos; ont mie fait ce meshaing ,"/><!--  Ne m' ont mie fait ce meshaing , -->
+<feat xlink:href="#line_246" value=" Mais voustre tresbelle jeunece ,"/><!--  Mais voustre tresbelle jeunece , -->
+<feat xlink:href="#line_247" value=" Pourquoy l&apos; avez vous en desdaing ?"/><!--  Pourquoy l' avez vous en desdaing ? -->
+<feat xlink:href="#line_248" value=" Contre vous ne desdaing n&apos; ataine"/><!--  Contre vous ne desdaing n' ataine -->
+<feat xlink:href="#line_249" value=" N&apos; euz je oncques ne n&apos; y vueil avoir ,"/><!--  N' euz je oncques ne n' y vueil avoir , -->
+<feat xlink:href="#line_250" value=" Ne trop grant amour ne trop haine ,"/><!--  Ne trop grant amour ne trop haine , -->
+<feat xlink:href="#line_251" value=" Ne voustre priveté savoir ."/><!--  Ne voustre priveté savoir . -->
+<feat xlink:href="#line_252" value=" Se Cuider vous fait percevoir"/><!--  Se Cuider vous fait percevoir -->
+<feat xlink:href="#line_253" value=" Que peu de chose puet trop plaire ,"/><!--  Que peu de chose puet trop plaire , -->
+<feat xlink:href="#line_254" value=" Et vous vous voulez decevoir ,"/><!--  Et vous vous voulez decevoir , -->
+<feat xlink:href="#line_255" value=" Ce ne vueil je pas pourtant faire ."/><!--  Ce ne vueil je pas pourtant faire . -->
+<feat xlink:href="#line_256" value=" Qui que m&apos; ait le mal pourchacé ,"/><!--  Qui que m' ait le mal pourchacé , -->
+<feat xlink:href="#line_257" value=" Cuider ne m&apos; a point deceü ;"/><!--  Cuider ne m' a point deceü ; -->
+<feat xlink:href="#line_258" value=" Mais Amour m&apos; a si bien chacé"/><!--  Mais Amour m' a si bien chacé -->
+<feat xlink:href="#line_259" value=" Que je suis en voz laz cheü ."/><!--  Que je suis en voz laz cheü . -->
+<feat xlink:href="#line_260" value=" Et puis qu&apos; ainsi m&apos; est escheü"/><!--  Et puis qu' ainsi m' est escheü -->
+<feat xlink:href="#line_261" value=" D&apos; estre a mercy entre voz mains ,"/><!--  D' estre a mercy entre voz mains , -->
+<feat xlink:href="#line_262" value=" S&apos; il m&apos; est au chëoir mescheü ,"/><!--  S' il m' est au chëoir mescheü , -->
+<feat xlink:href="#line_263" value=" Qui plus tost meurt en languist moins ."/><!--  Qui plus tost meurt en languist moins . -->
+<feat xlink:href="#line_264" value=" Si gracïeuse maladie"/><!--  Si gracïeuse maladie -->
+<feat xlink:href="#line_265" value=" Ne met gaires de gens a mort ,"/><!--  Ne met gaires de gens a mort , -->
+<feat xlink:href="#line_266" value=" Mais il siet bien que l&apos; on le die"/><!--  Mais il siet bien que l' on le die -->
+<feat xlink:href="#line_267" value=" Pour plus tost actraire confort ."/><!--  Pour plus tost actraire confort . -->
+<feat xlink:href="#line_268" value=" Tel se plaint et garmente fort"/><!--  Tel se plaint et garmente fort -->
+<feat xlink:href="#line_269" value=" Qui n&apos; a pas les plus aspres deulx ,"/><!--  Qui n' a pas les plus aspres deulx , -->
+<feat xlink:href="#line_270" value=" Et s&apos; amours greve tant , au fort"/><!--  Et s' amours greve tant , au fort -->
+<feat xlink:href="#line_271" value=" Mieulx en vault un dolent que deux ."/><!--  Mieulx en vault un dolent que deux . -->
+<feat xlink:href="#line_272" value=" Helas , ma dame ! Il vault trop mieulx ,"/><!--  Helas , ma dame ! Il vault trop mieulx , -->
+<feat xlink:href="#line_273" value=" Pour courtoisie et bonté faire ,"/><!--  Pour courtoisie et bonté faire , -->
+<feat xlink:href="#line_274" value=" D&apos; un dolent faire deux joyeux"/><!--  D' un dolent faire deux joyeux -->
+<feat xlink:href="#line_275" value=" Que le dolent du tout deffaire ."/><!--  Que le dolent du tout deffaire . -->
+<feat xlink:href="#line_276" value=" Je n&apos; ay desir në autre affaire"/><!--  Je n' ay desir në autre affaire -->
+<feat xlink:href="#line_277" value=" Fors que mon service vous plaise"/><!--  Fors que mon service vous plaise -->
+<feat xlink:href="#line_278" value=" Pour eschanger , sans riens meffaire ,"/><!--  Pour eschanger , sans riens meffaire , -->
+<feat xlink:href="#line_279" value=" Deux plaisirs ou lieu d&apos; un mesaise ."/><!--  Deux plaisirs ou lieu d' un mesaise . -->
+<feat xlink:href="#line_280" value=" D&apos; amours ne quier courroux n&apos; aysance ,"/><!--  D' amours ne quier courroux n' aysance , -->
+<feat xlink:href="#line_281" value=" Ne grant espoir ne grant desir ;"/><!--  Ne grant espoir ne grant desir ; -->
+<feat xlink:href="#line_282" value=" Et si n&apos; ay de voz maulx plaisance"/><!--  Et si n' ay de voz maulx plaisance -->
+<feat xlink:href="#line_283" value=" Ne regart a voustre plaisir ."/><!--  Ne regart a voustre plaisir . -->
+<feat xlink:href="#line_284" value=" Choisisse qui vouldra choisir ."/><!--  Choisisse qui vouldra choisir . -->
+<feat xlink:href="#line_285" value=" Je suis france et france vueil estre ,"/><!--  Je suis france et france vueil estre , -->
+<feat xlink:href="#line_286" value=" Sans moy de mon cuer dessaisir"/><!--  Sans moy de mon cuer dessaisir -->
+<feat xlink:href="#line_287" value=" Pour en faire un autre le maistre ."/><!--  Pour en faire un autre le maistre . -->
+<feat xlink:href="#line_288" value=" Amours , qui joie et dueil depart ,"/><!--  Amours , qui joie et dueil depart , -->
+<feat xlink:href="#line_289" value=" Mist les dames hors de servaige"/><!--  Mist les dames hors de servaige -->
+<feat xlink:href="#line_290" value=" Et leur ordonna pour leur part"/><!--  Et leur ordonna pour leur part -->
+<feat xlink:href="#line_291" value=" Maistrise et franc seigneurïage ."/><!--  Maistrise et franc seigneurïage . -->
+<feat xlink:href="#line_292" value=" Les servans n&apos; y ont d&apos; aventage"/><!--  Les servans n' y ont d' aventage -->
+<feat xlink:href="#line_293" value=" Fors tant seulement leur pourchaz ;"/><!--  Fors tant seulement leur pourchaz ; -->
+<feat xlink:href="#line_294" value=" Et qui fait une foiz l&apos; ommage ,"/><!--  Et qui fait une foiz l' ommage , -->
+<feat xlink:href="#line_295" value=" Bien chier en coustent les rachaz ."/><!--  Bien chier en coustent les rachaz . -->
+<feat xlink:href="#line_296" value=" Dames ne sont mye si lourdes ,"/><!--  Dames ne sont mye si lourdes , -->
+<feat xlink:href="#line_297" value=" Si mal entendans ne si foles"/><!--  Si mal entendans ne si foles -->
+<feat xlink:href="#line_298" value=" Que , pour un peu de plaisans bourdes"/><!--  Que , pour un peu de plaisans bourdes -->
+<feat xlink:href="#line_299" value=" Confites en belles parolles ,"/><!--  Confites en belles parolles , -->
+<feat xlink:href="#line_300" value=" Dont vous autres tenés escoles"/><!--  Dont vous autres tenés escoles -->
+<feat xlink:href="#line_301" value=" Pour leur faire croire merveilles ,"/><!--  Pour leur faire croire merveilles , -->
+<feat xlink:href="#line_302" value=" Elles changent si tost leur coles :"/><!--  Elles changent si tost leur coles : -->
+<feat xlink:href="#line_303" value=" A beau parler closes oreilles ."/><!--  A beau parler closes oreilles . -->
+<feat xlink:href="#line_304" value=" Il n&apos; est jangleur , tant y meïst"/><!--  Il n' est jangleur , tant y meïst -->
+<feat xlink:href="#line_305" value=" De sens , d&apos; estudie ou de peine ,"/><!--  De sens , d' estudie ou de peine , -->
+<feat xlink:href="#line_306" value=" Qui si triste plainte feïst"/><!--  Qui si triste plainte feïst -->
+<feat xlink:href="#line_307" value=" Comme cellui que le mal maine ."/><!--  Comme cellui que le mal maine . -->
+<feat xlink:href="#line_308" value=" Car qui se plaint de teste saine ,"/><!--  Car qui se plaint de teste saine , -->
+<feat xlink:href="#line_309" value=" A paine sa faintise cueuvre ;"/><!--  A paine sa faintise cueuvre ; -->
+<feat xlink:href="#line_310" value=" Mais pensee de doleur plaine"/><!--  Mais pensee de doleur plaine -->
+<feat xlink:href="#line_311" value=" Preuve ses parolles par euvre ."/><!--  Preuve ses parolles par euvre . -->
+<feat xlink:href="#line_312" value=" Amours est crüel losengier ,"/><!--  Amours est crüel losengier , -->
+<feat xlink:href="#line_313" value=" Aspre en fait et doulx a mentir ,"/><!--  Aspre en fait et doulx a mentir , -->
+<feat xlink:href="#line_314" value=" Et se scet bien de ceulx venger"/><!--  Et se scet bien de ceulx venger -->
+<feat xlink:href="#line_315" value=" Qui cuident ses secrez sentir :"/><!--  Qui cuident ses secrez sentir : -->
+<feat xlink:href="#line_316" value=" Il les fait a soy consentir"/><!--  Il les fait a soy consentir -->
+<feat xlink:href="#line_317" value=" Par une entree de chierté ;"/><!--  Par une entree de chierté ; -->
+<feat xlink:href="#line_318" value=" Mais quant vient jusqu&apos; au repentir ,"/><!--  Mais quant vient jusqu' au repentir , -->
+<feat xlink:href="#line_319" value=" Lors se descouvre sa fierté ."/><!--  Lors se descouvre sa fierté . -->
+<feat xlink:href="#line_320" value=" De tant plus que Dieu et Nature"/><!--  De tant plus que Dieu et Nature -->
+<feat xlink:href="#line_321" value=" Ont fait plaisir d&apos; amours plus hault ,"/><!--  Ont fait plaisir d' amours plus hault , -->
+<feat xlink:href="#line_322" value=" Tant plus aspre en est la pointure"/><!--  Tant plus aspre en est la pointure -->
+<feat xlink:href="#line_323" value=" Et plus desplaisant le deffault ."/><!--  Et plus desplaisant le deffault . -->
+<feat xlink:href="#line_324" value=" Qui n&apos; a froit n&apos; a cure de chault ;"/><!--  Qui n' a froit n' a cure de chault ; -->
+<feat xlink:href="#line_325" value=" L&apos; un contraire est pour l&apos; autre quis ,"/><!--  L' un contraire est pour l' autre quis , -->
+<feat xlink:href="#line_326" value=" Et ne scet nul que plaisir vault"/><!--  Et ne scet nul que plaisir vault -->
+<feat xlink:href="#line_327" value=" S&apos; il ne l&apos; a par doleur conquis ."/><!--  S' il ne l' a par doleur conquis . -->
+<feat xlink:href="#line_328" value=" Plaisir n&apos; est mie partout un ;"/><!--  Plaisir n' est mie partout un ; -->
+<feat xlink:href="#line_329" value=" Ce vous est doulx qui m&apos; est amer ,"/><!--  Ce vous est doulx qui m' est amer , -->
+<feat xlink:href="#line_330" value=" Si ne pouez vous ou aucun"/><!--  Si ne pouez vous ou aucun -->
+<feat xlink:href="#line_331" value=" A voustre gré moy faire amer ."/><!--  A voustre gré moy faire amer . -->
+<feat xlink:href="#line_332" value=" Nul ne se doit amy clamer"/><!--  Nul ne se doit amy clamer -->
+<feat xlink:href="#line_333" value=" Si non par cuer ains que par livre ,"/><!--  Si non par cuer ains que par livre , -->
+<feat xlink:href="#line_334" value=" Car force ne puet entamer"/><!--  Car force ne puet entamer -->
+<feat xlink:href="#line_335" value=" La volenté france et delivre ."/><!--  La volenté france et delivre . -->
+<feat xlink:href="#line_336" value=" Haa , ma dame ! Ja Dieu ne plaise"/><!--  Haa , ma dame ! Ja Dieu ne plaise -->
+<feat xlink:href="#line_337" value=" Qu&apos; autre droit y vueille querir ,"/><!--  Qu' autre droit y vueille querir , -->
+<feat xlink:href="#line_338" value=" Fors de vous moustrer ma mesaise"/><!--  Fors de vous moustrer ma mesaise -->
+<feat xlink:href="#line_339" value=" Et voustre mercy requerir ."/><!--  Et voustre mercy requerir . -->
+<feat xlink:href="#line_340" value=" Se je tens honneur surquerir ,"/><!--  Se je tens honneur surquerir , -->
+<feat xlink:href="#line_341" value=" Dieu et Fortune me confonde"/><!--  Dieu et Fortune me confonde -->
+<feat xlink:href="#line_342" value=" Et ne me doint ja acquerir"/><!--  Et ne me doint ja acquerir -->
+<feat xlink:href="#line_343" value=" Une seule joye en ce monde ,"/><!--  Une seule joye en ce monde , -->
+<feat xlink:href="#line_344" value=" Vous et autres qui ainsi jurent"/><!--  Vous et autres qui ainsi jurent -->
+<feat xlink:href="#line_345" value=" Et se condempnent et maudïent ,"/><!--  Et se condempnent et maudïent , -->
+<feat xlink:href="#line_346" value=" Ne cuident que leurs sermens durent ,"/><!--  Ne cuident que leurs sermens durent , -->
+<feat xlink:href="#line_347" value=" Fors tant comme les moz se dïent"/><!--  Fors tant comme les moz se dïent -->
+<feat xlink:href="#line_348" value=" Et que Dieu et les sains s&apos; en rïent ,"/><!--  Et que Dieu et les sains s' en rïent , -->
+<feat xlink:href="#line_349" value=" Car en telz sermens n&apos; a riens ferme ,"/><!--  Car en telz sermens n' a riens ferme , -->
+<feat xlink:href="#line_350" value=" Et les chestives qui s&apos; y fïent"/><!--  Et les chestives qui s' y fïent -->
+<feat xlink:href="#line_351" value=" En plourent aprés mainte lerme ."/><!--  En plourent aprés mainte lerme . -->
+<feat xlink:href="#line_352" value=" Cellui n&apos; a pas courage d&apos; omme"/><!--  Cellui n' a pas courage d' omme -->
+<feat xlink:href="#line_353" value=" Qui quiert son plaisir en reprouche ,"/><!--  Qui quiert son plaisir en reprouche , -->
+<feat xlink:href="#line_354" value=" Et n&apos; est pas digne que on le nomme"/><!--  Et n' est pas digne que on le nomme -->
+<feat xlink:href="#line_355" value=" Ou qu&apos; air ou terre lui atouche ."/><!--  Ou qu' air ou terre lui atouche . -->
+<feat xlink:href="#line_356" value=" Loyal cuer et voir disant bouche"/><!--  Loyal cuer et voir disant bouche -->
+<feat xlink:href="#line_357" value=" Sont le chastel d&apos; omme parfait ,"/><!--  Sont le chastel d' omme parfait , -->
+<feat xlink:href="#line_358" value=" Et qui si legier sa foy couche ,"/><!--  Et qui si legier sa foy couche , -->
+<feat xlink:href="#line_359" value=" Son honneur pour l&apos; autruy deffait ."/><!--  Son honneur pour l' autruy deffait . -->
+<feat xlink:href="#line_360" value=" Vilain cuer et bouche courtoise"/><!--  Vilain cuer et bouche courtoise -->
+<feat xlink:href="#line_361" value=" Ne sont mie bien d&apos; une sorte ,"/><!--  Ne sont mie bien d' une sorte , -->
+<feat xlink:href="#line_362" value=" Mais Faintise tost les accoyse ,"/><!--  Mais Faintise tost les accoyse , -->
+<feat xlink:href="#line_363" value=" Qui par malice les assorte ."/><!--  Qui par malice les assorte . -->
+<feat xlink:href="#line_364" value=" La mesnie Faulx Semblant porte"/><!--  La mesnie Faulx Semblant porte -->
+<feat xlink:href="#line_365" value=" Son honneur en sa langue fainte ,"/><!--  Son honneur en sa langue fainte , -->
+<feat xlink:href="#line_366" value=" Mais honneur est en leur cuer morte"/><!--  Mais honneur est en leur cuer morte -->
+<feat xlink:href="#line_367" value=" Sans estre plouree ne plainte ."/><!--  Sans estre plouree ne plainte . -->
+<feat xlink:href="#line_368" value=" Qui pense mal , bien ne lui vieigne !"/><!--  Qui pense mal , bien ne lui vieigne ! -->
+<feat xlink:href="#line_369" value=" Dieu doint a chascun sa desserte !"/><!--  Dieu doint a chascun sa desserte ! -->
+<feat xlink:href="#line_370" value=" Mais , pour Dieu mercy , vous souviengne"/><!--  Mais , pour Dieu mercy , vous souviengne -->
+<feat xlink:href="#line_371" value=" De la doleur que j&apos; ay soufferte ,"/><!--  De la doleur que j' ay soufferte , -->
+<feat xlink:href="#line_372" value=" Car de ma mort ne de ma perte"/><!--  Car de ma mort ne de ma perte -->
+<feat xlink:href="#line_373" value=" N&apos; a pas voustre doulceur envie ;"/><!--  N' a pas voustre doulceur envie ; -->
+<feat xlink:href="#line_374" value=" Et se vo grace m&apos; est ouverte ,"/><!--  Et se vo grace m' est ouverte , -->
+<feat xlink:href="#line_375" value=" Vous estes garant de ma vie ."/><!--  Vous estes garant de ma vie . -->
+<feat xlink:href="#line_376" value=" Legier cuer et plaisant folie ,"/><!--  Legier cuer et plaisant folie , -->
+<feat xlink:href="#line_377" value=" Qui est meilleur quant plus est brieve ,"/><!--  Qui est meilleur quant plus est brieve , -->
+<feat xlink:href="#line_378" value=" Vous font celle melencolie ;"/><!--  Vous font celle melencolie ; -->
+<feat xlink:href="#line_379" value=" Mais c&apos; est un mal dont on relieve ."/><!--  Mais c' est un mal dont on relieve . -->
+<feat xlink:href="#line_380" value=" Faites a vos pensees trieve ,"/><!--  Faites a vos pensees trieve , -->
+<feat xlink:href="#line_381" value=" Car de plus beaux jeux on se lasse ."/><!--  Car de plus beaux jeux on se lasse . -->
+<feat xlink:href="#line_382" value=" Je ne vous aide ne ne grieve ;"/><!--  Je ne vous aide ne ne grieve ; -->
+<feat xlink:href="#line_383" value=" Qui ne m&apos; en croira , je m&apos; en passe ."/><!--  Qui ne m' en croira , je m' en passe . -->
+<feat xlink:href="#line_384" value=" Qui a faulcon , oisel ou chien"/><!--  Qui a faulcon , oisel ou chien -->
+<feat xlink:href="#line_385" value=" Qui le suit , ame , craint et doubte ,"/><!--  Qui le suit , ame , craint et doubte , -->
+<feat xlink:href="#line_386" value=" Il le tient chier et garde bien"/><!--  Il le tient chier et garde bien -->
+<feat xlink:href="#line_387" value=" Et ne le chace ne deboute :"/><!--  Et ne le chace ne deboute : -->
+<feat xlink:href="#line_388" value=" Et je , qui ay m&apos; entente toute"/><!--  Et je , qui ay m' entente toute -->
+<feat xlink:href="#line_389" value=" En vous sans faintise et sans change ,"/><!--  En vous sans faintise et sans change , -->
+<feat xlink:href="#line_390" value=" Suis rebouté plus bas qu&apos; en soute"/><!--  Suis rebouté plus bas qu' en soute -->
+<feat xlink:href="#line_391" value=" Et moins prisé q&apos; un tout estrange ."/><!--  Et moins prisé q' un tout estrange . -->
+<feat xlink:href="#line_392" value=" Se je fais bonne chiere a tous"/><!--  Se je fais bonne chiere a tous -->
+<feat xlink:href="#line_393" value=" Par honneur et de franc courage ,"/><!--  Par honneur et de franc courage , -->
+<feat xlink:href="#line_394" value=" Je ne le vueil pas faire a vous"/><!--  Je ne le vueil pas faire a vous -->
+<feat xlink:href="#line_395" value=" Pour eschever voustre dommaige ;"/><!--  Pour eschever voustre dommaige ; -->
+<feat xlink:href="#line_396" value=" Car Amours est si petit saige"/><!--  Car Amours est si petit saige -->
+<feat xlink:href="#line_397" value=" Et de crëance si legiere"/><!--  Et de crëance si legiere -->
+<feat xlink:href="#line_398" value=" Qu&apos; el prent tout a son avantage"/><!--  Qu' el prent tout a son avantage -->
+<feat xlink:href="#line_399" value=" Chose qui ne lui sert de guiere ."/><!--  Chose qui ne lui sert de guiere . -->
+<feat xlink:href="#line_400" value=" Se pour amour et fëaulté"/><!--  Se pour amour et fëaulté -->
+<feat xlink:href="#line_401" value=" Je pers l&apos; acueil qu&apos; estranges ont ,"/><!--  Je pers l' acueil qu' estranges ont , -->
+<feat xlink:href="#line_402" value=" Doncq me vauldroit ma loyauté"/><!--  Doncq me vauldroit ma loyauté -->
+<feat xlink:href="#line_403" value=" Moins qu&apos; a ceulx qui viennent et vont"/><!--  Moins qu' a ceulx qui viennent et vont -->
+<feat xlink:href="#line_404" value=" Et qui de rien voustres ne sont ;"/><!--  Et qui de rien voustres ne sont ; -->
+<feat xlink:href="#line_405" value=" Et sembleroit en vous perie"/><!--  Et sembleroit en vous perie -->
+<feat xlink:href="#line_406" value=" Courtoisie qui vous semont"/><!--  Courtoisie qui vous semont -->
+<feat xlink:href="#line_407" value=" Qu&apos; amours soit par amours merie ."/><!--  Qu' amours soit par amours merie . -->
+<feat xlink:href="#line_408" value=" Courtoisie est si alïee"/><!--  Courtoisie est si alïee -->
+<feat xlink:href="#line_409" value=" D&apos; Onneur , qui l&apos; aime et la tient chiere ,"/><!--  D' Onneur , qui l' aime et la tient chiere , -->
+<feat xlink:href="#line_410" value=" Qu&apos; el ne veult estre a riens lïee"/><!--  Qu' el ne veult estre a riens lïee -->
+<feat xlink:href="#line_411" value=" Ne pour devoir ne pour prïere ;"/><!--  Ne pour devoir ne pour prïere ; -->
+<feat xlink:href="#line_412" value=" Ains depart de sa bonne chiere"/><!--  Ains depart de sa bonne chiere -->
+<feat xlink:href="#line_413" value=" Ou il lui plaist et bon lui semble ."/><!--  Ou il lui plaist et bon lui semble . -->
+<feat xlink:href="#line_414" value=" Guerredon , contrainte et renchiere"/><!--  Guerredon , contrainte et renchiere -->
+<feat xlink:href="#line_415" value=" Et elle , ne vont point ensemble ."/><!--  Et elle , ne vont point ensemble . -->
+<feat xlink:href="#line_416" value=" Je ne quier point de guerredon ,"/><!--  Je ne quier point de guerredon , -->
+<feat xlink:href="#line_417" value=" Car le desservir m&apos; est trop hault :"/><!--  Car le desservir m' est trop hault : -->
+<feat xlink:href="#line_418" value=" Je demande grace en pur don"/><!--  Je demande grace en pur don -->
+<feat xlink:href="#line_419" value=" Puis que mort ou mercy me fault ."/><!--  Puis que mort ou mercy me fault . -->
+<feat xlink:href="#line_420" value=" Donner le bien ou il deffault ,"/><!--  Donner le bien ou il deffault , -->
+<feat xlink:href="#line_421" value=" C&apos; est courtoisie raisonnable ,"/><!--  C' est courtoisie raisonnable , -->
+<feat xlink:href="#line_422" value=" Mais aux siens encores plus vault"/><!--  Mais aux siens encores plus vault -->
+<feat xlink:href="#line_423" value=" Qu&apos; estre aux estranges amÿable ."/><!--  Qu' estre aux estranges amÿable . -->
+<feat xlink:href="#line_424" value=" Ne say que vous appellez « bien » —"/><!--  Ne say que vous appellez « bien » — -->
+<feat xlink:href="#line_425" value=" Mal emprunte bien autruy nom —"/><!--  Mal emprunte bien autruy nom — -->
+<feat xlink:href="#line_426" value=" Mais il est trop large du sien"/><!--  Mais il est trop large du sien -->
+<feat xlink:href="#line_427" value=" Qui par donner pert son renom ."/><!--  Qui par donner pert son renom . -->
+<feat xlink:href="#line_428" value=" On ne doit faire octroy , se non"/><!--  On ne doit faire octroy , se non -->
+<feat xlink:href="#line_429" value=" Quant la requeste est avenant ,"/><!--  Quant la requeste est avenant , -->
+<feat xlink:href="#line_430" value=" Car se l&apos; onneur ne retenon ,"/><!--  Car se l' onneur ne retenon , -->
+<feat xlink:href="#line_431" value=" Trop petit est le remenant ."/><!--  Trop petit est le remenant . -->
+<feat xlink:href="#line_432" value=" Oncq homme mortel ne nasqui"/><!--  Oncq homme mortel ne nasqui -->
+<feat xlink:href="#line_433" value=" Ou pourroit neistre soubz les cieulx —"/><!--  Ou pourroit neistre soubz les cieulx — -->
+<feat xlink:href="#line_434" value=" Et n&apos; est autre , fors vous — a qui"/><!--  Et n' est autre , fors vous — a qui -->
+<feat xlink:href="#line_435" value=" Voustre honneur touche plus ou mieulx"/><!--  Voustre honneur touche plus ou mieulx -->
+<feat xlink:href="#line_436" value=" Qu&apos; a moy , qui n&apos; atens jeune et vieulx"/><!--  Qu' a moy , qui n' atens jeune et vieulx -->
+<feat xlink:href="#line_437" value=" Le mien fors par voustre service ;"/><!--  Le mien fors par voustre service ; -->
+<feat xlink:href="#line_438" value=" Et n&apos; ay cuer , sens , bouche në yeulx"/><!--  Et n' ay cuer , sens , bouche në yeulx -->
+<feat xlink:href="#line_439" value=" Qui soit donné a autre office ."/><!--  Qui soit donné a autre office . -->
+<feat xlink:href="#line_440" value=" D&apos; assez grant charge se chevit"/><!--  D' assez grant charge se chevit -->
+<feat xlink:href="#line_441" value=" Qui son honneur garde et maintient ;"/><!--  Qui son honneur garde et maintient ; -->
+<feat xlink:href="#line_442" value=" Mais a dangier travaille et vit"/><!--  Mais a dangier travaille et vit -->
+<feat xlink:href="#line_443" value=" Qui en autry main l&apos; entretient ."/><!--  Qui en autry main l' entretient . -->
+<feat xlink:href="#line_444" value=" Cil a qui l&apos; onneur appartient"/><!--  Cil a qui l' onneur appartient -->
+<feat xlink:href="#line_445" value=" Ne s&apos; en doit a autruy actendre ,"/><!--  Ne s' en doit a autruy actendre , -->
+<feat xlink:href="#line_446" value=" Car tant moins du sien en retient"/><!--  Car tant moins du sien en retient -->
+<feat xlink:href="#line_447" value=" Qui trop veult a l&apos; autrui entendre ."/><!--  Qui trop veult a l' autrui entendre . -->
+<feat xlink:href="#line_448" value=" Voz yeulx ont si empraint leur merche"/><!--  Voz yeulx ont si empraint leur merche -->
+<feat xlink:href="#line_449" value=" En mon cuer que , quoy qu&apos; il avieigne ,"/><!--  En mon cuer que , quoy qu' il avieigne , -->
+<feat xlink:href="#line_450" value=" Se j&apos; ay honneur ou je le serche ,"/><!--  Se j' ay honneur ou je le serche , -->
+<feat xlink:href="#line_451" value=" Il convient que de vous me vieigne ."/><!--  Il convient que de vous me vieigne . -->
+<feat xlink:href="#line_452" value=" Fortune a voulu que je tieigne"/><!--  Fortune a voulu que je tieigne -->
+<feat xlink:href="#line_453" value=" Ma vie en voustre mercy close ,"/><!--  Ma vie en voustre mercy close , -->
+<feat xlink:href="#line_454" value=" Si est bien droit qu&apos; il me souveigne"/><!--  Si est bien droit qu' il me souveigne -->
+<feat xlink:href="#line_455" value=" De voustre honneur sur toute chose ."/><!--  De voustre honneur sur toute chose . -->
+<feat xlink:href="#line_456" value=" A voustre honneur seul entendez"/><!--  A voustre honneur seul entendez -->
+<feat xlink:href="#line_457" value=" Pour voustre temps mieulx employer :"/><!--  Pour voustre temps mieulx employer : -->
+<feat xlink:href="#line_458" value=" Du mien a moy vous atendez"/><!--  Du mien a moy vous atendez -->
+<feat xlink:href="#line_459" value=" Sans prendre peine a foloyer ."/><!--  Sans prendre peine a foloyer . -->
+<feat xlink:href="#line_460" value=" Bon fait vaincre et assouployer"/><!--  Bon fait vaincre et assouployer -->
+<feat xlink:href="#line_461" value=" Un cuer folement deceü ,"/><!--  Un cuer folement deceü , -->
+<feat xlink:href="#line_462" value=" Car rompre vault pis que ployer"/><!--  Car rompre vault pis que ployer -->
+<feat xlink:href="#line_463" value=" Et esbranlé mieulx que cheü ."/><!--  Et esbranlé mieulx que cheü . -->
+<feat xlink:href="#line_464" value=" Pensés , ma dame , que depuis"/><!--  Pensés , ma dame , que depuis -->
+<feat xlink:href="#line_465" value=" Qu&apos; Amours mon cuer vous delivra ,"/><!--  Qu' Amours mon cuer vous delivra , -->
+<feat xlink:href="#line_466" value=" Il ne pourroit — ne je ne puis —"/><!--  Il ne pourroit — ne je ne puis — -->
+<feat xlink:href="#line_467" value=" Estre autre tant com il vivra ."/><!--  Estre autre tant com il vivra . -->
+<feat xlink:href="#line_468" value=" Tout quicte et franc le vous livra ;"/><!--  Tout quicte et franc le vous livra ; -->
+<feat xlink:href="#line_469" value=" Ce don ne se puet abolir ."/><!--  Ce don ne se puet abolir . -->
+<feat xlink:href="#line_470" value=" J&apos; actens ce qui s&apos; en ensuivra ;"/><!--  J' actens ce qui s' en ensuivra ; -->
+<feat xlink:href="#line_471" value=" Je n&apos; y puis mectre ne tollir ."/><!--  Je n' y puis mectre ne tollir . -->
+<feat xlink:href="#line_472" value=" Je ne tien mie pour donné"/><!--  Je ne tien mie pour donné -->
+<feat xlink:href="#line_473" value=" Ce qu&apos; on offre a qui ne le prent ,"/><!--  Ce qu' on offre a qui ne le prent , -->
+<feat xlink:href="#line_474" value=" Car le don est abandonné"/><!--  Car le don est abandonné -->
+<feat xlink:href="#line_475" value=" Se le donneur ne le reprent ."/><!--  Se le donneur ne le reprent . -->
+<feat xlink:href="#line_476" value=" Trop a de cuers qui entreprent"/><!--  Trop a de cuers qui entreprent -->
+<feat xlink:href="#line_477" value=" D&apos; en donner a qui les reffuse ,"/><!--  D' en donner a qui les reffuse , -->
+<feat xlink:href="#line_478" value=" Mais il est sage qui aprent"/><!--  Mais il est sage qui aprent -->
+<feat xlink:href="#line_479" value=" A s&apos; en rectraire qu&apos; il n&apos; y muse ."/><!--  A s' en rectraire qu' il n' y muse . -->
+<feat xlink:href="#line_480" value=" Il ne doit pas cuider muser"/><!--  Il ne doit pas cuider muser -->
+<feat xlink:href="#line_481" value=" Qui sert dame de si hault pris ;"/><!--  Qui sert dame de si hault pris ; -->
+<feat xlink:href="#line_482" value=" Et se je y doy mon temps user ,"/><!--  Et se je y doy mon temps user , -->
+<feat xlink:href="#line_483" value=" Au moins n&apos; en puis je estre repris"/><!--  Au moins n' en puis je estre repris -->
+<feat xlink:href="#line_484" value=" De cuer failli ne de mespris"/><!--  De cuer failli ne de mespris -->
+<feat xlink:href="#line_485" value=" Quant envers vous fais ceste queste ,"/><!--  Quant envers vous fais ceste queste , -->
+<feat xlink:href="#line_486" value=" Par qui Amours a entrepris"/><!--  Par qui Amours a entrepris -->
+<feat xlink:href="#line_487" value=" De tant de bons cuers la conqueste ."/><!--  De tant de bons cuers la conqueste . -->
+<feat xlink:href="#line_488" value=" Se mon conseil voulez oïr ,"/><!--  Se mon conseil voulez oïr , -->
+<feat xlink:href="#line_489" value=" Querez ailleurs plus belle et gente"/><!--  Querez ailleurs plus belle et gente -->
+<feat xlink:href="#line_490" value=" Qui d&apos; amours se vueille esjouïr"/><!--  Qui d' amours se vueille esjouïr -->
+<feat xlink:href="#line_491" value=" Et mieulx sortisse a voustre entente ."/><!--  Et mieulx sortisse a voustre entente . -->
+<feat xlink:href="#line_492" value=" Trop loing de confort se tourmente"/><!--  Trop loing de confort se tourmente -->
+<feat xlink:href="#line_493" value=" Qui a par soy pour deux se trouble ,"/><!--  Qui a par soy pour deux se trouble , -->
+<feat xlink:href="#line_494" value=" Et cellui pert le jeu d&apos; actente"/><!--  Et cellui pert le jeu d' actente -->
+<feat xlink:href="#line_495" value=" Qui ne scet faire son point double ."/><!--  Qui ne scet faire son point double . -->
+<feat xlink:href="#line_496" value=" Le conseil que vous me donnez"/><!--  Le conseil que vous me donnez -->
+<feat xlink:href="#line_497" value=" Se puet mieulx dire qu&apos; exploicter ."/><!--  Se puet mieulx dire qu' exploicter . -->
+<feat xlink:href="#line_498" value=" Du non croire me pardonnez ,"/><!--  Du non croire me pardonnez , -->
+<feat xlink:href="#line_499" value=" Car j&apos; ay cuer tel et si entier"/><!--  Car j' ay cuer tel et si entier -->
+<feat xlink:href="#line_500" value=" Qu&apos; il ne se pourroit affaictier"/><!--  Qu' il ne se pourroit affaictier -->
+<feat xlink:href="#line_501" value=" A chose ou Loyauté n&apos; acorde ;"/><!--  A chose ou Loyauté n' acorde ; -->
+<feat xlink:href="#line_502" value=" N&apos; autre conseil ne m&apos; a mestier"/><!--  N' autre conseil ne m' a mestier -->
+<feat xlink:href="#line_503" value=" Fors pitié et misericorde ."/><!--  Fors pitié et misericorde . -->
+</featList>
+</paula>
