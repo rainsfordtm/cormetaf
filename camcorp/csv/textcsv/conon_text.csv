@@ -2236,7 +2236,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,verstype,subtyp
 2235,272,2,li,li,538,Det,Det,le,mix,---,C/V\
 2236,272,3,oixel,oixel,538,N,N,,mix,---,/V\.'C/V\
 2237,272,4,qui,qui,538,Qux,Qux,qui,mix,---,C/V\
-2238,272,5,conchiet,conchiet,538,Vfin,Vfin,conchier,mix,---,C/V\.'C/V\
+2238,272,5,conchiet,conchiet,538,Vfin,Vfin,conchier,mix,---,C/V\.'C/V\.C/e\
 2239,272,6,son,son,538,Det,Det,son4,mix,---,C/V\
 2240,272,7,nit,nit,538,N,N,,mix,---,C/V\
 2241,272,8,!,!,538,Pnc,Pnc,,mix,---,
@@ -2570,7 +2570,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,verstype,subtyp
 2569,322,4,m',m',812,Prn,Prn$$,1ps,mix,---,C/\
 2570,322,5,aint,aint,812,Vfin,Vfin,aimer,mix,---,/V\
 2571,322,6,pour,pour,812,Pre,Pre,pour,mix,---,C/V\
-2572,322,7,traïr,traïr,812,Vinf,Vinf,trahir,mix,---,C/V\.'/V\
+2572,322,7,traïr,traïr,812,Vinf,Vinf,trahir,mix,---,
 2573,322,8,",",",",812,Pnc,Pnc,,mix,---,
 2574,323,1,k',k',813,Sub,Sub,que,mix,---,C/\
 2575,323,2,ele,ele,813,Prn,Prn$,3p,mix,---,'/V\.C/(e)\
