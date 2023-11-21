@@ -96,3 +96,25 @@ texts=( adam )
 for text in ${texts[@]}; do
 	$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
 done
+
+#########################
+# LYRIC TEXTS
+#########################
+
+# Blondel
+echo "blondel"
+sp="${corpdir}/cfg/sp_lyr_ofr_blondel.cfg"
+text="blondel"
+$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
+
+# Christine
+echo "christine"
+sp="${corpdir}/cfg/sp_lyr_midfr_christine.cfg"
+text="christine"
+$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
+
+# Conon
+echo "conon"
+sp="${corpdir}/cfg/sp_lyr_ofr_conon.cfg"
+text="conon"
+$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
