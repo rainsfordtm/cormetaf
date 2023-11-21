@@ -29,7 +29,7 @@ corpdir = '/home/tmr/git/camcorp/camcorp-v'
 textnames = [
     'alexis', 'roland', 'charroi', 'rou', 'antioche', 'raouli',
     'alexandre', 'ami', 'alexiso', 'berte', 'huon', 'behaigne', 'alexisa',
-    'hugues', 'orloge', '3jugemens', 'breviaire', 'eurialus'
+    'hugues', 'orloge', '3jugemens', 'eurialus'
 ]
 
 # Lyon couronné??
