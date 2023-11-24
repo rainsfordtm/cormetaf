@@ -118,3 +118,9 @@ echo "conon"
 sp="${corpdir}/cfg/sp_lyr_ofr_conon.cfg"
 text="conon"
 $scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
+
+# De la halle
+echo "delahalle"
+sp="${corpdir}/cfg/sp_lyr_ofr_delahalle.cfg"
+text="delahalle"
+$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
