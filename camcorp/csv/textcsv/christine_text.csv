@@ -288,11 +288,11 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 287,46,7,m',m',2501,Prn,Prn$$,1ps,7s,bal,C/\
 288,46,8,anuye,anuye,2501,Vfin,Vfin,ennuyer,7s,bal,/V\.'C/V\./(e)\
 289,46,9,;,;,2501,Pnc,Pnc,,7s,bal,
-290,47,1,un,un,2502,Qux,Qux,un,7s,bal,/V\
+290,47,1,un,un,2502,QIs,QIs,un,7s,bal,/V\
 291,47,2,jour,jour,2502,N,N,,7s,bal,C/V\
 292,47,3,m',m',2502,Prn,Prn$$,1ps,7s,bal,C/\
 293,47,4,est,est,2502,Vfin,Vfin,être1|ester,7s,bal,/V\
-294,47,5,une,une,2502,Qux,Qux,un,7s,bal,'/V\.C/(e)\
+294,47,5,une,une,2502,QIs,QIs,un,7s,bal,'/V\.C/(e)\
 295,47,6,sepmaine,sepmaine,2502,N,N,,7s,bal,C/V\.'C/V\.C/(e)\
 296,47,7,;,;,2502,Pnc,Pnc,,7s,bal,
 297,48,1,plus,plus,2503,Adv,Adv,plus,7s,bal,C/V\
@@ -408,12 +408,12 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 407,64,3,l',l',2519,Det,Det,le,7s,bal,C/\
 408,64,4,erre,erre,2519,N,N,,7s,bal,'/V\.C/(e)\
 409,64,5,d',d',2519,Pre,Pre,de,7s,bal,C/\
-410,64,6,une,une,2519,Qux,Qux,un,7s,bal,'/V\.C/(e)\
+410,64,6,une,une,2519,QIs,QIs,un,7s,bal,'/V\.C/(e)\
 411,64,7,luye,luye,2519,N,N,,7s,bal,'C/V\./(e)\
 412,64,8,",",",",2519,Pnc,Pnc,,7s,bal,
 413,65,1,mais,mais,2520,Crd,Crd,mais1,7s,bal,C/V\
 414,65,2,par,par,2520,Pre,Pre,par1,7s,bal,C/V\
-415,65,3,une,une,2520,Qux,Qux,un,7s,bal,'/V\.C/(e)\
+415,65,3,une,une,2520,QIs,QIs,un,7s,bal,'/V\.C/(e)\
 416,65,4,chambre,chambre,2520,N,N,,7s,bal,'C/V\.C/(e)\
 417,65,5,plaine,plaine,2520,Adj,Adj,plein?,7s,bal,'C/V\.C/(e)\
 418,65,6,",",",",2520,Pnc,Pnc,,7s,bal,
@@ -575,7 +575,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 574,91,1,com,com,5418,Sub,Sub,comme,7s,bal,C/V\
 575,91,2,je,je,5418,Prn,Prn$,1ps,7s,bal,C/(e)\
 576,91,3,fusse,fusse,5418,Vfin,Vfin,être1|ester,7s,bal,'C/V\.C/(e)\
-577,91,4,un,un,5418,Qux,Qux,un,7s,bal,/V\
+577,91,4,un,un,5418,QIs,QIs,un,7s,bal,/V\
 578,91,5,paysans,paysans,5418,N,N,,7s,bal,C/V\.C/V\.'C/V\
 579,91,6,.,.,5418,Pnc,Pnc,,7s,bal,
 580,92,1,mais,mais,5419,Crd,Crd,mais1,7s,bal,C/V\
@@ -1266,7 +1266,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1265,186,3,amour,amour,2001,N,N,,10s,bal,/V\.'C/V\
 1266,186,4,est,est,2001,Vfin,Vfin,être1|ester,10s,bal,/V\
 1267,186,5,en,en,2001,Pre,Pre,en1,10s,bal,/V\
-1268,186,6,un,un,2001,Qux,Qux,un,10s,bal,/V\
+1268,186,6,un,un,2001,QIs,QIs,un,10s,bal,/V\
 1269,186,7,cuer,cuer,2001,N,N,,10s,bal,C/V\
 1270,186,8,fichee,fichee,2001,Vpp,Vpp,ficher,10s,bal,C/V\.'C/V\./(e)\
 1271,187,1,sanz,sanz,2002,Pre,Pre,sans,10s,bal,C/V\
@@ -1442,7 +1442,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1441,206,4,y,y,2021,Prn,Prn$$,y,10s,bal,/V\
 1442,206,5,vault,vault,2021,Vfin,Vfin,valoir,10s,bal,C/V\
 1443,206,6,:,:,2021,Pnc,Pnc,,10s,bal,
-1444,206,7,un,un,2021,Qux,Qux,un,10s,bal,/V\
+1444,206,7,un,un,2021,QIs,QIs,un,10s,bal,/V\
 1445,206,8,seul,seul,2021,Adj,Adj,seul,10s,bal,C/V\
 1446,206,9,m',m',2021,Prn,Prn$$,1ps,10s,bal,C/\
 1447,206,10,a,a,2021,Vfin,Vfin,avoir1,10s,bal,/V\
@@ -1731,7 +1731,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1730,239,1,qu',qu',8506,Sub,Sub,que,10s,bal,C/\
 1731,239,2,on,on,8506,Prn,Prn$,on,10s,bal,/V\
 1732,239,3,ait,ait,8506,Vfin,Vfin,avoir1,10s,bal,/V\
-1733,239,4,un,un,8506,Qux,Qux,un,10s,bal,/V\
+1733,239,4,un,un,8506,QIs,QIs,un,10s,bal,/V\
 1734,239,5,tel,tel,8506,Adj,Adj,tel,10s,bal,C/V\
 1735,239,6,pour,pour,8506,Pre,Pre,pour,10s,bal,C/V\
 1736,239,7,ami,ami,8506,N,N,,10s,bal,/V\.'C/V\
@@ -2629,7 +2629,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2628,362,1,je,je,6003,Prn,Prn$,1ps,8s,ron,C/(e)\
 2629,362,2,revendray,revendray,6003,Vfin,Vfin,revenir,8s,ron,C/V\.C/V\.'C/V\
 2630,362,3,dedens,dedens,6003,PrA,PrA,dedans,8s,ron,C/V\.'C/V\
-2631,362,4,un,un,6003,Qux,Qux,un,8s,ron,/V\
+2631,362,4,un,un,6003,QIs,QIs,un,8s,ron,/V\
 2632,362,5,mois,mois,6003,N,N,,8s,ron,C/V\
 2633,362,6,.,.,6003,Pnc,Pnc,,8s,ron,
 2634,363,1,plus,plus,6004,Adv,Adv,plus,8s,ron,C/V\
@@ -2839,7 +2839,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2838,389,1,que,que,3010,Sub,Sub,que,10s,ron,C/(e)\
 2839,389,2,",",",",3010,Pnc,Pnc,,10s,ron,
 2840,389,3,s',s',3010,Sub,Sub,si3,10s,ron,C/\
-2841,389,4,un,un,3010,Qux,Qux,un,10s,ron,/V\
+2841,389,4,un,un,3010,QIs,QIs,un,10s,ron,/V\
 2842,389,5,regart,regart,3010,N,N,,10s,ron,C/V\.'C/V\
 2843,389,6,en,en,3010,Prn,Prn$$,en2,10s,ron,/V\
 2844,389,7,avoit,avoit,3010,Vfin,Vfin,avoir1,10s,ron,/V\.'C/V\

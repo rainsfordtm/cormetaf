@@ -542,7 +542,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,verstype,subtyp
 541,76,9,i,i,231,Prn,Prn$$,y,10s,---,/V\
 542,76,10,dedui,dedui,231,Vfin,Vfin,déduire,10s,---,C/V\.'C/V\
 543,77,1,k',k',232,Sub,Sub,que,10s,---,C/\
-544,77,2,un,un,232,Qux,Qux,un,10s,---,/V\
+544,77,2,un,un,232,QIs,QIs,un,10s,---,/V\
 545,77,3,anui,anui,232,N,N,,10s,---,/V\.'C/V\
 546,77,4,valt,valt,232,Vfin,Vfin,valoir,10s,---,C/V\
 547,77,5,li,li,232,Det,Det,le,10s,---,C/V\
@@ -1123,7 +1123,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,verstype,subtyp
 1122,143,6,en,en,437,Prn,Prn$$,en2,10s,---,/V\
 1123,143,7,i,i,437,Prn,Prn$$,y,10s,---,/V\
 1124,143,8,morra,morra,437,Vfin,Vfin,mourir,10s,---,C/V\.'C/V\
-1125,143,9,uns,uns,437,Qux,Qux,uns,10s,---,/V\
+1125,143,9,uns,uns,437,QIs,QIs,un,10s,---,/V\
 1126,143,10,sels,sels,437,N,N,,10s,---,C/V\
 1127,143,11,",",",",437,Pnc,Pnc,,10s,---,
 1128,144,1,ains,ains,438,Crd,Crd,ains,10s,---,/V\
@@ -1219,7 +1219,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,verstype,subtyp
 1218,154,9,.,.,448,Pnc,Pnc,,10s,---,
 1219,155,1,l',l',901,Det,Det,le,10s,---,C/\
 1220,155,2,autrier,autrier,901,N,N,,10s,---,/V\.'C/V\
-1221,155,3,un,un,901,Qux,Qux,un,10s,---,/V\
+1221,155,3,un,un,901,QIs,QIs,un,10s,---,/V\
 1222,155,4,jor,jor,901,N,N,,10s,---,C/V\
 1223,155,5,aprés,aprés,901,PrA,PrA,après,10s,---,/V\.'C/V\
 1224,155,6,la,la,901,Det,Det,le,10s,---,C/V\
@@ -1276,7 +1276,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,verstype,subtyp
 1275,161,4,chantai,chantai,907,Vfin,Vfin,chanter,10s,---,C/V\.'C/V\
 1276,161,5,fors,fors,907,PrA,PrA,hors,10s,---,C/V\
 1277,161,6,d',d',907,Pre,Pre,de,10s,---,C/\
-1278,161,7,une,une,907,Qux,Qux,un,10s,---,'/V\.C/(e)\
+1278,161,7,une,une,907,QIs,QIs,un,10s,---,'/V\.C/(e)\
 1279,161,8,solement,solement,907,Adv,Adv,,10s,---,C/V\.C/e\.'C/V\
 1280,161,9,",",",",907,Pnc,Pnc,,10s,---,
 1281,162,1,qui,qui,908,Qux,Qux,qui,10s,---,C/V\
@@ -1311,7 +1311,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,verstype,subtyp
 1310,165,3,on,on,911,Prn,Prn$,on,10s,---,/V\
 1311,165,4,fait,fait,911,Vfin,Vfin,faire,10s,---,C/V\
 1312,165,5,d',d',911,Pre,Pre,de,10s,---,C/\
-1313,165,6,un,un,911,Qux,Qux,un,10s,---,/V\
+1313,165,6,un,un,911,QIs,QIs,un,10s,---,/V\
 1314,165,7,fort,fort,911,Adj,Adj,fort,10s,---,C/V\
 1315,165,8,larron,larron,911,N,N,,10s,---,C/V\.'C/V\
 1316,165,9,justise,justise,911,N,N,,10s,---,C/V\.'C/V\.C/(e)\
@@ -1385,7 +1385,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,verstype,subtyp
 1384,173,3,est,est,919,Vfin,Vfin,être1|ester,10s,---,/V\
 1385,173,4,ou,ou,919,Pre+Det,Pre+Det,en1+le,10s,---,/V\
 1386,173,5,cuer,cuer,919,N,N,,10s,---,C/V\
-1387,173,6,une,une,919,Qux,Qux,un,10s,---,'/V\.C/(e)\
+1387,173,6,une,une,919,QIs,QIs,un,10s,---,'/V\.C/(e)\
 1388,173,7,autre,autre,919,Adj,Adj,autre,10s,---,'/V\.C/(e)\
 1389,173,8,amor,amor,919,N,N,,10s,---,/V\.'C/V\
 1390,173,9,assise,assise,919,Vpp,Vpp,asseoir,10s,---,/V\.'C/V\.C/(e)\
@@ -1509,10 +1509,10 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,verstype,subtyp
 1508,187,6,autre,autre,1001,Adj,Adj,autre,10s,---,'/V\.C/(e)\
 1509,187,7,païs,païs,1001,N,N,,10s,---,C/V\.'C/V\
 1510,188,1,c',c',1002,Sub,Sub,que,10s,---,C/\
-1511,188,2,uns,uns,1002,Qux,Qux,uns,10s,---,/V\
+1511,188,2,uns,uns,1002,QIs,QIs,un,10s,---,/V\
 1512,188,3,chevaliers,chevaliers,1002,N,N,,10s,---,C/V\.C/V\.'C/V\
 1513,188,4,eut,eut,1002,Vfin,Vfin,avoir1,10s,---,/V\
-1514,188,5,une,une,1002,Qux,Qux,un,10s,---,'/V\.C/(e)\
+1514,188,5,une,une,1002,QIs,QIs,un,10s,---,'/V\.C/(e)\
 1515,188,6,dame,dame,1002,N,N,,10s,---,'C/V\.C/(e)\
 1516,188,7,amee,amee,1002,Vpp,Vpp,aimer,10s,---,/V\.'C/V\./(e)\
 1517,188,8,.,.,1002,Pnc,Pnc,,10s,---,
@@ -1536,7 +1536,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,verstype,subtyp
 1535,190,8,.,.,1004,Pnc,Pnc,,10s,---,
 1536,191,1,puis,puis,1005,PrA,PrA,puis,10s,---,C/V\
 1537,191,2,fu,fu,1005,Vfin,Vfin,être1|ester,10s,---,C/V\
-1538,191,3,un,un,1005,Qux,Qux,un,10s,---,/V\
+1538,191,3,un,un,1005,QIs,QIs,un,10s,---,/V\
 1539,191,4,jors,jors,1005,N,N,,10s,---,C/V\
 1540,191,5,k',k',1005,Qux,Qux,que,10s,---,C/\
 1541,191,6,ele,ele,1005,Prn,Prn$,3p,10s,---,'/V\.C/(e)\
@@ -1717,7 +1717,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,verstype,subtyp
 1716,209,8,prendroit,prendroit,1023,Vfin,Vfin,prendre,10s,---,C/V\.'C/V\
 1717,209,9,envie,envie,1023,N,N,,10s,---,/V\.'C/V\./(e)\
 1718,210,1,d',d',1024,Pre,Pre,de,10s,---,C/\
-1719,210,2,un,un,1024,Qux,Qux,un,10s,---,/V\
+1719,210,2,un,un,1024,QIs,QIs,un,10s,---,/V\
 1720,210,3,bel,bel,1024,Adj,Adj,beau,10s,---,C/V\
 1721,210,4,vallet,vallet,1024,N,N,,10s,---,C/V\.'C/V\
 1722,210,5,baisier,baisier,1024,Vinf,Vinf,baiser,10s,---,C/V\.'C/V\
@@ -2433,7 +2433,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,verstype,subtyp
 2432,300,1,de,de,714,Pre,Pre,de,mix,---,C/(e)\
 2433,300,2,mes,mes,714,Det,Det,mon1,mix,---,C/V\
 2434,300,3,maus,maus,714,N,N,mal1,mix,---,C/V\
-2435,300,4,une,une,714,Qux,Qux,un,mix,---,'/V\.C/(e)\
+2435,300,4,une,une,714,QIs,QIs,un,mix,---,'/V\.C/(e)\
 2436,300,5,partie,partie,714,N,N,,mix,---,C/V\.'C/V\./(e)\
 2437,301,1,come,come,715,Sub,Sub,comme,mix,---,'C/V\.C/(e)\
 2438,301,2,irous,irous,715,Adj,Adj,,mix,---,/V\.'C/V\

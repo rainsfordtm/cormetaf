@@ -6,7 +6,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 5,1,5,vous,vous,2601,Prn,Prn$$,2pp,7s,---,C/V\
 6,1,6,estrine,estrine,2601,Vfin,Vfin,étrenner,7s,---,/V\.'C/V\.C/(e)\
 7,2,1,d',d',2602,Pre,Pre,de,7s,---,C/\
-8,2,2,une,une,2602,Qux,Qux,un,7s,---,'/V\.C/(e)\
+8,2,2,une,une,2602,QIs,QIs,un,7s,---,'/V\.C/(e)\
 9,2,3,nouvele,nouvele,2602,Adj,Adj,nouveau,7s,---,C/V\.'C/V\.C/(e)\
 10,2,4,canchon,canchon,2602,N,N,,7s,---,C/V\.'C/V\
 11,2,5,:,:,2602,Pnc,Pnc,,7s,---,
@@ -54,11 +54,11 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 53,10,1,tel,tel,2610,Adj,Adj,tel,7s,---,C/V\
 54,10,2,don,don,2610,N,N,,7s,---,C/V\
 55,10,3,doit,doit,2610,Vfin,Vfin,devoir2,7s,---,C/V\
-56,10,4,une,une,2610,Qux,Qux,un,7s,---,'/V\.C/(e)\
+56,10,4,une,une,2610,QIs,QIs,un,7s,---,'/V\.C/(e)\
 57,10,5,roine,roine,2610,N,N,,7s,---,C/V\.'C/V\.C/(e)\
 58,11,1,pardoner,pardoner,2611,Vinf,Vinf,pardonner,7s,---,C/V\.C/V\.'C/V\
 59,11,2,a,a,2611,Pre,Pre,à,7s,---,/V\
-60,11,3,un,un,2611,Qux,Qux,un,7s,---,/V\
+60,11,3,un,un,2611,QIs,QIs,un,7s,---,/V\
 61,11,4,garçon,garçon,2611,N,N,,7s,---,C/V\.'C/V\
 62,11,5,",",",",2611,Pnc,Pnc,,7s,---,
 63,12,1,k',k',2612,Sub,Sub,que,7s,---,C/\
@@ -81,7 +81,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 80,14,4,n',n',2614,Neg,Neg,ne1,7s,---,C/\
 81,14,5,ameroit,ameroit,2614,Vfin,Vfin,aimer,7s,---,/V\.C/e\.'C/V\
 82,14,6,on,on,2614,Prn,Prn%,on,7s,---,/V\
-83,15,1,une,une,2615,Qux,Qux,un,7s,---,'/V\.C/(e)\
+83,15,1,une,une,2615,QIs,QIs,un,7s,---,'/V\.C/(e)\
 84,15,2,caitive,caitive,2615,Adj,Adj,,7s,---,C/V\.'C/V\.C/(e)\
 85,15,3,meskine,meskine,2615,N,N,,7s,---,C/V\.'C/V\.C/(e)\
 86,16,1,maigre,maigre,2616,Adj,Adj,maigre,7s,---,'C/V\.C/(e)\
@@ -1148,7 +1148,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1147,171,2,velliés,velliés,438,Vfin,Vfin,veiller,10s,---,C/V\.'C/V\
 1148,171,3,vous,vous,438,Prn,Prn%,2pp,10s,---,C/V\
 1149,171,4,d',d',438,Pre,Pre,de,10s,---,C/\
-1150,171,5,un,un,438,Qux,Qux,un,10s,---,/V\
+1150,171,5,un,un,438,QIs,QIs,un,10s,---,/V\
 1151,171,6,resgart,resgart,438,N,N,,10s,---,C/V\.'C/V\
 1152,171,7,conforter,conforter,438,Vinf,Vinf,conforter,10s,---,C/V\.C/V\.'C/V\
 1153,172,1,et,et,439,Crd,Crd,et,10s,---,/V\
@@ -1313,7 +1313,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1312,193,1,pierdre,pierdre,216,Vinf,Vinf,perdre,mix,---,'C/V\.C/(e)\
 1313,193,2,tout,tout,216,QIs,QIs,tout,mix,---,C/V\
 1314,193,3,a,a,216,Pre,Pre,à,mix,---,/V\
-1315,193,4,une,une,216,Qux,Qux,un,mix,---,'/V\.C/(e)\
+1315,193,4,une,une,216,QIs,QIs,un,mix,---,'/V\.C/(e)\
 1316,193,5,fie,fie,216,N,N,,mix,---,'C/V\./(e)\
 1317,193,6,.,.,216,Pnc,Pnc,,mix,---,
 1318,194,1,je,je,217,Prn,Prn$,1ps,mix,---,C/(e)\
@@ -1914,7 +1914,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1913,279,9,",",",",1518,Pnc,Pnc,,mix,---,
 1914,280,1,ains,ains,1519,Crd,Crd,ains,mix,---,/V\
 1915,280,2,ai,ai,1519,Vfin,Vfin,avoir1,mix,---,/V\
-1916,280,3,un,un,1519,Qux,Qux,un,mix,---,/V\
+1916,280,3,un,un,1519,QIs,QIs,un,mix,---,/V\
 1917,280,4,salu,salu,1519,N,N,,mix,---,C/V\.'C/V\
 1918,280,5,leger,leger,1519,Adj,Adj,,mix,---,C/V\.'C/V\
 1919,281,1,par,par,1520,Pre,Pre,par1,mix,---,C/V\
@@ -2175,7 +2175,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2174,317,6,occoison,occoison,2106,N,N,,mix,---,/V\.C/V\.'C/V\
 2175,318,1,fors,fors,2107,PrA,PrA,hors,mix,---,C/V\
 2176,318,2,c',c',2107,Sub,Sub,que,mix,---,C/\
-2177,318,3,une,une,2107,Qux,Qux,un,mix,---,'/V\.C/(e)\
+2177,318,3,une,une,2107,QIs,QIs,un,mix,---,'/V\.C/(e)\
 2178,318,4,dame,dame,2107,N,N,,mix,---,'C/V\.C/(e)\
 2179,318,5,m',m',2107,Prn,Prn$$,1ps,mix,---,C/\
 2180,318,6,en,en,2107,Prn,Prn$$,en2,mix,---,/V\
@@ -2418,7 +2418,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2417,365,1,fais,fais,3604,Vpp,Vpp,faire,mix,---,C/V\
 2418,365,2,en,en,3604,Prn,Prn$$,en2,mix,---,/V\
 2419,365,3,sera,sera,3604,Vfin,Vfin,être1|ester,mix,---,C/V\.'C/V\
-2420,365,4,uns,uns,3604,Qux,Qux,uns,mix,---,/V\
+2420,365,4,uns,uns,3604,QIs,QIs,un,mix,---,/V\
 2421,365,5,cans,cans,3604,N,N,,mix,---,C/V\
 2422,365,6,nouviaus,nouviaus,3604,Adj,Adj,nouveau,mix,---,C/V\.'C/V\
 2423,366,1,de,de,3605,Pre,Pre,de,mix,---,C/(e)\
