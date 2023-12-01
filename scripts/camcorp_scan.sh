@@ -34,9 +34,9 @@ for text in ${texts[@]}; do
 done
 
 # Eurialus
-echo "Eurialus"
-sp="${corpdir}/cfg/sp_10s_eurialus.cfg"
-$scan_file -t syntag2 $corpdir eurialus $sp $phonemes $unstressed -o scaneval bin paula
+#echo "Eurialus"
+#sp="${corpdir}/cfg/sp_10s_eurialus.cfg"
+#$scan_file -t syntag2 $corpdir eurialus $sp $phonemes $unstressed -o scaneval bin paula
 
 # Octosyllables
 echo "Old French octosyllables"

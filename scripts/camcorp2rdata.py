@@ -29,7 +29,7 @@ corpdir = '/home/tmr/git/camcorp/camcorp-v'
 textnames = [
     'alexis', 'roland', 'charroi', 'rou', 'antioche', 'raouli',
     'alexandre', 'ami', 'alexiso', 'berte', 'huon', 'behaigne', 'alexisa',
-    'hugues', 'orloge', '3jugemens', 'eurialus'
+    'hugues', 'orloge', '3jugemens'
 ]
 
 # Lyon couronné??
@@ -43,19 +43,19 @@ textnames = [
 
 metadata = '/home/tmr/git/camcorp/camcorp-v/doc/metadata_r.csv'
 outfile = '/home/tmr/out.csv'
-line_length = 10
+line_lengths = [10, 12]
 
 def get_datapoints(textname, text, md):
     l = []
     for syllable in text.syllables:
         if not syllable.is_counted() or \
         not syllable.line.d.get('scan_ok') or \
-        len(syllable.line.d['counted_sylls']) != line_length:
+        len(syllable.line.d['counted_sylls']) not in line_lengths:
             # Excluded here are syllables which don't have a metrical position
             # and syllables from lines that didn't scan (which aren't comparable)
             continue
-        if len(syllable.line.d['counted_sylls']) != line_length:
-            print('Bad line: {}'.format(' '.join(str(x['word']) for x in syllable.line)))
+        #if len(syllable.line.d['counted_sylls']) != line_length:
+        #    print('Bad line: {}'.format(' '.join(str(x['word']) for x in syllable.line)))
         if not syllable in syllable.line.d['counted_sylls']:
             print('Error!')
         if syllable in syllable.line.d['counted_sylls'] and not 'syll_in_line' in syllable.d:
@@ -80,6 +80,7 @@ def get_datapoints(textname, text, md):
         d['DOC'] = md[textname]['DOC']
         d['DIALECT'] = md[textname]['DIALECT']
         d['TEXTTYPE'] = md[textname]['TEXTTYPE']
+        d['VERSEFORM'] = md[textname]['VERSEFORM']
         d['WORDS'] = ' '.join(str(x['word']) for x in syllable.words)
         d['LEMMAS'] = ','.join(str(x['lemma']) for x in syllable.words)
         d['POSS'] = ' '.join(str(x['syntag2']) for x in syllable.words)
@@ -152,7 +153,7 @@ def main():
         'METPOS', 'STRINLINE', 'PAROXYTONE', # level 1 predictors
         'SCORE', 'ISCES', 'ISRHYME', # Needed for the old-style analysis
         'TEXT', 'TEXT.BOOK', # random effect (level 2); printable name
-        'DOC', 'DIALECT', 'TEXTTYPE', # level 2 predictors
+        'DOC', 'DIALECT', 'TEXTTYPE', 'VERSEFORM', # level 2 predictors
         'REF', # human-readable reference to the datapoint
         'WORDS', 'LEMMAS', 'POSS', 'LINE' # additional human-readable info
     ])
