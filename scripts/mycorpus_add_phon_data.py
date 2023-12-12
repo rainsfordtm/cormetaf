@@ -3,7 +3,7 @@
 import csv, os.path, glob
 
 phon_data='/home/tmr/git/camcorp/camcorp/mycorpus/tools/phon_data_syllabified.csv'
-corpdir='/tmp/blondel'
+corpdir='/tmp/camcorp'
 
 files = glob.glob(os.path.join(corpdir, '*_text.csv'))
 
