@@ -124,3 +124,9 @@ echo "delahalle"
 sp="${corpdir}/cfg/sp_lyr_ofr_delahalle.cfg"
 text="delahalle"
 $scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
+
+# Gace
+echo "gace"
+sp="${corpdir}/cfg/sp_lyr_ofr_gace.cfg"
+text="gace"
+$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula

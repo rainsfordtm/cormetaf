@@ -2112,7 +2112,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2111,292,2,fin,fin,5640,Adj,Adj,fin2,10s,---,C/V\
 2112,292,3,cuer,cuer,5640,N,N,,10s,---,C/V\
 2113,292,4,en,en,5640,Prn,Prn$$,en2,10s,---,/V\
-2114,292,5,feriez,feriez,5640,Vfin,Vfin,faire,10s,---,C/V\.C/<V>\.'/V\
+2114,292,5,feriez,feriez,5640,Vfin,Vfin,faire,10s,---,C/V\.C/V\.'/V\
 2115,292,6,blasmer,blasmer,5640,Vinf,Vinf,blâmer,10s,---,C/V\.'C/V\
 2116,292,7,;,;,5640,Pnc,Pnc,,10s,---,
 2117,293,1,que,que,5641,Crd,Crd,que,10s,---,C/(e)\
