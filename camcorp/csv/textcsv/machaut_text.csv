@@ -1456,7 +1456,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1455,211,2,je,je,XXIII_9,Prn,Prn$,1ps,10s,---,C/(e)\
 1456,211,3,sui,sui,XXIII_9,Vfin,Vfin,être1|ester,10s,---,C/V\
 1457,211,4,tous,tous,XXIII_9,QIs,QIs,tout,10s,---,C/V\
-1458,211,5,cheus,cheus,XXIII_9,Vpp,Vpp,choir,10s,---,C/V\
+1458,211,5,cheus,cheus,XXIII_9,Vpp,Vpp,choir,10s,---,C/(V)\.'/V\
 1459,211,6,en,en,XXIII_9,Pre,Pre,en1,10s,---,/V\
 1460,211,7,desespoir,desespoir,XXIII_9,N,N,,10s,---,C/V\.C/e\.'C/V\
 1461,211,8,;,;,XXIII_9,Pnc,Pnc,,10s,---,
@@ -1742,7 +1742,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1741,242,3,vuet,vuet,XXIV_19,Vfin,Vfin,vouloir,10s,---,C/V\
 1742,242,4,fine,fine,XXIV_19,Adj,Adj,fin2,10s,---,'C/V\.C/(e)\
 1743,242,5,amour,amour,XXIV_19,N,N,,10s,---,/V\.'C/V\
-1744,242,6,guerrier,guerrier,XXIV_19,Vinf,Vinf,guerroyer,10s,---,C/V\.'C/V\
+1744,242,6,guerrier,guerrier,XXIV_19,Vinf,Vinf,guerroyer,10s,---,C/V\.C/<V>\.'C/V\
 1745,242,7,",",",",XXIV_19,Pnc,Pnc,,10s,---,
 1746,243,1,dont,dont,XXIV_20,Qux,Qux,dont,10s,---,C/V\
 1747,243,2,moult,moult,XXIV_20,QIs,QIs,moult,10s,---,C/V\

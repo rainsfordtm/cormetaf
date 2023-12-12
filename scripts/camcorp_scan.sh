@@ -130,3 +130,21 @@ echo "gace"
 sp="${corpdir}/cfg/sp_lyr_ofr_gace.cfg"
 text="gace"
 $scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
+
+# Rutebeuf
+echo "rutebeuf"
+sp="${corpdir}/cfg/sp_lyr_ofr_rutebeuf.cfg"
+text="rutebeuf"
+$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
+
+# Thibaut
+echo "thibaut"
+sp="${corpdir}/cfg/sp_lyr_ofr_thibaut.cfg"
+text="thibaut"
+$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
+
+# Machaut
+echo "machaut"
+sp="${corpdir}/cfg/sp_lyr_midfr_machaut.cfg"
+text="machaut"
+$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
