@@ -2026,7 +2026,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2025,279,7,que,que,BA3915,Sub,Sub,que,10s,---,C/(e)\
 2026,279,8,j',j',BA3915,Prn,Prn$,1ps,10s,---,C/\
 2027,279,9,ai,ai,BA3915,Vfin,Vfin,avoir1,10s,---,/V\
-2028,279,10,vesqu,vesqu,BA3915,Vpp,Vpp,vivre,10s,---,C/V\
+2028,279,10,vesqu,vesqu,BA3915,Vpp,Vpp,vivre,10s,---,C/V\.'C/V\
 2029,279,11,",",",",BA3915,Pnc,Pnc,,10s,---,
 2030,280,1,en,en,BA3916,Pre,Pre,en1,10s,---,/V\
 2031,280,2,atendant,atendant,BA3916,Vprs,Vprs,attendre,10s,---,/V\.C/V\.'C/V\

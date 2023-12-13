@@ -148,3 +148,21 @@ echo "machaut"
 sp="${corpdir}/cfg/sp_lyr_midfr_machaut.cfg"
 text="machaut"
 $scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
+
+# Orleans
+echo "orleans"
+sp="${corpdir}/cfg/sp_lyr_midfr_orleans.cfg"
+text="orleans"
+$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
+
+# Froissart
+echo "froissart"
+sp="${corpdir}/cfg/sp_lyr_midfr_froissart.cfg"
+text="froissart"
+$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
+
+# Chartier
+echo "chartier"
+sp="${corpdir}/cfg/sp_lyr_midfr_chartier.cfg"
+text="chartier"
+$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
