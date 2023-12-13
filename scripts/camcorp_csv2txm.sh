@@ -1,7 +1,7 @@
 #!/bin/bash
-CORPDIR="~/git/camcorp/camcorp/textcsv"
-TREETOOLS="~/git/treetools"
-ARRAY=( `ls ~/git/camcorp/camcorp/textcsv/*_text.csv` )
+CORPDIR="$HOME/git/camcorp/camcorp"
+TREETOOLS="$HOME/git/treetools"
+ARRAY=( `ls ~/git/camcorp/camcorp/csv/textcsv/*_text.csv` )
 ELEMENTS=${#ARRAY[@]}
 # echo each element in array 
 # for loop
@@ -11,9 +11,10 @@ for (( i=0;i<$ELEMENTS;i++)); do
 	xmltabfile=${tmp/.csv/.xml}
 	echo $xmltabfile
 	bstfile=$CORPDIR/bst/${xmltabfile##*/}
-	txmfile=$CORPDIR/txm/xml-txm/${xmltabfile##*/}
+    txmfile=$CORPDIR/txm/xml-txm/${xmltabfile##*/}
+    txmfile=${txmfile/_text.xml/.xml}
 	
-	python3 $TREETOOLS/txt2xml.py -o $xmltabfile $csvfile csv 
-	java -cp /usr/share/java/saxonb.jar net.sf.saxon.Transform $xmltabfile $TREETOOLS/xsl/import/xmltokentable.xsl > $bstfile
-	java -cp /usr/share/java/saxonb.jar net.sf.saxon.Transform $bstfile $TREETOOLS/xsl/export/xml-txm.xsl use_id=id > $txmfile
+	python3 $TREETOOLS/importers/py/txt2xml.py -o $xmltabfile $csvfile csv 
+	java -cp $TREETOOLS/java/saxonb.jar net.sf.saxon.Transform $xmltabfile $TREETOOLS/importers/xsl/xmltokentable.xsl > $bstfile
+	java -cp $TREETOOLS/java/saxonb.jar net.sf.saxon.Transform $bstfile $TREETOOLS/exporters/xsl/xml-txm.xsl use_id=id > $txmfile
 done 
