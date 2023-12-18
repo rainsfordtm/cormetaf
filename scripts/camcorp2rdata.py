@@ -13,20 +13,20 @@
 
 import csv, pickle, os.path, sys
 
-corpdir = '/home/tmr/git/camcorp/camcorp-v'
-textnames = [
-        'anjou', 'clermont', 'leger', 'gormont', 'marie', 'thebes', 'charrette',
-        'coinci', 'passjong', 'rosemeun', 'protheselaus', 'chevalerie',
-        'dolopathos', 'florimont', 'imagemonde', 'isopet', 'sacristain3',
-        'abeville', 'barat', 'barisel', 'eracle', 'poitiers', 'rennov', 
-        'feuillee', 'nicolas', 'palatinus', 'belledame', 'fortune', 'liberfort',
-        'meliador', 'testament', 'viemathurin', 'voirdit', 'griseldis', 'passgreb', 
-        'theophile', 'notredame', 'holofernes', 'troisgalans', 'pathelin', 
-        'chivalier', 'edmund', 'gui', 'richard', 'brendan', 'adam',
-        'blondel', 'chartier', 'christine', 'delahalle', 'froissart',
-        'gace', 'machaut', 'molinet', 'orleans', 'rutebeuf', 'thibaut',
-        'villon'
-]
+corpdir = '/home/tmr/git/camcorp/camcorp-pv'
+#textnames = [
+#        'anjou', 'clermont', 'leger', 'gormont', 'marie', 'thebes', 'charrette',
+#        'coinci', 'passjong', 'rosemeun', 'protheselaus', 'chevalerie',
+#        'dolopathos', 'florimont', 'imagemonde', 'isopet', 'sacristain3',
+#        'abeville', 'barat', 'barisel', 'eracle', 'poitiers', 'rennov', 
+#        'feuillee', 'nicolas', 'palatinus', 'belledame', 'fortune', 'liberfort',
+#        'meliador', 'testament', 'viemathurin', 'voirdit', 'griseldis', 'passgreb', 
+#        'theophile', 'notredame', 'holofernes', 'troisgalans', 'pathelin', 
+#        'chivalier', 'edmund', 'gui', 'richard', 'brendan', 'adam',
+#        'blondel', 'chartier', 'christine', 'delahalle', 'froissart',
+#        'gace', 'machaut', 'molinet', 'orleans', 'rutebeuf', 'thibaut',
+#        'villon'
+#]
 
 # Decasyllables and alexandrines
 #textnames = [
@@ -37,14 +37,14 @@ textnames = [
 
 # Lyon couronné??
 
-#corpdir = '/home/tomusr/Corpus/corpora/camcorp-pv'
-#textnames = [
-#    'avision-pv', 'berinus-pv', 'chrfroiss-pv', 'conqueste-pv', 'memcomm-pv',
-#    'mirlouis-pv', 'quadrilogue-pv', 'quatrelivres-pv', 'saintre-pv',
-#    'tristan-pv', 'vielouis-pv'
-#]
+corpdir = '/home/tmr/git/camcorp/camcorp-pv'
+textnames = [
+    'avision-pv', 'berinus-pv', 'chrfroiss-pv', 'conqueste-pv', 'memcomm-pv',
+    'mirlouis-pv', 'quadrilogue-pv', 'quatrelivres-pv', 'saintre-pv',
+    'tristan-pv', 'vielouis-pv'
+]
 
-metadata = '/home/tmr/git/camcorp/camcorp-v/doc/metadata_r.csv'
+metadata = '/home/tmr/git/camcorp/camcorp-pv/doc/metadata_r.csv'
 outfile = '/home/tmr/out.csv'
 line_lengths = [8]
 
