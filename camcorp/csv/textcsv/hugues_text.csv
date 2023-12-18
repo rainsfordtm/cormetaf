@@ -85,7 +85,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 84,9,4,hardement,hardement,9,N,N,,C/V\.C/e\.'C/V\
 85,9,5,que,que,9,Sub,Sub,que,C/(e)\
 86,9,6,dieux,dieux,9,N,N,,C/V\
-87,9,7,ly,ly,9,Prn,Prn$$,3p,C/V\
+87,9,7,ly,ly,9,Prn,Prn$$,li,C/V\
 88,9,8,fist,fist,9,Vfin,Vfin,faire,C/V\
 89,9,9,querquier,querquier,9,Vinf,Vinf,,C/V\.'C/V\
 90,10,1,pour,pour,10,Pre,Pre,pour,C/V\
@@ -201,7 +201,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 200,21,11,paiier,paiier,21,Vinf,Vinf,,C/V\.'C/V\
 201,22,1,qu',qu',22,Sub,Sub,que,C/\
 202,22,2,i,i,22,Prn,Prn$,il,/V\
-203,22,3,ly,ly,22,Prn,Prn$$,3p,C/V\
+203,22,3,ly,ly,22,Prn,Prn$$,li,C/V\
 204,22,4,couvint,couvint,22,Vfin,Vfin,convenir,C/V\.'C/V\
 205,22,5,sa,sa,22,Det,Det,son4,C/V\
 206,22,6,terre,terre,22,N,N,,'C/V\.C/(e)\
@@ -220,7 +220,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 219,23,9,acuitier,acuitier,23,Vinf,Vinf,,/V\.C/V\.'C/V\
 220,23,10,",",",",23,Pnc,Pnc,,
 221,24,1,argent,argent,24,N,N,,/V\.'C/V\
-222,24,2,ly,ly,24,Prn,Prn$$,3p,C/V\
+222,24,2,ly,ly,24,Prn,Prn$$,li,C/V\
 223,24,3,demandoient,demandoient,24,Vfin,Vfin,demander,C/V\.C/V\.'C/V\./e\
 224,24,4,bourgois,bourgois,24,N,N,,C/V\.'C/V\
 225,24,5,et,et,24,Crd,Crd,et,/V\
@@ -459,7 +459,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 458,48,3,vraye,vraye,48,Adj,Adj,vrai,'C/V\./(e)\
 459,48,4,cronicque,cronicque,48,N,N,,C/V\.'C/V\.C/(e)\
 460,48,5,ou,ou,48,Qux,Qux,où,/V\
-461,48,6,ly,ly,48,Prn,Prn$$,3p,C/V\
+461,48,6,ly,ly,48,Prn,Prn$$,li,C/V\
 462,48,7,fait,fait,48,N,N,,C/V\
 463,48,8,furent,furent,48,Vfin,Vfin,être,'C/V\.C/e\
 464,48,9,mis,mis,48,Vpp,Vpp,mettre,C/V\
@@ -806,7 +806,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 805,86,5,et,et,86,Crd,Crd,et,/V\
 806,86,6,rien,rien,86,N,N,rien,C/V\
 807,86,7,ne,ne,86,Neg,Neg$$,ne,C/(e)\
-808,86,8,ly,ly,86,Prn,Prn$$,3p,C/V\
+808,86,8,ly,ly,86,Prn,Prn$$,li,C/V\
 809,86,9,deut,deut,86,Vfin,Vfin,devoir2,C/V\
 810,86,10,on,on,86,Prn,Prn$,on,/V\
 811,86,11,;,;,86,Pnc,Pnc,,
@@ -907,7 +907,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 906,96,5,umble,umble,96,Adj,Adj,,'/V\.C/(e)\
 907,96,6,condision,condision,96,N,N,,C/V\.C/V\.C/{V}\.'/V\
 908,97,1,et,et,97,Crd,Crd,et,/V\
-909,97,2,ly,ly,97,Prn,Prn$$,3p,C/V\
+909,97,2,ly,ly,97,Prn,Prn$$,li,C/V\
 910,97,3,dit,dit,97,Vfin,Vfin,dire,C/V\
 911,97,4,son,son,97,Det,Det,son4,C/V\
 912,97,5,estat,estat,97,N,N,,/V\.'C/V\
@@ -985,7 +985,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 984,104,4,pere,pere,104,N,N,,'C/V\.C/(e)\
 985,104,5,",",",",104,Pnc,Pnc,,
 986,104,6,dieu,dieu,104,N,N,,C/V\
-987,104,7,ly,ly,104,Prn,Prn$$,3p,C/V\
+987,104,7,ly,ly,104,Prn,Prn$$,li,C/V\
 988,104,8,fache,fache,104,Vfin,Vfin,faire,'C/V\.C/(e)\
 989,104,9,pardon,pardon,104,N,N,,C/V\.'C/V\
 990,104,10,!,!,104,Pnc,Pnc,,
@@ -1417,7 +1417,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1416,147,1,tout,tout,147,QIs,QIs,tout,C/V\
 1417,147,2,ly,ly,147,Det,Det,le,C/V\
 1418,147,3,sanc,sanc,147,N,N,,C/V\
-1419,147,4,ly,ly,147,Prn,Prn$$,3p,C/V\
+1419,147,4,ly,ly,147,Prn,Prn$$,li,C/V\
 1420,147,5,mua,mua,147,Vfin,Vfin,muer,C/V\.'C/V\
 1421,147,6,dez,dez,147,Pre+Det,Pre+Det,de.le,C/V\
 1422,147,7,piez,piez,147,N,N,,C/V\
@@ -1911,7 +1911,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1910,197,8,;,;,197,Pnc,Pnc,,
 1911,198,1,ly,ly,198,Det,Det,le,C/V\
 1912,198,2,chevallier,chevallier,198,N,N,,C/V\.C/V\.'C/V\
-1913,198,3,ly,ly,198,Prn,Prn$$,3p,C/V\
+1913,198,3,ly,ly,198,Prn,Prn$$,li,C/V\
 1914,198,4,crie,crie,198,Vfin,Vfin,crier,'C/V\./(e)\
 1915,198,5,:,:,198,Pnc,Pnc,,
 1916,198,6,«,«,198,Pnc,Pnc,,
@@ -1999,7 +1999,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1998,207,1,que,que,207,Sub,Sub,que,C/(e)\
 1999,207,2,s',s',207,Det,Det,son4,C/\
 2000,207,3,espee,espee,207,N,N,,/V\.'C/V\./(e)\
-2001,207,4,ly,ly,207,Prn,Prn$$,3p,C/V\
+2001,207,4,ly,ly,207,Prn,Prn$$,li,C/V\
 2002,207,5,mist,mist,207,Vfin,Vfin,mettre,C/V\
 2003,207,6,au,au,207,Pre+Det,Pre+Det,à.le,/V\
 2004,207,7,ventre,ventre,207,N,N,,'C/V\.C/(e)\
@@ -2397,7 +2397,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2396,246,9,",",",",246,Pnc,Pnc,,
 2397,247,1,qu',qu',247,Sub,Sub,que,C/\
 2398,247,2,i,i,247,Prn,Prn$,il,/V\
-2399,247,3,ly,ly,247,Prn,Prn$$,3p,C/V\
+2399,247,3,ly,ly,247,Prn,Prn$$,li,C/V\
 2400,247,4,firent,firent,247,Vfin,Vfin,faire,'C/V\.C/e\
 2401,247,5,honneur,honneur,247,N,N,,/V\.'C/V\
 2402,247,6,et,et,247,Crd,Crd,et,/V\
@@ -2531,7 +2531,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2530,260,9,vous,vous,260,Prn,Prn$$,2pp,C/V\
 2531,260,10,creant,creant,260,Vfin,Vfin,,C/V\.'C/V\
 2532,260,11,",",",",260,Pnc,Pnc,,
-2533,261,1,ly,ly,261,Prn,Prn$$,3p,C/V\
+2533,261,1,ly,ly,261,Prn,Prn$$,li,C/V\
 2534,261,2,sallirent,sallirent,261,Vfin,Vfin,,C/V\.'C/V\.C/e\
 2535,261,3,.xii.,.xii.,261,QIs,QIs,douze,'C/V\./(e)\
 2536,261,4,homes,homes,261,N,N,,'/V\.C/e\
@@ -2571,7 +2571,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2570,265,1,le,le,265,Det,Det,le,C/(e)\
 2571,265,2,premier,premier,265,Adj,Adj,premier,C/V\.C/<V>\.'/V\
 2572,265,3,qui,qui,265,Qux,Qux,qui,C/V\
-2573,265,4,ly,ly,265,Prn,Prn$$,3p,C/V\
+2573,265,4,ly,ly,265,Prn,Prn$$,li,C/V\
 2574,265,5,vient,vient,265,Vfin,Vfin,venir,C/V\
 2575,265,6,l',l',265,Prn,Prn$$,3p,C/\
 2576,265,7,ala,ala,265,Vfin,Vfin,aller,/V\.'C/V\
@@ -2604,7 +2604,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2603,268,6,",",",",268,Pnc,Pnc,,
 2604,268,7,maint,maint,268,QIs,QIs,maint,C/V\
 2605,268,8,cop,cop,268,N,N,,C/V\
-2606,268,9,ly,ly,268,Prn,Prn$$,3p,C/V\
+2606,268,9,ly,ly,268,Prn,Prn$$,li,C/V\
 2607,268,10,vont,vont,268,Vfin,Vfin,aller,C/V\
 2608,268,11,donnant,donnant,268,Vprs,Vprs,donner,C/V\.'C/V\
 2609,268,12,;,;,268,Pnc,Pnc,,
@@ -2619,7 +2619,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2618,270,1,c',c',270,Sub,Sub,que,C/\
 2619,270,2,onquëz,onquëz,270,Adv,Adv,onques,'/V\.C/e\
 2620,270,3,ne,ne,270,Neg,Neg$$,ne,C/(e)\
-2621,270,4,ly,ly,270,Prn,Prn$$,3p,C/V\
+2621,270,4,ly,ly,270,Prn,Prn$$,li,C/V\
 2622,270,5,meffirent,meffirent,270,Vfin,Vfin,méfaire,C/V\.'C/V\.C/e\
 2623,270,6,le,le,270,Prn,Prn$$,3p,C/(e)\
 2624,270,7,montanche,montanche,270,N,N,,C/V\.'C/V\.C/(e)\
@@ -2993,7 +2993,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2992,307,8,relever,relever,307,Vinf,Vinf,relever,C/V\.C/e\.'C/V\
 2993,307,9,sus,sus,307,PrA,PrA,sus,C/V\
 2994,308,1,et,et,308,Crd,Crd,et,/V\
-2995,308,2,ly,ly,308,Prn,Prn$$,3p,C/V\
+2995,308,2,ly,ly,308,Prn,Prn$$,li,C/V\
 2996,308,3,a,a,308,Vfin,Vfin,avoir,/V\
 2997,308,4,dit,dit,308,Vpp,Vpp,dire,C/V\
 2998,308,5,:,:,308,Pnc,Pnc,,
