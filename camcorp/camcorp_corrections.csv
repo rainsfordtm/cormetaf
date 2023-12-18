@@ -1,5 +1,5 @@
 text,wd_id,word,syntag2,lemma,syntag_out,syntag2_out,lemma_out
-*,*,*,*,être1|ester,,,être
+*,*,*,*,être1\|ester,,,être
 *,*,*,*,avoir1,,,avoir
 *,*,*,*,ne1,,,ne
 *,*,*,*,en1,,,en
@@ -67,7 +67,7 @@ text,wd_id,word,syntag2,lemma,syntag_out,syntag2_out,lemma_out
 *,*,*,*,orainz,,,orains
 *,*,*,N,souper1,,,NONE
 *,*,*,V.*,souper.?,,,souper2
-*,*,*,*,a\+venir,,,à.venir
+*,*,*,*,à\+venir,,,à.venir
 *,*,*,*,ançoisque,,,ançois.que
 *,*,*,*,avantque,,,avant.que
 *,*,*,*,commentque,,,comment.que
@@ -111,6 +111,8 @@ text,wd_id,word,syntag2,lemma,syntag_out,syntag2_out,lemma_out
 *,*,*,*,qui\+en2,,,qui.en2
 *,*,*,*,raprendre,,,rapprendre
 *,*,*,Vpp,rière,,,rere
+*,*,*,*,à\+ledit,,,à.ledit
+*,*,*,*,allouer1,,,allouer
 *,*,*,*,1,,,un
 *,*,*,*,10,,,dix
 *,*,*,*,100,,,cent
