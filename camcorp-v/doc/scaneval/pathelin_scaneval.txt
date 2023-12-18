@@ -1,83 +1,67 @@
-Rules applied: R1, R8, R2
-Lines correct: 450 of 505
+Rules applied: R1, R7, R8, R2
+Lines correct: 469 of 505
 Pass history:
 Tried rules R1; 424 lines correct.
 Tried rules R11; 391 lines correct.
-Tried rules R7; 203 lines correct.
+Tried rules R7; 407 lines correct.
 Tried rules R8; 402 lines correct.
 Tried rules R2; 397 lines correct.
 Tried rules R4; 395 lines correct.
 Tried rules R30; 388 lines correct.
 Tried rules R1, R11; 424 lines correct.
-Tried rules R1, R7; 215 lines correct.
+Tried rules R1, R7; 443 lines correct.
 Tried rules R1, R8; 439 lines correct.
 Tried rules R1, R2; 433 lines correct.
 Tried rules R1, R4; 426 lines correct.
 Tried rules R1, R30; 424 lines correct.
-Tried rules R1, R8, R11; 439 lines correct.
-Tried rules R1, R8, R7; 216 lines correct.
-Tried rules R1, R8, R2; 450 lines correct.
-Tried rules R1, R8, R4; 439 lines correct.
-Tried rules R1, R8, R30; 439 lines correct.
-Tried rules R1, R8, R2, R11; 450 lines correct.
-Tried rules R1, R8, R2, R7; 216 lines correct.
-Tried rules R1, R8, R2, R4; 450 lines correct.
-Tried rules R1, R8, R2, R30; 450 lines correct.
+Tried rules R1, R7, R11; 443 lines correct.
+Tried rules R1, R7, R8; 458 lines correct.
+Tried rules R1, R7, R2; 452 lines correct.
+Tried rules R1, R7, R4; 445 lines correct.
+Tried rules R1, R7, R30; 443 lines correct.
+Tried rules R1, R7, R8, R11; 458 lines correct.
+Tried rules R1, R7, R8, R2; 469 lines correct.
+Tried rules R1, R7, R8, R4; 458 lines correct.
+Tried rules R1, R7, R8, R30; 458 lines correct.
+Tried rules R1, R7, R8, R2, R11; 469 lines correct.
+Tried rules R1, R7, R8, R2, R4; 469 lines correct.
+Tried rules R1, R7, R8, R2, R30; 469 lines correct.
 OPTIMIZED LINES
-31    32     comment nous en peussons avoir .
-63    64     a la foire ? / par saint jehan , voire ,
 82    83     qui , dyable , les vous prestera ?
 92    93     ou une aulne . / se m' aïst dieu , voire !
-96    97     pleust or a dieu qu' i n' y vist goutte !
 101    102     or ainsi m' aïst dieu que j' avoye
-106    107     comment vous va ? / et bien , vrayement ,
+102    103     de vous veoir grant voulenté .
 127    128     a l' ame ! / amen , par sa grace ,
+134    135     ung des bons . / seez vous , beau sire !
 137    138     je suis bien . par le corps precieux ,
 141    142     ainsi m' aïst dieu , que des oreilles ,
-145    146     vrayement c' estes vous tout poché ,
 172    173     ses denrees a qui les vouloit !
-193    194     or vrayement j' en suis attrappé
 197    198     j' avoye mis appart quatre vings
-269    270     empreu , et deux , et trois , et quatre ,
+207    208     quel drap est cecy ? vrayement ,
 278    279     ce sont six escus ? / m' aïst dieu , voire .
-287    288     qu' elle ne disoit pas evangille .
 289    290     c' est cela : vous ne vouldriez
-301    302     vrayement , cest homme m' assotist .
 312    313     bosse . ha ! c' est tresbien alé .
 319    320     tres bien ; et si ne vouldroye pas
 331    332     si feray je . alez devant ,
 333    334     or ? dyable , je n' y failly oncques .
 355    356     en ay je ? je le disoye bien .
-360    361     helas , helas ! qui le payera ?
-362    363     par saint jehan , il est ja paié .
 365    366     parmy le col soye je pendu
-371    372     vous n' aviez denier ne maille !
+389    390     qui a surnom de joceaulme ,
 408    409     je luy disoye que son feu pere
-427    428     toutesfois , on eust arrachié
-443    444     pença a luy : " comment l' aurai ge ? "
+479    480     mais , se vous rencheez arriere
 
 BAD LINES
 13    14     encor ne le dis je pas pour me
-17    18     aussy a il leü le grimaire
-19    20     a qui veez vous que ne despesche
-25    26     que se j' eusses esté a maistre
-48    49     combien vrayement je m' en advise ,
 55    56     m' aïst dieu ! mais en trompacion ,
 61    62     laissons en paix ceste baverie ;
-73    74     si me desmentez hardiement .
-84    85     on les me prestera vrayement
-125    126     se dieu eust oncq de creature
 138    139     il avoit … / vrayement vous vous serrez .
-163    164     comme qui vous eust fait de naige ;
 167    168     veez vous la , veez vostre pere :
-175    176     pleust a jhesucrist que le pire
 216    217     qu' oncques ne virent pere ne mere .
 223    224     tout est a vostre commandement ,
-225    226     et n' eussiez vous ne croix ne pille .
 273    274     il y a ou plus parte ou plus gaigne
+287    288     qu' elle ne disoit pas evangille .
 308    309     m' envoise la saincte magdalene
 313    314     il y aura et beü et gallé
-339    340     pleust a dieu qu' il ne fist que courre
-341    342     saint jehan , il feroit plus de voye
-386    387     s' il en a plus eu ne n' aura ,
-394    395     et encore , se j' eusse dit
+360    361     helas , helas ! qui le payera ?
+371    372     vous n' aviez denier ne maille !
+443    444     pença a luy : " comment l' aurai ge ? "

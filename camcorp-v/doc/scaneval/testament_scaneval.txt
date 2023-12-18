@@ -1,63 +1,35 @@
-Rules applied: R1, R8
-Lines correct: 465 of 504
+Rules applied: R1, R7, R8
+Lines correct: 497 of 504
 Pass history:
 Tried rules R1; 462 lines correct.
 Tried rules R11; 384 lines correct.
-Tried rules R7; 243 lines correct.
+Tried rules R7; 418 lines correct.
 Tried rules R8; 390 lines correct.
 Tried rules R2; 386 lines correct.
 Tried rules R4; 383 lines correct.
 Tried rules R30; 388 lines correct.
 Tried rules R1, R11; 458 lines correct.
-Tried rules R1, R7; 273 lines correct.
+Tried rules R1, R7; 494 lines correct.
 Tried rules R1, R8; 465 lines correct.
 Tried rules R1, R2; 460 lines correct.
 Tried rules R1, R4; 452 lines correct.
 Tried rules R1, R30; 462 lines correct.
-Tried rules R1, R8, R11; 461 lines correct.
-Tried rules R1, R8, R7; 274 lines correct.
-Tried rules R1, R8, R2; 463 lines correct.
-Tried rules R1, R8, R4; 455 lines correct.
-Tried rules R1, R8, R30; 465 lines correct.
+Tried rules R1, R7, R11; 490 lines correct.
+Tried rules R1, R7, R8; 497 lines correct.
+Tried rules R1, R7, R2; 492 lines correct.
+Tried rules R1, R7, R4; 484 lines correct.
+Tried rules R1, R7, R30; 494 lines correct.
+Tried rules R1, R7, R8, R11; 493 lines correct.
+Tried rules R1, R7, R8, R2; 495 lines correct.
+Tried rules R1, R7, R8, R4; 487 lines correct.
+Tried rules R1, R7, R8, R30; 497 lines correct.
 OPTIMIZED LINES
-3    1001     n' y eussent pas prins une aloue :
 14    1012     lui change a une jument ,
-43    1041     deust il vendre , quoy qu' il lui griesve
 45    1043     aler nues jambes en chappin ,
-57    1055     a moy , je lui paieray son vin ;
-91    1089     denis richier et jehan valecte —
-128    1126     au cappitaine jehan riou ,
-153    1151     barbier juré du bourg la royne ,
 156    1154     des ans y a demye douzaine
-224    1222     item , a maistre jehan laurens ,
-231    1229     du cendail eust , mais il est cher .
-232    1230     item , a maistre jehan cotart ,
-250    1276     sont creuz et deviennent en aage
-285    1311     seür comme qui l' aroit en paulme ,
-303    1329     quant reposer deust en viellesse .
 323    1349     pourveu , se huys y a ne fenestre
-352    1406     item , a sire jehan perdriel
-366    1420     afin qu' il sentist bon l' arseure ,
-421    1572     grant bien leur feissent mains loppins ,
-461    1649     les mendians ont eu mon oye ;
 463    1651     a menues gens menue monnoye .
 498    1686     que charecterie se boit toute ,
 
 BAD LINES
-17    1015     hyncelin , esleu de paris ,
-72    1070     item , a jehan raguier je donne ,
-112    1110     item , je donne a jehan le lou ,
-141    1139     que ces matins ne seüssent courre ,
-176    1174     quoy que maistre jehan de poullieu
-180    1178     maistre jehan de meun s' en mocqua
-199    1197     c' est bien le deable de vauvert .
-236    1234     quant chicaner me feist denise ,
-248    1274     item , j' ay sceü en ce voyaige
-318    1344     pourveu qu' ilz me salueront jehanne ,
-329    1355     thibault ? je mens : il a nom jehan ,
-339    1365     prins sur maistre jehan de rueil ,
-364    1418     mais macquaire , je vous asseure ,
-365    1419     a tout le poil cuisant ung deable
-382    1471     ce que tiens a maleureté
-441    1629     et la grant jehanne de bretaigne
-493    1681     dido , la royne de cartaige
+57    1055     a moy , je lui paieray son vin ;

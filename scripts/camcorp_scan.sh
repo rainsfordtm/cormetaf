@@ -2,7 +2,7 @@
 
 #Global variables
 scan_file="$HOME/git/syllabic-verse-analysis-code/scan_text.py"
-corpdir="$HOME/Corpus/corpora/camcorp0.71V"
+corpdir="$HOME/git/camcorp/camcorp-v"
 phonemes="${corpdir}/cfg/cv-phonemes.cfg"
 unstressed="${corpdir}/cfg/unstressed_major_cats.txt"
 

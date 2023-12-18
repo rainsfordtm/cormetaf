@@ -1,0 +1,25 @@
+Rules applied: R1, R8, R7
+Lines correct: 402 of 411
+Pass history:
+Tried rules R1; 395 lines correct.
+Tried rules R8; 350 lines correct.
+Tried rules R7; 349 lines correct.
+Tried rules R2; 345 lines correct.
+Tried rules R1, R8; 401 lines correct.
+Tried rules R1, R7; 396 lines correct.
+Tried rules R1, R2; 395 lines correct.
+Tried rules R1, R8, R7; 402 lines correct.
+Tried rules R1, R8, R2; 401 lines correct.
+Tried rules R1, R8, R7, R2; 402 lines correct.
+OPTIMIZED LINES
+68    1309     « que diriez vous se j' estoye
+110    1803     toutes les leesses qui sont
+182    611     pour veoir ce qui si griefment me maine
+216    1703     j' ay mes bons jours passez et ma leesse ,
+278    2404     joyeuseté , plaisir , leece et joye ,
+292    2418     ne je n' atens jamais estre eureux .
+324    2518     que porter fruit qui le deust blecier ,
+365    2628     honte rougir et paeur soy deffrire ;
+
+BAD LINES
+57    1106     je ne soule plus , se m' aïst dieux .

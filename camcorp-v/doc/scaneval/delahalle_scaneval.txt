@@ -1,0 +1,19 @@
+Rules applied: R1, R8
+Lines correct: 406 of 406
+Pass history:
+Tried rules R1; 404 lines correct.
+Tried rules R11; 352 lines correct.
+Tried rules R2; 352 lines correct.
+Tried rules R30; 352 lines correct.
+Tried rules R8; 352 lines correct.
+Tried rules R1, R11; 402 lines correct.
+Tried rules R1, R2; 404 lines correct.
+Tried rules R1, R30; 404 lines correct.
+Tried rules R1, R8; 406 lines correct.
+Tried rules R1, R8, R11; 404 lines correct.
+Tried rules R1, R8, R2; 406 lines correct.
+Tried rules R1, R8, R30; 406 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES

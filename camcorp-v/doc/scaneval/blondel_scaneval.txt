@@ -1,0 +1,20 @@
+Rules applied: R1, R8
+Lines correct: 398 of 399
+Pass history:
+Tried rules R1; 396 lines correct.
+Tried rules R11; 347 lines correct.
+Tried rules R2; 347 lines correct.
+Tried rules R30; 349 lines correct.
+Tried rules R8; 351 lines correct.
+Tried rules R1, R11; 394 lines correct.
+Tried rules R1, R2; 392 lines correct.
+Tried rules R1, R30; 396 lines correct.
+Tried rules R1, R8; 398 lines correct.
+Tried rules R1, R8, R11; 396 lines correct.
+Tried rules R1, R8, R2; 394 lines correct.
+Tried rules R1, R8, R30; 398 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES
+238    1321     seur toutes autres est el la souveraine ,

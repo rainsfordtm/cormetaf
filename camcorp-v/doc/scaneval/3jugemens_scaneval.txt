@@ -1,43 +1,38 @@
-Rules applied: R1, R8
-Lines correct: 455 of 477
+Rules applied: R1, R7, R8
+Lines correct: 463 of 477
 Pass history:
 Tried rules R1; 454 lines correct.
 Tried rules R11; 387 lines correct.
-Tried rules R7; 213 lines correct.
+Tried rules R7; 394 lines correct.
 Tried rules R2; 382 lines correct.
 Tried rules R8; 388 lines correct.
 Tried rules R30; 387 lines correct.
 Tried rules R1, R11; 454 lines correct.
-Tried rules R1, R7; 239 lines correct.
+Tried rules R1, R7; 462 lines correct.
 Tried rules R1, R2; 447 lines correct.
 Tried rules R1, R8; 455 lines correct.
 Tried rules R1, R30; 454 lines correct.
-Tried rules R1, R8, R11; 455 lines correct.
-Tried rules R1, R8, R7; 236 lines correct.
-Tried rules R1, R8, R2; 448 lines correct.
-Tried rules R1, R8, R30; 455 lines correct.
+Tried rules R1, R7, R11; 460 lines correct.
+Tried rules R1, R7, R2; 454 lines correct.
+Tried rules R1, R7, R8; 463 lines correct.
+Tried rules R1, R7, R30; 462 lines correct.
+Tried rules R1, R7, R8, R11; 461 lines correct.
+Tried rules R1, R7, R8, R2; 455 lines correct.
+Tried rules R1, R7, R8, R30; 463 lines correct.
 OPTIMIZED LINES
-11    12     esleu a juge .
-86    87     pour vous ay eu mainte dure semaine
+132    133     car par lonc temps t' ay peü esprouver ,
 148    149     adont l' amant qui ot esté lié
 149    150     par dur refus qui l' ot contralié ,
-178    179     foibles ou fors , et deust estre deffais ,
+184    185     yroit il hors ; ja n' en eust dueillance
 246    247     mourray je ainsi car , se dieu me pardont ,
-280    281     ce savez vous , non obstant les seremens
-324    325     avoit assez , mais qu' il y eust plaisir
-359    360     qui l' ot deceue ,
-360    361     dont elle avoit mainte doulour receue ,
-361    362     tout se fust elle assez tart apperceue ,
+362    363     mais plus cellui n' yra a sa sceüe
+377    378     ferme et loyal com pierre d' aÿmant .
 388    389     ou peust veoir la tres belle aux beaulx yeulx
-392    393     li peust venir , car pour nulle doulour
+389    390     qu' il äouroit et servoit comme dieux ,
 411    412     et pour ce attraire
-430    431     cil tant l' ama , quoy qu' il eust peine grieve ,
-444    445     se pitié n' eust de lui , se dieux m' aïst ,
-448    449     alors amours , qui seüst assouager
+443    444     tort lui feist
+469    470     qui tout veoit l' amant en plours baigner ,
 
 BAD LINES
-82    83     elle eust pitié , se assez souffisoit
-205    206     et bien sembloit que l' amant n' eust envie
-400    401     celle eust de lui , pour laquelle amistié
-402    403     ains que pour lui eust pensé n' apointié
+280    281     ce savez vous , non obstant les seremens
 435    436     mais guerredonnez ,

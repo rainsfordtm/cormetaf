@@ -3,51 +3,52 @@ Lines correct: 420 of 500
 Pass history:
 Tried rules R1; 395 lines correct.
 Tried rules R11; 325 lines correct.
-Tried rules R7; 231 lines correct.
+Tried rules R7; 343 lines correct.
 Tried rules R8; 341 lines correct.
 Tried rules R2; 342 lines correct.
 Tried rules R4; 361 lines correct.
 Tried rules R30; 340 lines correct.
 Tried rules R1, R11; 364 lines correct.
-Tried rules R1, R7; 251 lines correct.
+Tried rules R1, R7; 397 lines correct.
 Tried rules R1, R8; 396 lines correct.
 Tried rules R1, R2; 398 lines correct.
 Tried rules R1, R4; 414 lines correct.
 Tried rules R1, R30; 395 lines correct.
 Tried rules R1, R4, R11; 383 lines correct.
-Tried rules R1, R4, R7; 258 lines correct.
+Tried rules R1, R4, R7; 414 lines correct.
 Tried rules R1, R4, R8; 415 lines correct.
 Tried rules R1, R4, R2; 419 lines correct.
 Tried rules R1, R4, R30; 414 lines correct.
 Tried rules R1, R4, R2, R11; 388 lines correct.
-Tried rules R1, R4, R2, R7; 258 lines correct.
+Tried rules R1, R4, R2, R7; 419 lines correct.
 Tried rules R1, R4, R2, R8; 420 lines correct.
 Tried rules R1, R4, R2, R30; 419 lines correct.
 Tried rules R1, R4, R2, R8, R11; 389 lines correct.
-Tried rules R1, R4, R2, R8, R7; 259 lines correct.
+Tried rules R1, R4, R2, R8, R7; 420 lines correct.
 Tried rules R1, R4, R2, R8, R30; 420 lines correct.
 OPTIMIZED LINES
 2    3     Sa vie puisse mieulx entendre ,
-35    36     Du bon maistre Larchant le sçavoir .
+9    10     Que je la sçeusse bien rimer
 52    53     Mettre à mort , sans nul delay ,
 76    77     A son père ne à sa mère ,
+77    78     De peur d' ensuyvir mort amère ,
 84    85     De son père , et de sa mère ,
 98    99     Adonc qu' il eust fait sa prière
-122    123     « Car je congnois que tu es crestien
 132    133     « Joye sans fin , tousjours lyesse .
 134    135     « Servent et prient les ydolles ,
 136    137     « Qu' ilz font des grands Dyables leurs dieux
 137    138     « Tant sont aveuglez en leurs yeulx ,
+146    148     Qu' il se teust , il feroit que sage ;
+147    149     Que son père n' eust congnoissance
 172    174     A Dieu , pour les oster de sordre[=orde]
 192    194     « Et suyvre du Dyable la dance
-214    216     Frappé que telle loy fut laissée ;
 216    218     A son mari et seurement .
 228    231     « Car ce sont tous Dyables cornus ,
 230    233     « Et , pour ce , il nous admonneste
 258    261     Tant que à Dieu fut converty
-268    271     De par Dieu , qu' il avoit eue devant
 293    296     Que la chose est toute clère ,
 333    336     Le père au bon Mathurin ;
+361    365     Si n' avoit il que vingt ans d' aage ,
 391    396     Plains de Dyables , tous enragés ;
 392    397     Mesmes la fille à l' Empereur
 395    400     Du Dyable et fut persecutée ;
@@ -58,34 +59,34 @@ OPTIMIZED LINES
 415    420     L' Enchanteur qui le Dyable adjure .
 416    421     La responce du Dyable ouye ,
 422    427     Allèrent à l' Empereur dire
-430    435     « Envoye embassades le querir
+423    428     Qu' il luy pleust tout ce fait conduyre ,
 432    437     « Tout le pays et la region
 436    441     « A ta fille et ses douleurs ,
+442    448     L' Empereur eust le cueur enclin
 468    474     Et d' elle le Dyable gecter ,
-485    491     Ce nonobstant qu' ilz estoient doulens
 
 BAD LINES
-9    10     Que je la sçeusse bien rimer
 17    18     Tout est pour obeir à la rime ,
+35    36     Du bon maistre Larchant le sçavoir .
 48    49     Son père estoit duc et gouverneur
 67    68     Vers l' archevesque de Sens ,
-77    78     De peur d' ensuyvir mort amère ,
 85    86     Pensant qu' ilz auroient douleur amère
 90    91     A mains jointes et grans pleurs ,
 111    112     Dont l' Ange fist mention .
+122    123     « Car je congnois que tu es crestien
 128    129     Saint Mathurin luy respond :
 131    132     « En la fin ont sauvement ,
 142    143     « En toute douleur et peine ;
-146    148     Qu' il se teust , il feroit que sage ;
-147    149     Que son père n' eust congnoissance
 155    157     « Mon très cher enfant , que ferois - je
 156    158     « En ce monde , que deviendrois - je
 164    166     Ne se voulut pas taire pourtant ,
 165    167     Mais il monstra à sa mère
 210    212     Non pas celuy qui devine ,
 211    213     Elle congneut veritablement
+214    216     Frappé que telle loy fut laissée ;
 217    219     Et luy a dit : « Mon très cher seigneur ,
 241    244     « La mer et tout ce que devons croire ,
+268    271     De par Dieu , qu' il avoit eue devant
 278    281     Et les rendoit saines et garies ,
 279    282     Sans ce que elles ne fussent peries ;
 318    321     Et congneut le vouloir de son père
@@ -95,17 +96,16 @@ BAD LINES
 352    356     Au vray Dieu , et selon son office .
 354    358     Et avec Sainct Mathurin ,
 358    362     Ne d' avec eulx departir ,
-361    365     Si n' avoit il que vingt ans d' aage ,
 371    375     Faisoit aumosnes et oraisons ,
 374    379     Car la saincte vie dont il vivoit
 403    408     Jamais ne fauldroit dehors ,
-423    428     Qu' il luy pleust tout ce fait conduyre ,
 429    434     « Nous soit venu à Romme .
-442    448     L' Empereur eust le cueur enclin
+430    435     « Envoye embassades le querir
 466    472     Par amour luy supplioit
 467    473     Qu' il allast sa fille visiter
 471    477     S' il n' avoit par amictié
 477    483     Et qu' il allast vers eulx seurement ,
 479    485     De Dieu , que tout gariroit
 480    486     Et Dieu tousjours avec luy seroit ;
+485    491     Ce nonobstant qu' ilz estoient doulens
 487    494     A Romme vouloit prendre chemin .

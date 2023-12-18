@@ -3,19 +3,19 @@ Lines correct: 608 of 621
 Pass history:
 Tried rules R1; 605 lines correct.
 Tried rules R11; 497 lines correct.
-Tried rules R7; 290 lines correct.
+Tried rules R7; 492 lines correct.
 Tried rules R8; 502 lines correct.
 Tried rules R2; 497 lines correct.
 Tried rules R4; 498 lines correct.
 Tried rules R30; 497 lines correct.
 Tried rules R1, R11; 601 lines correct.
-Tried rules R1, R7; 328 lines correct.
+Tried rules R1, R7; 594 lines correct.
 Tried rules R1, R8; 608 lines correct.
 Tried rules R1, R2; 605 lines correct.
 Tried rules R1, R4; 591 lines correct.
 Tried rules R1, R30; 605 lines correct.
 Tried rules R1, R8, R11; 604 lines correct.
-Tried rules R1, R8, R7; 330 lines correct.
+Tried rules R1, R8, R7; 595 lines correct.
 Tried rules R1, R8, R2; 608 lines correct.
 Tried rules R1, R8, R4; 594 lines correct.
 Tried rules R1, R8, R30; 608 lines correct.

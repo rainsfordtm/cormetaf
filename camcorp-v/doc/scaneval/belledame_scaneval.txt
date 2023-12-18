@@ -3,19 +3,19 @@ Lines correct: 496 of 504
 Pass history:
 Tried rules R1; 494 lines correct.
 Tried rules R11; 416 lines correct.
-Tried rules R7; 222 lines correct.
+Tried rules R7; 409 lines correct.
 Tried rules R8; 421 lines correct.
 Tried rules R2; 424 lines correct.
 Tried rules R4; 408 lines correct.
 Tried rules R30; 420 lines correct.
 Tried rules R1, R11; 490 lines correct.
-Tried rules R1, R7; 247 lines correct.
+Tried rules R1, R7; 479 lines correct.
 Tried rules R1, R8; 494 lines correct.
 Tried rules R1, R2; 496 lines correct.
 Tried rules R1, R4; 473 lines correct.
 Tried rules R1, R30; 494 lines correct.
 Tried rules R1, R2, R11; 492 lines correct.
-Tried rules R1, R2, R7; 247 lines correct.
+Tried rules R1, R2, R7; 481 lines correct.
 Tried rules R1, R2, R8; 496 lines correct.
 Tried rules R1, R2, R4; 475 lines correct.
 Tried rules R1, R2, R30; 496 lines correct.
@@ -23,10 +23,10 @@ OPTIMIZED LINES
 13    14     Car plus n' ay sentement në aise ,
 15    16     Chose qu' a moy në autre playse .
 138    139     S' il eust au gré du cuer visé
+185    186     Se Crainte ne l' eust destourné ;
+250    251     Ne trop grant amour ne trop haine ,
 276    277     Je n' ay desir në autre affaire
 442    443     Mais a dangier travaille et vit
 
 BAD LINES
 159    160     Ne me peüst veoir au travers .
-185    186     Se Crainte ne l' eust destourné ;
-250    251     Ne trop grant amour ne trop haine ,

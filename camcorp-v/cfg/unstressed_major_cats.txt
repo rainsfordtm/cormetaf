@@ -18,6 +18,7 @@
 .*	à.le	Pre+Det
 .*	de.le	Pre+Det
 .*	en.le	Pre+Det
+.[e']?	ce	Prn
 .[e']?	ce	Prn%
 .[e']?	je	Prn%
 .*	en2	Prn%$
