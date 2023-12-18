@@ -4,12 +4,12 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 3,1,3,bien,bien,NOM:obj:masc:sg,1,N,N,bien,C/V\
 4,1,4,set,set,VER:pres:3:sg,1,Vfin,Vfin,savoir,C/V\
 5,1,5,dire,dire,VER:infi,1,Vinf,Vinf,dire,'C/V\.C/(e)\
-6,1,6,le,le,PRO:pers:obj:3:masc:sg:unb,1,Prn,Prn$$,3p,C/(e)\
+6,1,6,le,le,PRO:pers:obj:3:masc:sg:unb,1,Prn,Prn$$,le,C/(e)\
 7,1,7,doit,doit,VER:pres:3:sg,1,Vfin,Vfin,devoir2,C/V\
 8,2,1,s,s,PROCON,2,Sub,Sub,si3,C/\
 9,2,2,il,il,PRO:pers:suj:3:masc:sg:unb,2,Prn,Prn$,il,/V\
 10,2,3,ne,ne,PRO:clit,2,Neg,Neg$$,ne,C/(e)\
-11,2,4,le,le,PRO:pers:obj:3:masc:sg:unb,2,Prn,Prn$$,3p,C/(e)\
+11,2,4,le,le,PRO:pers:obj:3:masc:sg:unb,2,Prn,Prn$$,le,C/(e)\
 12,2,5,dist,dist,VER:pres:3:sg,2,Vfin,Vfin,dire,C/V\
 13,2,6,pour,pour,PRE,2,Pre,Pre,pour,C/V\
 14,2,7,lui,lui,PRO:pers:obj:3:masc:sg:bet,2,Prn,Prn,lui,C/V\
@@ -47,7 +47,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 46,8,1,aront,aront,VER:futu:3:pl,8,Vfin,Vfin,avoir,/V\.'C/V\
 47,8,2,li,li,DET:def:suj:masc:pl,8,Det,Det,le,C/V\
 48,8,3,mauvais,mauvais,ADJ:suj:masc:pl,8,Adj,Adj,,C/V\.'C/V\
-49,8,4,la,la,PRO:pers:acc:3:femi:sg,8,Prn,Prn$$,3p,C/V\
+49,8,4,la,la,PRO:pers:acc:3:femi:sg,8,Prn,Prn$$,le,C/V\
 50,8,5,bourront,bourront,VER:futu:3:pl,8,Vfin,Vfin,bouillir,C/V\.'C/V\
 51,9,1,en,en,PRO:clit,9,Pre,Pre,en,/V\
 52,9,2,le,le,DET:def:obj:femi:sg,9,Det,Det,le,C/(e)\
@@ -237,10 +237,10 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 236,37,5,tant,tant,ADV,37,QIs,QIs,tant,C/V\
 237,37,6,monteplie,monteplie,VER:pres:3:sg,37,Vfin,Vfin,,C/V\.C/e\.'C/V\./(e)\
 238,38,1,renars,renars,NOM:suj:masc:sg,38,N,N,,C/V\.'C/V\
-239,38,2,me,me,PRO:pers:obj:1:sg:unb,38,Prn,Prn$$,1ps,C/(e)\
+239,38,2,me,me,PRO:pers:obj:1:sg:unb,38,Prn,Prn$$,me,C/(e)\
 240,38,3,plaist,plaist,VER:pres:3:sg,38,Vfin,Vfin,plaire,C/V\
 241,38,4,que,que,PROCON,38,Sub,Sub,que,C/(e)\
-242,38,5,vous,vous,PRO:pers:2:pl,38,Prn,Prn$$,2pp,C/V\
+242,38,5,vous,vous,PRO:pers:2:pl,38,Prn,Prn$$,vous,C/V\
 243,38,6,en,en,PRO:clit,38,Prn,Prn$$,en2,/V\
 244,38,7,die,die,VER:subp:1:sg,38,Vfin,Vfin,dire,'C/V\./(e)\
 245,39,1,une,une,DET:ndf:obj:femi:sg,39,QIs,QIs,un,'/V\.C/(e)\
@@ -374,7 +374,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 373,59,6,roy,roy,NOM:obj:masc:sg,59,N,N,,C/V\
 374,60,1,qui,qui,PROCON,60,Qux,Qux,qui,C/V\
 375,60,2,mout,mout,ADV,60,QIs,QIs,moult,C/V\
-376,60,3,l',l',PRO:pers:obj:3:masc:sg:unb,60,Prn,Prn$$,3p,C/\
+376,60,3,l',l',PRO:pers:obj:3:masc:sg:unb,60,Prn,Prn$$,le,C/\
 377,60,4,amoit,amoit,VER:impf:3:sg,60,Vfin,Vfin,aimer,/V\.'C/V\
 378,60,5,en,en,PRO:clit,60,Pre,Pre,en,/V\
 379,60,6,bonne,bonne,ADJ:obj:femi:sg,60,Adj,Adj,bon,'C/V\.C/(e)\
@@ -645,7 +645,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 644,105,6,flour,flour,NOM:obj:femi:sg,105,N,N,,C/V\
 645,106,1,qu,qu,PROCON,106,Crd,Crd,que,C/\
 646,106,2,i,i,PRO:pers:suj:3:masc:pl,106,Prn,Prn$,il,/V\
-647,106,3,les,les,PRO:pers:acc:3:masc:pl,106,Prn,Prn$$,3p,C/V\
+647,106,3,les,les,PRO:pers:acc:3:masc:pl,106,Prn,Prn$$,le,C/V\
 648,106,4,amoient,amoient,VER:impf:3:pl,106,Vfin,Vfin,aimer,/V\.'C/V\./e\
 649,106,5,par,par,PRE,106,Pre,Pre,par,C/V\
 650,106,6,amour,amour,NOM:obj:femi:sg,106,N,N,,/V\.'C/V\
@@ -963,7 +963,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 962,162,4,que,que,PROCON,162,Sub,Sub,que,C/(e)\
 963,162,5,li,li,DET:def:suj:masc:sg,162,Det,Det,le,C/V\
 964,162,6,rois,rois,NOM:suj:masc:sg,162,N,N,,C/V\
-965,162,7,le,le,PRO:pers:obj:3:masc:sg:unb,162,Prn,Prn$$,3p,C/(e)\
+965,162,7,le,le,PRO:pers:obj:3:masc:sg:unb,162,Prn,Prn$$,le,C/(e)\
 966,162,8,sache,sache,VER:subp:3:sg,162,Vfin,Vfin,savoir,'C/V\.C/(e)\
 967,163,1,pour,pour,PRE,163,Pre,Pre,pour,C/V\
 968,163,2,che,che,PRO:invar,163,Prn,Prn,ce,C/(e)\
@@ -1118,7 +1118,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1117,189,3,et,et,CON:coord,189,Crd,Crd,et,/V\
 1118,189,4,par,par,PRE,189,Pre,Pre,par,C/V\
 1119,189,5,linage,linage,NOM:obj:masc:sg,189,N,N,,C/V\.'C/V\.C/(e)\
-1120,190,1,le,le,PRO:pers:obj:3:masc:sg:unb,190,Prn,Prn$$,3p,C/(e)\
+1120,190,1,le,le,PRO:pers:obj:3:masc:sg:unb,190,Prn,Prn$$,le,C/(e)\
 1121,190,2,fist,fist,VER:simp:3:sg,190,Vfin,Vfin,faire,C/V\
 1122,190,3,seoir,seoir,VER:infi,190,Vinf,Vinf,seoir,C/(V)\.'/V\
 1123,190,4,mout,mout,ADV,190,QIs,QIs,moult,C/V\
@@ -1171,7 +1171,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1170,198,4,ot,ot,VER:simp:3:sg,198,Vfin,Vfin,avoir,/V\
 1171,198,5,dont,dont,PRO:invar,198,Qux,Qux,dont,C/V\
 1172,198,6,je,je,PRO:pers:suj:1:sg:unb,198,Prn,Prn$,je,C/(e)\
-1173,198,7,m',m',PRO:pers:obj:1:sg:unb,198,Prn,Prn$$,1ps,C/\
+1173,198,7,m',m',PRO:pers:obj:1:sg:unb,198,Prn,Prn$$,me,C/\
 1174,198,8,apens,apens,VER:pres:1:sg,198,Vfin,Vfin,,/V\.'C/V\
 1175,199,1,qui,qui,PROCON,199,Qux,Qux,qui,C/V\
 1176,199,2,erent,erent,VER:impf:3:pl,199,Vfin,Vfin,être,'/V\.C/e\
@@ -1291,7 +1291,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1290,216,7,a,a,PRE,216,Pre,Pre,à,/V\
 1291,216,8,brief,brief,ADJ:obj:masc:sg,216,Adj,Adj,,C/V\
 1292,216,9,sermon,sermon,NOM:obj:masc:sg,216,N,N,,C/V\.'C/V\
-1293,217,1,vous,vous,PRO:pers:2:pl,217,Prn,Prn$$,2pp,C/V\
+1293,217,1,vous,vous,PRO:pers:2:pl,217,Prn,Prn$$,vous,C/V\
 1294,217,2,voeil,voeil,VER:pres:1:sg,217,Vfin,Vfin,vouloir,C/V\
 1295,217,3,dire,dire,VER:infi,217,Vinf,Vinf,dire,'C/V\.C/(e)\
 1296,217,4,c',c',PROCON,217,Qux,Qux,que,C/\
@@ -1322,7 +1322,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1321,221,5,pareil,pareil,ADJ:obj:masc:sg,221,Adj,Adj,pareil,C/V\.'C/V\
 1322,222,1,se,se,PROCON,222,Sub,Sub,si3,C/(e)\
 1323,222,2,je,je,PRO:pers:suj:1:sg:unb,222,Prn,Prn$,je,C/(e)\
-1324,222,3,le,le,PRO:pers:obj:3:masc:sg:unb,222,Prn,Prn$$,3p,C/(e)\
+1324,222,3,le,le,PRO:pers:obj:3:masc:sg:unb,222,Prn,Prn$$,le,C/(e)\
 1325,222,4,truis,truis,VER:pres:1:sg,222,Vfin,Vfin,trouver,C/V\
 1326,222,5,a,a,PRE,222,Pre,Pre,à,/V\
 1327,222,6,mon,mon,DET:poss:obj:masc:sg,222,Det,Det,mon,C/V\
@@ -1345,7 +1345,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1344,225,5,vois,vois,NOM:obj:femi:sg,225,N,N,,C/V\
 1345,226,1,"""","""",PON:cit,226,Pnc,Pnc,,
 1346,226,2,fai,fai,VER:impe:2:sg,226,Vfin,Vfin,faire,C/V\
-1347,226,3,le,le,PRO:pers:obj:3:masc:sg:unb,226,Prn,Prn%%,3p,C/(e)\
+1347,226,3,le,le,PRO:pers:obj:3:masc:sg:unb,226,Prn,Prn%%,le,C/(e)\
 1348,226,4,chevalier,chevalier,NOM:obj:masc:sg,226,N,N,,C/V\.C/V\.'C/V\
 1349,226,5,sire,sire,NOM:suj:masc:sg,226,N,N,,'C/V\.C/(e)\
 1350,226,6,rois,rois,NOM:suj:masc:sg,226,N,N,,C/V\
@@ -1355,7 +1355,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1354,227,3,de,de,PRE,227,Pre,Pre,de,C/(e)\
 1355,227,4,cuer,cuer,NOM:obj:masc:sg,227,N,N,,C/V\
 1356,227,5,joians,joians,ADJ:obj:masc:sg,227,Adj,Adj,,C/V\.'C/V\
-1357,227,6,l',l',PRO:pers:obj:3:masc:sg:unb,227,Prn,Prn$$,3p,C/\
+1357,227,6,l',l',PRO:pers:obj:3:masc:sg:unb,227,Prn,Prn$$,le,C/\
 1358,227,7,otroie,otroie,VER:pres:3:sg,227,Vfin,Vfin,octroyer,/V\.'C/V\./(e)\
 1359,228,1,tous,tous,DET:ind:suj:masc:sg,228,QIs,QIs,tout,C/V\
 1360,228,2,li,li,DET:def:suj:masc:sg,228,Det,Det,le,C/V\
@@ -1410,11 +1410,11 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1409,236,4,drois,drois,NOM:suj:masc:sg,236,Adj,Adj,droit2,C/V\
 1410,236,5,que,que,PROCON,236,Sub,Sub,que,C/(e)\
 1411,236,6,je,je,PRO:pers:suj:1:sg:unb,236,Prn,Prn$,je,C/(e)\
-1412,236,7,vous,vous,PRO:pers:2:pl,236,Prn,Prn$$,2pp,C/V\
+1412,236,7,vous,vous,PRO:pers:2:pl,236,Prn,Prn$$,vous,C/V\
 1413,236,8,die,die,VER:subp:3:sg,236,Vfin,Vfin,dire,'C/V\./(e)\
 1414,237,1,qui,qui,PROCON,237,Qux,Qux,qui,C/V\
 1415,237,2,proserpine,proserpine,NPR:obj:femi:sg,237,N,N,,C/V\.C/V\.'C/V\.C/(e)\
-1416,237,3,les,les,PRO:pers:acc:3:masc:pl,237,Prn,Prn$$,3p,C/V\
+1416,237,3,les,les,PRO:pers:acc:3:masc:pl,237,Prn,Prn$$,le,C/V\
 1417,237,4,donna,donna,VER:simp:3:sg,237,Vfin,Vfin,donner,C/V\.'C/V\
 1418,238,1,lucifers,lucifers,NPR:suj:masc:sg,238,N,N,,C/V\.C/V\.'C/V\
 1419,238,2,qui,qui,PROCON,238,Qux,Qux,qui,C/V\
@@ -1431,7 +1431,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1430,240,4,puc,puc,NOM:obj:masc:sg,240,N,N,,C/V\
 1431,240,5,d',d',PRE,240,Pre,Pre,de,C/\
 1432,240,6,infer,infer,NOM:obj:masc:sg,240,N,N,,/V\.'C/V\
-1433,240,7,le,le,PRO:pers:obj:3:masc:sg:unb,240,Prn,Prn$$,3p,C/(e)\
+1433,240,7,le,le,PRO:pers:obj:3:masc:sg:unb,240,Prn,Prn$$,le,C/(e)\
 1434,240,8,mist,mist,VER:simp:3:sg,240,Vfin,Vfin,mettre,C/V\
 1435,241,1,ensanle,ensanle,ADV,241,Adv,Adv,ensemble,/V\.'C/V\.C/(e)\
 1436,241,2,o,o,PRE,241,Pre,Pre,o,/V\
@@ -1445,11 +1445,11 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1444,242,3,dieu,dieu,NOM:obj:masc:sg,242,N,N,,C/V\
 1445,242,4,qu,qu,PROCON,242,Sub,Sub,que,C/\
 1446,242,5,il,il,PRO:pers:suj:3:masc:sg:unb,242,Prn,Prn$,il,/V\
-1447,242,6,nous,nous,PRO:pers:1:pl,242,Prn,Prn$$,1pp,C/V\
+1447,242,6,nous,nous,PRO:pers:1:pl,242,Prn,Prn$$,nous,C/V\
 1448,242,7,en,en,PRO:clit,242,Prn,Prn$$,en2,/V\
 1449,242,8,gart,gart,VER:subp:3:sg,242,Vfin,Vfin,garder,C/V\
 1450,243,1,porserpine,porserpine,NPR:suj:femi:sg,243,N,N,,C/V\.C/e\.'C/V\.C/(e)\
-1451,243,2,les,les,PRO:pers:acc:3:masc:pl,243,Prn,Prn$$,3p,C/V\
+1451,243,2,les,les,PRO:pers:acc:3:masc:pl,243,Prn,Prn$$,le,C/V\
 1452,243,3,envoia,envoia,VER:simp:3:sg,243,Vfin,Vfin,envoyer,/V\.C/V\.'C/V\
 1453,244,1,orgueil,orgueil,NOM:obj:masc:sg,244,N,N,,/V\.'C/V\
 1454,244,2,qu,qu,PROCON,244,Qux,Qux,que,C/\
@@ -1553,7 +1553,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1552,261,5,vaine,vaine,ADJ:obj:femi:sg,261,Adj,Adj,,'C/V\.C/(e)\
 1553,261,6,gloire,gloire,NOM:obj:femi:sg,261,N,N,,'C/V\.C/(e)\
 1554,262,1,che,che,PRO:invar,262,Prn,Prn,ce,C/(e)\
-1555,262,2,nous,nous,PRO:pers:1:pl,262,Prn,Prn$$,1pp,C/V\
+1555,262,2,nous,nous,PRO:pers:1:pl,262,Prn,Prn$$,nous,C/V\
 1556,262,3,raconte,raconte,VER:pres:3:sg,262,Vfin,Vfin,raconter,C/V\.'C/V\.C/(e)\
 1557,262,4,li,li,DET:def:suj:femi:sg,262,Det,Det,le,C/V\
 1558,262,5,estoire,estoire,NOM:suj:femi:sg,262,N,N,,/V\.'C/V\.C/(e)\
@@ -1834,7 +1834,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1833,312,3,qu,qu,PROCON,312,Sub,Sub,que,C/\
 1834,312,4,il,il,PRO:pers:suj:3:masc:sg:unb,312,Prn,Prn$,il,/V\
 1835,312,5,ne,ne,PRO:clit,312,Neg,Neg$$,ne,C/(e)\
-1836,312,6,le,le,PRO:pers:acc:3:femi:sg,312,Prn,Prn$$,3p,C/(e)\
+1836,312,6,le,le,PRO:pers:acc:3:femi:sg,312,Prn,Prn$$,le,C/(e)\
 1837,312,7,fist,fist,VER:simp:3:sg,312,Vfin,Vfin,faire,C/V\
 1838,312,8,verser,verser,VER:infi,312,Vinf,Vinf,,C/V\.'C/V\
 1839,313,1,li,li,DET:def:suj:masc:pl,313,Det,Det,le,C/V\
@@ -1847,7 +1847,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1846,314,2,que,que,PROCON,314,Sub,Sub,que,C/(e)\
 1847,314,3,li,li,DET:def:suj:masc:pl,314,Det,Det,le,C/V\
 1848,314,4,pluseur,pluseur,PRO:ind:suj:masc:pl,314,QIs,QIs,plusieurs,C/V\.'C/V\
-1849,314,5,les,les,PRO:pers:acc:3:masc:pl,314,Prn,Prn$$,3p,C/V\
+1849,314,5,les,les,PRO:pers:acc:3:masc:pl,314,Prn,Prn$$,le,C/V\
 1850,314,6,loerent,loerent,VER:simp:3:pl,314,Vfin,Vfin,louer,C/V\.'C/V\.C/e\
 1851,315,1,andoi,andoi,ADJ:card,315,QIs,QIs,ambedeux,/V\.'C/V\
 1852,315,2,li,li,DET:def:suj:masc:pl,315,Det,Det,le,C/V\
@@ -1956,7 +1956,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1955,331,7,maisnés,maisnés,NOM:suj:masc:sg,331,N,N,,C/V\.'C/V\
 1956,332,1,de,de,PRE,332,Pre,Pre,de,C/(e)\
 1957,332,2,tous,tous,PRO:ind:obj:masc:pl,332,QIs,QIs,tout,C/V\
-1958,332,3,l',l',PRO:pers:obj:3:masc:sg:unb,332,Prn,Prn$$,3p,C/\
+1958,332,3,l',l',PRO:pers:obj:3:masc:sg:unb,332,Prn,Prn$$,le,C/\
 1959,332,4,en,en,PRO:clit,332,Prn,Prn$$,en2,/V\
 1960,332,5,est,est,VER:pres:3:sg,332,Vfin,Vfin,être,/V\
 1961,332,6,li,li,DET:def:suj:masc:sg,332,Det,Det,le,C/V\
@@ -2015,7 +2015,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2014,341,3,li,li,DET:def:suj:masc:pl,341,Det,Det,le,C/V\
 2015,341,4,chevalier,chevalier,NOM:suj:masc:pl,341,N,N,,C/V\.C/V\.'C/V\
 2016,341,5,nouvel,nouvel,ADJ:suj:masc:pl,341,Adj,Adj,nouveau,C/V\.'C/V\
-2017,342,1,le,le,PRO:pers:obj:3:masc:sg:unb,342,Prn,Prn$$,3p,C/(e)\
+2017,342,1,le,le,PRO:pers:obj:3:masc:sg:unb,342,Prn,Prn$$,le,C/(e)\
 2018,342,2,sievent,sievent,VER:pres:3:pl,342,Vfin,Vfin,suivre,'C/V\.C/e\
 2019,342,3,le,le,DET:def:obj:masc:sg,342,Det,Det,le,C/(e)\
 2020,342,4,roy,roy,NOM:obj:masc:sg,342,N,N,,C/V\
@@ -2179,7 +2179,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2178,366,2,che,che,PRO:invar,366,Prn,Prn,ce,C/(e)\
 2179,366,3,qu,qu,PROCON,366,Sub,Sub,que,C/\
 2180,366,4,il,il,PRO:pers:suj:3:masc:pl,366,Prn,Prn$,il,/V\
-2181,366,5,m',m',PRO:pers:obj:1:sg:unb,366,Prn,Prn$$,1ps,C/\
+2181,366,5,m',m',PRO:pers:obj:1:sg:unb,366,Prn,Prn$$,me,C/\
 2182,366,6,ont,ont,VER:pres:3:pl,366,Vfin,Vfin,avoir,/V\
 2183,366,7,bouté,bouté,VER:pper:masc:sg,366,Vpp,Vpp,,C/V\.'C/V\
 2184,366,8,arriere,arriere,ADV,366,PrA,PrA,arrière,/V\.'C/V\.C/(e)\
@@ -2212,12 +2212,12 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2211,371,1,ne,ne,PRO:clit,371,Neg,Neg$$,ne,C/(e)\
 2212,371,2,laissiés,laissiés,VER:impe:2:pl,371,Vfin,Vfin,laisser,C/V\.'C/V\
 2213,371,3,ne,ne,PRO:clit,371,Neg,Neg$$,ne,C/(e)\
-2214,371,4,vous,vous,PRO:pers:2:pl,371,Prn,Prn$$,2pp,C/V\
+2214,371,4,vous,vous,PRO:pers:2:pl,371,Prn,Prn$$,vous,C/V\
 2215,371,5,en,en,PRO:clit,371,Prn,Prn$$,en2,/V\
 2216,371,6,vengiés,vengiés,VER:subp:2:pl,371,Vfin,Vfin,,C/V\.'C/V\
 2217,372,1,renars,renars,NOM:suj:masc:sg,372,N,N,,C/V\.'C/V\
 2218,372,2,ore,ore,ADV,372,Adv,Adv,or2,'/V\.C/(e)\
-2219,372,3,m',m',PRO:pers:obj:1:sg:unb,372,Prn,Prn$$,1ps,C/\
+2219,372,3,m',m',PRO:pers:obj:1:sg:unb,372,Prn,Prn$$,me,C/\
 2220,372,4,en,en,PRO:clit,372,Prn,Prn$$,en2,/V\
 2221,372,5,conseilliés,conseilliés,VER:impe:2:pl,372,Vfin,Vfin,conseiller2,C/V\.C/V\.'C/V\
 2222,373,1,volentiers,volentiers,ADV,373,Adv,Adv,volentiers,C/V\.C/V\.'C/V\
@@ -2278,7 +2278,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2277,383,1,ysengrin,ysengrin,NPR:obj:masc:sg,383,N,N,,/V\.C/V\.'C/V\
 2278,383,2,qui,qui,PROCON,383,Qux,Qux,qui,C/V\
 2279,383,3,mout,mout,ADV,383,QIs,QIs,moult,C/V\
-2280,383,4,l',l',PRO:pers:obj:3:masc:sg:unb,383,Prn,Prn$$,3p,C/\
+2280,383,4,l',l',PRO:pers:obj:3:masc:sg:unb,383,Prn,Prn$$,le,C/\
 2281,383,5,en,en,PRO:clit,383,Prn,Prn$$,en2,/V\
 2282,383,6,haï,haï,VER:simp:3:sg,383,Vfin,Vfin,haïr,C/V\.'C/V\
 2283,384,1,renars,renars,NOM:suj:masc:sg,384,N,N,,C/V\.'C/V\
@@ -2287,7 +2287,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2286,384,4,en,en,PRO:clit,384,Prn,Prn$$,en2,/V\
 2287,384,5,souffri,souffri,VER:simp:3:sg,384,Vfin,Vfin,souffrir,C/V\.'C/V\
 2288,385,1,apaisiés,apaisiés,VER:pper:masc:pl,385,Vpp,Vpp,,/V\.C/V\.'C/V\
-2289,385,2,les,les,PRO:pers:acc:3:masc:pl,385,Prn,Prn$$,3p,C/V\
+2289,385,2,les,les,PRO:pers:acc:3:masc:pl,385,Prn,Prn$$,le,C/V\
 2290,385,3,avoit,avoit,VER:impf:3:sg,385,Vfin,Vfin,avoir,/V\.'C/V\
 2291,385,4,li,li,DET:def:suj:masc:sg,385,Det,Det,le,C/V\
 2292,385,5,rois,rois,NOM:suj:masc:sg,385,N,N,,C/V\
@@ -2366,7 +2366,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2365,398,1,croire,croire,VER:infi,398,Vinf,Vinf,croire,'C/V\.C/(e)\
 2366,398,2,men,men,DET:poss:obj:masc:sg,398,Det,Det,mon,C/V\
 2367,398,3,conseil,conseil,NOM:obj:masc:sg,398,N,N,,C/V\.'C/V\
-2368,398,4,vous,vous,PRO:pers:2:pl,398,Prn,Prn$,2pp,C/V\
+2368,398,4,vous,vous,PRO:pers:2:pl,398,Prn,Prn$,vous,C/V\
 2369,398,5,serés,serés,VER:futu:2:pl,398,Vfin,Vfin,être,C/V\.'C/V\
 2370,399,1,des,des,PREDET:de:obj:masc:pl,399,Pre+Det,Pre+Det,de.le,C/V\
 2371,399,2,.ii.,.ii.,ADJ:card,399,QIs,QIs,deux,C/V\
@@ -2395,16 +2395,16 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2394,403,4,a,a,PRE,403,Pre,Pre,à,/V\
 2395,403,5,mardi,mardi,NOM:obj:masc:sg,403,N,N,,C/V\.'C/V\
 2396,404,1,je,je,PRO:pers:suj:1:sg:unb,404,Prn,Prn$,je,C/(e)\
-2397,404,2,le,le,PRO:pers:obj:3:masc:sg:unb,404,Prn,Prn$$,3p,C/(e)\
-2398,404,3,vous,vous,PRO:pers:2:pl,404,Prn,Prn$$,2pp,C/V\
+2397,404,2,le,le,PRO:pers:obj:3:masc:sg:unb,404,Prn,Prn$$,le,C/(e)\
+2398,404,3,vous,vous,PRO:pers:2:pl,404,Prn,Prn$$,vous,C/V\
 2399,404,4,lo,lo,VER:pres:1:sg,404,Vfin,Vfin,louer,C/(e)\
 2400,404,5,et,et,CON:coord,404,Crd,Crd,et,/V\
 2401,404,6,si,si,PROCON,404,Adv,Adv,si4,C/V\
-2402,404,7,vous,vous,PRO:pers:2:pl,404,Prn,Prn$$,2pp,C/V\
+2402,404,7,vous,vous,PRO:pers:2:pl,404,Prn,Prn$$,vous,C/V\
 2403,404,8,di,di,VER:pres:1:sg,404,Vfin,Vfin,dire,C/V\
 2404,405,1,que,que,PROCON,405,Sub,Sub,que,C/(e)\
 2405,405,2,la,la,ADV,405,Adv,Adv,là,C/V\
-2406,405,3,vous,vous,PRO:pers:2:pl,405,Prn,Prn$,2pp,C/V\
+2406,405,3,vous,vous,PRO:pers:2:pl,405,Prn,Prn$,vous,C/V\
 2407,405,4,porrés,porrés,VER:futu:2:pl,405,Vfin,Vfin,pouvoir2,C/V\.'C/V\
 2408,405,5,acomplir,acomplir,VER:infi,405,Vinf,Vinf,,/V\.C/V\.'C/V\
 2409,406,1,des,des,PREDET:de:obj:masc:pl,406,Pre+Det,Pre+Det,de.le,C/V\
@@ -2416,7 +2416,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2415,407,2,d',d',PRE,407,Pre,Pre,de,C/\
 2416,407,3,ysengrin,ysengrin,NPR:obj:masc:sg,407,N,N,,/V\.C/V\.'C/V\
 2417,407,4,se,se,PROCON,407,Sub,Sub,si3,C/(e)\
-2418,407,5,vous,vous,PRO:pers:2:pl,407,Prn,Prn$,2pp,C/V\
+2418,407,5,vous,vous,PRO:pers:2:pl,407,Prn,Prn$,vous,C/V\
 2419,407,6,volés,volés,VER:pres:2:pl,407,Vfin,Vfin,vouloir,C/V\.'C/V\
 2420,407,7,"""","""",PON:cit,407,Pnc,Pnc,,
 2421,408,1,adont,adont,ADV,408,Adv,Adv,adonc,/V\.'C/V\
@@ -2463,7 +2463,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2462,414,5,jour,jour,NOM:obj:masc:sg,414,N,N,,C/V\
 2463,415,1,tretout,tretout,PRO:ind:suj:masc:pl,415,QIs,QIs,trèstout,C/V\.'C/V\
 2464,415,2,conmunaument,conmunaument,ADV,415,Adv,Adv,,C/V\.C/V\.C/V\.'C/V\
-2465,415,3,l',l',PRO:pers:obj:3:masc:sg:unb,415,Prn,Prn$$,3p,C/\
+2465,415,3,l',l',PRO:pers:obj:3:masc:sg:unb,415,Prn,Prn$$,le,C/\
 2466,415,4,otrient,otrient,VER:pres:3:pl,415,Vfin,Vfin,octroyer,/V\.'C/V\./e\
 2467,416,1,et,et,CON:coord,416,Crd,Crd,et,/V\
 2468,416,2,tout,tout,DET:ind:suj:masc:pl,416,QIs,QIs,tout,C/V\
@@ -2530,7 +2530,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2529,425,5,dist,dist,VER:simp:3:sg,425,Vfin,Vfin,dire,C/V\
 2530,425,6,orgieus,orgieus,NOM:suj:masc:sg,425,N,N,,/V\.'C/V\
 2531,425,7,"""","""",PON:cit,425,Pnc,Pnc,,
-2532,425,8,vous,vous,PRO:pers:2:pl,425,Prn,Prn$$,2pp,C/V\
+2532,425,8,vous,vous,PRO:pers:2:pl,425,Prn,Prn$$,vous,C/V\
 2533,425,9,preng,preng,VER:pres:1:sg,425,Vfin,Vfin,prendre,C/V\
 2534,426,1,pour,pour,PRE,426,Pre,Pre,pour,C/V\
 2535,426,2,mi,mi,PRO:pers:obj:1:sg:bet,426,Prn,Prn$,moi,C/V\
@@ -2547,7 +2547,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2546,427,7,et,et,CON:coord,427,Crd,Crd,et,/V\
 2547,427,8,sage,sage,ADJ:suj:masc:pl,427,Adj,Adj,sage,'C/V\.C/(e)\
 2548,428,1,si,si,PROCON,428,Adv,Adv,si4,C/V\
-2549,428,2,les,les,PRO:pers:acc:3:masc:pl,428,Prn,Prn$$,3p,C/V\
+2549,428,2,les,les,PRO:pers:acc:3:masc:pl,428,Prn,Prn$$,le,C/V\
 2550,428,3,retieng,retieng,VER:pres:1:sg,428,Vfin,Vfin,retenir,C/V\.'C/V\
 2551,428,4,de,de,PRE,428,Pre,Pre,de,C/(e)\
 2552,428,5,mon,mon,DET:poss:obj:masc:sg,428,Det,Det,mon,C/V\
@@ -2643,7 +2643,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2642,444,2,tost,tost,ADV,444,Adv,Adv,tôt,C/V\
 2643,444,3,et,et,CON:coord,444,Crd,Crd,et,/V\
 2644,444,4,si,si,PROCON,444,Adv,Adv,si4,C/V\
-2645,444,5,m',m',PRO:pers:obj:1:sg:unb,444,Prn,Prn$$,1ps,C/\
+2645,444,5,m',m',PRO:pers:obj:1:sg:unb,444,Prn,Prn$$,me,C/\
 2646,444,6,amenés,amenés,VER:impe:2:pl,444,Vfin,Vfin,amener,/V\.C/e\.'C/V\
 2647,445,1,chevaliers,chevaliers,NOM:obj:masc:pl,445,N,N,,C/V\.C/V\.'C/V\
 2648,445,2,et,et,CON:coord,445,Crd,Crd,et,/V\
@@ -2664,7 +2664,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2663,448,2,aus,aus,PRO:pers:acc:3:masc:pl:bet,448,Prn,Prn,eux,/V\
 2664,448,3,parla,parla,VER:simp:3:sg,448,Vfin,Vfin,parler,C/V\.'C/V\
 2665,448,4,tous,tous,PRO:ind:obj:masc:pl,448,QIs,QIs,tout,C/V\
-2666,448,5,les,les,PRO:pers:acc:3:masc:pl,448,Prn,Prn$$,3p,C/V\
+2666,448,5,les,les,PRO:pers:acc:3:masc:pl,448,Prn,Prn$$,le,C/V\
 2667,448,6,detint,detint,VER:simp:3:sg,448,Vfin,Vfin,détenir,C/V\.'C/V\
 2668,449,1,avoec,avoec,PRE,449,PrA,PrA,avec,/V\.'C/V\
 2669,449,2,orgueil,orgueil,NOM:obj:masc:sg,449,N,N,,/V\.'C/V\
@@ -2692,11 +2692,11 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2691,453,3,escuiers,escuiers,NOM:obj:masc:pl,453,N,N,,/V\.C/V\.'C/V\
 2692,453,4,ensement,ensement,ADV,453,Adv,Adv,ensement,/V\.C/e\.'C/V\
 2693,454,1,orgieus,orgieus,NOM:suj:masc:sg,454,N,N,,/V\.'C/V\
-2694,454,2,les,les,PRO:pers:acc:3:masc:pl,454,Prn,Prn$$,3p,C/V\
+2694,454,2,les,les,PRO:pers:acc:3:masc:pl,454,Prn,Prn$$,le,C/V\
 2695,454,3,retint,retint,VER:simp:3:sg,454,Vfin,Vfin,retenir,C/V\.'C/V\
 2696,454,4,liement,liement,ADV,454,Adv,Adv,,C/V\.C/e\.'C/V\
 2697,455,1,puis,puis,ADV,455,PrA,PrA,puis,C/V\
-2698,455,2,les,les,PRO:pers:acc:3:masc:pl,455,Prn,Prn$$,3p,C/V\
+2698,455,2,les,les,PRO:pers:acc:3:masc:pl,455,Prn,Prn$$,le,C/V\
 2699,455,3,mena,mena,VER:simp:3:sg,455,Vfin,Vfin,mener,C/V\.'C/V\
 2700,455,4,en,en,PRO:clit,455,Pre,Pre,en,/V\
 2701,455,5,une,une,DET:ndf:obj:femi:sg,455,QIs,QIs,un,'/V\.C/(e)\
@@ -2728,7 +2728,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2727,460,1,au,au,PREDET:a:obj:masc:sg,460,Pre+Det,Pre+Det,à.le,/V\
 2728,460,2,tournoi,tournoi,NOM:obj:masc:sg,460,N,N,,C/V\.'C/V\
 2729,460,3,il,il,PRO:pers:suj:3:masc:pl,460,Prn,Prn$,il,/V\
-2730,460,4,les,les,PRO:pers:acc:3:masc:pl,460,Prn,Prn$$,3p,C/V\
+2730,460,4,les,les,PRO:pers:acc:3:masc:pl,460,Prn,Prn$$,le,C/V\
 2731,460,5,ochiront,ochiront,VER:futu:3:pl,460,Vfin,Vfin,occire,/V\.C/V\.'C/V\
 2732,461,1,pour,pour,PRE,461,Pre,Pre,pour,C/V\
 2733,461,2,les,les,DET:def:obj:masc:pl,461,Det,Det,le,C/V\
@@ -2812,7 +2812,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2811,474,3,lachiés,lachiés,VER:impe:2:pl,474,Vfin,Vfin,laisser,C/V\.'C/V\
 2812,474,4,li,li,DET:def:suj:masc:sg,474,Det,Det,le,C/V\
 2813,474,5,jour,jour,NOM:suj:masc:sg,474,N,N,,C/V\
-2814,474,6,nous,nous,PRO:pers:1:pl,474,Prn,Prn$$,1pp,C/V\
+2814,474,6,nous,nous,PRO:pers:1:pl,474,Prn,Prn$$,nous,C/V\
 2815,474,7,faut,faut,VER:pres:3:sg,474,Vfin,Vfin,faillir,C/V\
 2816,475,1,n,n,PRO:clit,475,Neg,Neg$$,ne,C/\
 2817,475,2,atendés,atendés,VER:impe:2:pl,475,Vfin,Vfin,attendre,/V\.C/V\.'C/V\

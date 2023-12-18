@@ -164,7 +164,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 163,25,6,",",",",25,Pnc,Pnc,,
 164,26,1,ke,ke,26,Qux,Qux,que,C/(e)\
 165,26,2,veie,veie,26,N,N,,'C/V\./(e)\
-166,26,3,nus,nus,26,Prn,Prn$$,1pp,C/V\
+166,26,3,nus,nus,26,Prn,Prn$$,nous,C/V\
 167,26,4,dune,dune,26,Vfin,Vfin,donner,'C/V\.C/(e)\
 168,26,5,a,a,26,Pre,Pre,à,/V\
 169,26,6,sauveté,sauveté,26,N,N,,C/V\.C/e\.'C/V\
@@ -229,7 +229,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 228,35,2,leaument,leaument,35,Adv,Adv,,C/V\.C/V\.'C/V\
 229,35,3,issi,issi,35,Adv,Adv,issi,/V\.'C/V\
 230,35,4,servi,servi,35,Vpp,Vpp,servir,C/V\.'C/V\
-231,35,5,l',l',35,Prn,Prn$$,3p,C/\
+231,35,5,l',l',35,Prn,Prn$$,le,C/\
 232,35,6,unt,unt,35,Vfin,Vfin,avoir,/V\
 233,35,7,",",",",35,Pnc,Pnc,,
 234,36,1,parunt,parunt,36,Qux,Qux,par.ont,C/V\.'C/V\
@@ -248,7 +248,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 247,37,6,eus,eus,37,Prn,Prn,eux,/V\
 248,37,7,",",",",37,Pnc,Pnc,,
 249,37,8,muver,muver,37,Vinf,Vinf,mouvoir,C/V\.'C/V\
-250,38,1,nus,nus,38,Prn,Prn$$,1pp,C/V\
+250,38,1,nus,nus,38,Prn,Prn$$,nous,C/V\
 251,38,2,dust,dust,38,Vfin,Vfin,devoir2,C/V\
 252,38,3,de,de,38,Pre,Pre,de,C/(e)\
 253,38,4,li,li,38,Prn,Prn,li,C/V\
@@ -272,7 +272,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 271,42,1,ke,ke,42,Crd,Crd,que,C/(e)\
 272,42,2,especiaument,especiaument,42,Adv,Adv,,/V\.C/V\.C/{V}\./V\.'C/V\
 273,42,3,muiver,muiver,42,Vinf,Vinf,mouvoir,C/V\.'C/V\
-274,42,4,nus,nus,42,Prn,Prn$$,1pp,C/V\
+274,42,4,nus,nus,42,Prn,Prn$$,nous,C/V\
 275,42,5,deit,deit,42,Vfin,Vfin,devoir2,C/V\
 276,43,1,a,a,43,Pre,Pre,à,/V\
 277,43,2,mettre,mettre,43,Vinf,Vinf,mettre,'C/V\.C/(e)\
@@ -348,7 +348,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 347,53,4,pot,pot,53,Vfin,Vfin,pouvoir2,C/V\
 348,53,5,estre,estre,53,Vinf,Vinf,être,'/V\.C/(e)\
 349,53,6,",",",",53,Pnc,Pnc,,
-350,54,1,m',m',54,Prn,Prn$$,1ps,C/\
+350,54,1,m',m',54,Prn,Prn$$,me,C/\
 351,54,2,en,en,54,Prn,Prn$$,en2,/V\
 352,54,3,pria,pria,54,Vfin,Vfin,prier,C/V\.'C/V\
 353,54,4,un,un,54,QIs,QIs,un,/V\
@@ -362,7 +362,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 361,55,4,ke,ke,55,Qux,Qux,que,C/(e)\
 362,55,5,un,un,55,QIs,QIs,un,/V\
 363,55,6,livre,livre,55,N,N,,'C/V\.C/(e)\
-364,55,7,me,me,55,Prn,Prn$$,1ps,C/(e)\
+364,55,7,me,me,55,Prn,Prn$$,me,C/(e)\
 365,55,8,porteit,porteit,55,Vfin,Vfin,porter,C/V\.'C/V\
 366,55,9,",",",",55,Pnc,Pnc,,
 367,56,1,ke,ke,56,Qux,Qux,que,C/(e)\
@@ -377,8 +377,8 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 376,57,1,ke,ke,57,Sub,Sub,que,C/(e)\
 377,57,2,de,de,57,Pre,Pre,de,C/(e)\
 378,57,3,translater,translater,57,Vinf,Vinf,,C/V\.C/V\.'C/V\
-379,57,4,le,le,57,Prn,Prn$$,3p,C/(e)\
-380,57,5,m',m',57,Prn,Prn$$,1ps,C/\
+379,57,4,le,le,57,Prn,Prn$$,le,C/(e)\
+380,57,5,m',m',57,Prn,Prn$$,me,C/\
 381,57,6,entremeisse,entremeisse,57,Vfin,Vfin,entremettre,/V\.C/e\.C/(V)\.'/V\.C/(e)\
 382,57,7,",",",",57,Pnc,Pnc,,
 383,58,1,e,e,58,Crd,Crd,et,/V\
@@ -397,7 +397,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 396,59,5,aïe,aïe,59,N,N,,/V\.'C/V\./(e)\
 397,59,6,seint,seint,59,Adj,Adj,saint,C/V\
 398,59,7,richard,richard,59,N,N,,C/V\.'C/V\
-399,60,1,me,me,60,Prn,Prn$$,1ps,C/(e)\
+399,60,1,me,me,60,Prn,Prn$$,me,C/(e)\
 400,60,2,entremettrai,entremettrai,60,Vfin,Vfin,entremettre,/V\.C/e\.C/e\.'C/V\
 401,60,3,de,de,60,Pre,Pre,de,C/(e)\
 402,60,4,la,la,60,Det,Det,le,C/V\
@@ -407,7 +407,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 406,61,1,e,e,61,Crd,Crd,et,/V\
 407,61,2,de,de,61,Pre,Pre,de,C/(e)\
 408,61,3,latin,latin,61,N,N,,C/V\.'C/V\
-409,61,4,le,le,61,Prn,Prn$$,3p,C/(e)\
+409,61,4,le,le,61,Prn,Prn$$,le,C/(e)\
 410,61,5,translateray,translateray,61,Vfin,Vfin,,C/V\.C/V\.C/e\.'C/V\
 411,62,1,en,en,62,Pre,Pre,en,/V\
 412,62,2,franceis,franceis,62,N,N,,C/V\.'C/V\
@@ -869,7 +869,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 868,126,2,deu,deu,126,N,N,,C/V\
 869,126,3,:,:,126,Pnc,Pnc,,
 870,126,4,"""","""",126,Pnc,Pnc,,
-871,126,5,vus,vus,126,Prn,Prn$,2pp,C/V\
+871,126,5,vus,vus,126,Prn,Prn$,vous,C/V\
 872,126,6,estes,estes,126,Vfin,Vfin,être,'/V\.C/e\
 873,126,7,sel,sel,126,N,N,,C/V\
 874,126,8,de,de,126,Pre,Pre,de,C/(e)\
@@ -960,7 +960,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 959,139,1,dunt,dunt,139,Adv,Adv,donc,C/V\
 960,139,2,bestes,bestes,139,N,N,,'C/V\.C/e\
 961,139,3,malades,malades,139,Adj,Adj,,C/V\.'C/V\.C/e\
-962,139,4,le,le,139,Prn,Prn$$,3p,C/(e)\
+962,139,4,le,le,139,Prn,Prn$$,le,C/(e)\
 963,139,5,lecchissent,lecchissent,139,Vfin,Vfin,,C/V\.'C/V\.C/e\
 964,140,1,e,e,140,Crd,Crd,et,/V\
 965,140,2,de,de,140,Pre,Pre,de,C/(e)\
@@ -1053,7 +1053,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1052,154,2,de,de,154,Pre,Pre,de,C/(e)\
 1053,154,3,lur,lur,154,Det,Det,leur2,C/V\
 1054,154,4,maladie,maladie,154,N,N,,C/V\.C/V\.'C/V\./(e)\
-1055,154,5,les,les,154,Prn,Prn$$,3p,C/V\
+1055,154,5,les,les,154,Prn,Prn$$,le,C/V\
 1056,154,6,garist,garist,154,Vfin,Vfin,guérir,C/V\.'C/V\
 1057,154,7,.,.,154,Pnc,Pnc,,
 1058,155,1,e,e,155,Crd,Crd,et,/V\
@@ -1278,7 +1278,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1277,188,5,voil,voil,188,N,N,,C/V\
 1278,188,6,",",",",188,Pnc,Pnc,,
 1279,188,7,ne,ne,188,Neg,Neg$$,ne,C/(e)\
-1280,188,8,le,le,188,Prn,Prn$$,3p,C/(e)\
+1280,188,8,le,le,188,Prn,Prn$$,le,C/(e)\
 1281,188,9,voleit,voleit,188,Vfin,Vfin,vouloir,C/V\.'C/V\
 1282,188,10,mie,mie,188,Neg,Neg,mie3,'C/V\./(e)\
 1283,188,11,;,;,188,Pnc,Pnc,,
@@ -1386,7 +1386,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1385,206,3,deust,deust,206,Vfin,Vfin,devoir2,C/(V)\.'/V\
 1386,206,4,e,e,206,Crd,Crd,et,/V\
 1387,206,5,fere,fere,206,Vinf,Vinf,faire,'C/V\.C/(e)\
-1388,206,6,le,le,206,Prn,Prn,3p,C/(e)\
+1388,206,6,le,le,206,Prn,Prn,le,C/(e)\
 1389,206,7,ensement,ensement,206,Adv,Adv,ensement,/V\.C/e\.'C/V\
 1390,206,8,",",",",206,Pnc,Pnc,,
 1391,207,1,issi,issi,207,Adv,Adv,issi,/V\.'C/V\
@@ -1592,7 +1592,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1591,238,7,",",",",238,Pnc,Pnc,,
 1592,239,1,dunt,dunt,239,Adv,Adv,donc,C/V\
 1593,239,2,pité,pité,239,N,N,,C/V\.'C/V\
-1594,239,3,l',l',239,Prn,Prn$$,3p,C/\
+1594,239,3,l',l',239,Prn,Prn$$,le,C/\
 1595,239,4,en,en,239,Prn,Prn$$,en2,/V\
 1596,239,5,prist,prist,239,Vfin,Vfin,prendre,C/V\
 1597,239,6,e,e,239,Crd,Crd,et,/V\
@@ -1603,7 +1603,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1602,240,3,out,out,240,Vfin,Vfin,avoir,/V\
 1603,240,4,dunt,dunt,240,Qux,Qux,dont,C/V\
 1604,240,5,aider,aider,240,Vinf,Vinf,aider,/V\.'C/V\
-1605,240,6,le,le,240,Prn,Prn$$,3p,C/(e)\
+1605,240,6,le,le,240,Prn,Prn$$,le,C/(e)\
 1606,240,7,purreit,purreit,240,Vfin,Vfin,pouvoir2,C/V\.'C/V\
 1607,240,8,",",",",240,Pnc,Pnc,,
 1608,241,1,dunt,dunt,241,Adv,Adv,donc,C/V\
@@ -1720,7 +1720,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1719,256,4,pert,pert,256,Vfin,Vfin,paroir,C/V\
 1720,256,5,ke,ke,256,Sub,Sub,que,C/(e)\
 1721,256,6,bien,bien,256,Adv,Adv,bien,C/V\
-1722,256,7,l',l',256,Prn,Prn$$,3p,C/\
+1722,256,7,l',l',256,Prn,Prn$$,le,C/\
 1723,256,8,out,out,256,Vfin,Vfin,avoir,/V\
 1724,256,9,apris,apris,256,Vpp,Vpp,apprendre,/V\.'C/V\
 1725,256,10,!,!,256,Pnc,Pnc,,
@@ -1742,7 +1742,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1741,259,4,en,en,259,Pre,Pre,en,/V\
 1742,259,5,tant,tant,259,QIs,QIs,tant,C/V\
 1743,259,6,amur,amur,259,N,N,,/V\.'C/V\
-1744,260,1,le,le,260,Prn,Prn$$,3p,C/(e)\
+1744,260,1,le,le,260,Prn,Prn$$,le,C/(e)\
 1745,260,2,cuillit,cuillit,260,Vfin,Vfin,cueillir,C/V\.'C/V\
 1746,260,3,pur,pur,260,Pre,Pre,pour,C/V\
 1747,260,4,son,son,260,Det,Det,son4,C/V\
@@ -1788,7 +1788,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1787,266,6,char,char,266,N,N,,C/V\
 1788,266,7,apent,apent,266,Vfin,Vfin,,/V\.'C/V\
 1789,266,8,:,:,266,Pnc,Pnc,,
-1790,267,1,le,le,267,Prn,Prn$$,3p,C/(e)\
+1790,267,1,le,le,267,Prn,Prn$$,le,C/(e)\
 1791,267,2,loerent,loerent,267,Vfin,Vfin,louer,C/V\.'C/V\.C/e\
 1792,267,3,ke,ke,267,Sub,Sub,que,C/(e)\
 1793,267,4,il,il,267,Prn,Prn$,il,/V\
@@ -1810,7 +1810,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1809,270,2,office,office,270,N,N,,/V\.'C/V\.C/(e)\
 1810,270,3,que,que,270,Qux,Qux,que,C/(e)\
 1811,270,4,purveu,purveu,270,Vpp,Vpp,pourvoir,C/V\.C/(V)\.'/V\
-1812,270,5,l',l',270,Prn,Prn$$,3p,C/\
+1812,270,5,l',l',270,Prn,Prn$$,le,C/\
 1813,270,6,out,out,270,Vfin,Vfin,avoir,/V\
 1814,270,7,",",",",270,Pnc,Pnc,,
 1815,271,1,e,e,271,Crd,Crd,et,/V\
@@ -1883,7 +1883,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1882,281,2,deu,deu,281,N,N,,C/V\
 1883,281,3,issi,issi,281,Adv,Adv,issi,/V\.'C/V\
 1884,281,4,purveu,purveu,281,Vpp,Vpp,pourvoir,C/V\.C/(V)\.'/V\
-1885,281,5,l',l',281,Prn,Prn$$,3p,C/\
+1885,281,5,l',l',281,Prn,Prn$$,le,C/\
 1886,281,6,aveit,aveit,281,Vfin,Vfin,avoir,/V\.'C/V\
 1887,282,1,qu',qu',282,Sub,Sub,que,C/\
 1888,282,2,en,en,282,Pre,Pre,en,/V\
@@ -1959,12 +1959,12 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1958,291,10,",",",",291,Pnc,Pnc,,
 1959,292,1,purquei,purquei,292,Qux,Qux,pourquoi,C/V\.'C/V\
 1960,292,2,fetes,fetes,292,Vfin,Vfin,faire,'C/V\.C/e\
-1961,292,3,vus,vus,292,Prn,Prn%,2pp,C/V\
+1961,292,3,vus,vus,292,Prn,Prn%,vous,C/V\
 1962,292,4,tiel,tiel,292,Adj,Adj,tel,C/V\
 1963,292,5,here,here,292,N,N,,'C/V\.C/(e)\
 1964,292,6,?,?,292,Pnc,Pnc,,
 1965,293,1,kar,kar,293,Crd,Crd,car,C/V\
-1966,293,2,me,me,293,Prn,Prn$$,1ps,C/(e)\
+1966,293,2,me,me,293,Prn,Prn$$,me,C/(e)\
 1967,293,3,mustrez,mustrez,293,Vfin,Vfin,montrer,C/V\.'C/V\
 1968,293,4,par,par,293,Pre,Pre,par,C/V\
 1969,293,5,amur,amur,293,N,N,,/V\.'C/V\
@@ -2002,7 +2002,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2001,297,8,crei,crei,297,Vfin,Vfin,croire,C/V\
 2002,297,9,bien,bien,297,Adv,Adv,bien,C/V\
 2003,298,1,ke,ke,298,Sub,Sub,que,C/(e)\
-2004,298,2,vus,vus,298,Prn,Prn$$,2pp,C/V\
+2004,298,2,vus,vus,298,Prn,Prn$$,vous,C/V\
 2005,298,3,repentez,repentez,298,Vfin,Vfin,,C/V\.C/V\.'C/V\
 2006,298,4,sur,sur,298,PrA,PrA,sur,C/V\
 2007,298,5,tute,tute,298,QIs,QIs,tout,'C/V\.C/(e)\
@@ -2012,7 +2012,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2011,299,3,terre,terre,299,N,N,,'C/V\.C/(e)\
 2012,299,4,que,que,299,Qux,Qux,que,C/(e)\
 2013,299,5,de,de,299,Pre,Pre,de,C/(e)\
-2014,299,6,vus,vus,299,Prn,Prn,2pp,C/V\
+2014,299,6,vus,vus,299,Prn,Prn,vous,C/V\
 2015,299,7,aveie,aveie,299,Vfin,Vfin,avoir,/V\.'C/V\./(e)\
 2016,299,8,",",",",299,Pnc,Pnc,,
 2017,300,1,e,e,300,Crd,Crd,et,/V\
@@ -2061,11 +2061,11 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2060,305,2,jeo,jeo,305,Prn,Prn$,je,C/V\
 2061,305,3,serrai,serrai,305,Vfin,Vfin,être,C/V\.'C/V\
 2062,305,4,a,a,305,Pre,Pre,à,/V\
-2063,305,5,vus,vus,305,Prn,Prn,2pp,C/V\
+2063,305,5,vus,vus,305,Prn,Prn,vous,C/V\
 2064,305,6,ausi,ausi,305,Adv,Adv,aussi,/V\.'C/V\
 2065,305,7,curteis,curteis,305,Adj,Adj,,C/V\.'C/V\
 2066,306,1,cum,cum,306,Sub,Sub,comme,C/V\
-2067,306,2,vus,vus,306,Prn,Prn$,2pp,C/V\
+2067,306,2,vus,vus,306,Prn,Prn$,vous,C/V\
 2068,306,3,fustes,fustes,306,Vfin,Vfin,être,'C/V\.C/e\
 2069,306,4,a,a,306,Pre,Pre,à,/V\
 2070,306,5,mei,mei,306,Prn,Prn,moi,C/V\
@@ -2077,7 +2077,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2076,307,4,terre,terre,307,N,N,,'C/V\.C/(e)\
 2077,307,5,",",",",307,Pnc,Pnc,,
 2078,307,6,tute,tute,307,QIs,QIs,tout,'C/V\.C/(e)\
-2079,307,7,vus,vus,307,Prn,Prn$$,2pp,C/V\
+2079,307,7,vus,vus,307,Prn,Prn$$,vous,C/V\
 2080,307,8,rent,rent,307,Vfin,Vfin,rendre,C/V\
 2081,308,1,e,e,308,Crd,Crd,et,/V\
 2082,308,2,votre,votre,308,Det,Det,votre,'C/V\.C/(e)\
@@ -2109,7 +2109,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2108,311,2,nettement,nettement,311,Adv,Adv,,C/V\.C/e\.'C/V\
 2109,311,3,pur,pur,311,Pre,Pre,pour,C/V\
 2110,311,4,mei,mei,311,Prn,Prn,moi,C/V\
-2111,311,5,la,la,311,Prn,Prn$$,3p,C/V\
+2111,311,5,la,la,311,Prn,Prn$$,le,C/V\
 2112,311,6,poez,poez,311,Vfin,Vfin,pouvoir2,C/V\.'C/V\
 2113,311,7,aver,aver,311,Vinf,Vinf,avoir,/V\.'C/V\
 2114,311,8,",",",",311,Pnc,Pnc,,
@@ -2249,7 +2249,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2248,332,2,autre,autre,332,Adj,Adj,autre,'/V\.C/(e)\
 2249,332,3,clergies,clergies,332,N,N,,C/V\.'C/V\./e\
 2250,332,4,quant,quant,332,Sub,Sub,quand,C/V\
-2251,332,5,les,les,332,Prn,Prn$$,3p,C/V\
+2251,332,5,les,les,332,Prn,Prn$$,le,C/V\
 2252,332,6,aprent,aprent,332,Vfin,Vfin,apprendre,/V\.'C/V\
 2253,332,7,.,.,332,Pnc,Pnc,,
 2254,333,1,richard,richard,333,N,N,,C/V\.'C/V\
@@ -2521,7 +2521,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2520,372,1,e,e,372,Crd,Crd,et,/V\
 2521,372,2,tres,tres,372,Adv,Adv,très,C/V\
 2522,372,3,hetement,hetement,372,Adv,Adv,,C/V\.C/e\.'C/V\
-2523,372,4,le,le,372,Prn,Prn$$,3p,C/(e)\
+2523,372,4,le,le,372,Prn,Prn$$,le,C/(e)\
 2524,372,5,retreita,retreita,372,Vfin,Vfin,,C/V\.C/V\.'C/V\
 2525,372,6,",",",",372,Pnc,Pnc,,
 2526,373,1,si,si,373,Adv,Adv,si4,C/V\
@@ -2644,7 +2644,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2643,390,1,més,més,390,Crd,Crd,mais,C/V\
 2644,390,2,en,en,390,Pre,Pre,en,/V\
 2645,390,3,autres,autres,390,Adj,Adj,autre,'/V\.C/e\
-2646,390,4,le,le,390,Prn,Prn$$,3p,C/(e)\
+2646,390,4,le,le,390,Prn,Prn$$,le,C/(e)\
 2647,390,5,vout,vout,390,Vfin,Vfin,vouloir,C/V\
 2648,390,6,profiter,profiter,390,Vinf,Vinf,,C/V\.C/V\.'C/V\
 2649,390,7,",",",",390,Pnc,Pnc,,
@@ -3133,7 +3133,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 3132,462,3,de,de,462,Pre,Pre,de,C/(e)\
 3133,462,4,la,la,462,Det,Det,le,C/V\
 3134,462,5,piere,piere,462,N,N,,'C/V\.C/(e)\
-3135,462,6,l',l',462,Prn,Prn$$,3p,C/\
+3135,462,6,l',l',462,Prn,Prn$$,le,C/\
 3136,462,7,ad,ad,462,Vfin,Vfin,avoir,/V\
 3137,462,8,sauvé,sauvé,462,Vpp,Vpp,sauver,C/V\.'C/V\
 3138,462,9,;,;,462,Pnc,Pnc,,
@@ -3194,7 +3194,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 3193,470,2,en,en,470,Pre,Pre,en,/V\
 3194,470,3,promettant,promettant,470,Vprs,Vprs,promettre,C/V\.C/e\.'C/V\
 3195,470,4,issi,issi,470,Adv,Adv,issi,/V\.'C/V\
-3196,470,5,le,le,470,Prn,Prn$$,3p,C/(e)\
+3196,470,5,le,le,470,Prn,Prn$$,le,C/(e)\
 3197,470,6,dit,dit,470,Vfin,Vfin,dire,C/V\
 3198,470,7,:,:,470,Pnc,Pnc,,
 3199,471,1,"""","""",471,Pnc,Pnc,,
@@ -3211,7 +3211,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 3210,472,2,tei,tei,472,Prn,Prn,toi,C/V\
 3211,472,3,ke,ke,472,Sub,Sub,que,C/(e)\
 3212,472,4,partut,partut,472,Adv,Adv,partout,C/V\.'C/V\
-3213,472,5,te,te,472,Prn,Prn$$,2ps,C/(e)\
+3213,472,5,te,te,472,Prn,Prn$$,te,C/(e)\
 3214,472,6,garderunt,garderunt,472,Vfin,Vfin,garder,C/V\.C/e\.'C/V\
 3215,472,7,;,;,472,Pnc,Pnc,,
 3216,473,1,en,en,473,Pre,Pre,en,/V\
