@@ -172,3 +172,9 @@ echo "molinet"
 sp="${corpdir}/cfg/sp_lyr_midfr_molinet.cfg"
 text="molinet"
 $scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
+
+# Villon
+echo "villon"
+sp="${corpdir}/cfg/sp_lyr_midfr_villon.cfg"
+text="villon"
+$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula

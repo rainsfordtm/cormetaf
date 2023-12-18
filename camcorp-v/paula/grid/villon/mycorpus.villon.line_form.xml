@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.villon_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.villon.line.xml">
+<feat xlink:href="#line_0" value=" o louee concepcion ,"/><!--  o louee concepcion , -->
+<feat xlink:href="#line_1" value=" envoiee sa jus des cieulx ,"/><!--  envoiee sa jus des cieulx , -->
+<feat xlink:href="#line_2" value=" du noble lis digne syon ,"/><!--  du noble lis digne syon , -->
+<feat xlink:href="#line_3" value=" don de jhesus tres precieulx ,"/><!--  don de jhesus tres precieulx , -->
+<feat xlink:href="#line_4" value=" marie , nom tres gracieulx ,"/><!--  marie , nom tres gracieulx , -->
+<feat xlink:href="#line_5" value=" fons de pitié , source de grace ,"/><!--  fons de pitié , source de grace , -->
+<feat xlink:href="#line_6" value=" la joye , confort de mes yeulx ,"/><!--  la joye , confort de mes yeulx , -->
+<feat xlink:href="#line_7" value=" qui nostre paix batist et brasse !"/><!--  qui nostre paix batist et brasse ! -->
+<feat xlink:href="#line_8" value=" la paix , c&apos; est assavoir des riches ,"/><!--  la paix , c' est assavoir des riches , -->
+<feat xlink:href="#line_9" value=" des povres le substantament ,"/><!--  des povres le substantament , -->
+<feat xlink:href="#line_10" value=" le rebours des felons et chiches ;"/><!--  le rebours des felons et chiches ; -->
+<feat xlink:href="#line_11" value=" tres necessaire enfantement ,"/><!--  tres necessaire enfantement , -->
+<feat xlink:href="#line_12" value=" conceu , porté honnestement ,"/><!--  conceu , porté honnestement , -->
+<feat xlink:href="#line_13" value=" — hors le pechié originel —"/><!--  — hors le pechié originel — -->
+<feat xlink:href="#line_14" value=" que dire je puis sainctement ,"/><!--  que dire je puis sainctement , -->
+<feat xlink:href="#line_15" value=" souverain bien de dieu eternel ."/><!--  souverain bien de dieu eternel . -->
+<feat xlink:href="#line_16" value=" nom recouvré , joye de peuple ,"/><!--  nom recouvré , joye de peuple , -->
+<feat xlink:href="#line_17" value=" confort des bons , des maulx retraicte ,"/><!--  confort des bons , des maulx retraicte , -->
+<feat xlink:href="#line_18" value=" du doulx seigneur premiere et seule"/><!--  du doulx seigneur premiere et seule -->
+<feat xlink:href="#line_19" value=" fille de son cler sang extraicte ,"/><!--  fille de son cler sang extraicte , -->
+<feat xlink:href="#line_20" value=" du dextre costé clovis traicte ,"/><!--  du dextre costé clovis traicte , -->
+<feat xlink:href="#line_21" value=" glorieuse ymage en tous fais ,"/><!--  glorieuse ymage en tous fais , -->
+<feat xlink:href="#line_22" value=" ou hault ciel creee et pourtraicte"/><!--  ou hault ciel creee et pourtraicte -->
+<feat xlink:href="#line_23" value=" pour esjouyr et donner paix ."/><!--  pour esjouyr et donner paix . -->
+<feat xlink:href="#line_24" value=" en l&apos; amour et crainte de dieu"/><!--  en l' amour et crainte de dieu -->
+<feat xlink:href="#line_25" value=" es nobles flans cesar conceue ,"/><!--  es nobles flans cesar conceue , -->
+<feat xlink:href="#line_26" value=" des petis et grans en tout lieu"/><!--  des petis et grans en tout lieu -->
+<feat xlink:href="#line_27" value=" a tres grande joye receue ,"/><!--  a tres grande joye receue , -->
+<feat xlink:href="#line_28" value=" de l&apos; amour dieu traicte et issue"/><!--  de l' amour dieu traicte et issue -->
+<feat xlink:href="#line_29" value=" pour les discordez ralier"/><!--  pour les discordez ralier -->
+<feat xlink:href="#line_30" value=" et aux encloz donner yssue ,"/><!--  et aux encloz donner yssue , -->
+<feat xlink:href="#line_31" value=" leurs lians et fers deslier !"/><!--  leurs lians et fers deslier ! -->
+<feat xlink:href="#line_32" value=" aucunes gens qui bien peu sentent ,"/><!--  aucunes gens qui bien peu sentent , -->
+<feat xlink:href="#line_33" value=" nourriz en simplesse et confiz ,"/><!--  nourriz en simplesse et confiz , -->
+<feat xlink:href="#line_34" value=" contre le vouloir dieu attentent ,"/><!--  contre le vouloir dieu attentent , -->
+<feat xlink:href="#line_35" value=" par ignorance desconfiz ,"/><!--  par ignorance desconfiz , -->
+<feat xlink:href="#line_36" value=" desirans que feussiez ung filz ;"/><!--  desirans que feussiez ung filz ; -->
+<feat xlink:href="#line_37" value=" mais qu&apos; ainsy soit , ainsy m&apos; aïst dieux ,"/><!--  mais qu' ainsy soit , ainsy m' aïst dieux , -->
+<feat xlink:href="#line_38" value=" je croy que ce soit grans proufiz ;"/><!--  je croy que ce soit grans proufiz ; -->
+<feat xlink:href="#line_39" value=" raison : dieu fait tout pour le mieulx ."/><!--  raison : dieu fait tout pour le mieulx . -->
+<feat xlink:href="#line_40" value=" du psalmiste je prens les dictz :"/><!--  du psalmiste je prens les dictz : -->
+<feat xlink:href="#line_41" value=" delectasti mé , dominé ,"/><!--  delectasti mé , dominé , -->
+<feat xlink:href="#line_42" value=" in factura tua , si diz :"/><!--  in factura tua , si diz : -->
+<feat xlink:href="#line_43" value=" noble enfant , de bonne heure né ,"/><!--  noble enfant , de bonne heure né , -->
+<feat xlink:href="#line_44" value=" a toute doulceur destiné ,"/><!--  a toute doulceur destiné , -->
+<feat xlink:href="#line_45" value=" manna du ciel , celeste don ,"/><!--  manna du ciel , celeste don , -->
+<feat xlink:href="#line_46" value=" de tout bienfait le guerdonné"/><!--  de tout bienfait le guerdonné -->
+<feat xlink:href="#line_47" value=" et de noz maulx le vray pardon ."/><!--  et de noz maulx le vray pardon . -->
+<feat xlink:href="#line_48" value=" combien que j&apos; ay leu en ung dit :"/><!--  combien que j' ay leu en ung dit : -->
+<feat xlink:href="#line_49" value=" inimicum putés , y a ,"/><!--  inimicum putés , y a , -->
+<feat xlink:href="#line_50" value=" qui té presentem laudabit ,"/><!--  qui té presentem laudabit , -->
+<feat xlink:href="#line_51" value=" toutesfois , non obstant cela ,"/><!--  toutesfois , non obstant cela , -->
+<feat xlink:href="#line_52" value=" oncques vray homme ne cela"/><!--  oncques vray homme ne cela -->
+<feat xlink:href="#line_53" value=" en son courage aucun grant bien"/><!--  en son courage aucun grant bien -->
+<feat xlink:href="#line_54" value=" qui ne le monstrast ça et la :"/><!--  qui ne le monstrast ça et la : -->
+<feat xlink:href="#line_55" value=" on doit dire du bien le bien ."/><!--  on doit dire du bien le bien . -->
+<feat xlink:href="#line_56" value=" saint jehan baptiste ainsy le fist ,"/><!--  saint jehan baptiste ainsy le fist , -->
+<feat xlink:href="#line_57" value=" quant l&apos; aignel de dieu descela ;"/><!--  quant l' aignel de dieu descela ; -->
+<feat xlink:href="#line_58" value=" en ce faisant pas ne mesfist ,"/><!--  en ce faisant pas ne mesfist , -->
+<feat xlink:href="#line_59" value=" dont sa voix et tourbes vola ,"/><!--  dont sa voix et tourbes vola , -->
+<feat xlink:href="#line_60" value=" de quoy saint andry dieu loua ,"/><!--  de quoy saint andry dieu loua , -->
+<feat xlink:href="#line_61" value=" qui de lui si ne sçavoit rien ,"/><!--  qui de lui si ne sçavoit rien , -->
+<feat xlink:href="#line_62" value=" et au filz de dieu s&apos; aloua :"/><!--  et au filz de dieu s' aloua : -->
+<feat xlink:href="#line_63" value=" on doit dire du bien le bien ."/><!--  on doit dire du bien le bien . -->
+<feat xlink:href="#line_64" value=" envoiee de jhesucrist"/><!--  envoiee de jhesucrist -->
+<feat xlink:href="#line_65" value=" rappeller sa jus par deça"/><!--  rappeller sa jus par deça -->
+<feat xlink:href="#line_66" value=" les povres que rigueur proscript"/><!--  les povres que rigueur proscript -->
+<feat xlink:href="#line_67" value=" et que fortune betourna ,"/><!--  et que fortune betourna , -->
+<feat xlink:href="#line_68" value=" si sçay bien comment y m&apos; en va :"/><!--  si sçay bien comment y m' en va : -->
+<feat xlink:href="#line_69" value=" de dieu , de vous vie je tien ,"/><!--  de dieu , de vous vie je tien , -->
+<feat xlink:href="#line_70" value=" benoist celle qui vous porta !"/><!--  benoist celle qui vous porta ! -->
+<feat xlink:href="#line_71" value=" on doit dire du bien le bien ."/><!--  on doit dire du bien le bien . -->
+<feat xlink:href="#line_72" value=" cy devant dieu fais congnoissance"/><!--  cy devant dieu fais congnoissance -->
+<feat xlink:href="#line_73" value=" que creature feusse morte ,"/><!--  que creature feusse morte , -->
+<feat xlink:href="#line_74" value=" ne feust vostre doulce naissance ,"/><!--  ne feust vostre doulce naissance , -->
+<feat xlink:href="#line_75" value=" en charité puissant et forte ,"/><!--  en charité puissant et forte , -->
+<feat xlink:href="#line_76" value=" qui ressuscite et reconforte"/><!--  qui ressuscite et reconforte -->
+<feat xlink:href="#line_77" value=" ce que mort avoit prins pour sien ."/><!--  ce que mort avoit prins pour sien . -->
+<feat xlink:href="#line_78" value=" vostre presence me conforte :"/><!--  vostre presence me conforte : -->
+<feat xlink:href="#line_79" value=" on doit dire du bien le bien ."/><!--  on doit dire du bien le bien . -->
+<feat xlink:href="#line_80" value=" cy vous rans toute obeÿssance ,"/><!--  cy vous rans toute obeÿssance , -->
+<feat xlink:href="#line_81" value=" ad ce faire raison m&apos; exorte ,"/><!--  ad ce faire raison m' exorte , -->
+<feat xlink:href="#line_82" value=" de toute ma povre puissance ;"/><!--  de toute ma povre puissance ; -->
+<feat xlink:href="#line_83" value=" plus n&apos; est deul qui me desconforte"/><!--  plus n' est deul qui me desconforte -->
+<feat xlink:href="#line_84" value=" n&apos; aultre ennuy de quelconque sorte ,"/><!--  n' aultre ennuy de quelconque sorte , -->
+<feat xlink:href="#line_85" value=" vostre je suis et non plus mien ."/><!--  vostre je suis et non plus mien . -->
+<feat xlink:href="#line_86" value=" ad ce droit et devoir m&apos; enhorte :"/><!--  ad ce droit et devoir m' enhorte : -->
+<feat xlink:href="#line_87" value=" on doit dire du bien le bien ."/><!--  on doit dire du bien le bien . -->
+<feat xlink:href="#line_88" value=" o grace et pitié tres immense ,"/><!--  o grace et pitié tres immense , -->
+<feat xlink:href="#line_89" value=" l&apos; entree de paix et la porte ,"/><!--  l' entree de paix et la porte , -->
+<feat xlink:href="#line_90" value=" some de benigne clemence"/><!--  some de benigne clemence -->
+<feat xlink:href="#line_91" value=" qui noz faultes toust et supporte ,"/><!--  qui noz faultes toust et supporte , -->
+<feat xlink:href="#line_92" value=" se de vous louer me deporte ,"/><!--  se de vous louer me deporte , -->
+<feat xlink:href="#line_93" value=" ingrat suis , et je le maintien ,"/><!--  ingrat suis , et je le maintien , -->
+<feat xlink:href="#line_94" value=" dont en ce refrain me transporte :"/><!--  dont en ce refrain me transporte : -->
+<feat xlink:href="#line_95" value=" on doit dire du bien le bien ."/><!--  on doit dire du bien le bien . -->
+<feat xlink:href="#line_96" value=" princesse , ce loz je vous porte"/><!--  princesse , ce loz je vous porte -->
+<feat xlink:href="#line_97" value=" que sans vous je ne feusse rien ;"/><!--  que sans vous je ne feusse rien ; -->
+<feat xlink:href="#line_98" value=" a vous et a tous m&apos; en rapporte :"/><!--  a vous et a tous m' en rapporte : -->
+<feat xlink:href="#line_99" value=" on doit dire du bien le bien ."/><!--  on doit dire du bien le bien . -->
+<feat xlink:href="#line_100" value=" euvre de dieu digne , louee"/><!--  euvre de dieu digne , louee -->
+<feat xlink:href="#line_101" value=" autant que nulle creature ,"/><!--  autant que nulle creature , -->
+<feat xlink:href="#line_102" value=" de tous biens et vertus douee ,"/><!--  de tous biens et vertus douee , -->
+<feat xlink:href="#line_103" value=" — tant d&apos; esperit , que de nature ,"/><!--  — tant d' esperit , que de nature , -->
+<feat xlink:href="#line_104" value=" que de ceulx qu&apos; on dit d&apos; aventure , —"/><!--  que de ceulx qu' on dit d' aventure , — -->
+<feat xlink:href="#line_105" value=" plus que rubis noble ou balais ;"/><!--  plus que rubis noble ou balais ; -->
+<feat xlink:href="#line_106" value=" selon de caton l&apos; escripture ,"/><!--  selon de caton l' escripture , -->
+<feat xlink:href="#line_107" value=" patrem insequitur prolés ."/><!--  patrem insequitur prolés . -->
+<feat xlink:href="#line_108" value=" port asseuré , maintien rassiz"/><!--  port asseuré , maintien rassiz -->
+<feat xlink:href="#line_109" value=" plus que ne peut nature humaine ,"/><!--  plus que ne peut nature humaine , -->
+<feat xlink:href="#line_110" value=" et eussiez des ans trente six ;"/><!--  et eussiez des ans trente six ; -->
+<feat xlink:href="#line_111" value=" enfance en rien ne vous demaine ."/><!--  enfance en rien ne vous demaine . -->
+<feat xlink:href="#line_112" value=" que jour ne le die et sepmaine ,"/><!--  que jour ne le die et sepmaine , -->
+<feat xlink:href="#line_113" value=" je ne sçay qui le me deffant ."/><!--  je ne sçay qui le me deffant . -->
+<feat xlink:href="#line_114" value=" ad ce propoz ung dit ramaine :"/><!--  ad ce propoz ung dit ramaine : -->
+<feat xlink:href="#line_115" value=" de saige mere saige enfant ."/><!--  de saige mere saige enfant . -->
+<feat xlink:href="#line_116" value=" dont resume ce que j&apos; ay dit :"/><!--  dont resume ce que j' ay dit : -->
+<feat xlink:href="#line_117" value=" noua progeniés celo ,"/><!--  noua progeniés celo , -->
+<feat xlink:href="#line_118" value=" car c&apos; est du poete le dit ,"/><!--  car c' est du poete le dit , -->
+<feat xlink:href="#line_119" value=" jamjam demittitur alto ."/><!--  jamjam demittitur alto . -->
+<feat xlink:href="#line_120" value=" saige cassandre , bele echo ,"/><!--  saige cassandre , bele echo , -->
+<feat xlink:href="#line_121" value=" digne judich , caste lucresse ,"/><!--  digne judich , caste lucresse , -->
+<feat xlink:href="#line_122" value=" je vous congnois , noble dido ,"/><!--  je vous congnois , noble dido , -->
+<feat xlink:href="#line_123" value=" a ma seule dame et maistresse ."/><!--  a ma seule dame et maistresse . -->
+<feat xlink:href="#line_124" value=" en priant dieu , digne pucelle ,"/><!--  en priant dieu , digne pucelle , -->
+<feat xlink:href="#line_125" value=" qu&apos; i vous doint longue et bonne vie ,"/><!--  qu' i vous doint longue et bonne vie , -->
+<feat xlink:href="#line_126" value=" — qui vous ayme , ma demoiselle ,"/><!--  — qui vous ayme , ma demoiselle , -->
+<feat xlink:href="#line_127" value=" ja ne coure sur lui envie ! —"/><!--  ja ne coure sur lui envie ! — -->
+<feat xlink:href="#line_128" value=" entiere dame et assouvie ,"/><!--  entiere dame et assouvie , -->
+<feat xlink:href="#line_129" value=" j&apos; espoir de vous servir ainçoys ,"/><!--  j' espoir de vous servir ainçoys , -->
+<feat xlink:href="#line_130" value=" certes , se dieu plaist , que devie"/><!--  certes , se dieu plaist , que devie -->
+<feat xlink:href="#line_131" value=" vostre povre escolier françoys ."/><!--  vostre povre escolier françoys . -->
+<feat xlink:href="#line_132" value=" tant grate chievre que mau gist ;"/><!--  tant grate chievre que mau gist ; -->
+<feat xlink:href="#line_133" value=" tant va le pot a l&apos; eaue qu&apos; il brise ;"/><!--  tant va le pot a l' eaue qu' il brise ; -->
+<feat xlink:href="#line_134" value=" tant chauf&apos; on le fer qu&apos; il rougist ,"/><!--  tant chauf' on le fer qu' il rougist , -->
+<feat xlink:href="#line_135" value=" tant le maill&apos; on qu&apos; il se debrise ;"/><!--  tant le maill' on qu' il se debrise ; -->
+<feat xlink:href="#line_136" value=" tant vault l&apos; omme comme on le prise ,"/><!--  tant vault l' omme comme on le prise , -->
+<feat xlink:href="#line_137" value=" tant s&apos; eslongne il qu&apos; il n&apos; en souvient ,"/><!--  tant s' eslongne il qu' il n' en souvient , -->
+<feat xlink:href="#line_138" value=" tant mauvais est qu&apos; on le desprise ;"/><!--  tant mauvais est qu' on le desprise ; -->
+<feat xlink:href="#line_139" value=" tant crie l&apos; on noel qu&apos; il vient ."/><!--  tant crie l' on noel qu' il vient . -->
+<feat xlink:href="#line_140" value=" tant parl&apos; on qu&apos; on se contredit ;"/><!--  tant parl' on qu' on se contredit ; -->
+<feat xlink:href="#line_141" value=" tant vault bon bruyt que grace acquise ;"/><!--  tant vault bon bruyt que grace acquise ; -->
+<feat xlink:href="#line_142" value=" tant promest on qu&apos; on se desdit ;"/><!--  tant promest on qu' on se desdit ; -->
+<feat xlink:href="#line_143" value=" tant pri&apos; on que chose est acquise ,"/><!--  tant pri' on que chose est acquise , -->
+<feat xlink:href="#line_144" value=" tant plus est chere , et plus est quise ,"/><!--  tant plus est chere , et plus est quise , -->
+<feat xlink:href="#line_145" value=" tant la quiert on qu&apos; on y parvient ,"/><!--  tant la quiert on qu' on y parvient , -->
+<feat xlink:href="#line_146" value=" tant plus commune , et mains requise ;"/><!--  tant plus commune , et mains requise ; -->
+<feat xlink:href="#line_147" value=" tant crye l&apos; on noel qu&apos; il vient ."/><!--  tant crye l' on noel qu' il vient . -->
+<feat xlink:href="#line_148" value=" tant ayme on chien qu&apos; on le nourrist ;"/><!--  tant ayme on chien qu' on le nourrist ; -->
+<feat xlink:href="#line_149" value=" tant court chanson qu&apos; elle est aprise ;"/><!--  tant court chanson qu' elle est aprise ; -->
+<feat xlink:href="#line_150" value=" tant gard&apos; on fruit qu&apos; il se pourrist ;"/><!--  tant gard' on fruit qu' il se pourrist ; -->
+<feat xlink:href="#line_151" value=" tant bat on place qu&apos; elle est prise ;"/><!--  tant bat on place qu' elle est prise ; -->
+<feat xlink:href="#line_152" value=" tant tarde on que fault l&apos; entreprise ;"/><!--  tant tarde on que fault l' entreprise ; -->
+<feat xlink:href="#line_153" value=" tant se haste on que mal advient ;"/><!--  tant se haste on que mal advient ; -->
+<feat xlink:href="#line_154" value=" tant embrasse on que chiét la prise ;"/><!--  tant embrasse on que chiét la prise ; -->
+<feat xlink:href="#line_155" value=" tant crye l&apos; on noel qu&apos; il vient ."/><!--  tant crye l' on noel qu' il vient . -->
+<feat xlink:href="#line_156" value=" tant raille on que plus on n&apos; en rit ;"/><!--  tant raille on que plus on n' en rit ; -->
+<feat xlink:href="#line_157" value=" tant despend on qu&apos; on n&apos; a chemise ;"/><!--  tant despend on qu' on n' a chemise ; -->
+<feat xlink:href="#line_158" value=" tant est on franc que tout s&apos; i frit ;"/><!--  tant est on franc que tout s' i frit ; -->
+<feat xlink:href="#line_159" value=" tant vault « tien » que chose promise ;"/><!--  tant vault « tien » que chose promise ; -->
+<feat xlink:href="#line_160" value=" tant ayme on dieu qu&apos; on suyt l&apos; eglise ;"/><!--  tant ayme on dieu qu' on suyt l' eglise ; -->
+<feat xlink:href="#line_161" value=" tant donne on qu&apos; emprunter convient ;"/><!--  tant donne on qu' emprunter convient ; -->
+<feat xlink:href="#line_162" value=" tant tourne vent qu&apos; il chiét en bise ;"/><!--  tant tourne vent qu' il chiét en bise ; -->
+<feat xlink:href="#line_163" value=" tant crye l&apos; on noel qu&apos; il vient ."/><!--  tant crye l' on noel qu' il vient . -->
+<feat xlink:href="#line_164" value=" prince , tant vit fol qu&apos; il s&apos; avise ,"/><!--  prince , tant vit fol qu' il s' avise , -->
+<feat xlink:href="#line_165" value=" tant va il qu&apos; aprés il revient ,"/><!--  tant va il qu' aprés il revient , -->
+<feat xlink:href="#line_166" value=" tant le mate on qu&apos; il se ravise ;"/><!--  tant le mate on qu' il se ravise ; -->
+<feat xlink:href="#line_167" value=" tant crye l&apos; on noel qu&apos; il vient ."/><!--  tant crye l' on noel qu' il vient . -->
+<feat xlink:href="#line_168" value=" je congnois bien mousches en laict ,"/><!--  je congnois bien mousches en laict , -->
+<feat xlink:href="#line_169" value=" je congnois a la robe l&apos; homme ,"/><!--  je congnois a la robe l' homme , -->
+<feat xlink:href="#line_170" value=" je congnois le beau temps du lait ,"/><!--  je congnois le beau temps du lait , -->
+<feat xlink:href="#line_171" value=" je congnois au pommier la pomme ,"/><!--  je congnois au pommier la pomme , -->
+<feat xlink:href="#line_172" value=" je congnois l&apos; arbre a veoir la gomme ,"/><!--  je congnois l' arbre a veoir la gomme , -->
+<feat xlink:href="#line_173" value=" je congnois quant tout est de mesmes ,"/><!--  je congnois quant tout est de mesmes , -->
+<feat xlink:href="#line_174" value=" je congnois qui besoigne ou chomme ,"/><!--  je congnois qui besoigne ou chomme , -->
+<feat xlink:href="#line_175" value=" je congnois tout fors que moy mesmes ."/><!--  je congnois tout fors que moy mesmes . -->
+<feat xlink:href="#line_176" value=" je congnois pourpoint au colét ,"/><!--  je congnois pourpoint au colét , -->
+<feat xlink:href="#line_177" value=" je congnois le moyne a la gonne ,"/><!--  je congnois le moyne a la gonne , -->
+<feat xlink:href="#line_178" value=" je congnois le maistre au varlet ,"/><!--  je congnois le maistre au varlet , -->
+<feat xlink:href="#line_179" value=" je congnois au voile la nonne ,"/><!--  je congnois au voile la nonne , -->
+<feat xlink:href="#line_180" value=" je congnois quant parleur gergonne ,"/><!--  je congnois quant parleur gergonne , -->
+<feat xlink:href="#line_181" value=" je congnois fols nourris de cresmes ,"/><!--  je congnois fols nourris de cresmes , -->
+<feat xlink:href="#line_182" value=" je congnois le vin a la tonne ,"/><!--  je congnois le vin a la tonne , -->
+<feat xlink:href="#line_183" value=" je congnois tout fors que moy mesmes ."/><!--  je congnois tout fors que moy mesmes . -->
+<feat xlink:href="#line_184" value=" je congnois cheval et mulet ,"/><!--  je congnois cheval et mulet , -->
+<feat xlink:href="#line_185" value=" je congnois leur charge et leur somme ,"/><!--  je congnois leur charge et leur somme , -->
+<feat xlink:href="#line_186" value=" je congnois bietrix et belét ,"/><!--  je congnois bietrix et belét , -->
+<feat xlink:href="#line_187" value=" je congnois gect qui nombre assomme ,"/><!--  je congnois gect qui nombre assomme , -->
+<feat xlink:href="#line_188" value=" je congnois vision et somme ,"/><!--  je congnois vision et somme , -->
+<feat xlink:href="#line_189" value=" je congnois la faulte des boesmes ,"/><!--  je congnois la faulte des boesmes , -->
+<feat xlink:href="#line_190" value=" je congnois le pouoir de romme ,"/><!--  je congnois le pouoir de romme , -->
+<feat xlink:href="#line_191" value=" je congnois tout fors que moy mesmes ."/><!--  je congnois tout fors que moy mesmes . -->
+<feat xlink:href="#line_192" value=" prince , je congnois tout en somme ,"/><!--  prince , je congnois tout en somme , -->
+<feat xlink:href="#line_193" value=" je congnois colorez et blesmes ,"/><!--  je congnois colorez et blesmes , -->
+<feat xlink:href="#line_194" value=" je congnois mort qui tout consomme ,"/><!--  je congnois mort qui tout consomme , -->
+<feat xlink:href="#line_195" value=" je congnois tout fors que moy mesmes ."/><!--  je congnois tout fors que moy mesmes . -->
+<feat xlink:href="#line_196" value=" il n&apos; est soing que quant on a fain"/><!--  il n' est soing que quant on a fain -->
+<feat xlink:href="#line_197" value=" ne service que d&apos; ennemy"/><!--  ne service que d' ennemy -->
+<feat xlink:href="#line_198" value=" ne mascher qu&apos; ung botel de faing"/><!--  ne mascher qu' ung botel de faing -->
+<feat xlink:href="#line_199" value=" ne fort guet que d&apos; homme endormy"/><!--  ne fort guet que d' homme endormy -->
+<feat xlink:href="#line_200" value=" ne clemence que felonnie"/><!--  ne clemence que felonnie -->
+<feat xlink:href="#line_201" value=" n&apos; asseurence que de peureux"/><!--  n' asseurence que de peureux -->
+<feat xlink:href="#line_202" value=" ne foy que d&apos; homme qui regnye"/><!--  ne foy que d' homme qui regnye -->
+<feat xlink:href="#line_203" value=" ne bien conseillé qu&apos; amoureux ."/><!--  ne bien conseillé qu' amoureux . -->
+<feat xlink:href="#line_204" value=" il n&apos; est engendrement qu&apos; en boing"/><!--  il n' est engendrement qu' en boing -->
+<feat xlink:href="#line_205" value=" ne bon bruit que d&apos; homme benny"/><!--  ne bon bruit que d' homme benny -->
+<feat xlink:href="#line_206" value=" ne riz qu&apos; aprés ung cop de poing"/><!--  ne riz qu' aprés ung cop de poing -->
+<feat xlink:href="#line_207" value=" ne lotz que debtes mectre en ny"/><!--  ne lotz que debtes mectre en ny -->
+<feat xlink:href="#line_208" value=" ne vraye amour qu&apos; en flaterye"/><!--  ne vraye amour qu' en flaterye -->
+<feat xlink:href="#line_209" value=" n&apos; encontre que de maleureux"/><!--  n' encontre que de maleureux -->
+<feat xlink:href="#line_210" value=" ne vray rapport que menterye"/><!--  ne vray rapport que menterye -->
+<feat xlink:href="#line_211" value=" ne bien conseillé qu&apos; amoureux ."/><!--  ne bien conseillé qu' amoureux . -->
+<feat xlink:href="#line_212" value=" ne tel repos que vivre en soing"/><!--  ne tel repos que vivre en soing -->
+<feat xlink:href="#line_213" value=" n&apos; oneur porter que dire fy"/><!--  n' oneur porter que dire fy -->
+<feat xlink:href="#line_214" value=" ne soy vanter que de faulx coing"/><!--  ne soy vanter que de faulx coing -->
+<feat xlink:href="#line_215" value=" ne santé que d&apos; homme bouffy"/><!--  ne santé que d' homme bouffy -->
+<feat xlink:href="#line_216" value=" ne hault vouloir que couardye"/><!--  ne hault vouloir que couardye -->
+<feat xlink:href="#line_217" value=" ne conseil que de furieulx"/><!--  ne conseil que de furieulx -->
+<feat xlink:href="#line_218" value=" ne doulceur qu&apos; en femme estourdye"/><!--  ne doulceur qu' en femme estourdye -->
+<feat xlink:href="#line_219" value=" ne bien conseillé qu&apos; amoureux ."/><!--  ne bien conseillé qu' amoureux . -->
+<feat xlink:href="#line_220" value=" voulez vous que verté vous dye ?"/><!--  voulez vous que verté vous dye ? -->
+<feat xlink:href="#line_221" value=" il n&apos; est jouer qu&apos; en maladie ,"/><!--  il n' est jouer qu' en maladie , -->
+<feat xlink:href="#line_222" value=" letre vraye que tragedye ,"/><!--  letre vraye que tragedye , -->
+<feat xlink:href="#line_223" value=" lasches homs que chevalereux ,"/><!--  lasches homs que chevalereux , -->
+<feat xlink:href="#line_224" value=" orrible son que melodye"/><!--  orrible son que melodye -->
+<feat xlink:href="#line_225" value=" ne bien conseillé qu&apos; amoureux ."/><!--  ne bien conseillé qu' amoureux . -->
+<feat xlink:href="#line_226" value=" je meurs de seuf auprés de la fontaine ,"/><!--  je meurs de seuf auprés de la fontaine , -->
+<feat xlink:href="#line_227" value=" chault comme feu et tremble dent a dent ,"/><!--  chault comme feu et tremble dent a dent , -->
+<feat xlink:href="#line_228" value=" en mon paÿs suis en terre loingtaine ,"/><!--  en mon paÿs suis en terre loingtaine , -->
+<feat xlink:href="#line_229" value=" lez ung brasier frissonne tout ardent ,"/><!--  lez ung brasier frissonne tout ardent , -->
+<feat xlink:href="#line_230" value=" nu comme ung ver , vestu en president ,"/><!--  nu comme ung ver , vestu en president , -->
+<feat xlink:href="#line_231" value=" je riz en pleurs et attens sans espoir ,"/><!--  je riz en pleurs et attens sans espoir , -->
+<feat xlink:href="#line_232" value=" confort reprens en triste desespoir ,"/><!--  confort reprens en triste desespoir , -->
+<feat xlink:href="#line_233" value=" je m&apos; esjouys et n&apos; ay plaisir aucun ,"/><!--  je m' esjouys et n' ay plaisir aucun , -->
+<feat xlink:href="#line_234" value=" puissant je suis sans force et sans pouoir ,"/><!--  puissant je suis sans force et sans pouoir , -->
+<feat xlink:href="#line_235" value=" bien recueully , debouté de chascun ."/><!--  bien recueully , debouté de chascun . -->
+<feat xlink:href="#line_236" value=" riens ne m&apos; est seür que la chose incertaine ,"/><!--  riens ne m' est seür que la chose incertaine , -->
+<feat xlink:href="#line_237" value=" obscur fors ce qui est tout evident ,"/><!--  obscur fors ce qui est tout evident , -->
+<feat xlink:href="#line_238" value=" doubte ne fais fors en chose certaine ,"/><!--  doubte ne fais fors en chose certaine , -->
+<feat xlink:href="#line_239" value=" science tiens a soudain accident ,"/><!--  science tiens a soudain accident , -->
+<feat xlink:href="#line_240" value=" je gaigne tout et demeure perdént ,"/><!--  je gaigne tout et demeure perdént , -->
+<feat xlink:href="#line_241" value=" au point du jour diz « dieu vous doint bon soir ! » ,"/><!--  au point du jour diz « dieu vous doint bon soir ! » , -->
+<feat xlink:href="#line_242" value=" gisant envers j&apos; ay grant paeur de cheoir ,"/><!--  gisant envers j' ay grant paeur de cheoir , -->
+<feat xlink:href="#line_243" value=" j&apos; ay bien de quoy et si n&apos; en ay pas ung ,"/><!--  j' ay bien de quoy et si n' en ay pas ung , -->
+<feat xlink:href="#line_244" value=" echoicte actens et d&apos; omme ne suis hoir ,"/><!--  echoicte actens et d' omme ne suis hoir , -->
+<feat xlink:href="#line_245" value=" bien recueully , debouté de chascun ."/><!--  bien recueully , debouté de chascun . -->
+<feat xlink:href="#line_246" value=" de riens n&apos; ay soing , si mectz toute m&apos; atayne"/><!--  de riens n' ay soing , si mectz toute m' atayne -->
+<feat xlink:href="#line_247" value=" d&apos; acquerir biens et n&apos; y suis pretendént ,"/><!--  d' acquerir biens et n' y suis pretendént , -->
+<feat xlink:href="#line_248" value=" qui mieulx me dit , c&apos; est cil qui plus m&apos; actaine ,"/><!--  qui mieulx me dit , c' est cil qui plus m' actaine , -->
+<feat xlink:href="#line_249" value=" et qui plus vray , lors plus me va bourdént ,"/><!--  et qui plus vray , lors plus me va bourdént , -->
+<feat xlink:href="#line_250" value=" mon ami est qui me faict entendént"/><!--  mon ami est qui me faict entendént -->
+<feat xlink:href="#line_251" value=" d&apos; ung cigne blanc que c&apos; est ung corbeau noir ,"/><!--  d' ung cigne blanc que c' est ung corbeau noir , -->
+<feat xlink:href="#line_252" value=" et qui me nuyst , croy qu&apos; i m&apos; ayde a pourvoir ,"/><!--  et qui me nuyst , croy qu' i m' ayde a pourvoir , -->
+<feat xlink:href="#line_253" value=" bourde , verité au jour d&apos; uy m&apos; est tout ung ,"/><!--  bourde , verité au jour d' uy m' est tout ung , -->
+<feat xlink:href="#line_254" value=" je retiens tout , riens ne sçay concepvoir ,"/><!--  je retiens tout , riens ne sçay concepvoir , -->
+<feat xlink:href="#line_255" value=" bien recueully , debouté de chascun ."/><!--  bien recueully , debouté de chascun . -->
+<feat xlink:href="#line_256" value=" prince clement , or vous plaise sçavoir"/><!--  prince clement , or vous plaise sçavoir -->
+<feat xlink:href="#line_257" value=" que j&apos; entens moult et n&apos; ay sens ne sçavoir ;"/><!--  que j' entens moult et n' ay sens ne sçavoir ; -->
+<feat xlink:href="#line_258" value=" parcial suis , a toutes loys commun ."/><!--  parcial suis , a toutes loys commun . -->
+<feat xlink:href="#line_259" value=" que sais je plus ? quoy ! les gaiges ravoir ;"/><!--  que sais je plus ? quoy ! les gaiges ravoir ; -->
+<feat xlink:href="#line_260" value=" bien recueully , debouté de chascun ."/><!--  bien recueully , debouté de chascun . -->
+<feat xlink:href="#line_261" value=" le mien seigneur et prince redoubté ,"/><!--  le mien seigneur et prince redoubté , -->
+<feat xlink:href="#line_262" value=" floron de lis , roialle geniture ,"/><!--  floron de lis , roialle geniture , -->
+<feat xlink:href="#line_263" value=" françoys villon , que travail a dompté"/><!--  françoys villon , que travail a dompté -->
+<feat xlink:href="#line_264" value=" a coups orbes , a force de batture ,"/><!--  a coups orbes , a force de batture , -->
+<feat xlink:href="#line_265" value=" vous supplie par ceste humble escripture"/><!--  vous supplie par ceste humble escripture -->
+<feat xlink:href="#line_266" value=" que luy faciez quelque gracieux prest ."/><!--  que luy faciez quelque gracieux prest . -->
+<feat xlink:href="#line_267" value=" de s&apos; obliger en toutes cours est prest ,"/><!--  de s' obliger en toutes cours est prest , -->
+<feat xlink:href="#line_268" value=" se doubte avés que bien ne vous contante ;"/><!--  se doubte avés que bien ne vous contante ; -->
+<feat xlink:href="#line_269" value=" sans y avoir dommage n&apos; interest ,"/><!--  sans y avoir dommage n' interest , -->
+<feat xlink:href="#line_270" value=" vous n&apos; y perdrés seulement que l&apos; attente ."/><!--  vous n' y perdrés seulement que l' attente . -->
+<feat xlink:href="#line_271" value=" de prince n&apos; a ung denier empruncté ,"/><!--  de prince n' a ung denier empruncté , -->
+<feat xlink:href="#line_272" value=" fors de vous seul , vostre humble creature ."/><!--  fors de vous seul , vostre humble creature . -->
+<feat xlink:href="#line_273" value=" de six escuz que luy avés presté ,"/><!--  de six escuz que luy avés presté , -->
+<feat xlink:href="#line_274" value=" lesquelx il mist pieça en nourriture ,"/><!--  lesquelx il mist pieça en nourriture , -->
+<feat xlink:href="#line_275" value=" tout se paiera ensemble , c&apos; est droiture ;"/><!--  tout se paiera ensemble , c' est droiture ; -->
+<feat xlink:href="#line_276" value=" mais ce sera legierement et prest ,"/><!--  mais ce sera legierement et prest , -->
+<feat xlink:href="#line_277" value=" car se de glan rancontre la forest"/><!--  car se de glan rancontre la forest -->
+<feat xlink:href="#line_278" value=" dentour pactay et chastaignes ont vente ,"/><!--  dentour pactay et chastaignes ont vente , -->
+<feat xlink:href="#line_279" value=" paié vous tient sans delay ny arrest :"/><!--  paié vous tient sans delay ny arrest : -->
+<feat xlink:href="#line_280" value=" vous n&apos; y perdrés seulement que l&apos; attente ."/><!--  vous n' y perdrés seulement que l' attente . -->
+<feat xlink:href="#line_281" value=" si je pouoie vendre de ma santé"/><!--  si je pouoie vendre de ma santé -->
+<feat xlink:href="#line_282" value=" a ung lombart , usurier par nature ,"/><!--  a ung lombart , usurier par nature , -->
+<feat xlink:href="#line_283" value=" faulte d&apos; argent m&apos; a si fort enchanté"/><!--  faulte d' argent m' a si fort enchanté -->
+<feat xlink:href="#line_284" value=" que j&apos; en prendroie , ce croy bien , l&apos; avanture ."/><!--  que j' en prendroie , ce croy bien , l' avanture . -->
+<feat xlink:href="#line_285" value=" argent ne pend a gipon n&apos; a saincture ."/><!--  argent ne pend a gipon n' a saincture . -->
+<feat xlink:href="#line_286" value=" biau sire dieux , je m&apos; esbahis que c&apos; est ,"/><!--  biau sire dieux , je m' esbahis que c' est , -->
+<feat xlink:href="#line_287" value=" car devant moy croix ne se comparest ,"/><!--  car devant moy croix ne se comparest , -->
+<feat xlink:href="#line_288" value=" sinon de bois ou pierre , que ne mente ;"/><!--  sinon de bois ou pierre , que ne mente ; -->
+<feat xlink:href="#line_289" value=" mais s&apos; une foiz la vraye s&apos; apparest ,"/><!--  mais s' une foiz la vraye s' apparest , -->
+<feat xlink:href="#line_290" value=" vous n&apos; y perdrez seullement que l&apos; attente ."/><!--  vous n' y perdrez seullement que l' attente . -->
+<feat xlink:href="#line_291" value=" prince du lis , qui a tout bien complest ,"/><!--  prince du lis , qui a tout bien complest , -->
+<feat xlink:href="#line_292" value=" que pansés vous comment il me deplaist ,"/><!--  que pansés vous comment il me deplaist , -->
+<feat xlink:href="#line_293" value=" quant je ne puis venir a mon entente !"/><!--  quant je ne puis venir a mon entente ! -->
+<feat xlink:href="#line_294" value=" bien m&apos; entendez , aydés moy , s&apos; il vous plaist ,"/><!--  bien m' entendez , aydés moy , s' il vous plaist , -->
+<feat xlink:href="#line_295" value=" vous n&apos; y perdrés seullement que l&apos; attente ."/><!--  vous n' y perdrés seullement que l' attente . -->
+<feat xlink:href="#line_296" value=" fortune fuz par cleirs jadiz nommee ,"/><!--  fortune fuz par cleirs jadiz nommee , -->
+<feat xlink:href="#line_297" value=" que toy , françoys , crye et nomme murtriere ,"/><!--  que toy , françoys , crye et nomme murtriere , -->
+<feat xlink:href="#line_298" value=" qui n&apos; es homme d&apos; aucune renommee ."/><!--  qui n' es homme d' aucune renommee . -->
+<feat xlink:href="#line_299" value=" meilleur que toy faiz user en plastriere ,"/><!--  meilleur que toy faiz user en plastriere , -->
+<feat xlink:href="#line_300" value=" par povreté , et fouyr en carriere :"/><!--  par povreté , et fouyr en carriere : -->
+<feat xlink:href="#line_301" value=" s&apos; a honte viz , te dois tu doncques plaindre ?"/><!--  s' a honte viz , te dois tu doncques plaindre ? -->
+<feat xlink:href="#line_302" value=" tu n&apos; es pas seul , si ne te dois complaindre ;"/><!--  tu n' es pas seul , si ne te dois complaindre ; -->
+<feat xlink:href="#line_303" value=" regarde et voy , de mes faiz de jadiz ,"/><!--  regarde et voy , de mes faiz de jadiz , -->
+<feat xlink:href="#line_304" value=" mains vaillans homs par moy mors et roiddiz ,"/><!--  mains vaillans homs par moy mors et roiddiz , -->
+<feat xlink:href="#line_305" value=" et n&apos; es , ce sais , envers eulx ung soullon ."/><!--  et n' es , ce sais , envers eulx ung soullon . -->
+<feat xlink:href="#line_306" value=" appaise toy et mect fin en tes diz ,"/><!--  appaise toy et mect fin en tes diz , -->
+<feat xlink:href="#line_307" value=" par mon conseil prens tout en gre , villon !"/><!--  par mon conseil prens tout en gre , villon ! -->
+<feat xlink:href="#line_308" value=" contre grans roys me suis bien anymee"/><!--  contre grans roys me suis bien anymee -->
+<feat xlink:href="#line_309" value=" le temps qui est passé ça en arriere :"/><!--  le temps qui est passé ça en arriere : -->
+<feat xlink:href="#line_310" value=" priame occis et toute son armee ,"/><!--  priame occis et toute son armee , -->
+<feat xlink:href="#line_311" value=" ne lui valut tour , donjon ne barriere ."/><!--  ne lui valut tour , donjon ne barriere . -->
+<feat xlink:href="#line_312" value=" et hannibal demoura il derriere ?"/><!--  et hannibal demoura il derriere ? -->
+<feat xlink:href="#line_313" value=" en cartaige par mort le feiz actaindre ,"/><!--  en cartaige par mort le feiz actaindre , -->
+<feat xlink:href="#line_314" value=" et scypion l&apos; affrequain feiz estaindre ."/><!--  et scypion l' affrequain feiz estaindre . -->
+<feat xlink:href="#line_315" value=" julius cesar au senat je vendiz ,"/><!--  julius cesar au senat je vendiz , -->
+<feat xlink:href="#line_316" value=" en egipte pompee je perdiz ."/><!--  en egipte pompee je perdiz . -->
+<feat xlink:href="#line_317" value=" en mer noyay jazon en ung boullon"/><!--  en mer noyay jazon en ung boullon -->
+<feat xlink:href="#line_318" value=" et une foys romme et rommains ardiz ."/><!--  et une foys romme et rommains ardiz . -->
+<feat xlink:href="#line_319" value=" par mon conseil prens tout en gre , villon !"/><!--  par mon conseil prens tout en gre , villon ! -->
+<feat xlink:href="#line_320" value=" alixandre , qui tant fist de hemee ,"/><!--  alixandre , qui tant fist de hemee , -->
+<feat xlink:href="#line_321" value=" qui voulut voir l&apos; estoille poucyniere ,"/><!--  qui voulut voir l' estoille poucyniere , -->
+<feat xlink:href="#line_322" value=" sa personne par moy fut envelimee ."/><!--  sa personne par moy fut envelimee . -->
+<feat xlink:href="#line_323" value=" alphasar roy en champ sur sa baniere"/><!--  alphasar roy en champ sur sa baniere -->
+<feat xlink:href="#line_324" value=" ruay jus mort . cela est ma maniere :"/><!--  ruay jus mort . cela est ma maniere : -->
+<feat xlink:href="#line_325" value=" ainsi l&apos; ay fait , ainsi le maintendray ,"/><!--  ainsi l' ay fait , ainsi le maintendray , -->
+<feat xlink:href="#line_326" value=" autre cause ne raison n&apos; en rendray ."/><!--  autre cause ne raison n' en rendray . -->
+<feat xlink:href="#line_327" value=" holofernés l&apos; idolastre mauldiz ,"/><!--  holofernés l' idolastre mauldiz , -->
+<feat xlink:href="#line_328" value=" qu&apos; occist judic — et dormoit entandiz —"/><!--  qu' occist judic — et dormoit entandiz — -->
+<feat xlink:href="#line_329" value=" de son poignart dedens son pavillon ."/><!--  de son poignart dedens son pavillon . -->
+<feat xlink:href="#line_330" value=" absallon , quoy ? en fuyant le pendis ."/><!--  absallon , quoy ? en fuyant le pendis . -->
+<feat xlink:href="#line_331" value=" par mon conseil prens tout en gre , villon !"/><!--  par mon conseil prens tout en gre , villon ! -->
+<feat xlink:href="#line_332" value=" pour ce , françoys , escoute que te dis :"/><!--  pour ce , françoys , escoute que te dis : -->
+<feat xlink:href="#line_333" value=" se riens peusse sans dieu de paradiz ,"/><!--  se riens peusse sans dieu de paradiz , -->
+<feat xlink:href="#line_334" value=" a toy n&apos; autre ne demourroit haillon ,"/><!--  a toy n' autre ne demourroit haillon , -->
+<feat xlink:href="#line_335" value=" car pour ung mal lors j&apos; en feroye dix ."/><!--  car pour ung mal lors j' en feroye dix . -->
+<feat xlink:href="#line_336" value=" par mon conseil prens tout en gre , villon !"/><!--  par mon conseil prens tout en gre , villon ! -->
+<feat xlink:href="#line_337" value=" freres humains qui aprés nous vivez ,"/><!--  freres humains qui aprés nous vivez , -->
+<feat xlink:href="#line_338" value=" n&apos; ayez les cueurs contre nous endurcis ,"/><!--  n' ayez les cueurs contre nous endurcis , -->
+<feat xlink:href="#line_339" value=" car se pitié de nous povres avez ,"/><!--  car se pitié de nous povres avez , -->
+<feat xlink:href="#line_340" value=" dieu en aura plus tost de vous mercis ."/><!--  dieu en aura plus tost de vous mercis . -->
+<feat xlink:href="#line_341" value=" vous nous voiez cy attachez , cinq , six :"/><!--  vous nous voiez cy attachez , cinq , six : -->
+<feat xlink:href="#line_342" value=" quant de la chair que trop avons nourrie ,"/><!--  quant de la chair que trop avons nourrie , -->
+<feat xlink:href="#line_343" value=" el est pieça devoree et pourrie ,"/><!--  el est pieça devoree et pourrie , -->
+<feat xlink:href="#line_344" value=" et nous , les os , devenons cendre et pouldre ."/><!--  et nous , les os , devenons cendre et pouldre . -->
+<feat xlink:href="#line_345" value=" de nostre mal personne ne s&apos; en rie ,"/><!--  de nostre mal personne ne s' en rie , -->
+<feat xlink:href="#line_346" value=" mais priez dieu que tous nous vueille absouldre ."/><!--  mais priez dieu que tous nous vueille absouldre . -->
+<feat xlink:href="#line_347" value=" se freres vous clamons , pas n&apos; en devez"/><!--  se freres vous clamons , pas n' en devez -->
+<feat xlink:href="#line_348" value=" avoir desdaing , quoy que fusmes occis"/><!--  avoir desdaing , quoy que fusmes occis -->
+<feat xlink:href="#line_349" value=" par justice ... touteffois vous sçavez"/><!--  par justice ... touteffois vous sçavez -->
+<feat xlink:href="#line_350" value=" que tous hommes n&apos; ont pas le sens rassis ."/><!--  que tous hommes n' ont pas le sens rassis . -->
+<feat xlink:href="#line_351" value=" excusez nous , puisque sommes transis ,"/><!--  excusez nous , puisque sommes transis , -->
+<feat xlink:href="#line_352" value=" envers le filz de la vierge marie ,"/><!--  envers le filz de la vierge marie , -->
+<feat xlink:href="#line_353" value=" que sa grace ne soit pour nous tarie ,"/><!--  que sa grace ne soit pour nous tarie , -->
+<feat xlink:href="#line_354" value=" nous preservant de l&apos; infernale fouldre ."/><!--  nous preservant de l' infernale fouldre . -->
+<feat xlink:href="#line_355" value=" nous sommes mors , ame ne nous harie ,"/><!--  nous sommes mors , ame ne nous harie , -->
+<feat xlink:href="#line_356" value=" mais priez dieu que tous nous vueille absouldre ."/><!--  mais priez dieu que tous nous vueille absouldre . -->
+<feat xlink:href="#line_357" value=" la pluye nous a esbuez et lavez"/><!--  la pluye nous a esbuez et lavez -->
+<feat xlink:href="#line_358" value=" et le soleil deseichez et noircis ."/><!--  et le soleil deseichez et noircis . -->
+<feat xlink:href="#line_359" value=" pies , corbeaulx nous ont les yeulx cavez"/><!--  pies , corbeaulx nous ont les yeulx cavez -->
+<feat xlink:href="#line_360" value=" et arraché la barbe et les sourcilz ."/><!--  et arraché la barbe et les sourcilz . -->
+<feat xlink:href="#line_361" value=" jamais nul temps nous ne sommes assis :"/><!--  jamais nul temps nous ne sommes assis : -->
+<feat xlink:href="#line_362" value=" puis ça , puis la , comme le vent varie ,"/><!--  puis ça , puis la , comme le vent varie , -->
+<feat xlink:href="#line_363" value=" a son plaisir sans cesser nous charie ,"/><!--  a son plaisir sans cesser nous charie , -->
+<feat xlink:href="#line_364" value=" plus becquetez d&apos; oyseaulx que dez a coudre ."/><!--  plus becquetez d' oyseaulx que dez a coudre . -->
+<feat xlink:href="#line_365" value=" ne soiez donc de nostre confrairie ,"/><!--  ne soiez donc de nostre confrairie , -->
+<feat xlink:href="#line_366" value=" mais priez dieu que tous nous vueille absouldre ."/><!--  mais priez dieu que tous nous vueille absouldre . -->
+<feat xlink:href="#line_367" value=" prince jesus qui sur tous a maistrie ,"/><!--  prince jesus qui sur tous a maistrie , -->
+<feat xlink:href="#line_368" value=" garde qu&apos; enfer n&apos; ait de nous seigneurie :"/><!--  garde qu' enfer n' ait de nous seigneurie : -->
+<feat xlink:href="#line_369" value=" a luy n&apos; ayons que faire ne que souldre !"/><!--  a luy n' ayons que faire ne que souldre ! -->
+<feat xlink:href="#line_370" value=" humains , icy n&apos; a point de mocquerie ,"/><!--  humains , icy n' a point de mocquerie , -->
+<feat xlink:href="#line_371" value=" mais priez dieu que tous nous vueille absouldre ."/><!--  mais priez dieu que tous nous vueille absouldre . -->
+<feat xlink:href="#line_372" value=" aiez pictié , aiez pictié de moy ,"/><!--  aiez pictié , aiez pictié de moy , -->
+<feat xlink:href="#line_373" value=" a tout le moins , s&apos; i vous plaist , mes amis !"/><!--  a tout le moins , s' i vous plaist , mes amis ! -->
+<feat xlink:href="#line_374" value=" en fosse giz , non pas soubz houz ne may ,"/><!--  en fosse giz , non pas soubz houz ne may , -->
+<feat xlink:href="#line_375" value=" en cest exil ouquel je suis transmis"/><!--  en cest exil ouquel je suis transmis -->
+<feat xlink:href="#line_376" value=" par fortune , comme dieu l&apos; a permis ."/><!--  par fortune , comme dieu l' a permis . -->
+<feat xlink:href="#line_377" value=" filles amans jeunes gens et nouveaulx ,"/><!--  filles amans jeunes gens et nouveaulx , -->
+<feat xlink:href="#line_378" value=" danceurs , saulteurs faisans les piez de veaux ,"/><!--  danceurs , saulteurs faisans les piez de veaux , -->
+<feat xlink:href="#line_379" value=" vifz comme dars , aguz comme aguillon ,"/><!--  vifz comme dars , aguz comme aguillon , -->
+<feat xlink:href="#line_380" value=" gousiers tintans clers comme gascaveaux ,"/><!--  gousiers tintans clers comme gascaveaux , -->
+<feat xlink:href="#line_381" value=" le lesserez la , le povre villon ?"/><!--  le lesserez la , le povre villon ? -->
+<feat xlink:href="#line_382" value=" chantres chantans a plaisances , sans loy ,"/><!--  chantres chantans a plaisances , sans loy , -->
+<feat xlink:href="#line_383" value=" galans , rians , plaisans en faiz et diz ,"/><!--  galans , rians , plaisans en faiz et diz , -->
+<feat xlink:href="#line_384" value=" coureux alans francs de faulx or , d&apos; aloy ,"/><!--  coureux alans francs de faulx or , d' aloy , -->
+<feat xlink:href="#line_385" value=" gens d&apos; esperit , ung petit estourdiz ,"/><!--  gens d' esperit , ung petit estourdiz , -->
+<feat xlink:href="#line_386" value=" trop demourez , car il meurt entandiz ."/><!--  trop demourez , car il meurt entandiz . -->
+<feat xlink:href="#line_387" value=" faiseurs de laiz , de motés et rondeaux ,"/><!--  faiseurs de laiz , de motés et rondeaux , -->
+<feat xlink:href="#line_388" value=" quant mort sera , vous lui ferez chaudeaux !"/><!--  quant mort sera , vous lui ferez chaudeaux ! -->
+<feat xlink:href="#line_389" value=" ou gist , il n&apos; entre escler ne tourbillon ;"/><!--  ou gist , il n' entre escler ne tourbillon ; -->
+<feat xlink:href="#line_390" value=" de murs espoix on lui a fait bandeaux ."/><!--  de murs espoix on lui a fait bandeaux . -->
+<feat xlink:href="#line_391" value=" le lesserez la , le povre villon ?"/><!--  le lesserez la , le povre villon ? -->
+<feat xlink:href="#line_392" value=" venez le voir en ce piteux arroy ,"/><!--  venez le voir en ce piteux arroy , -->
+<feat xlink:href="#line_393" value=" nobles hommes , francs de quars et de dix ,"/><!--  nobles hommes , francs de quars et de dix , -->
+<feat xlink:href="#line_394" value=" qui ne tenez d&apos; empereur ne de roy ,"/><!--  qui ne tenez d' empereur ne de roy , -->
+<feat xlink:href="#line_395" value=" mais seulement de dieu de paradiz ;"/><!--  mais seulement de dieu de paradiz ; -->
+<feat xlink:href="#line_396" value=" jeuner lui fault dimenches et merdiz ,"/><!--  jeuner lui fault dimenches et merdiz , -->
+<feat xlink:href="#line_397" value=" dont les dens a plus longues que ratteaux ;"/><!--  dont les dens a plus longues que ratteaux ; -->
+<feat xlink:href="#line_398" value=" aprés pain sec , non pas aprés gasteaux ,"/><!--  aprés pain sec , non pas aprés gasteaux , -->
+<feat xlink:href="#line_399" value=" en ses boyaulx verse eaue a groz boullon ,"/><!--  en ses boyaulx verse eaue a groz boullon , -->
+<feat xlink:href="#line_400" value=" bas en terre — table n&apos; a ne tresteaux — ."/><!--  bas en terre — table n' a ne tresteaux — . -->
+<feat xlink:href="#line_401" value=" le lesserez la , le povre villon ?"/><!--  le lesserez la , le povre villon ? -->
+<feat xlink:href="#line_402" value=" princes nommez , anciens , jouvenciaulx ,"/><!--  princes nommez , anciens , jouvenciaulx , -->
+<feat xlink:href="#line_403" value=" impetrez moy graces et royaulx seaulx"/><!--  impetrez moy graces et royaulx seaulx -->
+<feat xlink:href="#line_404" value=" et me montez en quelque corbillon ."/><!--  et me montez en quelque corbillon . -->
+<feat xlink:href="#line_405" value=" ainsi le font l&apos; un a l&apos; autre pourceaux ,"/><!--  ainsi le font l' un a l' autre pourceaux , -->
+<feat xlink:href="#line_406" value=" car ou l&apos; un brait , ilz fuyent a monceaux ."/><!--  car ou l' un brait , ilz fuyent a monceaux . -->
+<feat xlink:href="#line_407" value=" le lesserez la , le povre villon ?"/><!--  le lesserez la , le povre villon ? -->
+<feat xlink:href="#line_408" value=" qu&apos; est ce que j&apos; oy ? — ce suis je . — qui ? — ton cueur ,"/><!--  qu' est ce que j' oy ? — ce suis je . — qui ? — ton cueur , -->
+<feat xlink:href="#line_409" value=" qui ne tient mais qu&apos; a ung petit filet ."/><!--  qui ne tient mais qu' a ung petit filet . -->
+<feat xlink:href="#line_410" value=" force n&apos; ay plus , substance ne liqueur ,"/><!--  force n' ay plus , substance ne liqueur , -->
+<feat xlink:href="#line_411" value=" quant je te voy retrait ainsi seulét ,"/><!--  quant je te voy retrait ainsi seulét , -->
+<feat xlink:href="#line_412" value=" com povre chien tapi en reculét ."/><!--  com povre chien tapi en reculét . -->
+<feat xlink:href="#line_413" value=" — pour quoy est ce , — par ta folle plaisance ."/><!--  — pour quoy est ce , — par ta folle plaisance . -->
+<feat xlink:href="#line_414" value=" — que t&apos; en chault il ? — j&apos; en ay la desplaisance ."/><!--  — que t' en chault il ? — j' en ay la desplaisance . -->
+<feat xlink:href="#line_415" value=" — laisse m&apos; en paix ! — pour quoy ? — g&apos; y penseray ."/><!--  — laisse m' en paix ! — pour quoy ? — g' y penseray . -->
+<feat xlink:href="#line_416" value=" — quant sera ce ? — quant seray hors d&apos; enfance ."/><!--  — quant sera ce ? — quant seray hors d' enfance . -->
+<feat xlink:href="#line_417" value=" — plus ne t&apos; en dis . — et je m&apos; en passeray ."/><!--  — plus ne t' en dis . — et je m' en passeray . -->
+<feat xlink:href="#line_418" value=" — que penses tu ? — estre homme de valeur ."/><!--  — que penses tu ? — estre homme de valeur . -->
+<feat xlink:href="#line_419" value=" — tu as trente ans ! — c&apos; est l&apos; aage d&apos; ung mulet ."/><!--  — tu as trente ans ! — c' est l' aage d' ung mulet . -->
+<feat xlink:href="#line_420" value=" — est ce enfance ? — nennil . — c&apos; est donc foleur"/><!--  — est ce enfance ? — nennil . — c' est donc foleur -->
+<feat xlink:href="#line_421" value=" qui te saisist . — par ou ? par le collét ?"/><!--  qui te saisist . — par ou ? par le collét ? -->
+<feat xlink:href="#line_422" value=" — riens ne congnois . — si faiz . — quoy ? — mousche en lait :"/><!--  — riens ne congnois . — si faiz . — quoy ? — mousche en lait : -->
+<feat xlink:href="#line_423" value=" l&apos; ung est blanc , l&apos; autre noire , c&apos; est distance ."/><!--  l' ung est blanc , l' autre noire , c' est distance . -->
+<feat xlink:href="#line_424" value=" — est ce donc tout ? — que veux tu que je tence ?"/><!--  — est ce donc tout ? — que veux tu que je tence ? -->
+<feat xlink:href="#line_425" value=" se n&apos; est assez , je recommenceray ."/><!--  se n' est assez , je recommenceray . -->
+<feat xlink:href="#line_426" value=" — tu es perdu ! — g&apos; y mectray resistence ."/><!--  — tu es perdu ! — g' y mectray resistence . -->
+<feat xlink:href="#line_427" value=" — plus ne t&apos; en dis . — et je m&apos; en passeray ."/><!--  — plus ne t' en dis . — et je m' en passeray . -->
+<feat xlink:href="#line_428" value=" — j&apos; en ay le dueil , toy le mal et douleur ."/><!--  — j' en ay le dueil , toy le mal et douleur . -->
+<feat xlink:href="#line_429" value=" se feusses ung povre ydiot et folét ,"/><!--  se feusses ung povre ydiot et folét , -->
+<feat xlink:href="#line_430" value=" encore eusses de t&apos; excuser couleur ;"/><!--  encore eusses de t' excuser couleur ; -->
+<feat xlink:href="#line_431" value=" si n&apos; as tu soing , tout t&apos; est ung , bel ou lait ."/><!--  si n' as tu soing , tout t' est ung , bel ou lait . -->
+<feat xlink:href="#line_432" value=" ou la teste as plus dure q&apos; un jalét ,"/><!--  ou la teste as plus dure q' un jalét , -->
+<feat xlink:href="#line_433" value=" ou mieulx te plaist qu&apos; onneur ceste meschance :"/><!--  ou mieulx te plaist qu' onneur ceste meschance : -->
+<feat xlink:href="#line_434" value=" que respondras a ceste consequence ?"/><!--  que respondras a ceste consequence ? -->
+<feat xlink:href="#line_435" value=" — j&apos; en seray hors quant je trespasseray ."/><!--  — j' en seray hors quant je trespasseray . -->
+<feat xlink:href="#line_436" value=" — dieux ! quel confort ! quelle sage eloquence !"/><!--  — dieux ! quel confort ! quelle sage eloquence ! -->
+<feat xlink:href="#line_437" value=" plus ne t&apos; en dis . — et je m&apos; en passeray ."/><!--  plus ne t' en dis . — et je m' en passeray . -->
+<feat xlink:href="#line_438" value=" — dont vient ce mal ? — il vient de mon mal eur :"/><!--  — dont vient ce mal ? — il vient de mon mal eur : -->
+<feat xlink:href="#line_439" value=" quant saturne me fist mon fardelét ,"/><!--  quant saturne me fist mon fardelét , -->
+<feat xlink:href="#line_440" value=" ses motz y mist , je le croy . — c&apos; est foleur :"/><!--  ses motz y mist , je le croy . — c' est foleur : -->
+<feat xlink:href="#line_441" value=" son seigneur es et te tiens son varlet !"/><!--  son seigneur es et te tiens son varlet ! -->
+<feat xlink:href="#line_442" value=" voy que salmon escript en son rolét :"/><!--  voy que salmon escript en son rolét : -->
+<feat xlink:href="#line_443" value=" « homme sage , ce dit il , a puissance"/><!--  « homme sage , ce dit il , a puissance -->
+<feat xlink:href="#line_444" value=" sur planetes et sur leur influence . »"/><!--  sur planetes et sur leur influence . » -->
+<feat xlink:href="#line_445" value=" — je n&apos; en croy riens : tel qu&apos; il m&apos; ont fait seray ."/><!--  — je n' en croy riens : tel qu' il m' ont fait seray . -->
+<feat xlink:href="#line_446" value=" — que dis tu dea ? — certes , c&apos; est ma creance ."/><!--  — que dis tu dea ? — certes , c' est ma creance . -->
+<feat xlink:href="#line_447" value=" — plus ne t&apos; en dis . — et je m&apos; en passeray ."/><!--  — plus ne t' en dis . — et je m' en passeray . -->
+<feat xlink:href="#line_448" value=" — veux tu vivre ? — dieu m&apos; en doint la puissance !"/><!--  — veux tu vivre ? — dieu m' en doint la puissance ! -->
+<feat xlink:href="#line_449" value=" — il te fault ... — quoy ? — remors de conscience ,"/><!--  — il te fault ... — quoy ? — remors de conscience , -->
+<feat xlink:href="#line_450" value=" lire sans fin . — en quoy ? — lire en science ,"/><!--  lire sans fin . — en quoy ? — lire en science , -->
+<feat xlink:href="#line_451" value=" laisser les folz . — bien j&apos; y adviseray ."/><!--  laisser les folz . — bien j' y adviseray . -->
+<feat xlink:href="#line_452" value=" — or le retiens ! — j&apos; en ay bien souvenance ."/><!--  — or le retiens ! — j' en ay bien souvenance . -->
+<feat xlink:href="#line_453" value=" — n&apos; attens pas trop , qu&apos; il ne tiengne a plaisance !"/><!--  — n' attens pas trop , qu' il ne tiengne a plaisance ! -->
+<feat xlink:href="#line_454" value=" plus ne t&apos; en dis . — et je m&apos; en passeray ."/><!--  plus ne t' en dis . — et je m' en passeray . -->
+</featList>
+</paula>
