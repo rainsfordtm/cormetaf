@@ -1,3 +1,8 @@
+.*	ou	Crd
+.*	ne2	Crd
+.*	et	Crd
+.*  car Crd
+.*  que Crd
 .*	le	Det
 .*	leur2	Det
 .*	mon	Det
