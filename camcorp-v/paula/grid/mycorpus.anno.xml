@@ -70,13 +70,14 @@
 <rel id="rel_63" xlink:href="alexisa"/>
 <rel id="rel_64" xlink:href="huon"/>
 <rel id="rel_65" xlink:href="poitiers"/>
-<rel id="rel_66" xlink:href="thibaut"/>
-<rel id="rel_67" xlink:href="machaut"/>
-<rel id="rel_68" xlink:href="christine"/>
-<rel id="rel_69" xlink:href="chivalier"/>
-<rel id="rel_70" xlink:href="meliador"/>
-<rel id="rel_71" xlink:href="florimont"/>
-<rel id="rel_72" xlink:href="leger"/>
+<rel id="rel_66" xlink:href="molinet"/>
+<rel id="rel_67" xlink:href="thibaut"/>
+<rel id="rel_68" xlink:href="machaut"/>
+<rel id="rel_69" xlink:href="christine"/>
+<rel id="rel_70" xlink:href="chivalier"/>
+<rel id="rel_71" xlink:href="meliador"/>
+<rel id="rel_72" xlink:href="florimont"/>
+<rel id="rel_73" xlink:href="leger"/>
 </struct>
 </structList>
 </paula>

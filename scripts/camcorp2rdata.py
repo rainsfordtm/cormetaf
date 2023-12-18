@@ -14,23 +14,26 @@
 import csv, pickle, os.path, sys
 
 corpdir = '/home/tmr/git/camcorp/camcorp-v'
-#textnames = [
-#        'anjou', 'clermont', 'leger', 'gormont', 'marie', 'thebes', 'charrette',
-#        'coinci', 'passjong', 'rosemeun', 'protheselaus', 'chevalerie',
-#        'dolopathos', 'florimont', 'imagemonde', 'isopet', 'sacristain3',
-#        'abeville', 'barat', 'barisel', 'eracle', 'poitiers', 'rennov', 
-#        'feuillee', 'nicolas', 'palatinus', 'belledame', 'fortune', 'liberfort',
-#        'meliador', 'testament', 'viemathurin', 'voirdit', 'griseldis', 'passgreb', 
-#        'theophile', 'notredame', 'holofernes', 'troisgalans', 'pathelin', 
-#        'chivalier', 'edmund', 'gui', 'richard', 'brendan', 'adam'
-#]
+textnames = [
+        'anjou', 'clermont', 'leger', 'gormont', 'marie', 'thebes', 'charrette',
+        'coinci', 'passjong', 'rosemeun', 'protheselaus', 'chevalerie',
+        'dolopathos', 'florimont', 'imagemonde', 'isopet', 'sacristain3',
+        'abeville', 'barat', 'barisel', 'eracle', 'poitiers', 'rennov', 
+        'feuillee', 'nicolas', 'palatinus', 'belledame', 'fortune', 'liberfort',
+        'meliador', 'testament', 'viemathurin', 'voirdit', 'griseldis', 'passgreb', 
+        'theophile', 'notredame', 'holofernes', 'troisgalans', 'pathelin', 
+        'chivalier', 'edmund', 'gui', 'richard', 'brendan', 'adam',
+        'blondel', 'chartier', 'christine', 'delahalle', 'froissart',
+        'gace', 'machaut', 'molinet', 'orleans', 'rutebeuf', 'thibaut',
+        'villon'
+]
 
 # Decasyllables and alexandrines
-textnames = [
-    'alexis', 'roland', 'charroi', 'rou', 'antioche', 'raouli',
-    'alexandre', 'ami', 'alexiso', 'berte', 'huon', 'behaigne', 'alexisa',
-    'hugues', 'orloge', '3jugemens'
-]
+#textnames = [
+#    'alexis', 'roland', 'charroi', 'rou', 'antioche', 'raouli',
+#    'alexandre', 'ami', 'alexiso', 'berte', 'huon', 'behaigne', 'alexisa',
+#    'hugues', 'orloge', '3jugemens'
+#]
 
 # Lyon couronné??
 
@@ -43,7 +46,7 @@ textnames = [
 
 metadata = '/home/tmr/git/camcorp/camcorp-v/doc/metadata_r.csv'
 outfile = '/home/tmr/out.csv'
-line_lengths = [10, 12]
+line_lengths = [8]
 
 def get_datapoints(textname, text, md):
     l = []
