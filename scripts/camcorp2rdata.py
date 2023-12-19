@@ -13,7 +13,7 @@
 
 import csv, pickle, os.path, sys
 
-corpdir = '/home/tmr/git/camcorp/camcorp-pv'
+corpdir = '/home/tmr/git/camcorp/camcorp-v'
 #textnames = [
 #        'anjou', 'clermont', 'leger', 'gormont', 'marie', 'thebes', 'charrette',
 #        'coinci', 'passjong', 'rosemeun', 'protheselaus', 'chevalerie',
@@ -29,22 +29,22 @@ corpdir = '/home/tmr/git/camcorp/camcorp-pv'
 #]
 
 # Decasyllables and alexandrines
-#textnames = [
-#    'alexis', 'roland', 'charroi', 'rou', 'antioche', 'raouli',
-#    'alexandre', 'ami', 'alexiso', 'berte', 'huon', 'behaigne', 'alexisa',
-#    'hugues', 'orloge', '3jugemens'
-#]
+textnames = [
+    'alexis', 'roland', 'charroi', 'rou', 'antioche', 'raouli',
+    'alexandre', 'ami', 'alexiso', 'berte', 'huon', 'behaigne', 'alexisa',
+    'hugues', 'orloge', '3jugemens'
+]
 
 # Lyon couronné??
 
-corpdir = '/home/tmr/git/camcorp/camcorp-pv'
-textnames = [
-    'avision-pv', 'berinus-pv', 'chrfroiss-pv', 'conqueste-pv', 'memcomm-pv',
-    'mirlouis-pv', 'quadrilogue-pv', 'quatrelivres-pv', 'saintre-pv',
-    'tristan-pv', 'vielouis-pv'
-]
+#corpdir = '/home/tmr/git/camcorp/camcorp-pv'
+#textnames = [
+#    'avision-pv', 'berinus-pv', 'chrfroiss-pv', 'conqueste-pv', 'memcomm-pv',
+#    'mirlouis-pv', 'quadrilogue-pv', 'quatrelivres-pv', 'saintre-pv',
+#    'tristan-pv', 'vielouis-pv'
+#]
 
-metadata = '/home/tmr/git/camcorp/camcorp-pv/doc/metadata_r.csv'
+metadata = '/home/tmr/git/camcorp/camcorp-v/doc/metadata_r.csv'
 outfile = '/home/tmr/out.csv'
 line_lengths = [8]
 
@@ -70,6 +70,9 @@ def get_datapoints(textname, text, md):
         d = {}
         d['ID'] = '{}.{:04d}.{:02d}'.format(
             textname, int(syllable.line.d.get('line_id')), int(syllable.d.get('syll_in_line'))
+        )
+        d['ID.LINE'] = '{}.{:04d}'.format(
+            textname, int(syllable.line.d.get('line_id'))
         )
         d['REF'] = '{}, l. {}, s. {}'.format(
             textname, syllable.line.d.get('line_id'), syllable.d.get('syll_in_line')
@@ -151,7 +154,7 @@ def main():
     md = load_metadata(metadata)
     f = open(outfile, 'w')
     writer = csv.DictWriter(f, fieldnames=[
-        'ID', # unique ID 
+        'ID', 'ID.LINE', # unique IDs
         'LEXSTR', # dependent variable
         'METPOS', 'STRINLINE', 'PAROXYTONE', # level 1 predictors
         'SCORE', 'ISCES', 'ISRHYME', # Needed for the old-style analysis
