@@ -79,7 +79,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 78,13,3,il,il,il,il,PRON,9,5531,Prn,Prn$,,/V\
 79,13,4,vienent,vienent,venir,venir,VERB,9,5531,Vfin,Vfin,,'C/V\.C/e\
 80,13,5,a,a,à,à,ADP,8,5531,Pre,Pre,,/V\
-81,13,6,celui,celui,cil,celui,PRON,6,5531,Dem,Dem,,C/V\.'C/V\
+81,13,6,celui,celui,cil,cil,PRON,6,5531,Dem,Dem,,C/V\.'C/V\
 82,14,1,qu',qu',que,que,PRON,9,5532,Qux,Qux,,C/\
 83,14,2,il,il,il,il,PRON,9,5532,Prn,Prn$,,/V\
 84,14,3,vont,vont,aller,aller,VERB,9,5532,Vfin,Vfin,,C/V\
@@ -138,7 +138,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 137,22,1,ne,ne,ne2,ne,CCONJ,8,5540,Crd,Crd,,C/(e)\
 138,22,2,je,je,je,je,PRON,9,5540,Prn,Prn,,C/(e)\
 139,22,3,",",",",,",",PUNCT,9,5540,Pnc,Pnc,,
-140,22,4,des,des,dès,dès,PRE,8,5540,Pre,Pre,,C/V\
+140,22,4,des,des,dès,dès,ADP,8,5540,Pre,Pre,,C/V\
 141,22,5,puis,puis,puis,puis,ADV,5,5540,PrA,PrA,,C/V\
 142,22,6,qu',qu',que,que,SCONJ,9,5540,Sub,Sub,,C/\
 143,22,7,il,il,il,il,PRON,9,5540,Prn,Prn$,,/V\
@@ -181,7 +181,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 180,27,8,",",",",,",",PUNCT,9,5545,Pnc,Pnc,,
 181,28,1,sel,sel,si4.le,si.le,ADV.PRON,-10,5546,Adv+Prn,Adv+Prn$$,,C/V\
 182,28,2,comperont,comperont,,comparer,VERB,9,5546,Vfin,Vfin,,C/V\.C/e\.'C/V\
-183,28,3,ne,ne,ne,ne,CCONJ,8,5546,Neg,Neg$$,,C/(e)\
+183,28,3,ne,ne,ne,ne,ADV,8,5546,Neg,Neg$$,,C/(e)\
 184,28,4,sai,sai,savoir,savoir,VERB,8,5546,Vfin,Vfin,,C/V\
 185,28,5,li,li,le,le,DET,8,5546,Det,Det,,C/V\
 186,28,6,quel,quel,quel,quel,PRON,9,5546,Qux,Qux,,C/V\
@@ -262,7 +262,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 261,39,2,qui,qui,qui,qui,PRON,3,5557,Qux,Qux,,C/V\
 262,39,3,vaintra,vaintra,vaincre,vaincre,VERB,9,5557,Vfin,Vfin,,C/V\.'C/V\
 263,39,4,",",",",,",",PUNCT,9,5557,Pnc,Pnc,,
-264,39,5,se,se,si3,si,PRON,0,5557,Sub,Sub,,C/(e)\
+264,39,5,se,se,si3,si,SCONJ,0,5557,Sub,Sub,,C/(e)\
 265,39,6,n',n',ne,ne,ADV,8,5557,Neg,Neg$$,,C/\
 266,39,7,ait,ait,avoir,avoir,VERB,3,5557,Vfin,Vfin,,/V\
 267,39,8,regart,regart,,regard,NOUN,8,5557,N,N,,C/V\.'C/V\
@@ -413,7 +413,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 412,58,4,i,i,y2,y,PRON,3,5576,Prn,Prn$$,,/V\
 413,58,5,vient,vient,venir,venir,VERB,9,5576,Vfin,Vfin,,C/V\
 414,58,6,",",",",,",",PUNCT,9,5576,Pnc,Pnc,,
-415,58,7,que,que,que,que,PRON,4,5576,Sub,Sub,,C/(e)\
+415,58,7,que,que,que,que,SCONJ,4,5576,Sub,Sub,,C/(e)\
 416,58,8,ja,ja,jà,jà,ADV,9,5576,Adv,Adv,,C/V\
 417,58,9,s',s',se,se,PRON,8,5576,Prn,Prn$$,,C/\
 418,58,10,i,i,y2,y,PRON,3,5576,Prn,Prn$$,,/V\
@@ -464,7 +464,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 463,64,7,fait,fait,faire,faire,VERB,8,5582,Vfin,Vfin,,C/V\
 464,64,8,",",",",,",",PUNCT,9,5582,Pnc,Pnc,,
 465,65,1,c',c',que,que,CCONJ,8,5583,Crd,Crd,,C/\
-466,65,2,uns,uns,un,un,DET,3,5583,QIs,QIs,,/V\
+466,65,2,uns,uns,un,uns,DET,3,5583,QIs,QIs,,/V\
 467,65,3,jors,jors,,jour,NOUN,9,5583,N,N,,C/V\
 468,65,4,venra,venra,venir,venir,VERB,9,5583,Vfin,Vfin,,C/V\.'C/V\
 469,65,5,",",",",,",",PUNCT,9,5583,Pnc,Pnc,,
@@ -477,7 +477,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 476,66,3,nos,nos,nous,nous,PRON,8,5584,Prn,Prn$$,,C/V\
 477,66,4,vengera,vengera,,venger,VERB,9,5584,Vfin,Vfin,,C/V\.C/V\.'C/V\
 478,66,5,de,de,de,de,ADP,8,5584,Pre,Pre,,C/(e)\
-479,66,6,tous,tous,tout,tous,PRON,3,5584,QIs,QIs,,C/V\
+479,66,6,tous,tous,tout,tout,PRON,3,5584,QIs,QIs,,C/V\
 480,66,7,.,.,,.,PUNCT,9,5584,Pnc,Pnc,,
 481,67,1,teus,teus,tel,tel,ADJ,2,5585,Adj,Adj,,C/V\
 482,67,2,fu,fu,être,être,VERB,8,5585,Vfin,Vfin,,C/V\
@@ -541,7 +541,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 540,76,5,vienent,vienent,venir,venir,VERB,9,5594,Vfin,Vfin,,'C/V\.C/e\
 541,76,6,droit,droit,droit2,droit,ADV,8,5594,Adv,Adv,,C/V\
 542,77,1,et,et,et,et,CCONJ,8,5595,Crd,Crd,,/V\
-543,77,2,se,se,si4,si,SCONJ,3,5595,Adv,Adv,,C/(e)\
+543,77,2,se,se,si4,si,ADV,3,5595,Adv,Adv,,C/(e)\
 544,77,3,li,li,li,li,PRON,8,5595,Prn,Prn$$,,C/V\
 545,77,4,prendent,prendent,prendre,prendre,VERB,9,5595,Vfin,Vfin,,'C/V\.C/e\
 546,77,5,a,a,à,à,ADP,8,5595,Pre,Pre,,/V\
@@ -822,7 +822,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 821,116,4,loi,loi,,loi,NOUN,8,5634,N,N,,C/V\
 822,116,5,ne,ne,ne2,ne,CCONJ,8,5634,Crd,Crd,,C/(e)\
 823,116,6,k',k',que,que,SCONJ,9,5634,Sub,Sub,,C/\
-824,116,7,a,a,avoir,à,ADP,8,5634,Vfin,Vfin,,/V\
+824,116,7,a,a,avoir,avoir,VERB,8,5634,Vfin,Vfin,,/V\
 825,116,8,uns,uns,un,un,DET,3,5634,QIs,QIs,,/V\
 826,116,9,pors,pors,,porc,NOUN,3,5634,N,N,,C/V\
 827,117,1,et,et,et,et,CCONJ,8,5635,Crd,Crd,,/V\
@@ -1013,7 +1013,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 1012,143,1,qui,qui,qui,qui,PRON,3,5661,Qux,Qux,,C/V\
 1013,143,2,ne,ne,ne,ne,ADV,8,5661,Neg,Neg$$,,C/(e)\
 1014,143,3,canciele,canciele,chanceler,chanceler,VERB,0,5661,Vfin,Vfin,,C/V\.'C/V\.C/(e)\
-1015,143,4,ne,ne,ne2,ne,ADV,8,5661,Crd,Crd,,C/(e)\
+1015,143,4,ne,ne,ne2,ne,CCONJ,8,5661,Crd,Crd,,C/(e)\
 1016,143,5,ne,ne,ne,ne,ADV,8,5661,Neg,Neg$$,,C/(e)\
 1017,143,6,ciet,ciet,choir,choir,VERB,3,5661,Vfin,Vfin,,C/V\
 1018,143,7,;,;,,;,PUNCT,9,5661,Pnc,Pnc,,
@@ -1128,7 +1128,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 1127,159,7,penés,penés,peiner,peiner,VERB,8,5677,Vpp,Vpp,,C/V\.'C/V\
 1128,159,8,",",",",,",",PUNCT,9,5677,Pnc,Pnc,,
 1129,160,1,que,que,que,que,PRON,9,5678,Qux,Qux,,C/(e)\
-1130,160,2,cordroés,cordroés,,Cordroué,PROPN,-10,5678,N,N,,C/V\.C/V\.'C/V\
+1130,160,2,cordroés,cordroés,,Cordroés,PROPN,-10,5678,N,N,,C/V\.C/V\.'C/V\
 1131,160,3,li,li,le,le,DET,8,5678,Det,Det,,C/V\
 1132,160,4,mal,mal,mal3,mal,ADV,8,5678,Adv,Adv,,C/V\
 1133,160,5,senés,senés,,sené,ADJ,3,5678,Adj,Adj,,C/V\.'C/V\
@@ -1296,7 +1296,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 1295,183,8,;,;,,;,PUNCT,9,5701,Pnc,Pnc,,
 1296,184,1,au,au,à.le,à.le,ADP.DET,8,5702,Pre+Det,Pre+Det,,/V\
 1297,184,2,mius,mius,mieux,mieux,ADV,9,5702,Adv,Adv,,C/V\
-1298,184,3,que,que,que,que,PRON,4,5702,Sub,Sub,,C/(e)\
+1298,184,3,que,que,que,que,SCONJ,4,5702,Sub,Sub,,C/(e)\
 1299,184,4,cascuns,cascuns,chacun,chacun,PRON,9,5702,QIs,QIs,,C/V\.'C/V\
 1300,184,5,puet,puet,pouvoir2,pouvoir,VERB,9,5702,Vfin,Vfin,,C/V\
 1301,184,6,",",",",,",",PUNCT,9,5702,Pnc,Pnc,,
@@ -1305,7 +1305,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 1304,184,9,",",",",,",",PUNCT,9,5702,Pnc,Pnc,,
 1305,185,1,au,au,à.le,à.le,ADP.DET,8,5703,Pre+Det,Pre+Det,,/V\
 1306,185,2,quel,quel,quel,quel,PRON,9,5703,Qux,Qux,,C/V\
-1307,185,3,que,que,que,que,PRON,4,5703,Sub,Sub,,C/(e)\
+1307,185,3,que,que,que,que,SCONJ,4,5703,Sub,Sub,,C/(e)\
 1308,185,4,soit,soit,être,être,VERB,3,5703,Vfin,Vfin,,C/V\
 1309,185,5,l',l',le,le,PRON,2,5703,Prn,Prn$$,,C/\
 1310,185,6,estuet,estuet,estovoir,estovoir,VERB,8,5703,Vfin,Vfin,,/V\.'C/V\
@@ -1388,7 +1388,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 1387,198,3,diu,diu,,Dieu,PROPN,8,5716,N,N,,C/V\
 1388,198,4,creïst,creïst,croire,croire,VERB,3,5716,Vfin,Vfin,,C/(V)\.'/V\
 1389,198,5,a,a,à,à,ADP,8,5716,Pre,Pre,,/V\
-1390,198,6,envis,envis,,envis,ADV,8,5716,N,N,,/V\.'C/V\
+1390,198,6,envis,envis,,envis,ADV,8,5716,Adv,Adv,,/V\.'C/V\
 1391,198,7,;,;,,;,PUNCT,9,5716,Pnc,Pnc,,
 1392,199,1,l',l',le,le,DET,9,5717,Det,Det,,C/\
 1393,199,2,empereor,empereor,,empereur,NOUN,9,5717,N,N,,/V\.C/V\.C/(V)\.'/V\
@@ -1412,7 +1412,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 1411,201,6,a,a,avoir,avoir,VERB,8,5719,Vfin,Vfin,,/V\
 1412,201,7,doné,doné,donner,donner,VERB,8,5719,Vpp,Vpp,,C/V\.'C/V\
 1413,202,1,que,que,que,que,SCONJ,9,5720,Sub,Sub,,C/(e)\
-1414,202,2,a,a,avoir,à,ADP,8,5720,Vfin,Vfin,,/V\
+1414,202,2,a,a,avoir,avoir,VERB,8,5720,Vfin,Vfin,,/V\
 1415,202,3,poi,poi,,peu,ADV,8,5720,N,N,,C/V\
 1416,202,4,l',l',le,le,PRON,2,5720,Prn,Prn$$,,C/\
 1417,202,5,a,a,avoir,avoir,VERB,8,5720,Vfin,Vfin,,/V\
@@ -1457,7 +1457,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 1456,207,6,et,et,et,et,CCONJ,8,5725,Crd,Crd,,/V\
 1457,207,7,sage,sage,sage,sage,ADJ,8,5725,Adj,Adj,,'C/V\.C/(e)\
 1458,207,8,",",",",,",",PUNCT,9,5725,Pnc,Pnc,,
-1459,208,1,se,se,si4,si,SCONJ,3,5726,Adv,Adv,,C/(e)\
+1459,208,1,se,se,si4,si,ADV,3,5726,Adv,Adv,,C/(e)\
 1460,208,2,li,li,li,li,PRON,8,5726,Prn,Prn$$,,C/V\
 1461,208,3,ramembre,ramembre,remembrer,ramembrer,VERB,3,5726,Vfin,Vfin,,C/V\.'C/V\.C/(e)\
 1462,208,4,del,del,de.le,de.le,ADP.DET,5,5726,Pre+Det,Pre+Det,,C/V\
@@ -1547,14 +1547,14 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 1546,221,2,l',l',le,le,DET,9,5739,Det,Det,,C/\
 1547,221,3,espee,espee,,épée,NOUN,3,5739,N,N,,/V\.'C/V\./(e)\
 1548,221,4,et,et,et,et,CCONJ,8,5739,Crd,Crd,,/V\
-1549,221,5,se,se,si4,si,PRON,0,5739,Adv,Adv,,C/(e)\
+1549,221,5,se,se,si4,si,ADV,0,5739,Adv,Adv,,C/(e)\
 1550,221,6,li,li,li,li,PRON,8,5739,Prn,Prn$$,,C/V\
 1551,221,7,vient,vient,venir,venir,VERB,9,5739,Vfin,Vfin,,C/V\
 1552,221,8,",",",",,",",PUNCT,9,5739,Pnc,Pnc,,
 1553,222,1,de,de,de,de,ADP,8,5740,Pre,Pre,,C/(e)\
 1554,222,2,le,le,le,le,DET,8,5740,Det,Det,,C/(e)\
 1555,222,3,crois,crois,,croix,NOUN,3,5740,N,N,,C/V\
-1556,222,4,diu,diu,,dire,ADJ,0,5740,N,N,,C/V\
+1556,222,4,diu,diu,,Dieu,PROPN,0,5740,N,N,,C/V\
 1557,222,5,li,li,li,li,PRON,8,5740,Prn,Prn$$,,C/V\
 1558,222,6,ressovient,ressovient,resouvenir,ressouvenir,VERB,0,5740,Vfin,Vfin,,C/V\.C/V\.'C/V\
 1559,222,7,",",",",,",",PUNCT,9,5740,Pnc,Pnc,,
@@ -1594,11 +1594,11 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 1593,228,4,a,a,avoir,avoir,VERB,8,5746,Vfin,Vfin,,/V\
 1594,228,5,fait,fait,faire,faire,VERB,8,5746,Vpp,Vpp,,C/V\
 1595,228,6,molt,molt,moult,moult,ADV,9,5746,QIs,QIs,,C/V\
-1596,228,7,irascu,irascu,,iraistre,VERB,8,5746,Adj,Adj,,/V\.C/V\.'C/V\
+1596,228,7,irascu,irascu,,iraistre,VERB,8,5746,Vpp,Vpp,,/V\.C/V\.'C/V\
 1597,228,8,",",",",,",",PUNCT,9,5746,Pnc,Pnc,,
 1598,229,1,et,et,et,et,CCONJ,8,5747,Crd,Crd,,/V\
 1599,229,2,puis,puis,puis,puis,ADV,8,5747,PrA,PrA,,C/V\
-1600,229,3,se,se,si4,si,SCONJ,3,5747,Adv,Adv,,C/(e)\
+1600,229,3,se,se,si4,si,ADV,3,5747,Adv,Adv,,C/(e)\
 1601,229,4,li,li,li,li,PRON,8,5747,Prn,Prn$$,,C/V\
 1602,229,5,a,a,avoir,avoir,VERB,8,5747,Vfin,Vfin,,/V\
 1603,229,6,dit,dit,dire,dire,VERB,8,5747,Vpp,Vpp,,C/V\
@@ -1765,7 +1765,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 1764,252,6,",",",",,",",PUNCT,9,5770,Pnc,Pnc,,
 1765,253,1,en,en,en,en,ADP,8,5771,Pre,Pre,,/V\
 1766,253,2,diu,diu,,Dieu,PROPN,8,5771,N,N,,C/V\
-1767,253,3,a,a,avoir,à,ADP,8,5771,Vfin,Vfin,,/V\
+1767,253,3,a,a,avoir,avoir,VERB,8,5771,Vfin,Vfin,,/V\
 1768,253,4,toute,toute,tout,tout,DET,7,5771,QIs,QIs,,'C/V\.C/(e)\
 1769,253,5,se,se,son4,son,DET,5,5771,Det,Det,,C/(e)\
 1770,253,6,pensee,pensee,,pensée,NOUN,8,5771,N,N,,C/V\.'C/V\./(e)\
@@ -1915,7 +1915,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 1914,274,5,trebucier,trebucier,,trébucher,VERB,9,5792,Vinf,Vinf,,C/V\.C/V\.'C/V\
 1915,274,6,aval,aval,aval,aval,ADV,8,5792,PrA,PrA,,/V\.'C/V\
 1916,274,7,;,;,,;,PUNCT,9,5792,Pnc,Pnc,,
-1917,275,1,petit,petit,petit,petit,ADV,9,5793,Adj,Adj,,C/V\.'C/V\
+1917,275,1,petit,petit,petit,petit,ADJ,9,5793,Adj,Adj,,C/V\.'C/V\
 1918,275,2,en,en,en2,en,PRON,8,5793,Prn,Prn$$,,/V\
 1919,275,3,faut,faut,faillir,faillir,VERB,3,5793,Vfin,Vfin,,C/V\
 1920,275,4,qu',qu',que,que,SCONJ,9,5793,Sub,Sub,,C/\
@@ -1996,7 +1996,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 1995,285,5,dut,dut,devoir2,devoir,VERB,9,5803,Vfin,Vfin,,C/V\
 1996,285,6,ferir,ferir,férir,férir,VERB,9,5803,Vinf,Vinf,,C/V\.'C/V\
 1997,286,1,et,et,et,et,CCONJ,8,5804,Crd,Crd,,/V\
-1998,286,2,se,se,si4,si,PRON,0,5804,Adv,Adv,,C/(e)\
+1998,286,2,se,se,si4,si,ADV,0,5804,Adv,Adv,,C/(e)\
 1999,286,3,lui,lui,lui,lui,PRON,8,5804,Prn,Prn$$,,C/V\
 2000,286,4,cuide,cuide,cuider,cuider,VERB,8,5804,Vfin,Vfin,,'C/V\.C/(e)\
 2001,286,5,bien,bien,bien,bien,ADV,9,5804,Adv,Adv,,C/V\
@@ -2089,7 +2089,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 2088,298,3,les,les,le,le,DET,8,5816,Det,Det,,C/V\
 2089,298,4,piés,piés,,pied,NOUN,9,5816,N,N,,C/V\
 2090,298,5,l',l',le,le,PRON,2,5816,Prn,Prn$$,,C/\
-2091,298,6,a,a,à,avoir,VERB,8,5816,Pre,Pre,,/V\
+2091,298,6,a,a,à,avoir,VERB,8,5816,Vfin,Vfin,,/V\
 2092,298,7,pris,pris,prendre,prendre,VERB,3,5816,Vpp,Vpp,,C/V\
 2093,299,1,sel,sel,si4.le,si.le,ADV.PRON,-10,5817,Adv+Prn,Adv+Prn$$,,C/V\
 2094,299,2,giete,giete,jeter,jeter,VERB,9,5817,Vfin,Vfin,,'C/V\.C/(e)\
@@ -2108,7 +2108,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 2107,301,1,joie,joie,,joie,NOUN,8,5819,N,N,,'C/V\./(e)\
 2108,301,2,a,a,avoir,avoir,VERB,8,5819,Vfin,Vfin,,/V\
 2109,301,3,",",",",,",",PUNCT,9,5819,Pnc,Pnc,,
-2110,301,4,c',c',que,que,SCONJ,8,5819,Qux,Qux,,C/\
+2110,301,4,c',c',que,que,PRON,8,5819,Qux,Qux,,C/\
 2111,301,5,ainc,ainc,onques,ains,ADV,6,5819,Adv,Adv,,/V\
 2112,301,6,mais,mais,mais,mais,ADV,8,5819,Adv,Adv,,C/V\
 2113,301,7,nen,nen,ne,ne,ADV,8,5819,Neg,Neg$$,,C/V\
@@ -2125,7 +2125,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 2124,303,1,de,de,de,de,ADP,8,5821,Pre,Pre,,C/(e)\
 2125,303,2,l',l',le,le,DET,9,5821,Det,Det,,C/\
 2126,303,3,onor,onor,,honneur,NOUN,8,5821,N,N,,/V\.'C/V\
-2127,303,4,qu',qu',que,que,SCONJ,9,5821,Qux,Qux,,C/\
+2127,303,4,qu',qu',que,que,PRON,9,5821,Qux,Qux,,C/\
 2128,303,5,il,il,il,il,PRON,9,5821,Prn,Prn$,,/V\
 2129,303,6,li,li,li,li,PRON,8,5821,Prn,Prn$$,,C/V\
 2130,303,7,a,a,avoir,avoir,VERB,8,5821,Vfin,Vfin,,/V\
@@ -2148,7 +2148,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 2147,306,5,en,en,en2,en,PRON,8,5824,Prn,Prn$$,,/V\
 2148,306,6,vuida,vuida,,vider,VERB,9,5824,Vfin,Vfin,,C/V\.'C/V\
 2149,307,1,por,por,pour,pour,ADP,8,5825,Pre,Pre,,C/V\
-2150,307,2,le,le,le,le,PRON,7,5825,Det,Det,,C/(e)\
+2150,307,2,le,le,le,le,DET,7,5825,Det,Det,,C/(e)\
 2151,307,3,destruire,destruire,détruire,détruire,VERB,9,5825,Vinf,Vinf,,C/V\.'C/V\.C/(e)\
 2152,307,4,et,et,et,et,CCONJ,8,5825,Crd,Crd,,/V\
 2153,307,5,mal,mal,mal3,mal,ADV,8,5825,Adv,Adv,,C/V\
@@ -2337,7 +2337,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 2336,333,5,cil,cil,cil,cil,PRON,8,5851,Dem,Dem,,C/V\
 2337,333,6,estoit,estoit,être,être,VERB,3,5851,Vfin,Vfin,,/V\.'C/V\
 2338,334,1,qui,qui,qui,qui,PRON,3,5852,Qux,Qux,,C/V\
-2339,334,2,tous,tous,tout,tous,PRON,3,5852,QIs,QIs,,C/V\
+2339,334,2,tous,tous,tout,tout,PRON,3,5852,QIs,QIs,,C/V\
 2340,334,3,de,de,de,de,ADP,8,5852,Pre,Pre,,C/(e)\
 2341,334,4,fin,fin,fin2,fin,ADJ,3,5852,Adj,Adj,,C/V\
 2342,334,5,or,or,,or,NOUN,8,5852,N,N,,/V\
@@ -2356,7 +2356,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 2355,335,10,",",",",,",",PUNCT,9,5853,Pnc,Pnc,,
 2356,336,1,le,le,le,le,DET,8,5854,Det,Det,,C/(e)\
 2357,336,2,millor,millor,meilleur,meilleur,ADJ,8,5854,Adj,Adj,,C/V\.'C/V\
-2358,336,3,qu',qu',que,que,PRON,4,5854,Sub,Sub,,C/\
+2358,336,3,qu',qu',que,que,SCONJ,4,5854,Sub,Sub,,C/\
 2359,336,4,il,il,il,il,PRON,9,5854,Prn,Prn$,,/V\
 2360,336,5,pot,pot,pouvoir2,pouvoir,VERB,3,5854,Vfin,Vfin,,C/V\
 2361,336,6,recovrer,recovrer,recouvrer,recouvrer,VERB,9,5854,Vinf,Vinf,,C/V\.C/V\.'C/V\
@@ -2382,7 +2382,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 2381,339,2,diu,diu,,Dieu,PROPN,8,5857,N,N,,C/V\
 2382,339,3,a,a,avoir,avoir,VERB,5,5857,Vfin,Vfin,,/V\
 2383,339,4,longes,longes,longues,longues,ADV,3,5857,Adv,Adv,,'C/V\.C/e\
-2384,339,5,estrivé,estrivé,,estriver,NOUN,4,5857,Vpp,Vpp,,/V\.C/V\.'C/V\
+2384,339,5,estrivé,estrivé,,estriver,VERB,4,5857,Vpp,Vpp,,/V\.C/V\.'C/V\
 2385,339,6,.,.,,.,PUNCT,9,5857,Pnc,Pnc,,
 2386,340,1,il,il,il,il,PRON,9,5858,Prn,Prn$,,/V\
 2387,340,2,n',n',ne,ne,ADV,8,5858,Neg,Neg$$,,C/\
@@ -2543,7 +2543,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 2542,362,8,argent,argent,,argent,NOUN,8,5880,N,N,,/V\.'C/V\
 2543,363,1,au,au,à.le,à.le,ADP.DET,8,5881,Pre+Det,Pre+Det,,/V\
 2544,363,2,roi,roi,,roi,NOUN,9,5881,N,N,,C/V\
-2545,363,3,englés,englés,,anglais,VERB,4,5881,Adj,Adj,,/V\.'C/V\
+2545,363,3,englés,englés,,anglais,ADJ,4,5881,Adj,Adj,,/V\.'C/V\
 2546,363,4,",",",",,",",PUNCT,9,5881,Pnc,Pnc,,
 2547,363,5,qui,qui,qui,qui,PRON,3,5881,Qux,Qux,,C/V\
 2548,363,6,molt,molt,moult,moult,ADV,9,5881,QIs,QIs,,C/V\
@@ -2574,7 +2574,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 2573,366,8,fin,fin,,fin,NOUN,3,5884,N,N,,C/V\
 2574,366,9,.,.,,.,PUNCT,9,5884,Pnc,Pnc,,
 2575,367,1,sor,sor,sur,sur,ADP,8,5885,PrA,PrA,,C/V\
-2576,367,2,uns,uns,un,un,DET,3,5885,QIs,QIs,,/V\
+2576,367,2,uns,uns,un,uns,DET,3,5885,QIs,QIs,,/V\
 2577,367,3,degrés,degrés,,degré,NOUN,9,5885,N,N,,C/V\.'C/V\
 2578,367,4,d',d',de,de,ADP,9,5885,Pre,Pre,,C/\
 2579,367,5,or,or,,or,NOUN,8,5885,N,N,,/V\
@@ -2746,7 +2746,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 2745,392,4,nos,nos,nous,nous,PRON,8,5910,Prn,Prn$,,C/V\
 2746,392,5,raembre,raembre,raiembre,raiembre,VERB,6,5910,Vinf,Vinf,,C/(V)\.'/V\.C/(e)\
 2747,392,6,",",",",,",",PUNCT,9,5910,Pnc,Pnc,,
-2748,393,1,tous,tous,tout,tous,DET,8,5911,QIs,QIs,,C/V\
+2748,393,1,tous,tous,tout,tout,DET,8,5911,QIs,QIs,,C/V\
 2749,393,2,jors,jors,,jour,NOUN,9,5911,N,N,,C/V\
 2750,393,3,seras,seras,être,être,VERB,3,5911,Vfin,Vfin,,C/V\.'C/V\
 2751,393,4,en,en,en,en,ADP,8,5911,Pre,Pre,,/V\
@@ -2854,11 +2854,11 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 2853,407,8,",",",",,",",PUNCT,9,5925,Pnc,Pnc,,
 2854,408,1,tu,tu,tu,tu,PRON,8,5926,Prn,Prn$,,C/V\
 2855,408,2,fais,fais,faire,faire,VERB,8,5926,Vfin,Vfin,,C/V\
-2856,408,3,adiés,adiés,adès,adès,VERB,4,5926,Adv,Adv,,/V\.'C/V\
+2856,408,3,adiés,adiés,adès,adès,ADV,4,5926,Adv,Adv,,/V\.'C/V\
 2857,408,4,les,les,le,le,DET,8,5926,Det,Det,,C/V\
 2858,408,5,tiens,tiens,ton2,tien,PRON,8,5926,Adj,Adj,,C/V\
 2859,408,6,plus,plus,plus,plus,ADV,8,5926,Adv,Adv,,C/V\
-2860,408,7,fors,fors,fort,fort,ADV,3,5926,Adj,Adj,,C/V\
+2860,408,7,fors,fors,fort,fort,ADJ,3,5926,Adj,Adj,,C/V\
 2861,408,8,.,.,,.,PUNCT,9,5926,Pnc,Pnc,,
 2862,409,1,crois,crois,,croix,NOUN,3,5927,N,N,,C/V\
 2863,409,2,",",",",,",",PUNCT,9,5927,Pnc,Pnc,,
@@ -2908,7 +2908,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 2907,415,7,je,je,je,je,PRON,9,5933,Prn,Prn$,,C/(e)\
 2908,415,8,vif,vif,vivre,vivre,VERB,8,5933,Vfin,Vfin,,C/V\
 2909,415,9,",",",",,",",PUNCT,9,5933,Pnc,Pnc,,
-2910,416,1,malgré,malgré,,malgré,VERB,4,5934,N,N,,C/V\.'C/V\
+2910,416,1,malgré,malgré,,malgré,NOUN,4,5934,N,N,,C/V\.'C/V\
 2911,416,2,en,en,en2,en,PRON,8,5934,Prn,Prn$$,,/V\
 2912,416,3,aient,aient,avoir,avoir,VERB,9,5934,Vfin,Vfin,,'/V\./e\
 2913,416,4,cist,cist,cist,cist,DET,8,5934,Dem,Dem,,C/V\
@@ -3211,8 +3211,8 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 3210,458,5,assaiier,assaiier,,essayer,VERB,3,5976,Vinf,Vinf,,/V\.C/V\.'C/V\
 3211,459,1,el,el,en.le,en.le,ADP.DET,-10,5977,Pre+Det,Pre+Det,,/V\
 3212,459,2,grignor,grignor,graindre,graindre,ADJ,0,5977,Adj,Adj,,C/V\.'C/V\
-3213,459,3,pooir,pooir,pouvoir,pouvoir,VERB,8,5977,N,N,,C/V\.'C/V\
-3214,459,4,que,que,que,que,PRON,9,5977,Sub,Sub,,C/(e)\
+3213,459,3,pooir,pooir,pouvoir,pouvoir,NOUN,8,5977,N,N,,C/V\.'C/V\
+3214,459,4,que,que,que,que,SCONJ,9,5977,Sub,Sub,,C/(e)\
 3215,459,5,j',j',je,je,PRON,9,5977,Prn,Prn$,,C/\
 3216,459,6,oi,oi,avoir,avoir,VERB,3,5977,Vfin,Vfin,,/V\
 3217,459,7,onques,onques,onques,onques,ADV,9,5977,Adv,Adv,,'/V\.C/e\
@@ -3231,8 +3231,8 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 3230,461,6,ambesas,ambesas,,ambesas,NOUN,-10,5979,N,N,,/V\.C/e\.'C/V\
 3231,462,1,el,el,en.le,en.le,ADP.DET,-10,5980,Pre+Det,Pre+Det,,/V\
 3232,462,2,grignor,grignor,graindre,graindre,ADJ,0,5980,Adj,Adj,,C/V\.'C/V\
-3233,462,3,pooir,pooir,pouvoir,pouvoir,VERB,8,5980,N,N,,C/V\.'C/V\
-3234,462,4,que,que,que,que,PRON,9,5980,Sub,Sub,,C/(e)\
+3233,462,3,pooir,pooir,pouvoir,pouvoir,NOUN,8,5980,N,N,,C/V\.'C/V\
+3234,462,4,que,que,que,que,SCONJ,9,5980,Sub,Sub,,C/(e)\
 3235,462,5,tu,tu,tu,tu,PRON,8,5980,Prn,Prn$,,C/V\
 3236,462,6,as,as,avoir,avoir,VERB,8,5980,Vfin,Vfin,,/V\
 3237,462,7,.,.,,.,PUNCT,9,5980,Pnc,Pnc,,
@@ -3281,7 +3281,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 3280,469,1,guerpir,guerpir,guerpir,guerpir,VERB,9,5987,Vinf,Vinf,,C/V\.'C/V\
 3281,469,2,t',t',te,te,PRON,3,5987,Prn,Prn$$,,C/\
 3282,469,3,estuet,estuet,estovoir,estovoir,VERB,8,5987,Vfin,Vfin,,/V\.'C/V\
-3283,469,4,te,te,ton2,ton,PRON,9,5987,Det,Det,,C/(e)\
+3283,469,4,te,te,ton2,ton,DET,9,5987,Det,Det,,C/(e)\
 3284,469,5,grant,grant,grand,grand,ADJ,9,5987,Adj,Adj,,C/V\
 3285,469,6,folie,folie,,folie,NOUN,8,5987,N,N,,C/V\.'C/V\./(e)\
 3286,469,7,",",",",,",",PUNCT,9,5987,Pnc,Pnc,,
@@ -3380,7 +3380,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 3379,481,6,molt,molt,moult,moult,ADV,9,5999,QIs,QIs,,C/V\
 3380,481,7,en,en,en2,en,PRON,8,5999,Prn,Prn$$,,/V\
 3381,481,8,a,a,avoir,avoir,VERB,8,5999,Vfin,Vfin,,/V\
-3382,481,9,çaiens,çaiens,céans,céans,VERB,4,5999,Adv,Adv,,C/V\.'C/V\
+3382,481,9,çaiens,çaiens,céans,céans,ADV,4,5999,Adv,Adv,,C/V\.'C/V\
 3383,481,10,",",",",,",",PUNCT,9,5999,Pnc,Pnc,,
 3384,482,1,ne,ne,ne2,ne,CCONJ,8,6000,Crd,Crd,,C/(e)\
 3385,482,2,mais,mais,mais,mais,ADV,8,6000,Adv,Adv,,C/V\
@@ -3397,7 +3397,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,lemma_gold,pos_gold,lemma_score,textlinei
 3396,483,5,en,en,en2,en,PRON,8,6001,Prn,Prn$$,,/V\
 3397,483,6,a,a,avoir,avoir,VERB,8,6001,Vfin,Vfin,,/V\
 3398,483,7,riens,riens,rien,rien,PRON,8,6001,N,N,,C/V\
-3399,483,8,chi,chi,ci,ci,PRON,5,6001,Adv,Adv,,C/V\
+3399,483,8,chi,chi,ci,ci,ADV,5,6001,Adv,Adv,,C/V\
 3400,484,1,dont,dont,dont,dont,PRON,8,6002,Qux,Qux,,C/V\
 3401,484,2,damedius,damedius,,Damedieu,PROPN,-10,6002,N,N,,C/V\.C/e\.'C/V\
 3402,484,3,ait,ait,avoir,avoir,VERB,3,6002,Vfin,Vfin,,/V\
