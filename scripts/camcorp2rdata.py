@@ -13,7 +13,7 @@
 
 import csv, pickle, os.path, sys
 
-corpdir = '/home/tmr/git/camcorp/camcorp-v'
+#corpdir = '/home/tmr/git/camcorp/camcorp-v'
 #textnames = [
 #        'anjou', 'clermont', 'leger', 'gormont', 'marie', 'thebes', 'charrette',
 #        'coinci', 'passjong', 'rosemeun', 'protheselaus', 'chevalerie',
@@ -23,28 +23,28 @@ corpdir = '/home/tmr/git/camcorp/camcorp-v'
 #        'meliador', 'testament', 'viemathurin', 'voirdit', 'griseldis', 'passgreb', 
 #        'theophile', 'notredame', 'holofernes', 'troisgalans', 'pathelin', 
 #        'chivalier', 'edmund', 'gui', 'richard', 'brendan', 'adam',
-#        'blondel', 'chartier', 'christine', 'delahalle', 'froissart',
+#        'blondel', 'chartier', 'christine', 'conon', 'delahalle', 'froissart',
 #        'gace', 'machaut', 'molinet', 'orleans', 'rutebeuf', 'thibaut',
 #        'villon'
 #]
 
 # Decasyllables and alexandrines
-textnames = [
-    'alexis', 'roland', 'charroi', 'rou', 'antioche', 'raouli',
-    'alexandre', 'ami', 'alexiso', 'berte', 'huon', 'behaigne', 'alexisa',
-    'hugues', 'orloge', '3jugemens'
-]
+#textnames = [
+#    'alexis', 'roland', 'charroi', 'rou', 'antioche', 'raouli',
+#    'alexandre', 'ami', 'alexiso', 'berte', 'huon', 'behaigne', 'alexisa',
+#    'hugues', 'orloge', '3jugemens'
+#]
 
 # Lyon couronné??
 
-#corpdir = '/home/tmr/git/camcorp/camcorp-pv'
-#textnames = [
-#    'avision-pv', 'berinus-pv', 'chrfroiss-pv', 'conqueste-pv', 'memcomm-pv',
-#    'mirlouis-pv', 'quadrilogue-pv', 'quatrelivres-pv', 'saintre-pv',
-#    'tristan-pv', 'vielouis-pv'
-#]
+corpdir = '/home/tmr/git/camcorp/camcorp-pv'
+textnames = [
+    'avision-pv', 'berinus-pv', 'chrfroiss-pv', 'conqueste-pv', 'memcomm-pv',
+    'mirlouis-pv', 'quadrilogue-pv', 'quatrelivres-pv', 'saintre-pv',
+    'tristan-pv', 'vielouis-pv'
+]
 
-metadata = '/home/tmr/git/camcorp/camcorp-v/doc/metadata_r.csv'
+metadata = '/home/tmr/git/camcorp/camcorp-pv/doc/metadata_r.csv'
 outfile = '/home/tmr/out.csv'
 line_lengths = [8]
 
@@ -168,6 +168,7 @@ def main():
         text = load_text(textname)
         for record in get_datapoints(textname, text, md):
             writer.writerow(record)
+    print('Wrote {} texts'.format(str(len(textnames))))
             
 if __name__ == '__main__':
     main()
