@@ -13,20 +13,20 @@
 
 import csv, pickle, os.path, sys
 
-#corpdir = '/home/tmr/git/camcorp/camcorp-v'
-#textnames = [
-#        'anjou', 'clermont', 'leger', 'gormont', 'marie', 'thebes', 'charrette',
-#        'coinci', 'passjong', 'rosemeun', 'protheselaus', 'chevalerie',
-#        'dolopathos', 'florimont', 'imagemonde', 'isopet', 'sacristain3',
-#        'abeville', 'barat', 'barisel', 'eracle', 'poitiers', 'rennov', 
-#        'feuillee', 'nicolas', 'palatinus', 'belledame', 'fortune', 'liberfort',
-#        'meliador', 'testament', 'viemathurin', 'voirdit', 'griseldis', 'passgreb', 
-#        'theophile', 'notredame', 'holofernes', 'troisgalans', 'pathelin', 
-#        'chivalier', 'edmund', 'gui', 'richard', 'brendan', 'adam',
-#        'blondel', 'chartier', 'christine', 'conon', 'delahalle', 'froissart',
-#        'gace', 'machaut', 'molinet', 'orleans', 'rutebeuf', 'thibaut',
-#        'villon'
-#]
+corpdir = '/home/tmr/git/camcorp/camcorp-v'
+textnames = [
+        'anjou', 'clermont', 'leger', 'gormont', 'marie', 'thebes', 'charrette',
+        'coinci', 'passjong', 'rosemeun', 'protheselaus', 'chevalerie',
+        'dolopathos', 'florimont', 'imagemonde', 'isopet', 'sacristain3',
+        'abeville', 'barat', 'barisel', 'eracle', 'poitiers', 'rennov', 
+        'feuillee', 'nicolas', 'palatinus', 'belledame', 'fortune', 'liberfort',
+        'meliador', 'testament', 'viemathurin', 'voirdit', 'griseldis', 'passgreb', 
+        'theophile', 'notredame', 'holofernes', 'troisgalans', 'pathelin', 
+        'chivalier', 'edmund', 'gui', 'richard', 'brendan', 'adam',
+        'blondel', 'chartier', 'christine', 'conon', 'delahalle', 'froissart',
+        'gace', 'machaut', 'molinet', 'orleans', 'rutebeuf', 'thibaut',
+        'villon'
+]
 
 # Decasyllables and alexandrines
 #textnames = [
@@ -37,14 +37,14 @@ import csv, pickle, os.path, sys
 
 # Lyon couronné??
 
-corpdir = '/home/tmr/git/camcorp/camcorp-pv'
-textnames = [
-    'avision-pv', 'berinus-pv', 'chrfroiss-pv', 'conqueste-pv', 'memcomm-pv',
-    'mirlouis-pv', 'quadrilogue-pv', 'quatrelivres-pv', 'saintre-pv',
-    'tristan-pv', 'vielouis-pv'
-]
+#corpdir = '/home/tmr/git/camcorp/camcorp-pv'
+#textnames = [
+#    'avision-pv', 'berinus-pv', 'chrfroiss-pv', 'conqueste-pv', 'memcomm-pv',
+#    'mirlouis-pv', 'quadrilogue-pv', 'quatrelivres-pv', 'saintre-pv',
+#    'tristan-pv', 'vielouis-pv'
+#]
 
-metadata = '/home/tmr/git/camcorp/camcorp-pv/doc/metadata_r.csv'
+metadata = '/home/tmr/git/camcorp/camcorp-v/doc/metadata_r.csv'
 outfile = '/home/tmr/out.csv'
 line_lengths = [8]
 
@@ -81,6 +81,15 @@ def get_datapoints(textname, text, md):
         d['METPOS'] = syllable.d.get('syll_in_line')
         d['ISRHYME'] = 'true' if syllable.is_rhyme_syll() else 'false'
         d['ISCES'] = 'true' if syllable.is_at_cesura() else 'false'
+        # Calculate ISWORDFINAL
+        if syllable.d.get('is_final') or syllable.d.get('is_monosyllable') or \
+            syllable.is_rhyme_syll() or ( \
+            syllable.d.get('syll_in_word') == len(syllable.words[-1].syllables) - 1 and
+            not syllable.parent.syllables[syllable.ix + 1].d.get('is_counted', False)
+        ):
+            d['ISWORDFINAL'] = 'true' 
+        else:
+            d['ISWORDFINAL'] = 'false'
         d['TEXT'] = textname
         d['TEXT.BOOK'] = md[textname]['TEXT.BOOK']
         d['DOC'] = md[textname]['DOC']
@@ -156,7 +165,7 @@ def main():
     writer = csv.DictWriter(f, fieldnames=[
         'ID', 'ID.LINE', # unique IDs
         'LEXSTR', # dependent variable
-        'METPOS', 'STRINLINE', 'PAROXYTONE', # level 1 predictors
+        'METPOS', 'STRINLINE', 'PAROXYTONE', 'ISWORDFINAL', # level 1 predictors
         'SCORE', 'ISCES', 'ISRHYME', # Needed for the old-style analysis
         'TEXT', 'TEXT.BOOK', # random effect (level 2); printable name
         'DOC', 'DIALECT', 'TEXTTYPE', 'VERSEFORM', # level 2 predictors
