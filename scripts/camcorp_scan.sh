@@ -12,7 +12,7 @@ sp="${corpdir}/cfg/sp_12s.cfg"
 texts=( rou antioche alexandre alexiso berte alexisa hugues )
 
 for text in ${texts[@]}; do
-	$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
+	$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula scansyll
 done
 
 # Epic decasyllables
