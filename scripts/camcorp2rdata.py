@@ -14,26 +14,26 @@
 import csv, pickle, os.path, sys
 
 corpdir = '/home/tmr/git/camcorp/camcorp-v'
-#textnames = [
-#        'anjou', 'clermont', 'leger', 'gormont', 'marie', 'thebes', 'charrette',
-#        'coinci', 'passjong', 'rosemeun', 'protheselaus', 'chevalerie',
-#        'dolopathos', 'florimont', 'imagemonde', 'isopet', 'sacristain3',
-#        'abeville', 'barat', 'barisel', 'eracle', 'poitiers', 'rennov', 
-#        'feuillee', 'nicolas', 'palatinus', 'belledame', 'fortune', 'liberfort',
-#        'meliador', 'testament', 'viemathurin', 'voirdit', 'griseldis', 'passgreb', 
-#        'theophile', 'notredame', 'holofernes', 'troisgalans', 'pathelin', 
-#        'chivalier', 'edmund', 'gui', 'richard', 'brendan', 'adam',
-#        'blondel', 'chartier', 'christine', 'conon', 'delahalle', 'froissart',
-#        'gace', 'machaut', 'molinet', 'orleans', 'rutebeuf', 'thibaut',
-#        'villon'
-#]
+textnames = [
+        'anjou', 'clermont', 'leger', 'gormont', 'marie', 'thebes', 'charrette',
+        'coinci', 'passjong', 'rosemeun', 'protheselaus', 'chevalerie',
+        'dolopathos', 'florimont', 'imagemonde', 'isopet', 'sacristain3',
+        'abeville', 'barat', 'barisel', 'eracle', 'poitiers', 'rennov', 
+        'feuillee', 'nicolas', 'palatinus', 'belledame', 'fortune', 'liberfort',
+        'meliador', 'testament', 'viemathurin', 'voirdit', 'griseldis', 'passgreb', 
+        'theophile', 'notredame', 'holofernes', 'troisgalans', 'pathelin', 
+        'chivalier', 'edmund', 'gui', 'richard', 'brendan', 'adam',
+        'blondel', 'chartier', 'christine', 'conon', 'delahalle', 'froissart',
+        'gace', 'machaut', 'molinet', 'orleans', 'rutebeuf', 'thibaut',
+        'villon'
+]
 
 # Decasyllables and alexandrines
-textnames = [
-    'alexis', 'roland', 'charroi', 'rou', 'antioche', 'raouli',
-    'alexandre', 'ami', 'alexiso', 'berte', 'huon', 'behaigne', 'alexisa',
-    'hugues', 'orloge', '3jugemens'
-]
+#textnames = [
+#   'alexis', 'roland', 'charroi', 'rou', 'antioche', 'raouli',
+#    'alexandre', 'ami', 'alexiso', 'berte', 'huon', 'behaigne', 'alexisa',
+#    'hugues', 'orloge', '3jugemens'
+#]
 
 # Lyon couronné??
 
@@ -46,7 +46,7 @@ textnames = [
 
 metadata = '/home/tmr/git/camcorp/camcorp-v/doc/metadata_r.csv'
 outfile = '/home/tmr/out.csv'
-line_lengths = [10,12]
+line_lengths = [8]
 
 def get_datapoints(textname, text, md):
     l = []
@@ -82,14 +82,14 @@ def get_datapoints(textname, text, md):
         d['ISRHYME'] = 'true' if syllable.is_rhyme_syll() else 'false'
         d['ISCES'] = 'true' if syllable.is_at_cesura() else 'false'
         # Calculate ISWORDFINAL
-        if syllable.d.get('is_final') or syllable.d.get('is_monosyllable') or \
-            syllable.is_rhyme_syll() or ( \
-            syllable.d.get('syll_in_word') == len(syllable.words[-1].syllables) - 1 and
-            not syllable.parent.syllables[syllable.ix + 1].d.get('is_counted', False)
-        ):
-            d['ISWORDFINAL'] = 'true' 
-        else:
-            d['ISWORDFINAL'] = 'false'
+        next_sylls = list(filter(
+                lambda x: int(x.d.get('syll_in_line')) == int(d['METPOS']) + 1,
+                syllable.line.d['counted_sylls']
+            ))
+        try:
+            d['ISWORDFINAL'] = 'true' if not syllable.words[-1] in next_sylls[0].words else 'false'
+        except IndexError: # end of line
+            d['ISWORDFINAL'] = 'true'
         d['TEXT'] = textname
         d['TEXT.BOOK'] = md[textname]['TEXT.BOOK']
         d['DOC'] = md[textname]['DOC']
@@ -108,7 +108,7 @@ def get_datapoints(textname, text, md):
         # Calculate paroxytone
         d['PAROXYTONE'] = 'false'
         for word in syllable.words:
-            if word.get_prosody()[1:] == 'po' and word.syllables[-1].is_counted():
+            if word.get_prosody()[1:] == 'po':
                 d['PAROXYTONE'] = 'true'
         # Calculate "score" according to the original stress clash
         # principles: 1 if no stress class, 0.5 if one of the
