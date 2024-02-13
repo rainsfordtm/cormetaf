@@ -179,8 +179,13 @@ def get_datapoints_an(textname, text, md):
     l = []
     for line in text.lines: # Iterate by **lines**
         units = split_line(line)
+        id_line = '{}.{:04d}'.format(
+            textname, int(line.d.get('line_id'))
+        )
+        ll = []
         for i, unit in enumerate(units): # Iterate units
-            if not unit: continue # skip empty units (should be rare)
+            if not unit:
+                break
             try:
                 d = _get_datapoint(unit[0], textname) # Get initial set of data from first syllable.
             except AttributeError:
@@ -196,7 +201,9 @@ def get_datapoints_an(textname, text, md):
             # Add metadata
             d.update(_get_datapoint_md(md, textname))
             # Append d to the list
-            l.append(d)
+            ll.append(d)
+        else: # for...else
+            l.extend(ll) # add the units unless the loop was broken
     return l
             
 def split_line(line, iterations=2):
@@ -266,9 +273,9 @@ def main(export='8s'):
         '..'
     ))
     # 1. Set up variables
-    metadata = METADATA_PV if export == '8pv' else METADATA
-    corpdir = CORPDIR_PV if export == '8pv' else CORPDIR 
-    fieldnames = FIELDNAMES_AN if export == 'an' else FIELDNAMES
+    metadata = METADATA_PV if export in ['8pv', 'anpv'] else METADATA
+    corpdir = CORPDIR_PV if export in ['8pv', 'anpv'] else CORPDIR 
+    fieldnames = FIELDNAMES_AN if export in ['an', 'anpv'] else FIELDNAMES
     if export == '6s':
         textnames = TEXTS_6S
         outfile = 'deca-alex.csv'
@@ -278,6 +285,9 @@ def main(export='8s'):
     elif export == 'an':
         textnames = TEXTS_8S
         outfile = 'octosyllables-an.csv'
+    elif export == 'anpv':
+        textnames = TEXTS_8PV
+        outfile = 'octosyllables-pv-an.csv'
     else:
         textnames = TEXTS_8S
         outfile = 'octosyllables.csv'
@@ -289,7 +299,7 @@ def main(export='8s'):
     writer.writeheader()
     for textname in textnames:
         text = load_text(corpdir, textname)
-        l = get_datapoints_an(textname, text, md) if export == 'an' else get_datapoints(textname, text, md, export)
+        l = get_datapoints_an(textname, text, md) if export in ['an', 'anpv'] else get_datapoints(textname, text, md, export)
         for record in l:
             writer.writerow(record)
             
@@ -301,13 +311,14 @@ if __name__ == '__main__':
     )
     parser.add_argument(
         'export', type=str, nargs='?',  default='8s',
-        choices=['6s', '8s', '8pv', 'an'],
+        choices=['6s', '8s', '8pv', 'an', 'anpv'],
         help=textwrap.dedent('''
             Which file to export?
             6s        Decasyllables and Alexandrines (deca-alex.csv)
             8s        Octosyllables (octosyllables.csv)
             8pv       Octosyllabic pseudo-vers (octosyllables-pv.csv)
-            an        Anglo-Norman stress-based texts (an-stress.csv)
+            an        Anglo-Norman stress-based texts (octosyllables-an.csv)
+            anpv        Anglo-Norman stress-based texts (octosyllables-pv-an.csv)
             '''
         )
     )
