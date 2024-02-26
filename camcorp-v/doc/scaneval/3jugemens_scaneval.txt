@@ -2,12 +2,12 @@ Rules applied: R1, R7, R8
 Lines correct: 463 of 477
 Pass history:
 Tried rules R1; 454 lines correct.
-Tried rules R11; 387 lines correct.
-Tried rules R7; 394 lines correct.
+Tried rules R11; 386 lines correct.
+Tried rules R7; 393 lines correct.
 Tried rules R2; 382 lines correct.
 Tried rules R8; 388 lines correct.
 Tried rules R30; 387 lines correct.
-Tried rules R1, R11; 454 lines correct.
+Tried rules R1, R11; 453 lines correct.
 Tried rules R1, R7; 462 lines correct.
 Tried rules R1, R2; 447 lines correct.
 Tried rules R1, R8; 455 lines correct.
