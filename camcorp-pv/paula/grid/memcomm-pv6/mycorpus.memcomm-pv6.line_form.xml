@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.memcomm-pv6_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.memcomm-pv6.line.xml">
+<feat xlink:href="#line_0" value=" duc de Berry , seul frère"/><!--  duc de Berry , seul frère -->
+<feat xlink:href="#line_1" value=" en la ville d&apos; Estampes"/><!--  en la ville d' Estampes -->
+<feat xlink:href="#line_2" value=" de Bretaigne , monsr"/><!--  de Bretaigne , monsr -->
+<feat xlink:href="#line_3" value=" monsr de Dampmartin"/><!--  monsr de Dampmartin -->
+<feat xlink:href="#line_4" value=" de Dampmartin , monsr"/><!--  de Dampmartin , monsr -->
+<feat xlink:href="#line_5" value=" et monsr de Chaulmont"/><!--  et monsr de Chaulmont -->
+<feat xlink:href="#line_6" value=" qui depuis a esté"/><!--  qui depuis a esté -->
+<feat xlink:href="#line_7" value=" grand homme en ce royaulme"/><!--  grand homme en ce royaulme -->
+<feat xlink:href="#line_8" value=" avoit desapointéz"/><!--  avoit desapointéz -->
+<feat xlink:href="#line_9" value=" en la ville d&apos; Estampes"/><!--  en la ville d' Estampes -->
+<feat xlink:href="#line_10" value=" demourèrent aux champs"/><!--  demourèrent aux champs -->
+<feat xlink:href="#line_11" value=" de bonnes brigandines"/><!--  de bonnes brigandines -->
+<feat xlink:href="#line_12" value=" avoit en très grant nombre"/><!--  avoit en très grant nombre -->
+<feat xlink:href="#line_13" value=" et povoient bien estre"/><!--  et povoient bien estre -->
+<feat xlink:href="#line_14" value=" mille hommes à cheval"/><!--  mille hommes à cheval -->
+<feat xlink:href="#line_15" value=" et sembloit bien à veoir"/><!--  et sembloit bien à veoir -->
+<feat xlink:href="#line_16" value=" que le duc de Bretaigne"/><!--  que le duc de Bretaigne -->
+<feat xlink:href="#line_17" value=" fust ung très grant seigneur"/><!--  fust ung très grant seigneur -->
+<feat xlink:href="#line_18" value=" ce qu&apos; il avoit à faire"/><!--  ce qu' il avoit à faire -->
+<feat xlink:href="#line_19" value=" pour assembler des gens"/><!--  pour assembler des gens -->
+<feat xlink:href="#line_20" value=" d&apos; armes ès envyrons"/><!--  d' armes ès envyrons -->
+<feat xlink:href="#line_21" value=" que furent arrivéz"/><!--  que furent arrivéz -->
+<feat xlink:href="#line_22" value=" et desconfit le tiers"/><!--  et desconfit le tiers -->
+<feat xlink:href="#line_23" value=" conseil pour envoyer"/><!--  conseil pour envoyer -->
+<feat xlink:href="#line_24" value=" gens dehors , jugeans"/><!--  gens dehors , jugeans -->
+<feat xlink:href="#line_25" value=" d&apos; Amboise et quelques autres"/><!--  d' Amboise et quelques autres -->
+<feat xlink:href="#line_26" value=" et de l&apos; artillerie"/><!--  et de l' artillerie -->
+<feat xlink:href="#line_27" value=" dès le commencement"/><!--  dès le commencement -->
+<feat xlink:href="#line_28" value=" cuydant que ainsi fust"/><!--  cuydant que ainsi fust -->
+<feat xlink:href="#line_29" value=" si ledict monsr Charles"/><!--  si ledict monsr Charles -->
+<feat xlink:href="#line_30" value=" roy ; et tindrent conseil"/><!--  roy ; et tindrent conseil -->
+<feat xlink:href="#line_31" value=" comme il m&apos; a esté dit"/><!--  comme il m' a esté dit -->
+<feat xlink:href="#line_32" value=" dit depuis par ung homme"/><!--  dit depuis par ung homme -->
+<feat xlink:href="#line_33" value=" et eulx en despescher"/><!--  et eulx en despescher -->
+<feat xlink:href="#line_34" value=" mais par là povez veoir"/><!--  mais par là povez veoir -->
+<feat xlink:href="#line_35" value=" monsr Charles de France"/><!--  monsr Charles de France -->
+<feat xlink:href="#line_36" value=" et parloient eulx deux"/><!--  et parloient eulx deux -->
+<feat xlink:href="#line_37" value=" y avoit ung pouvre homme"/><!--  y avoit ung pouvre homme -->
+<feat xlink:href="#line_38" value=" à gecter des fusées"/><!--  à gecter des fusées -->
+<feat xlink:href="#line_39" value=" quant elles sont tombées"/><!--  quant elles sont tombées -->
+<feat xlink:href="#line_40" value=" fusées en l&apos; aer"/><!--  fusées en l' aer -->
+<feat xlink:href="#line_41" value=" que nul ne l&apos; apperceut"/><!--  que nul ne l' apperceut -->
+<feat xlink:href="#line_42" value=" et furent esbahiz"/><!--  et furent esbahiz -->
+<feat xlink:href="#line_43" value=" que ce n&apos; eust esté faict"/><!--  que ce n' eust esté faict -->
+<feat xlink:href="#line_44" value=" Le seigneur de Contay"/><!--  Le seigneur de Contay -->
+<feat xlink:href="#line_45" value=" de Contay vint parler"/><!--  de Contay vint parler -->
+<feat xlink:href="#line_46" value=" de Charroloys , son maistre"/><!--  de Charroloys , son maistre -->
+<feat xlink:href="#line_47" value=" et dès qu&apos; il luy eut dit"/><!--  et dès qu' il luy eut dit -->
+<feat xlink:href="#line_48" value=" et alla faire armer"/><!--  et alla faire armer -->
+<feat xlink:href="#line_49" value=" dist au duc de Berry"/><!--  dist au duc de Berry -->
+<feat xlink:href="#line_50" value=" les archiers de son corps"/><!--  les archiers de son corps -->
+<feat xlink:href="#line_51" value=" ou trois cens hommes d&apos; armes"/><!--  ou trois cens hommes d' armes -->
+<feat xlink:href="#line_52" value=" arméz devant la porte"/><!--  arméz devant la porte -->
+<feat xlink:href="#line_53" value=" devant la porte à pied"/><!--  devant la porte à pied -->
+<feat xlink:href="#line_54" value=" et grand nombre d&apos; archiers"/><!--  et grand nombre d' archiers -->
+<feat xlink:href="#line_55" value=" à genoulx devant eulx"/><!--  à genoulx devant eulx -->
+<feat xlink:href="#line_56" value=" et s&apos; en prist l&apos; on à rire"/><!--  et s' en prist l' on à rire -->
+<feat xlink:href="#line_57" value=" L&apos; endemain au matin"/><!--  L' endemain au matin -->
+<feat xlink:href="#line_58" value=" au matin fut tenu"/><!--  au matin fut tenu -->
+<feat xlink:href="#line_59" value=" fut tenu ung très grant"/><!--  fut tenu ung très grant -->
+<feat xlink:href="#line_60" value=" ce qui estoit de faire"/><!--  ce qui estoit de faire -->
+<feat xlink:href="#line_61" value=" et non pas obeissans"/><!--  et non pas obeissans -->
+<feat xlink:href="#line_62" value=" comme il est bien requis"/><!--  comme il est bien requis -->
+<feat xlink:href="#line_63" value=" en telles assemblées"/><!--  en telles assemblées -->
+<feat xlink:href="#line_64" value=" et n&apos; avoit jamais veu"/><!--  et n' avoit jamais veu -->
+<feat xlink:href="#line_65" value=" sembla par ses parolles"/><!--  sembla par ses parolles -->
+<feat xlink:href="#line_66" value=" et usant de ces motz"/><!--  et usant de ces motz -->
+<feat xlink:href="#line_67" value=" de ces motz qu&apos; il eust myeulx"/><!--  de ces motz qu' il eust myeulx -->
+<feat xlink:href="#line_68" value=" n&apos; eussent jamais esté"/><!--  n' eussent jamais esté -->
+<feat xlink:href="#line_69" value=" despleurent à monsr"/><!--  despleurent à monsr -->
+<feat xlink:href="#line_70" value=" se on pourroit reduyre"/><!--  se on pourroit reduyre -->
+<feat xlink:href="#line_71" value=" de la chose publicque"/><!--  de la chose publicque -->
+<feat xlink:href="#line_72" value=" feroient le semblable"/><!--  feroient le semblable -->
+<feat xlink:href="#line_73" value=" dictes par monsr Charles"/><!--  dictes par monsr Charles -->
+<feat xlink:href="#line_74" value=" misrent en ceste doubte"/><!--  misrent en ceste doubte -->
+<feat xlink:href="#line_75" value=" monsr de Charroloys"/><!--  monsr de Charroloys -->
+<feat xlink:href="#line_76" value=" Il se trouve esbahy"/><!--  Il se trouve esbahy -->
+<feat xlink:href="#line_77" value=" pour sept ou huict cens hommes"/><!--  pour sept ou huict cens hommes -->
+<feat xlink:href="#line_78" value=" qu&apos; il voit blesséz allans"/><!--  qu' il voit blesséz allans -->
+<feat xlink:href="#line_79" value=" de Bourgongne mon père"/><!--  de Bourgongne mon père -->
+<feat xlink:href="#line_80" value=" Pour quoy est necessaire"/><!--  Pour quoy est necessaire -->
+<feat xlink:href="#line_81" value=" de se pourveoir d&apos; amys"/><!--  de se pourveoir d' amys -->
+<feat xlink:href="#line_82" value=" Auquel mondict seigneur"/><!--  Auquel mondict seigneur -->
+<feat xlink:href="#line_83" value=" et portoit la maison"/><!--  et portoit la maison -->
+<feat xlink:href="#line_84" value=" Et par l&apos; instruction"/><!--  Et par l' instruction -->
+<feat xlink:href="#line_85" value=" luy estoit ordonné"/><!--  luy estoit ordonné -->
+<feat xlink:href="#line_86" value=" d&apos; Angleterre , appellée"/><!--  d' Angleterre , appellée -->
+<feat xlink:href="#line_87" value=" que le roy d&apos; Angleterre"/><!--  que le roy d' Angleterre -->
+<feat xlink:href="#line_88" value=" l&apos; avoit fort desiré"/><!--  l' avoit fort desiré -->
+<feat xlink:href="#line_89" value=" estoit la maison d&apos; Yort"/><!--  estoit la maison d' Yort -->
+<feat xlink:href="#line_90" value=" et par especial"/><!--  et par especial -->
+<feat xlink:href="#line_91" value=" et advertissemens"/><!--  et advertissemens -->
+<feat xlink:href="#line_92" value=" Le siège de Paris"/><!--  Le siège de Paris -->
+<feat xlink:href="#line_93" value=" se partirent d&apos; Estampes"/><!--  se partirent d' Estampes -->
+<feat xlink:href="#line_94" value=" en une grande prée"/><!--  en une grande prée -->
+<feat xlink:href="#line_95" value=" et avoit faict cryer"/><!--  et avoit faict cryer -->
+<feat xlink:href="#line_96" value=" que chascun portast paulx"/><!--  que chascun portast paulx -->
+<feat xlink:href="#line_97" value=" ung pont sur la rivière"/><!--  ung pont sur la rivière -->
+<feat xlink:href="#line_98" value=" pour ce que ces seigneurs"/><!--  pour ce que ces seigneurs -->
+<feat xlink:href="#line_99" value=" il ne povoit monter"/><!--  il ne povoit monter -->
+<feat xlink:href="#line_100" value=" et pays de vignoble"/><!--  et pays de vignoble -->
+<feat xlink:href="#line_101" value=" prins en ceste bataille"/><!--  prins en ceste bataille -->
+<feat xlink:href="#line_102" value=" de Montlehery estant"/><!--  de Montlehery estant -->
+<feat xlink:href="#line_103" value=" Ce soir fut faict ung pont"/><!--  Ce soir fut faict ung pont -->
+<feat xlink:href="#line_104" value=" dedans et cinquante hommes"/><!--  dedans et cinquante hommes -->
+<feat xlink:href="#line_105" value=" d&apos; armes de sa maison"/><!--  d' armes de sa maison -->
+<feat xlink:href="#line_106" value=" jusques à l&apos; autre part"/><!--  jusques à l' autre part -->
+<feat xlink:href="#line_107" value=" par dessus ledict pont"/><!--  par dessus ledict pont -->
+<feat xlink:href="#line_108" value=" et y faisoit très beau"/><!--  et y faisoit très beau -->
+<feat xlink:href="#line_109" value=" Le lendemain , à l&apos; aube"/><!--  Le lendemain , à l' aube -->
+<feat xlink:href="#line_110" value=" qui trouvèrent ce pont"/><!--  qui trouvèrent ce pont -->
+<feat xlink:href="#line_111" value=" en grande diligence"/><!--  en grande diligence -->
+<feat xlink:href="#line_112" value=" et passèrent ung peu"/><!--  et passèrent ung peu -->
+<feat xlink:href="#line_113" value=" que c&apos; estoit le duc Jehan"/><!--  que c' estoit le duc Jehan -->
+<feat xlink:href="#line_114" value=" de Calabre , seul filz"/><!--  de Calabre , seul filz -->
+<feat xlink:href="#line_115" value=" seul filz du roy René"/><!--  seul filz du roy René -->
+<feat xlink:href="#line_116" value=" et , avec luy , bien neuf"/><!--  et , avec luy , bien neuf -->
+<feat xlink:href="#line_117" value=" d&apos; armes de la duché"/><!--  d' armes de la duché -->
+<feat xlink:href="#line_118" value=" et conté de Bourgongne"/><!--  et conté de Bourgongne -->
+<feat xlink:href="#line_119" value=" de cheval , mais de gens"/><!--  de cheval , mais de gens -->
+<feat xlink:href="#line_120" value=" mais de gens de pied , pou"/><!--  mais de gens de pied , pou -->
+<feat xlink:href="#line_121" value=" Pour ce petit de gens"/><!--  Pour ce petit de gens -->
+<feat xlink:href="#line_122" value=" que avoit ledit duc"/><!--  que avoit ledit duc -->
+<feat xlink:href="#line_123" value=" ne qui semblassent myeulx"/><!--  ne qui semblassent myeulx -->
+<feat xlink:href="#line_124" value=" hommes excercitéz"/><!--  hommes excercitéz -->
+<feat xlink:href="#line_125" value=" excercitéz ou fait"/><!--  excercitéz ou fait -->
+<feat xlink:href="#line_126" value=" Il povoit bien avoir"/><!--  Il povoit bien avoir -->
+<feat xlink:href="#line_127" value=" bardéz , tous Italiens"/><!--  bardéz , tous Italiens -->
+<feat xlink:href="#line_128" value=" et autres , le seigneur"/><!--  et autres , le seigneur -->
+<feat xlink:href="#line_129" value=" gouverneur de Bourgongne"/><!--  gouverneur de Bourgongne -->
+<feat xlink:href="#line_130" value=" et estoient ses hommmes"/><!--  et estoient ses hommmes -->
+<feat xlink:href="#line_131" value=" fort adroitz et , pour dire"/><!--  fort adroitz et , pour dire -->
+<feat xlink:href="#line_132" value=" que luy avoit presté"/><!--  que luy avoit presté -->
+<feat xlink:href="#line_133" value=" le conte pallatin"/><!--  le conte pallatin -->
+<feat xlink:href="#line_134" value=" qui sembloient bien gens"/><!--  qui sembloient bien gens -->
+<feat xlink:href="#line_135" value=" et avoit cinq cens Suysses"/><!--  et avoit cinq cens Suysses -->
+<feat xlink:href="#line_136" value=" s&apos; approcha le matin"/><!--  s' approcha le matin -->
+<feat xlink:href="#line_137" value=" par dessus nostre pont"/><!--  par dessus nostre pont -->
+<feat xlink:href="#line_138" value=" et aussi se peult dire"/><!--  et aussi se peult dire -->
+<feat xlink:href="#line_139" value=" que toute la puissance"/><!--  que toute la puissance -->
+<feat xlink:href="#line_140" value=" du royaulme de France"/><!--  du royaulme de France -->
+<feat xlink:href="#line_141" value=" de France s&apos; estoit veue"/><!--  de France s' estoit veue -->
+<feat xlink:href="#line_142" value=" s&apos; estoit veue passer"/><!--  s' estoit veue passer -->
+<feat xlink:href="#line_143" value=" compaignye et grant nombre"/><!--  compaignye et grant nombre -->
+<feat xlink:href="#line_144" value=" et grant nombre de gens"/><!--  et grant nombre de gens -->
+<feat xlink:href="#line_145" value=" de bien et bien empoint"/><!--  de bien et bien empoint -->
+<feat xlink:href="#line_146" value=" Et devroit - on vouloir"/><!--  Et devroit - on vouloir -->
+<feat xlink:href="#line_147" value=" et qu&apos; ilz en eussent eu"/><!--  et qu' ilz en eussent eu -->
+<feat xlink:href="#line_148" value=" l&apos; estimation telle"/><!--  l' estimation telle -->
+<feat xlink:href="#line_149" value=" telle qu&apos; il appartient"/><!--  telle qu' il appartient -->
+<feat xlink:href="#line_150" value=" qu&apos; ilz n&apos; en eussent plus crainct"/><!--  qu' ilz n' en eussent plus crainct -->
+<feat xlink:href="#line_151" value=" Le chief des Bourguygnons"/><!--  Le chief des Bourguygnons -->
+<feat xlink:href="#line_152" value=" ensemble s&apos; estoit joinct"/><!--  ensemble s' estoit joinct -->
+<feat xlink:href="#line_153" value=" s&apos; estoit joinct pour venir"/><!--  s' estoit joinct pour venir -->
+<feat xlink:href="#line_154" value=" prince et grant chef de guerre"/><!--  prince et grant chef de guerre -->
+<feat xlink:href="#line_155" value=" entre luy et le conte"/><!--  entre luy et le conte -->
+<feat xlink:href="#line_156" value=" _2 . Comment les seigneurs"/><!--  _2 . Comment les seigneurs -->
+<feat xlink:href="#line_157" value=" de partir pour tirer"/><!--  de partir pour tirer -->
+<feat xlink:href="#line_158" value=" les conduysoit le conte"/><!--  les conduysoit le conte -->
+<feat xlink:href="#line_159" value=" de Sainct Pol ; pour les ducs"/><!--  de Sainct Pol ; pour les ducs -->
+<feat xlink:href="#line_160" value=" pour les ducs de Berry"/><!--  pour les ducs de Berry -->
+<feat xlink:href="#line_161" value=" et de Bretaigne , Oudet"/><!--  et de Bretaigne , Oudet -->
+<feat xlink:href="#line_162" value=" des Rye , depuis conte"/><!--  des Rye , depuis conte -->
+<feat xlink:href="#line_163" value=" et le duc de Calabre"/><!--  et le duc de Calabre -->
+<feat xlink:href="#line_164" value=" et de faire tenir"/><!--  et de faire tenir -->
+<feat xlink:href="#line_165" value=" de faire leurs offices"/><!--  de faire leurs offices -->
+<feat xlink:href="#line_166" value=" par dessus le satin"/><!--  par dessus le satin -->
+<feat xlink:href="#line_167" value=" à deux petites lieues"/><!--  à deux petites lieues -->
+<feat xlink:href="#line_168" value=" qu&apos; il y avoit dedans"/><!--  qu' il y avoit dedans -->
+<feat xlink:href="#line_169" value=" et se alla loger"/><!--  et se alla loger -->
+<feat xlink:href="#line_170" value=" jusques à sa maison"/><!--  jusques à sa maison -->
+<feat xlink:href="#line_171" value=" et tout le demourant"/><!--  et tout le demourant -->
+<feat xlink:href="#line_172" value=" envoyèrent loger"/><!--  envoyèrent loger -->
+<feat xlink:href="#line_173" value=" et advindrent des choses"/><!--  et advindrent des choses -->
+<feat xlink:href="#line_174" value=" de Nantouillet , grant maistre"/><!--  de Nantouillet , grant maistre -->
+<feat xlink:href="#line_175" value=" se veit espoventé"/><!--  se veit espoventé -->
+<feat xlink:href="#line_176" value=" ceste entreprinse bonne"/><!--  ceste entreprinse bonne -->
+<feat xlink:href="#line_177" value=" pourroient parvenir"/><!--  pourroient parvenir -->
+<feat xlink:href="#line_178" value=" qui sont plus desiréz"/><!--  qui sont plus desiréz -->
+<feat xlink:href="#line_179" value=" en ceste cité là"/><!--  en ceste cité là -->
+<feat xlink:href="#line_180" value=" et non pas ce qu&apos; ilz doyvent"/><!--  et non pas ce qu' ilz doyvent -->
+<feat xlink:href="#line_181" value=" ne sauroient valoir"/><!--  ne sauroient valoir -->
+<feat xlink:href="#line_182" value=" Entre les conseillers"/><!--  Entre les conseillers -->
+</featList>
+</paula>

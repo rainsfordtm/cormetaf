@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.mirlouis-pv6_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.mirlouis-pv6.line.xml">
+<feat xlink:href="#line_0" value=" de saint denis si courbe"/><!--  de saint denis si courbe -->
+<feat xlink:href="#line_1" value=" si courbe , par trois anz"/><!--  si courbe , par trois anz -->
+<feat xlink:href="#line_2" value=" du benoiet saint loys"/><!--  du benoiet saint loys -->
+<feat xlink:href="#line_3" value=" fussent portez en france"/><!--  fussent portez en france -->
+<feat xlink:href="#line_4" value=" en france , que ses naches"/><!--  en france , que ses naches -->
+<feat xlink:href="#line_5" value=" ele portoit son chief"/><!--  ele portoit son chief -->
+<feat xlink:href="#line_6" value=" et demi , apuiee"/><!--  et demi , apuiee -->
+<feat xlink:href="#line_7" value=" et demi de longueur"/><!--  et demi de longueur -->
+<feat xlink:href="#line_8" value=" et non mie as jenouz"/><!--  et non mie as jenouz -->
+<feat xlink:href="#line_9" value=" si que , quant les enfanz"/><!--  si que , quant les enfanz -->
+<feat xlink:href="#line_10" value=" ou aucune persone"/><!--  ou aucune persone -->
+<feat xlink:href="#line_11" value=" les choses devant dites"/><!--  les choses devant dites -->
+<feat xlink:href="#line_12" value=" du benoiet saint loys"/><!--  du benoiet saint loys -->
+<feat xlink:href="#line_13" value=" eussent commencié"/><!--  eussent commencié -->
+<feat xlink:href="#line_14" value=" a venir au tombel"/><!--  a venir au tombel -->
+<feat xlink:href="#line_15" value=" du benoiet saint loys"/><!--  du benoiet saint loys -->
+<feat xlink:href="#line_16" value=" pour sante recouvrer"/><!--  pour sante recouvrer -->
+<feat xlink:href="#line_17" value=" et du commencement"/><!--  et du commencement -->
+<feat xlink:href="#line_18" value=" ala a la meson"/><!--  ala a la meson -->
+<feat xlink:href="#line_19" value=" qui estoit ordené"/><!--  qui estoit ordené -->
+<feat xlink:href="#line_20" value=" que ele peust estre"/><!--  que ele peust estre -->
+<feat xlink:href="#line_21" value=" du glorieus saint loys"/><!--  du glorieus saint loys -->
+<feat xlink:href="#line_22" value=" que la dite amelot"/><!--  que la dite amelot -->
+<feat xlink:href="#line_23" value=" ele estoit herbegiee"/><!--  ele estoit herbegiee -->
+<feat xlink:href="#line_24" value=" et droite sanz baston"/><!--  et droite sanz baston -->
+<feat xlink:href="#line_25" value=" sanz baston et sanz ayde"/><!--  sanz baston et sanz ayde -->
+<feat xlink:href="#line_26" value=" et droite un an et plus"/><!--  et droite un an et plus -->
+<feat xlink:href="#line_27" value=" et aloit par la vile"/><!--  et aloit par la vile -->
+<feat xlink:href="#line_28" value=" plein d iaue sus son chief"/><!--  plein d iaue sus son chief -->
+<feat xlink:href="#line_29" value=" sus son chief et les dras"/><!--  sus son chief et les dras -->
+<feat xlink:href="#line_30" value=" et les dras a laver"/><!--  et les dras a laver -->
+<feat xlink:href="#line_31" value=" et fesoit autres choses"/><!--  et fesoit autres choses -->
+<feat xlink:href="#line_32" value=" ausi comme autres femmes"/><!--  ausi comme autres femmes -->
+<feat xlink:href="#line_33" value=" et fesoit ses prieres"/><!--  et fesoit ses prieres -->
+<feat xlink:href="#line_34" value=" hommes et femmes , clers"/><!--  hommes et femmes , clers -->
+<feat xlink:href="#line_35" value=" et femmes , clers et lais"/><!--  et femmes , clers et lais -->
+<feat xlink:href="#line_36" value=" que la dite amelot"/><!--  que la dite amelot -->
+<feat xlink:href="#line_37" value=" du benoiet saint loys"/><!--  du benoiet saint loys -->
+<feat xlink:href="#line_38" value=" a jehan le bouchier"/><!--  a jehan le bouchier -->
+<feat xlink:href="#line_39" value=" qui avoit non marote"/><!--  qui avoit non marote -->
+<feat xlink:href="#line_40" value=" en l an nostre seigneur"/><!--  en l an nostre seigneur -->
+<feat xlink:href="#line_41" value=" nostre seigneur mil deus"/><!--  nostre seigneur mil deus -->
+<feat xlink:href="#line_42" value=" mil deus cens quatre vinz"/><!--  mil deus cens quatre vinz -->
+<feat xlink:href="#line_43" value=" cens quatre vinz et .i."/><!--  cens quatre vinz et .i. -->
+<feat xlink:href="#line_44" value=" de la nativite"/><!--  de la nativite -->
+<feat xlink:href="#line_45" value=" l eust ilecques morse"/><!--  l eust ilecques morse -->
+<feat xlink:href="#line_46" value=" de l ueil devers la temple"/><!--  de l ueil devers la temple -->
+<feat xlink:href="#line_47" value=" et monta au sourcill"/><!--  et monta au sourcill -->
+<feat xlink:href="#line_48" value=" et estoit cele piece"/><!--  et estoit cele piece -->
+<feat xlink:href="#line_49" value=" rouge et mole a maniere"/><!--  rouge et mole a maniere -->
+<feat xlink:href="#line_50" value=" a maniere de char"/><!--  a maniere de char -->
+<feat xlink:href="#line_51" value=" de un an et nuef mois"/><!--  de un an et nuef mois -->
+<feat xlink:href="#line_52" value=" et le dit jehan , pere"/><!--  et le dit jehan , pere -->
+<feat xlink:href="#line_53" value=" et as cyrurgiens"/><!--  et as cyrurgiens -->
+<feat xlink:href="#line_54" value=" de cele maladie"/><!--  de cele maladie -->
+<feat xlink:href="#line_55" value=" de char estoit coupee"/><!--  de char estoit coupee -->
+<feat xlink:href="#line_56" value=" aucunes medecines"/><!--  aucunes medecines -->
+<feat xlink:href="#line_57" value=" comme les diz jehan"/><!--  comme les diz jehan -->
+<feat xlink:href="#line_58" value=" eussent entendu"/><!--  eussent entendu -->
+<feat xlink:href="#line_59" value=" du benoiet saint loys"/><!--  du benoiet saint loys -->
+<feat xlink:href="#line_60" value=" d icele pucelete"/><!--  d icele pucelete -->
+<feat xlink:href="#line_61" value=" en disant ces paroles"/><!--  en disant ces paroles -->
+<feat xlink:href="#line_62" value=" par le commandement"/><!--  par le commandement -->
+<feat xlink:href="#line_63" value=" la dite pucelete"/><!--  la dite pucelete -->
+<feat xlink:href="#line_64" value=" priez nostre seigneur"/><!--  priez nostre seigneur -->
+<feat xlink:href="#line_65" value=" de ceste maladie"/><!--  de ceste maladie -->
+<feat xlink:href="#line_66" value=" au jour de vendredi"/><!--  au jour de vendredi -->
+<feat xlink:href="#line_67" value=" garda mout bien son veu"/><!--  garda mout bien son veu -->
+<feat xlink:href="#line_68" value=" aincois que la pucele"/><!--  aincois que la pucele -->
+<feat xlink:href="#line_69" value=" au benoiet saint loys"/><!--  au benoiet saint loys -->
+<feat xlink:href="#line_70" value=" et disoit que se diex"/><!--  et disoit que se diex -->
+<feat xlink:href="#line_71" value=" et la seconde foiz"/><!--  et la seconde foiz -->
+<feat xlink:href="#line_72" value=" que la dite pucele"/><!--  que la dite pucele -->
+<feat xlink:href="#line_73" value=" et quant jehan , le pere"/><!--  et quant jehan , le pere -->
+<feat xlink:href="#line_74" value=" devant dite ces moz"/><!--  devant dite ces moz -->
+<feat xlink:href="#line_75" value=" ces moz : &quot; il m est avis"/><!--  ces moz : " il m est avis -->
+<feat xlink:href="#line_76" value=" il m est avis &quot; , dist il"/><!--  il m est avis " , dist il -->
+<feat xlink:href="#line_77" value=" de la dite pucele"/><!--  de la dite pucele -->
+<feat xlink:href="#line_78" value=" comme les diz jehan"/><!--  comme les diz jehan -->
+<feat xlink:href="#line_79" value=" eu sezieme jour"/><!--  eu sezieme jour -->
+<feat xlink:href="#line_80" value=" et icelui jehan"/><!--  et icelui jehan -->
+<feat xlink:href="#line_81" value=" et virent cele piece"/><!--  et virent cele piece -->
+<feat xlink:href="#line_82" value=" a guerir cele trace"/><!--  a guerir cele trace -->
+<feat xlink:href="#line_83" value=" qui l avoit delivree"/><!--  qui l avoit delivree -->
+<feat xlink:href="#line_84" value=" et de la dite trace"/><!--  et de la dite trace -->
+<feat xlink:href="#line_85" value=" ou ilecques entour"/><!--  ou ilecques entour -->
+<feat xlink:href="#line_86" value=" du benoiet saint loys"/><!--  du benoiet saint loys -->
+<feat xlink:href="#line_87" value=" et disoient les genz"/><!--  et disoient les genz -->
+<feat xlink:href="#line_88" value=" de l enfant de grollai"/><!--  de l enfant de grollai -->
+<feat xlink:href="#line_89" value=" que la dite pucele"/><!--  que la dite pucele -->
+<feat xlink:href="#line_90" value=" du benoiet saint loys"/><!--  du benoiet saint loys -->
+<feat xlink:href="#line_91" value=" et les inquisiteurs"/><!--  et les inquisiteurs -->
+<feat xlink:href="#line_92" value=" ou cele maladie"/><!--  ou cele maladie -->
+<feat xlink:href="#line_93" value=" et guerie du tout"/><!--  et guerie du tout -->
+<feat xlink:href="#line_94" value=" dit le potencier , nez"/><!--  dit le potencier , nez -->
+<feat xlink:href="#line_95" value=" nez de varenguebec"/><!--  nez de varenguebec -->
+<feat xlink:href="#line_96" value=" et fu avec robert"/><!--  et fu avec robert -->
+<feat xlink:href="#line_97" value=" dit reboule , foulon"/><!--  dit reboule , foulon -->
+<feat xlink:href="#line_98" value=" et bourgois de paris"/><!--  et bourgois de paris -->
+<feat xlink:href="#line_99" value=" par un an et demi"/><!--  par un an et demi -->
+<feat xlink:href="#line_100" value=" ne fust pas delivré"/><!--  ne fust pas delivré -->
+<feat xlink:href="#line_101" value=" de chascune partie"/><!--  de chascune partie -->
+<feat xlink:href="#line_102" value=" et ot le dit guillot"/><!--  et ot le dit guillot -->
+<feat xlink:href="#line_103" value=" li neust que li mires"/><!--  li neust que li mires -->
+<feat xlink:href="#line_104" value=" d omme ou par medicine"/><!--  d omme ou par medicine -->
+<feat xlink:href="#line_105" value=" avoit esté trenchié"/><!--  avoit esté trenchié -->
+<feat xlink:href="#line_106" value=" non pas sanz mout d angoisse"/><!--  non pas sanz mout d angoisse -->
+<feat xlink:href="#line_107" value=" aucune foiz par autre"/><!--  aucune foiz par autre -->
+<feat xlink:href="#line_108" value=" et quant il fu venu"/><!--  et quant il fu venu -->
+<feat xlink:href="#line_109" value=" bailla au dit guillot"/><!--  bailla au dit guillot -->
+<feat xlink:href="#line_110" value=" et quant il furent la"/><!--  et quant il furent la -->
+<feat xlink:href="#line_111" value=" comme le dit guillot"/><!--  comme le dit guillot -->
+<feat xlink:href="#line_112" value=" eust einsi esté"/><!--  eust einsi esté -->
+<feat xlink:href="#line_113" value=" en cure par un mois"/><!--  en cure par un mois -->
+<feat xlink:href="#line_114" value=" en tant com il pouoit"/><!--  en tant com il pouoit -->
+<feat xlink:href="#line_115" value=" issoient de son pie"/><!--  issoient de son pie -->
+<feat xlink:href="#line_116" value=" hors a ses propres mains"/><!--  hors a ses propres mains -->
+<feat xlink:href="#line_117" value=" et ce qui estoit mis"/><!--  et ce qui estoit mis -->
+<feat xlink:href="#line_118" value=" d une part de son pie"/><!--  d une part de son pie -->
+<feat xlink:href="#line_119" value=" et estoit la pueur"/><!--  et estoit la pueur -->
+<feat xlink:href="#line_120" value=" qui issoit de son pie"/><!--  qui issoit de son pie -->
+<feat xlink:href="#line_121" value=" ne la pooit soufrir"/><!--  ne la pooit soufrir -->
+<feat xlink:href="#line_122" value=" du pie du dit guillot"/><!--  du pie du dit guillot -->
+<feat xlink:href="#line_123" value=" a terre , ne le pie"/><!--  a terre , ne le pie -->
+<feat xlink:href="#line_124" value=" une eschace de fust"/><!--  une eschace de fust -->
+<feat xlink:href="#line_125" value=" et estre entre les genz"/><!--  et estre entre les genz -->
+<feat xlink:href="#line_126" value=" a gaaignier son pain"/><!--  a gaaignier son pain -->
+<feat xlink:href="#line_127" value=" ala au charpentier"/><!--  ala au charpentier -->
+<feat xlink:href="#line_128" value=" et quant cel charpentier"/><!--  et quant cel charpentier -->
+<feat xlink:href="#line_129" value=" l oi , il li desloa"/><!--  l oi , il li desloa -->
+<feat xlink:href="#line_130" value=" et fu le dit guillot"/><!--  et fu le dit guillot -->
+<feat xlink:href="#line_131" value=" du benoiet saint loys"/><!--  du benoiet saint loys -->
+<feat xlink:href="#line_132" value=" pour autres et vertuz"/><!--  pour autres et vertuz -->
+<feat xlink:href="#line_133" value=" mes il n i pot entrer"/><!--  mes il n i pot entrer -->
+<feat xlink:href="#line_134" value=" du benoiet saint loys"/><!--  du benoiet saint loys -->
+<feat xlink:href="#line_135" value=" dist au dit guillot : &quot; va"/><!--  dist au dit guillot : " va -->
+<feat xlink:href="#line_136" value=" a grant devocion"/><!--  a grant devocion -->
+<feat xlink:href="#line_137" value=" te voille delivrer"/><!--  te voille delivrer -->
+<feat xlink:href="#line_138" value=" du benoiet saint loys"/><!--  du benoiet saint loys -->
+<feat xlink:href="#line_139" value=" delez le dit tombel"/><!--  delez le dit tombel -->
+<feat xlink:href="#line_140" value=" qui estoit sus la pierre"/><!--  qui estoit sus la pierre -->
+<feat xlink:href="#line_141" value=" du benoiet saint loys"/><!--  du benoiet saint loys -->
+<feat xlink:href="#line_142" value=" en son pie a maniere"/><!--  en son pie a maniere -->
+<feat xlink:href="#line_143" value=" a maniere de flestres"/><!--  a maniere de flestres -->
+<feat xlink:href="#line_144" value=" et furent reempliz"/><!--  et furent reempliz -->
+<feat xlink:href="#line_145" value=" et revint a paris"/><!--  et revint a paris -->
+<feat xlink:href="#line_146" value=" et de char reemplis"/><!--  et de char reemplis -->
+<feat xlink:href="#line_147" value=" et ne metoient riens"/><!--  et ne metoient riens -->
+<feat xlink:href="#line_148" value=" se il eust voulu"/><!--  se il eust voulu -->
+<feat xlink:href="#line_149" value=" sain de la maladie"/><!--  sain de la maladie -->
+<feat xlink:href="#line_150" value=" du benoiet saint loys"/><!--  du benoiet saint loys -->
+</featList>
+</paula>

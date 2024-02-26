@@ -5,7 +5,7 @@
 <multiFeatList xmlns:xlink="http://www.w3.org/1999/xlink" type="multiFeat" xml:base="mycorpus.anno.xml">
 <multiFeat xlink:href="#anno_0">
 <feat name="format" value="SylVA-PAULA standard"/>
-<feat name="date" value="2024-02-06"/>
+<feat name="date" value="2024-02-26"/>
 </multiFeat>
 </multiFeatList>
 </paula>

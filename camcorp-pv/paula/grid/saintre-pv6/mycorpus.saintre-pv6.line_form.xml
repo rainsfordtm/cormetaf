@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.saintre-pv6_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.saintre-pv6.line.xml">
+<feat xlink:href="#line_0" value=" en la court de la royne"/><!--  en la court de la royne -->
+<feat xlink:href="#line_1" value=" femme dudit roy Jehan"/><!--  femme dudit roy Jehan -->
+<feat xlink:href="#line_2" value=" qui des Belles Cousines"/><!--  qui des Belles Cousines -->
+<feat xlink:href="#line_3" value=" onques puis le trespas"/><!--  onques puis le trespas -->
+<feat xlink:href="#line_4" value=" pour quelque occasion"/><!--  pour quelque occasion -->
+<feat xlink:href="#line_5" value=" vouloit les anciennes"/><!--  vouloit les anciennes -->
+<feat xlink:href="#line_6" value=" disent que les Romains"/><!--  disent que les Romains -->
+<feat xlink:href="#line_7" value=" Et de ce dit l&apos; Appostre"/><!--  Et de ce dit l' Appostre -->
+<feat xlink:href="#line_8" value=" ne sont pas droictes vesves"/><!--  ne sont pas droictes vesves -->
+<feat xlink:href="#line_9" value=" de Dieu ne pour l&apos; amour"/><!--  de Dieu ne pour l' amour -->
+<feat xlink:href="#line_10" value=" si comme dit Virgilles"/><!--  si comme dit Virgilles -->
+<feat xlink:href="#line_11" value=" Lequel Ennee tant"/><!--  Lequel Ennee tant -->
+<feat xlink:href="#line_12" value=" mais Dido de s&apos; amour"/><!--  mais Dido de s' amour -->
+<feat xlink:href="#line_13" value=" car tant avoit amé"/><!--  car tant avoit amé -->
+<feat xlink:href="#line_14" value=" et encores amoit"/><!--  et encores amoit -->
+<feat xlink:href="#line_15" value=" Et a Anne sa seur"/><!--  Et a Anne sa seur -->
+<feat xlink:href="#line_16" value=" Duquel vers la sentence"/><!--  Duquel vers la sentence -->
+<feat xlink:href="#line_17" value=" ou le palis de l&apos; ost"/><!--  ou le palis de l' ost -->
+<feat xlink:href="#line_18" value=" de l&apos; ost aux ennemis"/><!--  de l' ost aux ennemis -->
+<feat xlink:href="#line_19" value=" de chasteté emprinse"/><!--  de chasteté emprinse -->
+<feat xlink:href="#line_20" value=" qui estoient trop plus"/><!--  qui estoient trop plus -->
+<feat xlink:href="#line_21" value=" en la reconfortant"/><!--  en la reconfortant -->
+<feat xlink:href="#line_22" value=" jour que elle morroit"/><!--  jour que elle morroit -->
+<feat xlink:href="#line_23" value=" ne cessoit de plourer"/><!--  ne cessoit de plourer -->
+<feat xlink:href="#line_24" value=" jamaiz mon cœur , pour doubte"/><!--  jamaiz mon cœur , pour doubte -->
+<feat xlink:href="#line_25" value=" pour doubte de le perdre"/><!--  pour doubte de le perdre -->
+<feat xlink:href="#line_26" value=" mect ledit benoit saint"/><!--  mect ledit benoit saint -->
+<feat xlink:href="#line_27" value=" desquelz je me delaisse"/><!--  desquelz je me delaisse -->
+<feat xlink:href="#line_28" value=" car la les porra veoir"/><!--  car la les porra veoir -->
+<feat xlink:href="#line_29" value=" Entre lesquelx exemples"/><!--  Entre lesquelx exemples -->
+<feat xlink:href="#line_30" value=" C&apos; est d&apos; une femme a Romme"/><!--  C' est d' une femme a Romme -->
+<feat xlink:href="#line_31" value=" qui avoit espousé"/><!--  qui avoit espousé -->
+<feat xlink:href="#line_32" value=" et joye , desirans"/><!--  et joye , desirans -->
+<feat xlink:href="#line_33" value=" veoir lequel de eulx deux"/><!--  veoir lequel de eulx deux -->
+<feat xlink:href="#line_34" value=" Sy advint que la femme"/><!--  Sy advint que la femme -->
+<feat xlink:href="#line_35" value=" Et sur son chief , en signe"/><!--  Et sur son chief , en signe -->
+<feat xlink:href="#line_36" value=" en signe de grant joye"/><!--  en signe de grant joye -->
+<feat xlink:href="#line_37" value=" lui misrent ung chappel"/><!--  lui misrent ung chappel -->
+<feat xlink:href="#line_38" value=" et du petit Saintré"/><!--  et du petit Saintré -->
+<feat xlink:href="#line_39" value=" pour quelque occasion"/><!--  pour quelque occasion -->
+<feat xlink:href="#line_40" value=" ce , elle ayant son cœur"/><!--  ce , elle ayant son cœur -->
+<feat xlink:href="#line_41" value=" en diverses penssees"/><!--  en diverses penssees -->
+<feat xlink:href="#line_42" value=" et en celle pensee"/><!--  et en celle pensee -->
+<feat xlink:href="#line_43" value=" et enfans de la court"/><!--  et enfans de la court -->
+<feat xlink:href="#line_44" value=" ung le plus a son gré"/><!--  ung le plus a son gré -->
+<feat xlink:href="#line_45" value=" sur le petit Saintré"/><!--  sur le petit Saintré -->
+<feat xlink:href="#line_46" value=" touchast ne s&apos; en osoit"/><!--  touchast ne s' en osoit -->
+<feat xlink:href="#line_47" value=" avoit mis a dormir"/><!--  avoit mis a dormir -->
+<feat xlink:href="#line_48" value=" avec ses escuiers"/><!--  avec ses escuiers -->
+<feat xlink:href="#line_49" value=" dames et damoiselles"/><!--  dames et damoiselles -->
+<feat xlink:href="#line_50" value=" de Madame passer"/><!--  de Madame passer -->
+<feat xlink:href="#line_51" value=" Est ce la contenence"/><!--  Est ce la contenence -->
+<feat xlink:href="#line_52" value=" d&apos; un escuier de bien"/><!--  d' un escuier de bien -->
+<feat xlink:href="#line_53" value=" que de non convoier"/><!--  que de non convoier -->
+<feat xlink:href="#line_54" value=" Or ça , maistre , passez"/><!--  Or ça , maistre , passez -->
+<feat xlink:href="#line_55" value=" et vous mettez devant"/><!--  et vous mettez devant -->
+<feat xlink:href="#line_56" value=" dist dame Katerine"/><!--  dist dame Katerine -->
+<feat xlink:href="#line_57" value=" et nous laissiez icy"/><!--  et nous laissiez icy -->
+<feat xlink:href="#line_58" value=" chacun sailli dehors"/><!--  chacun sailli dehors -->
+<feat xlink:href="#line_59" value=" et le petit Saintré"/><!--  et le petit Saintré -->
+<feat xlink:href="#line_60" value=" a genoulz prent congié"/><!--  a genoulz prent congié -->
+<feat xlink:href="#line_61" value=" vous n&apos; estes pas au compte"/><!--  vous n' estes pas au compte -->
+<feat xlink:href="#line_62" value=" assise sur les piez"/><!--  assise sur les piez -->
+<feat xlink:href="#line_63" value=" de toutes ses demandes"/><!--  de toutes ses demandes -->
+<feat xlink:href="#line_64" value=" Las ! et que ay je fait"/><!--  Las ! et que ay je fait -->
+<feat xlink:href="#line_65" value=" ne que sera ce cy"/><!--  ne que sera ce cy -->
+<feat xlink:href="#line_66" value=" Et en ces penssemens"/><!--  Et en ces penssemens -->
+<feat xlink:href="#line_67" value=" Madame en sousriant"/><!--  Madame en sousriant -->
+<feat xlink:href="#line_68" value=" a ses femmes lui dist"/><!--  a ses femmes lui dist -->
+<feat xlink:href="#line_69" value=" de dame par amours"/><!--  de dame par amours -->
+<feat xlink:href="#line_70" value=" les yeulx lui larmoiant"/><!--  les yeulx lui larmoiant -->
+<feat xlink:href="#line_71" value=" lui larmoiant , le ceur"/><!--  lui larmoiant , le ceur -->
+<feat xlink:href="#line_72" value=" et le viz lui pallist"/><!--  et le viz lui pallist -->
+<feat xlink:href="#line_73" value=" Et que est ce cy , maistre"/><!--  Et que est ce cy , maistre -->
+<feat xlink:href="#line_74" value=" Ce n&apos; est pas grant demande"/><!--  Ce n' est pas grant demande -->
+<feat xlink:href="#line_75" value=" le presserent , qu&apos; il dist"/><!--  le presserent , qu' il dist -->
+<feat xlink:href="#line_76" value=" des amoreux desirs"/><!--  des amoreux desirs -->
+<feat xlink:href="#line_77" value=" fors de entortellier"/><!--  fors de entortellier -->
+<feat xlink:href="#line_78" value=" entour ces dois , sans mot"/><!--  entour ces dois , sans mot -->
+<feat xlink:href="#line_79" value=" parler fut longuement"/><!--  parler fut longuement -->
+<feat xlink:href="#line_80" value=" je ne vous fais nul tort"/><!--  je ne vous fais nul tort -->
+<feat xlink:href="#line_81" value=" Isabel et les autres"/><!--  Isabel et les autres -->
+<feat xlink:href="#line_82" value=" Lors dirent a Madame"/><!--  Lors dirent a Madame -->
+<feat xlink:href="#line_83" value=" De celle que plus j&apos; ayme"/><!--  De celle que plus j' ayme -->
+<feat xlink:href="#line_84" value=" c&apos; est madame ma mere"/><!--  c' est madame ma mere -->
+<feat xlink:href="#line_85" value=" ne de vostre sereur"/><!--  ne de vostre sereur -->
+<feat xlink:href="#line_86" value=" de mere , de sereur"/><!--  de mere , de sereur -->
+<feat xlink:href="#line_87" value=" est toute differente"/><!--  est toute differente -->
+<feat xlink:href="#line_88" value=" N&apos; en amez vous nulle ? Ha"/><!--  N' en amez vous nulle ? Ha -->
+<feat xlink:href="#line_89" value=" failli cœur que vous estes"/><!--  failli cœur que vous estes -->
+<feat xlink:href="#line_90" value=" de Gauvain , de Tristran"/><!--  de Gauvain , de Tristran -->
+<feat xlink:href="#line_91" value=" de Guron le courtois"/><!--  de Guron le courtois -->
+<feat xlink:href="#line_92" value=" preux de la Table Ronde"/><!--  preux de la Table Ronde -->
+<feat xlink:href="#line_93" value=" de ce royaume , et aultres"/><!--  de ce royaume , et aultres -->
+<feat xlink:href="#line_94" value=" sy non pour le service"/><!--  sy non pour le service -->
+<feat xlink:href="#line_95" value=" et eulz entretenir"/><!--  et eulz entretenir -->
+<feat xlink:href="#line_96" value=" ne seroit plus de compte"/><!--  ne seroit plus de compte -->
+<feat xlink:href="#line_97" value=" Et puis que ainnssy est"/><!--  Et puis que ainnssy est -->
+<feat xlink:href="#line_98" value=" comme le plus failli"/><!--  comme le plus failli -->
+<feat xlink:href="#line_99" value=" dittes en sousriant"/><!--  dittes en sousriant -->
+<feat xlink:href="#line_100" value=" en sousriant , les dames"/><!--  en sousriant , les dames -->
+<feat xlink:href="#line_101" value=" en eurent grant pitié"/><!--  en eurent grant pitié -->
+<feat xlink:href="#line_102" value=" luy vaulsist pardonner"/><!--  luy vaulsist pardonner -->
+<feat xlink:href="#line_103" value=" feist jamais tant de bien"/><!--  feist jamais tant de bien -->
+<feat xlink:href="#line_104" value=" Et si fera , madame"/><!--  Et si fera , madame -->
+<feat xlink:href="#line_105" value=" Or donques , dist Madame"/><!--  Or donques , dist Madame -->
+<feat xlink:href="#line_106" value=" vous en allez ; et faictes"/><!--  vous en allez ; et faictes -->
+<feat xlink:href="#line_107" value=" ou je vous trouveray"/><!--  ou je vous trouveray -->
+<feat xlink:href="#line_108" value=" de Madame congié"/><!--  de Madame congié -->
+<feat xlink:href="#line_109" value=" congié , et puis des aultres"/><!--  congié , et puis des aultres -->
+<feat xlink:href="#line_110" value=" de rire et raisonner"/><!--  de rire et raisonner -->
+<feat xlink:href="#line_111" value=" en son logis ; et tant"/><!--  en son logis ; et tant -->
+<feat xlink:href="#line_112" value=" peu a peu sa promesse"/><!--  peu a peu sa promesse -->
+<feat xlink:href="#line_113" value=" au disner , les deux dames"/><!--  au disner , les deux dames -->
+<feat xlink:href="#line_114" value=" les deux dames estans"/><!--  les deux dames estans -->
+<feat xlink:href="#line_115" value=" toutes les aultres dames"/><!--  toutes les aultres dames -->
+<feat xlink:href="#line_116" value=" vous avons nous perdu"/><!--  vous avons nous perdu -->
+<feat xlink:href="#line_117" value=" Vous nous soulliez servir"/><!--  Vous nous soulliez servir -->
+<feat xlink:href="#line_118" value=" et ores nous fuyez"/><!--  et ores nous fuyez -->
+<feat xlink:href="#line_119" value=" dist il , baissant les yeulz"/><!--  dist il , baissant les yeulz -->
+<feat xlink:href="#line_120" value=" au bas boult de la table"/><!--  au bas boult de la table -->
+<feat xlink:href="#line_121" value=" de la table du roy"/><!--  de la table du roy -->
+<feat xlink:href="#line_122" value=" du roy et de la royne"/><!--  du roy et de la royne -->
+<feat xlink:href="#line_123" value=" que le petit Saintré"/><!--  que le petit Saintré -->
+<feat xlink:href="#line_124" value=" oultre . « Or laissiet moy faire"/><!--  oultre . « Or laissiet moy faire -->
+<feat xlink:href="#line_125" value=" une tasse et servir"/><!--  une tasse et servir -->
+<feat xlink:href="#line_126" value=" le fist a soy venir"/><!--  le fist a soy venir -->
+<feat xlink:href="#line_127" value=" en la ville moy faire"/><!--  en la ville moy faire -->
+<feat xlink:href="#line_128" value=" sy doulcement parler"/><!--  sy doulcement parler -->
+<feat xlink:href="#line_129" value=" en oubly ; sy lui dist"/><!--  en oubly ; sy lui dist -->
+<feat xlink:href="#line_130" value=" et aussi fist la royne"/><!--  et aussi fist la royne -->
+<feat xlink:href="#line_131" value=" Lors le petit Saintré"/><!--  Lors le petit Saintré -->
+<feat xlink:href="#line_132" value=" assise sur les piez"/><!--  assise sur les piez -->
+<feat xlink:href="#line_133" value=" qu&apos; ilz s&apos; en allassent hors"/><!--  qu' ilz s' en allassent hors -->
+<feat xlink:href="#line_134" value=" doit on prendre d&apos; un homme"/><!--  doit on prendre d' un homme -->
+<feat xlink:href="#line_135" value=" qui a menty sa foy"/><!--  qui a menty sa foy -->
+<feat xlink:href="#line_136" value=" a Madame merci"/><!--  a Madame merci -->
+<feat xlink:href="#line_137" value=" il ne prisa pas plus"/><!--  il ne prisa pas plus -->
+<feat xlink:href="#line_138" value=" sa vie que sa mort"/><!--  sa vie que sa mort -->
+<feat xlink:href="#line_139" value=" si ne seust plus que dire"/><!--  si ne seust plus que dire -->
+<feat xlink:href="#line_140" value=" a donnee sa foy"/><!--  a donnee sa foy -->
+<feat xlink:href="#line_141" value=" sa foy a une dame"/><!--  sa foy a une dame -->
+<feat xlink:href="#line_142" value=" et pour sy peu de chose"/><!--  et pour sy peu de chose -->
+<feat xlink:href="#line_143" value=" Quelle pugnicion"/><!--  Quelle pugnicion -->
+<feat xlink:href="#line_144" value=" Et a vous , dame Jehanne"/><!--  Et a vous , dame Jehanne -->
+<feat xlink:href="#line_145" value=" a Madame mercy"/><!--  a Madame mercy -->
+<feat xlink:href="#line_146" value=" l&apos; amoit trop mieulz , penssant"/><!--  l' amoit trop mieulz , penssant -->
+<feat xlink:href="#line_147" value=" vouloit saillir , lui dist"/><!--  vouloit saillir , lui dist -->
+<feat xlink:href="#line_148" value=" son excusacion"/><!--  son excusacion -->
+<feat xlink:href="#line_149" value=" qu&apos; en dictes vous ? — Hellas"/><!--  qu' en dictes vous ? — Hellas -->
+<feat xlink:href="#line_150" value=" fors que il s&apos; en repent"/><!--  fors que il s' en repent -->
+<feat xlink:href="#line_151" value=" j&apos; en diz comme les aultres"/><!--  j' en diz comme les aultres -->
+<feat xlink:href="#line_152" value=" de loyalment servir"/><!--  de loyalment servir -->
+<feat xlink:href="#line_153" value=" tres grandement amy"/><!--  tres grandement amy -->
+<feat xlink:href="#line_154" value=" mais , sur ma foy , madame"/><!--  mais , sur ma foy , madame -->
+<feat xlink:href="#line_155" value=" qui oncques ne le vist"/><!--  qui oncques ne le vist -->
+<feat xlink:href="#line_156" value=" comment puet il avoir"/><!--  comment puet il avoir -->
+<feat xlink:href="#line_157" value=" si tost choisie dame"/><!--  si tost choisie dame -->
+<feat xlink:href="#line_158" value=" y font aucunes fois"/><!--  y font aucunes fois -->
+<feat xlink:href="#line_159" value=" des penssemens assez"/><!--  des penssemens assez -->
+</featList>
+</paula>

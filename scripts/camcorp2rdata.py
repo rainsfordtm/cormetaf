@@ -153,7 +153,12 @@ def _get_datapoint_md(md, textname):
 def get_datapoints(textname, text, md, export='8s'):
     l = []
     # set line lengths
-    line_lengths = [10, 12] if export == '6s' else [8]
+    if export == '6s':
+        line_lengths = [10, 12]
+    elif export == '6pv':
+        line_lengths = [6]
+    else:
+        line_lengths = [8]
     for syllable in text.syllables:
         if not syllable.is_counted() or \
         not syllable.line.d.get('scan_ok') or \
@@ -279,15 +284,18 @@ def main(export='8s'):
         '..'
     ))
     # 1. Set up variables
-    metadata = METADATA_PV if export in ['8pv', 'anpv'] else METADATA
-    corpdir = CORPDIR_PV if export in ['8pv', 'anpv'] else CORPDIR 
+    metadata = METADATA_PV if export in ['8pv', '6pv', 'anpv'] else METADATA
+    corpdir = CORPDIR_PV if export in ['8pv', '6pv', 'anpv'] else CORPDIR 
     fieldnames = FIELDNAMES_AN if export in ['an', 'anpv'] else FIELDNAMES
     if export == '6s':
         textnames = TEXTS_6S
         outfile = 'deca-alex.csv'
-    elif export == '8pv':
+    elif export in ['8pv', '6pv']:
         textnames = TEXTS_8PV
         outfile = 'octosyllables-pv.csv'
+        if export == '6pv':
+            textnames = [x + '6' for x in textnames]
+            outfile = 'six-pv.csv'
     elif export == 'an':
         textnames = TEXTS_8S
         outfile = 'octosyllables-an.csv'
@@ -317,14 +325,15 @@ if __name__ == '__main__':
     )
     parser.add_argument(
         'export', type=str, nargs='?',  default='8s',
-        choices=['6s', '8s', '8pv', 'an', 'anpv'],
+        choices=['6s', '8s', '6pv', '8pv', 'an', 'anpv'],
         help=textwrap.dedent('''
             Which file to export?
             6s        Decasyllables and Alexandrines (deca-alex.csv)
             8s        Octosyllables (octosyllables.csv)
             8pv       Octosyllabic pseudo-vers (octosyllables-pv.csv)
+            6pv       Six-syllable pseudo-vers (six-pv.csv)
             an        Anglo-Norman stress-based texts (octosyllables-an.csv)
-            anpv        Anglo-Norman stress-based texts (octosyllables-pv-an.csv)
+            anpv      Anglo-Norman stress-based texts (octosyllables-pv-an.csv)
             '''
         )
     )

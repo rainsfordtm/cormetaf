@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.quatrelivres-pv6_line_form"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_form" xml:base="mycorpus.quatrelivres-pv6.line.xml">
+<feat xlink:href="#line_0" value=" é out num Helcana"/><!--  é out num Helcana -->
+<feat xlink:href="#line_1" value=" é fud de Effratá"/><!--  é fud de Effratá -->
+<feat xlink:href="#line_2" value=" ki puis fud apeléé"/><!--  ki puis fud apeléé -->
+<feat xlink:href="#line_3" value=" Ramathaïm - Sophim"/><!--  Ramathaïm - Sophim -->
+<feat xlink:href="#line_4" value=" ki puis fud apeléé"/><!--  ki puis fud apeléé -->
+<feat xlink:href="#line_5" value=" ki le precius cors"/><!--  ki le precius cors -->
+<feat xlink:href="#line_6" value=" fud claméé Anna é l&apos; altre"/><!--  fud claméé Anna é l' altre -->
+<feat xlink:href="#line_7" value=" Anna é l&apos; altre Phenenna"/><!--  Anna é l' altre Phenenna -->
+<feat xlink:href="#line_8" value=" mais Anna n&apos; en out nul"/><!--  mais Anna n' en out nul -->
+<feat xlink:href="#line_9" value=" Bien lut en la vielz lei"/><!--  Bien lut en la vielz lei -->
+<feat xlink:href="#line_10" value=" oüssent od cumpáigne"/><!--  oüssent od cumpáigne -->
+<feat xlink:href="#line_11" value=" Kar des treze lignees"/><!--  Kar des treze lignees -->
+<feat xlink:href="#line_12" value=" ki primes fud levez"/><!--  ki primes fud levez -->
+<feat xlink:href="#line_13" value=" que li reis Salemun"/><!--  que li reis Salemun -->
+<feat xlink:href="#line_14" value=" que li servises Deu"/><!--  que li servises Deu -->
+<feat xlink:href="#line_15" value=" de mescreantes genz"/><!--  de mescreantes genz -->
+<feat xlink:href="#line_16" value=" que Deu out á sun oes"/><!--  que Deu out á sun oes -->
+<feat xlink:href="#line_17" value=" out á sun oes saisie"/><!--  out á sun oes saisie -->
+<feat xlink:href="#line_18" value=" é sacréé . La fud"/><!--  é sacréé . La fud -->
+<feat xlink:href="#line_19" value=" La fud é out ested"/><!--  La fud é out ested -->
+<feat xlink:href="#line_20" value=" li tresors precius"/><!--  li tresors precius -->
+<feat xlink:href="#line_21" value=" fud li bers Helchana"/><!--  fud li bers Helchana -->
+<feat xlink:href="#line_22" value=" á visiter pur Deu"/><!--  á visiter pur Deu -->
+<feat xlink:href="#line_23" value=" faire é sacrifier"/><!--  faire é sacrifier -->
+<feat xlink:href="#line_24" value=" asis é par la lei"/><!--  asis é par la lei -->
+<feat xlink:href="#line_25" value=" á la feste Salceie"/><!--  á la feste Salceie -->
+<feat xlink:href="#line_26" value=" átitele , Ofni"/><!--  átitele , Ofni -->
+<feat xlink:href="#line_27" value=" é maistre principals"/><!--  é maistre principals -->
+<feat xlink:href="#line_28" value=" avint que Elchana"/><!--  avint que Elchana -->
+<feat xlink:href="#line_29" value=" á sei retint partie"/><!--  á sei retint partie -->
+<feat xlink:href="#line_30" value=" É la bonuréé Anna"/><!--  É la bonuréé Anna -->
+<feat xlink:href="#line_31" value=" Anna nen out retur"/><!--  Anna nen out retur -->
+<feat xlink:href="#line_32" value=" mais un duleir , plurer"/><!--  mais un duleir , plurer -->
+<feat xlink:href="#line_33" value=" Sis mariz Helchana"/><!--  Sis mariz Helchana -->
+<feat xlink:href="#line_34" value=" si li dist : ‘ Purquei plures"/><!--  si li dist : ‘ Purquei plures -->
+<feat xlink:href="#line_35" value=" É purquei est tis quers"/><!--  É purquei est tis quers -->
+<feat xlink:href="#line_36" value=" puis que ele out mangied"/><!--  puis que ele out mangied -->
+<feat xlink:href="#line_37" value=" requerre tut sun quer"/><!--  requerre tut sun quer -->
+<feat xlink:href="#line_38" value=" Vint s&apos; en al tabernacle"/><!--  Vint s' en al tabernacle -->
+<feat xlink:href="#line_39" value=" truvad l&apos; evesche Hely"/><!--  truvad l' evesche Hely -->
+<feat xlink:href="#line_40" value=" í ért qu&apos; il as alanz"/><!--  í ért qu' il as alanz -->
+<feat xlink:href="#line_41" value=" parole de salu"/><!--  parole de salu -->
+<feat xlink:href="#line_42" value=" La dame fist á Deu"/><!--  La dame fist á Deu -->
+<feat xlink:href="#line_43" value=" fist á Deu sun present"/><!--  fist á Deu sun present -->
+<feat xlink:href="#line_44" value=" é sa oblatiun"/><!--  é sa oblatiun -->
+<feat xlink:href="#line_45" value=" é en ceste baillie"/><!--  é en ceste baillie -->
+<feat xlink:href="#line_46" value=" é ma afflictiun"/><!--  é ma afflictiun -->
+<feat xlink:href="#line_47" value=" á tei iert ádetid"/><!--  á tei iert ádetid -->
+<feat xlink:href="#line_48" value=" La dame en sa préére"/><!--  La dame en sa préére -->
+<feat xlink:href="#line_49" value=" l&apos; esguardad é pur ívre"/><!--  l' esguardad é pur ívre -->
+<feat xlink:href="#line_50" value=" á tun ostel dormir"/><!--  á tun ostel dormir -->
+<feat xlink:href="#line_51" value=" á Deu áí reveled"/><!--  á Deu áí reveled -->
+<feat xlink:href="#line_52" value=" áí reveled mun duel"/><!--  áí reveled mun duel -->
+<feat xlink:href="#line_53" value=" Belial , çó est senz jú"/><!--  Belial , çó est senz jú -->
+<feat xlink:href="#line_54" value=" çó est senz jú ; é cil"/><!--  çó est senz jú ; é cil -->
+<feat xlink:href="#line_55" value=" Deus , ki de tut bien faire"/><!--  Deus , ki de tut bien faire -->
+<feat xlink:href="#line_56" value=" rendit a l&apos; enfanter"/><!--  rendit a l' enfanter -->
+<feat xlink:href="#line_57" value=" est de sens é de meule"/><!--  est de sens é de meule -->
+<feat xlink:href="#line_58" value=" le sen est fruit , l&apos; estorie"/><!--  le sen est fruit , l' estorie -->
+<feat xlink:href="#line_59" value=" est fruit , l&apos; estorie raims"/><!--  est fruit , l' estorie raims -->
+<feat xlink:href="#line_60" value=" é de signefiance"/><!--  é de signefiance -->
+<feat xlink:href="#line_61" value=" ad eüd dous muillers"/><!--  ad eüd dous muillers -->
+<feat xlink:href="#line_62" value=" si cume out Helchana"/><!--  si cume out Helchana -->
+<feat xlink:href="#line_63" value=" dum ele forsvead"/><!--  dum ele forsvead -->
+<feat xlink:href="#line_64" value=" É Anna , çó est grace"/><!--  É Anna , çó est grace -->
+<feat xlink:href="#line_65" value=" Ensement Seinte Eglise"/><!--  Ensement Seinte Eglise -->
+<feat xlink:href="#line_66" value=" a li s&apos; acumpaigna"/><!--  a li s' acumpaigna -->
+<feat xlink:href="#line_67" value=" é par sa mort de mort"/><!--  é par sa mort de mort -->
+<feat xlink:href="#line_68" value=" é sun Saint Esperit"/><!--  é sun Saint Esperit -->
+<feat xlink:href="#line_69" value=" out essuigne é remest"/><!--  out essuigne é remest -->
+<feat xlink:href="#line_70" value=" fust de l&apos; enfant a Deu"/><!--  fust de l' enfant a Deu -->
+<feat xlink:href="#line_71" value=" out primes Deus sa part"/><!--  out primes Deus sa part -->
+<feat xlink:href="#line_72" value=" Jó sui la túe ancele"/><!--  Jó sui la túe ancele -->
+<feat xlink:href="#line_73" value=" que served Deu des ore"/><!--  que served Deu des ore -->
+<feat xlink:href="#line_74" value=" n&apos; est altres ki ne change"/><!--  n' est altres ki ne change -->
+<feat xlink:href="#line_75" value=" é nuls n&apos; est de la force"/><!--  é nuls n' est de la force -->
+<feat xlink:href="#line_76" value=" en podnéé par glorie"/><!--  en podnéé par glorie -->
+<feat xlink:href="#line_77" value=" nen isse de voz buches"/><!--  nen isse de voz buches -->
+<feat xlink:href="#line_78" value=" kar Deu est de science"/><!--  kar Deu est de science -->
+<feat xlink:href="#line_79" value=" est de science sires"/><!--  est de science sires -->
+<feat xlink:href="#line_80" value=" des forz est surmuntez"/><!--  des forz est surmuntez -->
+<feat xlink:href="#line_81" value=" ore se sunt pur pain"/><!--  ore se sunt pur pain -->
+<feat xlink:href="#line_82" value=" quant néz fúd Samuél"/><!--  quant néz fúd Samuél -->
+<feat xlink:href="#line_83" value=" a la bonuréé Ánne"/><!--  a la bonuréé Ánne -->
+<feat xlink:href="#line_84" value=" perdi alcun Fenénne"/><!--  perdi alcun Fenénne -->
+<feat xlink:href="#line_85" value=" depriemt , le humble éslieve"/><!--  depriemt , le humble éslieve -->
+<feat xlink:href="#line_86" value=" esdrézce del puldrier"/><!--  esdrézce del puldrier -->
+<feat xlink:href="#line_87" value=" sunt les quatre parties"/><!--  sunt les quatre parties -->
+<feat xlink:href="#line_88" value=" as seinz guvernerad"/><!--  as seinz guvernerad -->
+<feat xlink:href="#line_89" value=" é li enfes od Deu"/><!--  é li enfes od Deu -->
+<feat xlink:href="#line_90" value=" é encuntre la gent"/><!--  é encuntre la gent -->
+<feat xlink:href="#line_91" value=" les dames violerent"/><!--  les dames violerent -->
+<feat xlink:href="#line_92" value=" é de vesture linge"/><!--  é de vesture linge -->
+<feat xlink:href="#line_93" value=" É Anna as jurs ásis"/><!--  É Anna as jurs ásis -->
+<feat xlink:href="#line_94" value=" é lur oblatiuns"/><!--  é lur oblatiuns -->
+<feat xlink:href="#line_95" value=" qu&apos; il li ourent dune"/><!--  qu' il li ourent dune -->
+<feat xlink:href="#line_96" value=" la dame visitá"/><!--  la dame visitá -->
+<feat xlink:href="#line_97" value=" Purquei faites tel ovre"/><!--  Purquei faites tel ovre -->
+<feat xlink:href="#line_98" value=" dunt la plainte me vient"/><!--  dunt la plainte me vient -->
+<feat xlink:href="#line_99" value=" Si hom peche vers altre"/><!--  Si hom peche vers altre -->
+<feat xlink:href="#line_100" value=" se purrad acorder"/><!--  se purrad acorder -->
+<feat xlink:href="#line_101" value=" é s&apos; il peche vers Deu"/><!--  é s' il peche vers Deu -->
+<feat xlink:href="#line_102" value=" kar Deus les volt ocire"/><!--  kar Deus les volt ocire -->
+<feat xlink:href="#line_103" value=" les volt ocire é faire"/><!--  les volt ocire é faire -->
+<feat xlink:href="#line_104" value=" é faire vengement"/><!--  é faire vengement -->
+<feat xlink:href="#line_105" value=" Li emfes Samuel"/><!--  Li emfes Samuel -->
+<feat xlink:href="#line_106" value=" amendout é creísseit"/><!--  amendout é creísseit -->
+<feat xlink:href="#line_107" value=" vint a l&apos; evesche Hely"/><!--  vint a l' evesche Hely -->
+<feat xlink:href="#line_108" value=" te mande ces paroles"/><!--  te mande ces paroles -->
+<feat xlink:href="#line_109" value=" Dun ne me revelái"/><!--  Dun ne me revelái -->
+<feat xlink:href="#line_110" value=" é encens í portast"/><!--  é encens í portast -->
+<feat xlink:href="#line_111" value=" É purquei as buted"/><!--  É purquei as buted -->
+<feat xlink:href="#line_112" value=" en veie del talun"/><!--  en veie del talun -->
+<feat xlink:href="#line_113" value=" jol glorifierai"/><!--  jol glorifierai -->
+<feat xlink:href="#line_114" value=" é ki mei despirra"/><!--  é ki mei despirra -->
+<feat xlink:href="#line_115" value=" jol metrai en despit"/><!--  jol metrai en despit -->
+<feat xlink:href="#line_116" value=" é colperai tun braz"/><!--  é colperai tun braz -->
+<feat xlink:href="#line_117" value=" Le braz apele l&apos; arche"/><!--  Le braz apele l' arche -->
+<feat xlink:href="#line_118" value=" é nen iért nuls evesches"/><!--  é nen iért nuls evesches -->
+<feat xlink:href="#line_119" value=" de mun autel , mais çó"/><!--  de mun autel , mais çó -->
+<feat xlink:href="#line_120" value=" lur defaillent par plur"/><!--  lur defaillent par plur -->
+<feat xlink:href="#line_121" value=" quant verrunt altre aveir"/><!--  quant verrunt altre aveir -->
+<feat xlink:href="#line_122" value=" aveir la seignurie"/><!--  aveir la seignurie -->
+<feat xlink:href="#line_123" value=" Içó fud ácumpli"/><!--  Içó fud ácumpli -->
+<feat xlink:href="#line_124" value=" quant Saül fist ocire"/><!--  quant Saül fist ocire -->
+<feat xlink:href="#line_125" value=" fist ocire en un jur"/><!--  fist ocire en un jur -->
+<feat xlink:href="#line_126" value=" íçó que á mun pere"/><!--  íçó que á mun pere -->
+<feat xlink:href="#line_127" value=" maisun de lealte"/><!--  maisun de lealte -->
+<feat xlink:href="#line_128" value=" é en prosperite"/><!--  é en prosperite -->
+<feat xlink:href="#line_129" value=" É si est á venir"/><!--  É si est á venir -->
+<feat xlink:href="#line_130" value=" é present é de pain"/><!--  é present é de pain -->
+<feat xlink:href="#line_131" value=" é de pain é d&apos; argent"/><!--  é de pain é d' argent -->
+<feat xlink:href="#line_132" value=" receü al servise"/><!--  receü al servise -->
+<feat xlink:href="#line_133" value=" Li emfes Samuel"/><!--  Li emfes Samuel -->
+<feat xlink:href="#line_134" value=" é la parole Deu"/><!--  é la parole Deu -->
+<feat xlink:href="#line_135" value=" Avint á une feiz"/><!--  Avint á une feiz -->
+<feat xlink:href="#line_136" value=" ú l&apos; arche Deu esteit"/><!--  ú l' arche Deu esteit -->
+<feat xlink:href="#line_137" value=" é dist : ‘ Ci sui venuz"/><!--  é dist : ‘ Ci sui venuz -->
+<feat xlink:href="#line_138" value=" Nun fis , vá t&apos; en dormir"/><!--  Nun fis , vá t' en dormir -->
+<feat xlink:href="#line_139" value=" de rechief Samuel"/><!--  de rechief Samuel -->
+<feat xlink:href="#line_140" value=" Samuel apela"/><!--  Samuel apela -->
+<feat xlink:href="#line_141" value=" é Samuel chalt pas"/><!--  é Samuel chalt pas -->
+<feat xlink:href="#line_142" value=" leva , vint a l&apos; evesche"/><!--  leva , vint a l' evesche -->
+<feat xlink:href="#line_143" value=" ne fud encore á Deu"/><!--  ne fud encore á Deu -->
+<feat xlink:href="#line_144" value=" ne la parole Deu"/><!--  ne la parole Deu -->
+<feat xlink:href="#line_145" value=" Respundi li evesches"/><!--  Respundi li evesches -->
+<feat xlink:href="#line_146" value=" Samuel apela"/><!--  Samuel apela -->
+<feat xlink:href="#line_147" value=" á Hely Samuel"/><!--  á Hely Samuel -->
+<feat xlink:href="#line_148" value=" Samuel returna"/><!--  Samuel returna -->
+<feat xlink:href="#line_149" value=" que Deu out Samuel"/><!--  que Deu out Samuel -->
+<feat xlink:href="#line_150" value=" t&apos; apele mais , respund"/><!--  t' apele mais , respund -->
+<feat xlink:href="#line_151" value=" respund : « Parole , Sire"/><!--  respund : « Parole , Sire -->
+<feat xlink:href="#line_152" value=" returna é dormí"/><!--  returna é dormí -->
+<feat xlink:href="#line_153" value=" Samuel ! Samuel"/><!--  Samuel ! Samuel -->
+<feat xlink:href="#line_154" value=" á celui qui l&apos; orrad"/><!--  á celui qui l' orrad -->
+<feat xlink:href="#line_155" value=" é si l&apos; assummerai"/><!--  é si l' assummerai -->
+<feat xlink:href="#line_156" value=" É pur çó ai juré"/><!--  É pur çó ai juré -->
+<feat xlink:href="#line_157" value=" que la iniquite"/><!--  que la iniquite -->
+<feat xlink:href="#line_158" value=" é cremeit á mustrer"/><!--  é cremeit á mustrer -->
+<feat xlink:href="#line_159" value=" Mais Hely l&apos; apela"/><!--  Mais Hely l' apela -->
+<feat xlink:href="#line_160" value=" bel fiz , quele parole"/><!--  bel fiz , quele parole -->
+<feat xlink:href="#line_161" value=" É si tu le me céiles"/><!--  É si tu le me céiles -->
+<feat xlink:href="#line_162" value=" vienge sur tei que Deu"/><!--  vienge sur tei que Deu -->
+<feat xlink:href="#line_163" value=" respundi : ‘ Sires est"/><!--  respundi : ‘ Sires est -->
+<feat xlink:href="#line_164" value=" Il frad que bon li iert"/><!--  Il frad que bon li iert -->
+<feat xlink:href="#line_165" value=" É Deus fud ovec li"/><!--  É Deus fud ovec li -->
+<feat xlink:href="#line_166" value=" de Israel , des Dan"/><!--  de Israel , des Dan -->
+<feat xlink:href="#line_167" value=" cunut que Samuel"/><!--  cunut que Samuel -->
+<feat xlink:href="#line_168" value=" se fud á Samuel"/><!--  se fud á Samuel -->
+</featList>
+</paula>

@@ -1,0 +1,25 @@
+Rules applied: R1, R7
+Lines correct: 224 of 224
+Pass history:
+Tried rules R1; 219 lines correct.
+Tried rules R11; 195 lines correct.
+Tried rules R7; 205 lines correct.
+Tried rules R8; 199 lines correct.
+Tried rules R2; 197 lines correct.
+Tried rules R4; 197 lines correct.
+Tried rules R30; 200 lines correct.
+Tried rules R1, R11; 212 lines correct.
+Tried rules R1, R7; 224 lines correct.
+Tried rules R1, R8; 218 lines correct.
+Tried rules R1, R2; 216 lines correct.
+Tried rules R1, R4; 214 lines correct.
+Tried rules R1, R30; 219 lines correct.
+Tried rules R1, R7, R11; 217 lines correct.
+Tried rules R1, R7, R8; 223 lines correct.
+Tried rules R1, R7, R2; 221 lines correct.
+Tried rules R1, R7, R4; 219 lines correct.
+Tried rules R1, R7, R30; 224 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES
