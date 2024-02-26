@@ -157,9 +157,11 @@ def get_datapoints(textname, text, md, export='8s'):
     for syllable in text.syllables:
         if not syllable.is_counted() or \
         not syllable.line.d.get('scan_ok') or \
-        len(syllable.line.d['counted_sylls']) not in line_lengths:
+        len(syllable.line.d['counted_sylls']) not in line_lengths or \
+        (len(syllable.line.d['counted_sylls']) == 10 and syllable.line.d['cespos'] == 6): # exclude coupe italienne
             # Excluded here are syllables which don't have a metrical position
             # and syllables from lines that didn't scan (which aren't comparable)
+            # and coupe italienne for ten syllable lines (not a lot of this)
             continue
         #if len(syllable.line.d['counted_sylls']) != line_length:
         #    print('Bad line: {}'.format(' '.join(str(x['word']) for x in syllable.line)))

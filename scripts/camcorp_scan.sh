@@ -27,11 +27,17 @@ done
 # Lyric decasyllables
 echo "Lyric decasyllables (standard)"
 sp="${corpdir}/cfg/sp_10s_midfr.cfg"
-texts=( 3jugemens behaigne orloge )
+texts=( 3jugemens behaigne )
 
 for text in ${texts[@]}; do
-	$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula
+	$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula scansyll
 done
+
+# Orloge
+echo "Orloge (coupe italienne)"
+sp="${corpdir}/cfg/sp_10s_midfr_orloge.cfg"
+text="orloge"
+$scan_file -t syntag2 $corpdir $text $sp $phonemes $unstressed -o scaneval bin paula scansyll
 
 # Eurialus
 #echo "Eurialus"
