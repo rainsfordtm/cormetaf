@@ -2,7 +2,7 @@
 
 #######################################################################
 # Camcorp to R data                                                   #
-# Tom Rainsford 2022-2023                                             #
+# Tom Rainsford 2022-2024                                             #
 #                                                                     #
 # Script designed to export a syllabic verse text in a form suitable  #
 # for further analysis in R.                                          #
@@ -36,7 +36,11 @@ TEXTS_8S = [
 TEXTS_6S = [
     'alexis', 'roland', 'charroi', 'rou', 'antioche', 'raouli',
     'alexandre', 'ami', 'alexiso', 'berte', 'huon', 'behaigne', 'alexisa',
-    'hugues', 'orloge', '3jugemens'
+    'hugues', 'orloge', '3jugemens', 
+    # Lyric corpus
+    'blondel', 'chartier', 'christine', 'delahalle', 'froissart',
+    'gace', 'machaut', 'molinet', 'orleans', 'rutebeuf', 'thibaut',
+    'villon'
 ]
 
 # Lyon couronné??
