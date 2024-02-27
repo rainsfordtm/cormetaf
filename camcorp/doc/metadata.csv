@@ -4,8 +4,8 @@ abeville,BouchAbev,BouchAbev,Le Bouchier d'Abeville,Eustache d'Amiens,dialectN,1
 adam,Adam,JeuAdam,Le Jeu d'Adam (Ordo Representacionis Ade),--,theatre,1146,1199,2nd half C12 (DEAF) / 1146–1174 (ed.),Tours 927,S (Tours),2nd quart. C13,Eng,RelPlay,AdamN,8s,"ll. 1–48, 117–518, 623–674",Aebischer (1963),NCA
 alexandre,AlexPar,Alexandre,Le Roman d'Alexandre,Alexandre de Paris,12-syll,1180,1190,c1185,BN fr. 25517 (G),N (Pic.),2nd half C13,C (IdeF),ChG,AlexParA,12s,"Branch II, laisses 130–149 (ll. 2762–3100)",Armstrong (1937),n
 alexis,Alexis,Alexis,La Vie de saint Alexis,--,10-syll,1085,1099,end C11,Hildesheim St. Godehardi (L),Eng,c1120,W (Norman),VieS,AlexisS2,10s,ll. 1–400,Storey (1968),n
-alexisa,AlexisA,AlexisA,La Vie de saint Alexis,--,12-syll,1340,1360,mid C14,BN fr. 1555 (A),--,beg. C15,,VieS,AlexisQP,12s,quatrains 1–82,Paris (1887),n
-alexiso,AlexisO,AlexisO,La Vie de saint Alexis,--,12-syll,1200,1215,beg. C13,Oxford Bodl. Canonici Misc. 74 (O),"NE (Walloon, 81, Dees)",beg. C13,unk.,VieS,AlexisAlOS,12s,ll. 1–333,Stebbins (1971),NCA
+alexisa,AlexisQ,AlexisA,La Vie de saint Alexis,--,12-syll,1340,1360,mid C14,BN fr. 1555 (A),--,beg. C15,,VieS,AlexisQP,12s,quatrains 1–82,Paris (1887),n
+alexiso,AlexisAlO,AlexisO,La Vie de saint Alexis,--,12-syll,1200,1215,beg. C13,Oxford Bodl. Canonici Misc. 74 (O),"NE (Walloon, 81, Dees)",beg. C13,unk.,VieS,AlexisAlOS,12s,ll. 1–333,Stebbins (1971),NCA
 ami,AmAm,AmiAmile,Ami et Amile,--,10-syll,1195,1205,c1200,BN fr. 860,"E (Lorraine, DEAF) / C (Haute-Marne, 80, Dees)",2nd half C13,unk.,ChG,AmAmD,10s,laisses 1–22 (ll. 1–399),Dembowski (1969),NCA
 anjou,Maillart,ComteAnjou,Le Roman du comte d'Anjou,Jehan Maillart,base,1316,1316,1316,BN nfr. 4531 (A),N (Pic.),1316 or slightly later,CN (Sth. Pic.) / C (IdeFr),Rom,MaillartR,8s,ll. 1–509,Roques (1931),n
 antioche,Antioche,ChAntioche,La Chanson d'Antioche,--,12-syll,1171,1181,1171–1181,BN fr. 12558 (A),N (Arras),mid C13,N (Flanders),ChG,AntiocheD,12s,laisses I–XVI (ll. 1–320),Duparc-Quioc (1976),n
