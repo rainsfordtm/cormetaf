@@ -56,7 +56,7 @@ FIELDNAMES = [
     'LEXSTR', # lexical stress
     'METPOS', 'PAROXYTONE', 'ISWORDFINAL', # info about syllable
     'TEXT', 'TEXT.BOOK', # random effect (level 2); printable name
-    'DOC', 'DIALECT', 'TEXTTYPE', 'VERSEFORM', # level 2 predictors
+    'DOC', 'DIALECT', 'TEXTTYPE', 'VERSEFORM', 'RHYME', # metadata
     'REF', # human-readable reference to the datapoint
     'WORDS', 'LEMMAS', 'POSS', 'LINE' # additional human-readable info
 ]
