@@ -148,6 +148,7 @@ def _get_datapoint_md(md, textname):
     d['DIALECT'] = md[textname]['DIALECT']
     d['TEXTTYPE'] = md[textname]['TEXTTYPE']
     d['VERSEFORM'] = md[textname]['VERSEFORM']
+    d['RHYME'] = md[textname]['RHYME']
     return d
 
 def get_datapoints(textname, text, md, export='8s'):
