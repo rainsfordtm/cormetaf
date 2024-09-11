@@ -1,0 +1,5 @@
+RNNTagger,Model,Lookup scripts,Gold pos,Lemma accuracy,OF Lemma accuracy,MidF lemma accuracy
+1.7.7,old-french,no,no,0.8267,0.8312,0.8197
+1.7.7,middle-french,no,no,0.8092,0.7476,0.907
+1.7.7,old-french,yes,no,,,
+1.7.7,middle-french,yes,no,,,
