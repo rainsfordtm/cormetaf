@@ -1223,7 +1223,7 @@ wd_id,line_id,linewd,word,lex_id,tag,textlineid,syntag,syntag2,syllabified,lemma
 1222,126,8,ferés,ferés,VER,2887,Vfin,Vfin,C/V\.'C/V\,férir
 1223,126,9,i,i,PRO:pers,2887,Prn,Prn%%,/V\,y
 1224,126,10,!,!,PON,2887,Pnc,Pnc,,!
-1225,126,11,dieus,dieus,NOM,2887,N,N,C/V\,Dieu
+1225,126,11,dieus,dieus,NOM,2887,N,N,C/V\,dieu
 1226,126,12,i,i,PRO:clit,2887,Prn,Prn$$,/V\,y
 1227,126,13,vaille,vaille,VER,2887,Vfin,Vfin,'C/V\.C/(e)\,valoir
 1228,126,14,!,!,PON,2887,Pnc,Pnc,,!
@@ -2325,7 +2325,7 @@ wd_id,line_id,linewd,word,lex_id,tag,textlineid,syntag,syntag2,syllabified,lemma
 2324,240,3,dames,dames,NOM,3001,N,N,'C/V\.C/e\,dame
 2325,240,4,commande,commande,VER,3001,Vfin,Vfin,C/V\.'C/V\.C/(e)\,commander
 2326,240,5,a,a,PRE,3001,Pre,Pre,/V\,à
-2327,240,6,deus,deus,NOM,3001,N,N,C/V\,Dieu
+2327,240,6,deus,deus,NOM,3001,N,N,C/V\,dieu
 2328,240,7,de,de,PRE,3001,Pre,Pre,C/(e)\,de
 2329,240,8,ses,ses,DET:poss,3001,Det,Det,C/V\,son
 2330,240,9,chasés,chasés,VER,3001,Vpp,Vpp,C/V\.'C/V\,chaser
@@ -3208,7 +3208,7 @@ wd_id,line_id,linewd,word,lex_id,tag,textlineid,syntag,syntag2,syllabified,lemma
 3207,325,8,mondes,mondes,NOM,3086,N,N,'C/V\.C/e\,monde
 3208,325,9,formés,formés,VER,3086,Vpp,Vpp,C/V\.'C/V\,former
 3209,325,10,;,;,PON,3086,Pnc,Pnc,,;
-3210,326,1,dieus,dieus,NOM,3087,N,N,C/V\,Dieu
+3210,326,1,dieus,dieus,NOM,3087,N,N,C/V\,dieu
 3211,326,2,a,a,PRE,3087,Vfin,Vfin,/V\,avoir
 3212,326,3,fait,fait,VER,3087,Vpp,Vpp,C/V\,faire
 3213,326,4,trop,trop,ADV,3087,Adv,Adv,C/V\,trop

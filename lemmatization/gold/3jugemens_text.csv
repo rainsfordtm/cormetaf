@@ -1240,7 +1240,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 1239,167,1,je,je,167,Prn,Prn$,C/(e)\,je
 1240,167,2,prie,prie,167,Vfin,Vfin,'C/V\./(e)\,prier
 1241,167,3,a,a,167,Pre,Pre,/V\,à
-1242,167,4,dieu,dieu,167,N,N,C/V\,Dieu
+1242,167,4,dieu,dieu,167,N,N,C/V\,dieu
 1243,167,5,qu',qu',167,Sub,Sub,C/\,que
 1244,167,6,il,il,167,Prn,Prn$,/V\,il
 1245,167,7,le,le,167,Prn,Prn$$,C/(e)\,le
@@ -1809,7 +1809,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 1808,247,4,car,car,247,Crd,Crd,C/V\,car
 1809,247,5,",",",",247,Pnc,Pnc,,","
 1810,247,6,se,se,247,Sub,Sub,C/(e)\,si
-1811,247,7,dieu,dieu,247,N,N,C/V\,Dieu
+1811,247,7,dieu,dieu,247,N,N,C/V\,dieu
 1812,247,8,me,me,247,Prn,Prn$$,C/(e)\,me
 1813,247,9,pardont,pardont,247,Vfin,Vfin,C/V\.'C/V\,pardonner
 1814,247,10,",",",",247,Pnc,Pnc,,","
@@ -3231,7 +3231,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 3230,445,6,lui,lui,445,Prn,Prn,C/V\,lui
 3231,445,7,",",",",445,Pnc,Pnc,,","
 3232,445,8,se,se,445,Sub,Sub,C/(e)\,si
-3233,445,9,dieux,dieux,445,N,N,C/V\,Dieu
+3233,445,9,dieux,dieux,445,N,N,C/V\,dieu
 3234,445,10,m',m',445,Prn,Prn$$,C/\,me
 3235,445,11,aïst,aïst,445,Vfin,Vfin,/{V}\.'/V\,aider
 3236,445,12,",",",",445,Pnc,Pnc,,","

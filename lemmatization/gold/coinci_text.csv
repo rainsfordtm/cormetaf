@@ -1,6 +1,6 @@
 wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,lemma
 1,1,1,se,se,PROCON,1,Sub,Sub,C/(e)\,si
-2,1,2,diex,diex,NOM:suj:masc:sg,1,N,N,C/V\,Dieu
+2,1,2,diex,diex,NOM:suj:masc:sg,1,N,N,C/V\,dieu
 3,1,3,m',m',PRO:pers:obj:1:sg:unb,1,Prn,Prn$$,C/\,me
 4,1,4,aït,aït,VER:subp:3:sg,1,Vfin,Vfin,/V\.'C/V\,aider
 5,1,5,hui,hui,ADV,1,Adv,Adv,/V\,hui
@@ -115,7 +115,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 114,17,7,fin,fin,ADJ:obj:masc:sg,17,Adj,Adj,C/V\,fin
 115,18,1,la,la,DET:def:obj:femi:sg,18,Det,Det,C/V\,le
 116,18,2,mere,mere,NOM:obj:femi:sg,18,N,N,'C/V\.C/(e)\,mère
-117,18,3,dieu,dieu,NOM:obj:masc:sg,18,N,N,C/V\,Dieu
+117,18,3,dieu,dieu,NOM:obj:masc:sg,18,N,N,C/V\,dieu
 118,18,4,qui,qui,PROCON,18,Qux,Qux,C/V\,qui
 119,18,5,bonne,bonne,ADJ:obj:femi:sg,18,Adj,Adj,'C/V\.C/(e)\,bon
 120,18,6,fin,fin,NOM:obj:femi:sg,18,N,N,C/V\,fin
@@ -583,7 +583,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 582,93,5,endormis,endormis,VER:pper:masc:pl,93,Vpp,Vpp,/V\.C/V\.'C/V\,endormir
 583,94,1,si,si,PROCON,94,Adv,Adv,C/V\,si
 584,94,2,con,con,CON:subord,94,Sub,Sub,C/V\,comme
-585,94,3,dieu,dieu,NOM:obj:masc:sg,94,N,N,C/V\,Dieu
+585,94,3,dieu,dieu,NOM:obj:masc:sg,94,N,N,C/V\,dieu
 586,94,4,pleut,pleut,VER:simp:3:sg,94,Vfin,Vfin,C/V\,plaire
 587,94,5,ses,ses,DET:poss:suj:masc:sg,94,Det,Det,C/V\,son
 588,94,6,esperiz,esperiz,NOM:suj:masc:sg,94,N,N,/V\.C/e\.'C/V\,esprit
@@ -1460,7 +1460,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 1459,240,5,n,n,PRO:clit,240,Neg,Neg$$,C/\,ne
 1460,240,6,iert,iert,VER:futu:3:sg,240,Vfin,Vfin,/V\,être
 1461,240,7,finee,finee,VER:pper:femi:sg,240,Vpp,Vpp,C/V\.'C/V\./(e)\,finer
-1462,241,1,diex,diex,NOM:suj:masc:sg,241,N,N,C/V\,Dieu
+1462,241,1,diex,diex,NOM:suj:masc:sg,241,N,N,C/V\,dieu
 1463,241,2,qui,qui,PROCON,241,Qux,Qux,C/V\,qui
 1464,241,3,seur,seur,PRE,241,PrA,PrA,C/V\,sur
 1465,241,4,toz,toz,PRO:ind:obj:masc:pl,241,QIs,QIs,C/V\,tout
@@ -1595,7 +1595,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 1594,264,4,mout,mout,ADV,264,QIs,QIs,C/V\,moult
 1595,264,5,parloient,parloient,VER:impf:3:pl,264,Vfin,Vfin,C/V\.'C/V\./e\,parler
 1596,265,1,que,que,PROCON,265,Qux,Qux,C/(e)\,que
-1597,265,2,diex,diex,NOM:suj:masc:sg,265,N,N,C/V\,Dieu
+1597,265,2,diex,diex,NOM:suj:masc:sg,265,N,N,C/V\,dieu
 1598,265,3,faisoit,faisoit,VER:impf:3:sg,265,Vfin,Vfin,C/V\.'C/V\,faire
 1599,265,4,a,a,PRE,265,Pre,Pre,/V\,à
 1600,265,5,nostre,nostre,DET:poss:obj:femi:sg,265,Det,Det,'C/V\.C/(e)\,notre
@@ -1785,7 +1785,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 1784,295,1,tout,tout,DET:ind:obj:masc:sg,295,QIs,QIs,C/V\,tout
 1785,295,2,l',l',DET:def:obj:masc:sg,295,Det,Det,C/\,le
 1786,295,3,avoir,avoir,VER:infi,295,N,N,/V\.'C/V\,avoir
-1787,295,4,dieu,dieu,NOM:obj:masc:sg,295,N,N,C/V\,Dieu
+1787,295,4,dieu,dieu,NOM:obj:masc:sg,295,N,N,C/V\,dieu
 1788,295,5,met,met,VER:pres:3:sg,295,Vfin,Vfin,C/V\,mettre
 1789,295,6,en,en,PRO:clit,295,Pre,Pre,/V\,en
 1790,295,7,sa,sa,DET:poss:obj:femi:sg,295,Det,Det,C/V\,son
@@ -1850,7 +1850,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 1849,305,4,sollers,sollers,NOM:suj:masc:sg,305,N,N,C/V\.'C/V\,soulier
 1850,305,5,nostre,nostre,DET:poss:obj:femi:sg,305,Det,Det,'C/V\.C/(e)\,notre
 1851,305,6,dame,dame,NOM:obj:femi:sg,305,N,N,'C/V\.C/(e)\,dame
-1852,306,1,diex,diex,NOM:suj:masc:sg,306,N,N,C/V\,Dieu
+1852,306,1,diex,diex,NOM:suj:masc:sg,306,N,N,C/V\,dieu
 1853,306,2,ne,ne,PROCON,306,Crd,Crd,C/(e)\,ne
 1854,306,3,dyables,dyables,NOM:suj:masc:sg,306,N,N,C/{V}\.'/V\.C/e\,diable
 1855,306,4,hom,hom,NOM:suj:masc:sg,306,N,N,/V\,homme
@@ -2198,7 +2198,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 2197,362,6,roller,roller,VER:infi,362,Vinf,Vinf,C/V\.'C/V\,rouler
 2198,363,1,la,la,DET:def:suj:femi:sg,363,Det,Det,C/V\,le
 2199,363,2,mere,mere,NOM:suj:femi:sg,363,N,N,'C/V\.C/(e)\,mère
-2200,363,3,dieu,dieu,NOM:obj:masc:sg,363,N,N,C/V\,Dieu
+2200,363,3,dieu,dieu,NOM:obj:masc:sg,363,N,N,C/V\,dieu
 2201,363,4,a,a,PRE,363,Pre,Pre,/V\,à
 2202,363,5,cele,cele,DET:demo:obj:femi:sg,363,Dem,Dem,'C/V\.C/(e)\,cil
 2203,363,6,foys,foys,NOM:obj:femi:sg,363,N,N,C/V\,fois
@@ -2259,7 +2259,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 2258,372,7,sade,sade,ADJ:obj:masc:sg,372,Adj,Adj,'C/V\.C/(e)\,sade
 2259,373,1,pour,pour,PRE,373,Pre,Pre,C/V\,pour
 2260,373,2,cui,cui,PROCON,373,Qux,Qux,C/V\,qui
-2261,373,3,diex,diex,NOM:suj:masc:sg,373,N,N,C/V\,Dieu
+2261,373,3,diex,diex,NOM:suj:masc:sg,373,N,N,C/V\,dieu
 2262,373,4,fait,fait,VER:pres:3:sg,373,Vfin,Vfin,C/V\,faire
 2263,373,5,tantes,tantes,DET:ind:obj:femi:pl,373,QIs,QIs,'C/V\.C/e\,tant
 2264,373,6,merveilles,merveilles,NOM:obj:femi:pl,373,N,N,C/V\.'C/V\.C/e\,merveille
@@ -2339,7 +2339,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 2338,386,6,verité,verité,NOM:obj:femi:sg,386,N,N,C/V\.C/V\.'C/V\,vérité
 2339,387,1,la,la,DET:def:obj:femi:sg,387,Det,Det,C/V\,le
 2340,387,2,mere,mere,NOM:obj:femi:sg,387,N,N,'C/V\.C/(e)\,mère
-2341,387,3,dieu,dieu,NOM:obj:masc:sg,387,N,N,C/V\,Dieu
+2341,387,3,dieu,dieu,NOM:obj:masc:sg,387,N,N,C/V\,dieu
 2342,387,4,glorefierent,glorefierent,VER:simp:3:pl,387,Vfin,Vfin,C/V\.C/e\.C/{V}\.'/V\.C/e\,glorifier
 2343,388,1,et,et,CON:coord,388,Crd,Crd,/V\,et
 2344,388,2,cil,cil,PRO:demo:suj:masc:pl,388,Dem,Dem,C/V\,cil
@@ -2504,7 +2504,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 2503,414,1,il,il,PRO:pers:suj:3:masc:sg:unb,414,Prn,Prn$,/V\,il
 2504,414,2,fait,fait,VER:pres:3:sg,414,Vfin,Vfin,C/V\,faire
 2505,414,3,a,a,PRE,414,Pre,Pre,/V\,à
-2506,414,4,dieu,dieu,NOM:obj:masc:sg,414,N,N,C/V\,Dieu
+2506,414,4,dieu,dieu,NOM:obj:masc:sg,414,N,N,C/V\,dieu
 2507,414,5,plus,plus,ADV,414,Adv,Adv,C/V\,plus
 2508,414,6,grant,grant,ADJ:obj:femi:sg,414,Adj,Adj,C/V\,grand
 2509,414,7,injure,injure,NOM:obj:femi:sg,414,N,N,/V\.'C/V\.C/(e)\,injure
@@ -2583,7 +2583,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 2582,425,6,l',l',PRO:pers:obj:3:masc:sg:unb,425,Det,Det,C/\,le
 2583,425,7,autrui,autrui,PRO:invar,425,Adj,Adj,/V\.'C/V\,autrui
 2584,426,1,se,se,PROCON,426,Sub,Sub,C/(e)\,si
-2585,426,2,diex,diex,NOM:suj:masc:sg,426,N,N,C/V\,Dieu
+2585,426,2,diex,diex,NOM:suj:masc:sg,426,N,N,C/V\,dieu
 2586,426,3,m',m',PRO:pers:obj:1:sg:unb,426,Prn,Prn$$,C/\,me
 2587,426,4,aïst,aïst,VER:subp:3:sg,426,Vfin,Vfin,/{V}\.'/V\,aider
 2588,426,5,demain,demain,ADV,426,Adv,Adv,C/V\.'C/V\,demain
@@ -2762,7 +2762,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 2761,452,6,sunt,sunt,VER:pres:3:pl,452,Vfin,Vfin,C/V\,être
 2762,453,1,saichiez,saichiez,VER:impe:2:pl,453,Vfin,Vfin,C/V\.'C/V\,savoir
 2763,453,2,que,que,PROCON,453,Sub,Sub,C/(e)\,que
-2764,453,3,diex,diex,NOM:suj:masc:sg,453,N,N,C/V\,Dieu
+2764,453,3,diex,diex,NOM:suj:masc:sg,453,N,N,C/V\,dieu
 2765,453,4,sanz,sanz,PRE,453,Pre,Pre,C/V\,sans
 2766,453,5,nule,nule,DET:ind:obj:femi:sg,453,QIs,QIs,'C/V\.C/(e)\,nul
 2767,453,6,doute,doute,NOM:obj:femi:sg,453,N,N,'C/V\.C/(e)\,doute
@@ -2844,7 +2844,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 2843,466,3,et,et,CON:coord,466,Crd,Crd,/V\,et
 2844,466,4,tout,tout,PRO:ind:obj:masc:sg,466,QIs,QIs,C/V\,tout
 2845,466,5,kalé,kalé,VER:pper:masc:sg,466,Vpp,Vpp,C/V\.'C/V\,caler
-2846,467,1,diex,diex,NOM:suj:masc:sg,467,N,N,C/V\,Dieu
+2846,467,1,diex,diex,NOM:suj:masc:sg,467,N,N,C/V\,dieu
 2847,467,2,pour,pour,PRE,467,Pre,Pre,C/V\,pour
 2848,467,3,sa,sa,DET:poss:obj:femi:sg,467,Det,Det,C/V\,son
 2849,467,4,mere,mere,NOM:obj:femi:sg,467,N,N,'C/V\.C/(e)\,mère
@@ -2872,7 +2872,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 2871,470,7,pais,pais,NOM:obj:femi:pl,470,N,N,C/V\,paix
 2872,470,8,fait,fait,VER:pres:3:sg,470,Vfin,Vfin,C/V\,faire
 2873,471,1,entre,entre,PRE,471,PrA,PrA,'/V\.C/(e)\,entre
-2874,471,2,dieu,dieu,NOM:obj:masc:sg,471,N,N,C/V\,Dieu
+2874,471,2,dieu,dieu,NOM:obj:masc:sg,471,N,N,C/V\,dieu
 2875,471,3,et,et,CON:coord,471,Crd,Crd,/V\,et
 2876,471,4,home,home,NOM:obj:masc:sg,471,N,N,'/V\.C/(e)\,homme
 2877,471,5,est,est,VER:pres:3:sg,471,Vfin,Vfin,/V\,être
@@ -2886,7 +2886,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 2885,473,1,qui,qui,PROCON,473,Qux,Qux,C/V\,qui
 2886,473,2,que,que,PROCON,473,Sub,Sub,C/(e)\,que
 2887,473,3,vers,vers,PRE,473,Pre,Pre,C/V\,vers
-2888,473,4,dieu,dieu,NOM:obj:masc:sg,473,N,N,C/V\,Dieu
+2888,473,4,dieu,dieu,NOM:obj:masc:sg,473,N,N,C/V\,dieu
 2889,473,5,est,est,VER:pres:3:sg,473,Vfin,Vfin,/V\,être
 2890,473,6,en,en,PRO:clit,473,Pre,Pre,/V\,en
 2891,473,7,descorde,descorde,NOM:obj:femi:sg,473,N,N,C/V\.'C/V\.C/(e)\,discorde
@@ -3024,7 +3024,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,syllabified,l
 3023,495,4,mainte,mainte,DET:ind:obj:femi:sg,495,QIs,QIs,'C/V\.C/(e)\,maint
 3024,496,1,n,n,PRO:clit,496,Neg,Neg$$,C/\,ne
 3025,496,2,espargne,espargne,VER:pres:3:sg,496,Vfin,Vfin,/V\.'C/V\.C/(e)\,épargner
-3026,496,3,dieu,dieu,NOM:obj:masc:sg,496,N,N,C/V\,Dieu
+3026,496,3,dieu,dieu,NOM:obj:masc:sg,496,N,N,C/V\,dieu
 3027,496,4,ne,ne,PROCON,496,Crd,Crd,C/(e)\,ne
 3028,496,5,saint,saint,ADJ:obj:masc:sg,496,Adj,Adj,C/V\,saint
 3029,496,6,ne,ne,PROCON,496,Crd,Crd,C/(e)\,ne

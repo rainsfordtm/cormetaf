@@ -437,7 +437,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 436,65,5,pes,pes,65,N,N,C/V\,paix
 437,65,6,oïr,oïr,65,Vinf,Vinf,/V\.'C/V\,ouïr
 438,66,1,Que,que,66,Sub,Sub,C/(e)\,que
-439,66,2,Dex,dex,66,N,N,C/V\,Dieu
+439,66,2,Dex,dex,66,N,N,C/V\,dieu
 440,66,3,nouz,nouz,66,Prn,Prn$$,C/V\,nous
 441,66,4,face,face,66,Vfin,Vfin,'C/V\.C/(e)\,faire
 442,66,5,resjoïr,resjoir,66,Vinf,Vinf,C/V\.C/V\.'C/V\,réjouir
@@ -697,7 +697,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 696,106,6,deffendre,deffendre,106,Vinf,Vinf,C/V\.'C/V\.C/(e)\,défendre
 697,106,7,.,.,106,Pnc,Pnc,,.
 698,107,1,Et,et,107,Crd,Crd,/V\,et
-699,107,2,Diex,diex,107,N,N,C/V\,Dieu
+699,107,2,Diex,diex,107,N,N,C/V\,dieu
 700,107,3,",",",",107,Pnc,Pnc,,","
 701,107,4,qui,qui,107,Qux,Qux,C/V\,qui
 702,107,5,sez,sëz,107,Det,Det,C/e\,son
@@ -744,7 +744,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 743,113,6,mendre,mendre,113,Adj,Adj,'C/V\.C/(e)\,mineur
 744,113,7,grace,grace,113,N,N,'C/V\.C/(e)\,grâce
 745,114,1,Que,que,114,Qux,Qux,C/(e)\,que
-746,114,2,Diex,diex,114,N,N,C/V\,Dieu
+746,114,2,Diex,diex,114,N,N,C/V\,dieu
 747,114,3,a,a,114,Pre,Pre,/V\,à
 748,114,4,sa,sa,114,Det,Det,C/V\,son
 749,114,5,fecture,fecture,114,N,N,C/V\.'C/V\.C/(e)\,faiture
@@ -839,7 +839,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 838,127,4,pensee,pensee,127,N,N,C/V\.'C/V\./(e)\,pensée
 839,127,5,mise,mise,127,Vpp,Vpp,'C/V\.C/(e)\,mettre
 840,128,1,En,en,128,Pre,Pre,/V\,en
-841,128,2,Dieu,dieu,128,N,N,C/V\,Dieu
+841,128,2,Dieu,dieu,128,N,N,C/V\,dieu
 842,128,3,amer,amer,128,Vinf,Vinf,/V\.'C/V\,aimer
 843,128,4,et,et,128,Crd,Crd,/V\,et
 844,128,5,Sainte,sainte,128,Adj,Adj,'C/V\.C/(e)\,saint
@@ -1663,7 +1663,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 1662,253,3,feire,feire,253,Vinf,Vinf,'C/V\.C/(e)\,faire
 1663,253,4,l',l',253,Det,Det,C/\,le
 1664,253,5,amour,amour,253,N,N,/V\.'C/V\,amour
-1665,253,6,Dieu,dieu,253,N,N,C/V\,Dieu
+1665,253,6,Dieu,dieu,253,N,N,C/V\,dieu
 1666,253,7,perdre,perdre,253,Vinf,Vinf,'C/V\.C/(e)\,perdre
 1667,253,8,:,:,253,Pnc,Pnc,,:
 1668,254,1,Par,par,254,Pre,Pre,C/V\,par
@@ -1693,7 +1693,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 1692,257,6,avise,avise,257,Vfin,Vfin,/V\.'C/V\.C/(e)\,aviser
 1693,258,1,Qui,qui,258,Qux,Qux,C/V\,qui
 1694,258,2,en,en,258,Pre,Pre,/V\,en
-1695,258,3,Dieu,dieu,258,N,N,C/V\,Dieu
+1695,258,3,Dieu,dieu,258,N,N,C/V\,dieu
 1696,258,4,ot,ot,258,Vfin,Vfin,/V\,avoir
 1697,258,5,s',s',258,Det,Det,C/\,son
 1698,258,6,entente,entente,258,N,N,/V\.'C/V\.C/(e)\,entente
@@ -1999,7 +1999,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 1998,303,6,couvient,couvient,303,Vfin,Vfin,C/V\.'C/V\,convenir
 1999,303,7,!,!,303,Pnc,Pnc,,!
 2000,303,8,»,»,303,Pnc,Pnc,,»
-2001,304,1,Dex,dex,304,N,N,C/V\,Dieu
+2001,304,1,Dex,dex,304,N,N,C/V\,dieu
 2002,304,2,!,!,304,Pnc,Pnc,,!
 2003,304,3,de,de,304,Pre,Pre,C/(e)\,de
 2004,304,4,tout,tout,304,QIs,QIs,C/V\,tout
@@ -2250,7 +2250,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 2249,338,2,",",",",338,Pnc,Pnc,,","
 2250,338,3,par,par,338,Pre,Pre,C/V\,par
 2251,338,4,celi,celi,338,Dem,Dem,C/V\.'C/V\,cil
-2252,338,5,Dieu,dieu,338,N,N,C/V\,Dieu
+2252,338,5,Dieu,dieu,338,N,N,C/V\,dieu
 2253,338,6,que,que,338,Qux,Qux,C/(e)\,que
 2254,338,7,j',j',338,Prn,Prn$,C/\,je
 2255,338,8,aour,aour,338,Vfin,Vfin,/(V)\.'/V\,aorer
@@ -2654,7 +2654,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 2653,398,1,Or,or,398,Adv,Adv,/V\,or
 2654,398,2,vous,vous,398,Prn,Prn$$,C/V\,vous
 2655,398,3,doinst,doinst,398,Vfin,Vfin,C/V\,donner
-2656,398,4,Dex,dex,398,N,N,C/V\,Dieu
+2656,398,4,Dex,dex,398,N,N,C/V\,dieu
 2657,398,5,grace,grace,398,N,N,'C/V\.C/(e)\,grâce
 2658,398,6,et,et,398,Crd,Crd,/V\,et
 2659,398,7,eür,eur,398,N,N,/(V)\.'/V\,heur
@@ -2686,7 +2686,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 2685,403,2,pere,pere,403,N,N,'C/V\.C/(e)\,père
 2686,403,3,",",",",403,Pnc,Pnc,,","
 2687,403,4,pour,pour,403,Pre,Pre,C/V\,pour
-2688,403,5,Dieu,dieu,403,N,N,C/V\,Dieu
+2688,403,5,Dieu,dieu,403,N,N,C/V\,dieu
 2689,403,6,prenez,prenez,403,Vfin,Vfin,C/V\.'C/V\,prendre
 2690,403,7,garde,garde,403,N,N,'C/V\.C/(e)\,garde
 2691,404,1,Com,com,404,Sub,Sub,C/V\,comme
@@ -2697,7 +2697,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 2696,404,6,",",",",404,Pnc,Pnc,,","
 2697,405,1,Laide,laide,405,Adj,Adj,'C/V\.C/(e)\,laid
 2698,405,2,a,a,405,Pre,Pre,/V\,à
-2699,405,3,Dieu,dieu,405,N,N,C/V\,Dieu
+2699,405,3,Dieu,dieu,405,N,N,C/V\,dieu
 2700,405,4,",",",",405,Pnc,Pnc,,","
 2701,405,5,au,au,405,Pre+Det,Pre+Det,/V\,à.le
 2702,405,6,siecle,siecle,405,N,N,'C/V\.C/(e)\,siècle
@@ -2751,7 +2751,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 2750,414,1,L',l',414,Det,Det,C/\,le
 2751,414,2,amor,amor,414,N,N,/V\.'C/V\,amour
 2752,414,3,de,de,414,Pre,Pre,C/(e)\,de
-2753,414,4,Dieu,dieu,414,N,N,C/V\,Dieu
+2753,414,4,Dieu,dieu,414,N,N,C/V\,dieu
 2754,414,5,perdriéz,perdriez,414,Vfin,Vfin,C/V\.C/<V>\.'/V\,perdre
 2755,414,6,toute,toute,414,QIs,QIs,'C/V\.C/(e)\,tout
 2756,414,7,;,;,414,Pnc,Pnc,,;
@@ -2809,7 +2809,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 2808,422,5,orpheline,orpheline,422,N,N,/V\.C/e\.'C/V\.C/(e)\,orphelin
 2809,423,1,N',n',423,Neg,Neg$$,C/\,ne
 2810,423,2,envoia,envoia,423,Vfin,Vfin,/V\.C/V\.'C/V\,envoyer
-2811,423,3,Dex,dex,423,N,N,C/V\,Dieu
+2811,423,3,Dex,dex,423,N,N,C/V\,dieu
 2812,423,4,tele,tele,423,Adj,Adj,'C/V\.C/(e)\,tel
 2813,423,5,aventure,aventure,423,N,N,/V\.C/V\.'C/V\.C/(e)\,aventure
 2814,423,6,",",",",423,Pnc,Pnc,,","
@@ -3265,7 +3265,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma
 3264,489,3,je,je,489,Prn,Prn%,C/(e)\,je
 3265,489,4,",",",",489,Pnc,Pnc,,","
 3266,489,5,se,se,489,Sub,Sub,C/(e)\,si
-3267,489,6,Dex,dex,489,N,N,C/V\,Dieu
+3267,489,6,Dex,dex,489,N,N,C/V\,dieu
 3268,489,7,me,me,489,Prn,Prn$$,C/(e)\,me
 3269,489,8,gart,gart,489,Vfin,Vfin,C/V\,garder
 3270,489,9,!,!,489,Pnc,Pnc,,!
