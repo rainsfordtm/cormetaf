@@ -14,9 +14,9 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 13,3,1,es,es,ADV,11,NVP,NVP,es2,/V\,ADV,es,10,,
 14,3,2,lor,lor,PRO:pers:dat:3:pl,11,Prn,Prn,leur,C/V\,PRON,leur,10,,
 15,3,3,puinnant,puinnant,VER:ppre,11,Vprs,Vprs,poindre,C/V\.'C/V\,VERB,poindre,10,,
-16,3,4,gautier,gautier,NPR:obj:masc:sg,11,N,N,,C/V\.'C/V\,NOUN,gautier,8,,
+16,3,4,gautier,gautier,NPR:obj:masc:sg,11,N,N,,C/V\.'C/V\,NOUN,gautier,8,Gautier,
 17,3,5,de,de,PRE,11,Pre,Pre,de,C/(e)\,ADP,de,10,,
-18,3,6,maus,maus,NPR:obj:masc:sg,11,N,N,mal,C/V\,PROPN|NOUN,mal,10,,
+18,3,6,maus,maus,NPR:obj:masc:sg,11,N,N,mal,C/V\,PROPN|NOUN,mal,10,Maus,
 19,4,1,fiz,fiz,NOM:obj:masc:sg,12,N,N,,C/V\,NOUN,fils,8,,
 20,4,2,erneis,erneis,NOM:obj:masc:sg,12,N,N,,/V\.C/(V)\.'/V\,PROPN|NOUN,UNKNOWN,-10,Erneis,Name
 21,4,3,un,un,DET:ndf:obj:masc:sg,12,QIs,QIs,un,/V\,DET,un,10,,
@@ -52,7 +52,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 51,9,2,il,il,PRO:pers:suj:3:masc:sg:unb,17,Prn,Prn$,il,/V\,PRON,il,10,,
 52,9,3,en,en,PRO:clit,17,Prn,Prn$$,en2,/V\,PRON,en,10,,
 53,9,4,fist,fist,VER:simp:3:sg,17,Vfin,Vfin,faire,C/V\,VERB,faire,10,,
-54,9,5,raer,raer,VER:infi,17,Vinf,Vinf,,C/(V)\.'/V\,VERB,rayer,0,,
+54,9,5,raer,raer,VER:infi,17,Vinf,Vinf,,C/(V)\.'/V\,VERB,rayer,0,rayer3,
 55,9,6,le,le,DET:def:obj:masc:sg,17,Det,Det,le,C/(e)\,DET,le,10,,
 56,9,7,sanc,sanc,NOM:obj:masc:sg,17,N,N,,C/V\,NOUN,sang,8,,
 57,10,1,al,al,PREDET:a:obj:masc:sg,18,Pre+Det,Pre+Det,à.le,/V\,ADP.DET,à.le,10,,
@@ -77,7 +77,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 76,13,2,hauberc,hauberc,NOM:obj:masc:sg,21,N,N,,C/V\.'C/V\,NOUN,haubert,8,,
 77,13,3,desmaele,desmaele,VER:pres:3:sg,21,Vfin,Vfin,démailler,C/V\.'C/V\.C/(e)\,VERB,démailler,10,,
 78,13,4,e,e,CON:coord,21,Crd,Crd,et,/V\,CCONJ,et,10,,
-79,13,5,dement,dement,VER:pres:3:sg,21,Vfin,Vfin,,C/V\.'C/V\,VERB,démenter,3,,
+79,13,5,dement,dement,VER:pres:3:sg,21,Vfin,Vfin,,C/V\.'C/V\,VERB,démenter,3,démentir,
 80,14,1,passé,passé,VER:pper:masc:sg,22,Vpp,Vpp,passer,C/V\.'C/V\,VERB,passer,10,,
 81,14,2,li,li,PRO:pers:suj:3:masc:sg:bet,22,Prn,Prn$$,li,C/V\,PRON,li,10,,
 82,14,3,ad,ad,VER:pres:3:sg,22,Vfin,Vfin,avoir,/V\,VERB,avoir,10,,
@@ -97,7 +97,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 96,16,5,ne,ne,PRO:clit,24,Neg,Neg$$,ne,C/(e)\,ADV,ne,10,,
 97,16,6,li,li,PRO:pers:suj:3:masc:sg:bet,24,Prn,Prn$$,li,C/V\,PRON,li,10,,
 98,16,7,fist,fist,VER:simp:3:sg,24,Vfin,Vfin,faire,C/V\,VERB,faire,10,,
-99,16,8,dam,dam,NOM:obj:masc:sg,24,N,N,,C/V\,NOUN,dan,3,,
+99,16,8,dam,dam,NOM:obj:masc:sg,24,N,N,,C/V\,NOUN,dan,3,dam,
 100,17,1,gormund,gormund,NPR:suj:masc:sg,25,N,N,,C/V\.'C/V\,PROPN|NOUN,UNKNOWN,-10,Gormond,Gormond et Isembart - Wikipedia 
 101,17,2,li,li,PRO:pers:suj:3:masc:sg:bet,25,Prn,Prn$$,li,C/V\,PRON,li,10,,
 102,17,3,lance,lance,VER:pres:3:sg,25,Vfin,Vfin,,'C/V\.C/(e)\,VERB,lancer,8,,
@@ -138,9 +138,9 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 137,23,1,se,se,PROCON,31,Sub,Sub,si3,C/(e)\,SCONJ,si,10,,
 138,23,2,il,il,PRO:pers:suj:3:masc:sg:unb,31,Prn,Prn$,il,/V\,PRON,il,10,,
 139,23,3,creust,creust,VER:subi:3:sg,31,Vfin,Vfin,croire,C/(V)\.'/V\,VERB,croire,10,,
-140,23,4,deu,deu,NOM:obj:masc:sg,31,N,N,,C/V\,PROPN,Dieu,3,,
+140,23,4,deu,deu,NOM:obj:masc:sg,31,N,N,,C/V\,PROPN,Dieu,3,dieu,
 141,23,5,le,le,DET:def:obj:masc:sg,31,Det,Det,le,C/(e)\,DET,le,10,,
-142,23,6,poant,poant,ADJ:obj:masc:sg,31,Adj,Adj,,C/V\.'C/V\,ADJ,pouvoir,-1,pouvoir2,DMF
+142,23,6,poant,poant,ADJ:obj:masc:sg,31,Vprs,Vprs,,C/V\.'C/V\,ADJ,pouvoir,-1,pouvoir2,DMF
 143,24,1,s,s,PROCON,32,Prn,Prn$$,se,C/\,PRON,se,10,,
 144,24,2,est,est,VER:pres:3:sg,32,Vfin,Vfin,être,/V\,VERB,être,10,,
 145,24,3,escrié,escrié,VER:pper:masc:sg,32,Vpp,Vpp,écrier,/V\.C/V\.'C/V\,VERB,écrier,10,,
@@ -167,7 +167,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 166,27,6,sul,sul,ADJ:suj:masc:sg,35,Adj,Adj,seul,C/V\,ADJ,seul,10,,
 167,27,7,s,s,PROCON,35,Prn,Prn$$,se,C/\,PRON,se,10,,
 168,27,8,en,en,PRO:clit,35,Prn,Prn$$,en2,/V\,PRON,en,10,,
-169,27,9,vant,vant,VER:subp:3:sg,35,Vfin,Vfin,,C/V\,VERB,vendre,3,,
+169,27,9,vant,vant,VER:subp:3:sg,35,Vfin,Vfin,,C/V\,VERB,vendre,3,vanter,
 170,28,1,tuz,tuz,PRO:ind:suj:masc:pl,36,QIs,QIs,tout,C/V\,PRON,tout,10,,
 171,28,2,serrunt,serrunt,VER:futu:3:pl,36,Vfin,Vfin,être,C/V\.'C/V\,VERB,être,10,,
 172,28,3,mort,mort,VER:pper:masc:sg,36,Vpp,Vpp,mourir,C/V\,VERB,mourir,10,,
@@ -195,9 +195,9 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 194,32,3,li,li,PRO:pers:suj:3:masc:sg:bet,40,Prn,Prn$$,li,C/V\,PRON,li,10,,
 195,32,4,baille,baille,VER:pres:3:sg,40,Vfin,Vfin,bailler,'C/V\.C/(e)\,VERB,bailler,10,,
 196,32,5,un,un,DET:ndf:obj:masc:sg,40,QIs,QIs,un,/V\,DET,un,10,,
-197,32,6,tuenard,tuenard,NOM:obj:masc:sg,40,N,N,,C/V\.C/(V)\.'/V\,NOUN,touandard,-10,tonner,DMF
+197,32,6,tuenard,tuenard,NOM:obj:masc:sg,40,N,N,,C/V\.C/(V)\.'/V\,NOUN,touandard,-10,toenart,DMF
 198,33,1,desus,desus,ADV,41,PrA,PrA,dessus,C/V\.'C/V\,ADV,dessus,10,,
-199,33,2,qaiou,qaiou,NPR:obj:masc:sg,41,N,N,,C/V\.'C/V\,PROPN|NOUN,UNKNOWN,-10,?,
+199,33,2,qaiou,qaiou,NPR:obj:masc:sg,41,N,N,,C/V\.'C/V\,PROPN|NOUN,UNKNOWN,-10,Qaiou,
 200,33,3,a,a,PRE,41,Pre,Pre,à,/V\,ADP,à,10,,
 201,33,4,la,la,DET:def:obj:femi:sg,41,Det,Det,le,C/V\,DET,le,10,,
 202,33,5,chapele,chapele,NOM:obj:femi:sg,41,N,N,,C/V\.'C/V\.C/(e)\,NOUN,chapelle,8,,
@@ -228,15 +228,15 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 227,38,1,eis,eis,ADV,47,NVP,NVP,es2,/V\,ADV,es,10,,
 228,38,2,lur,lur,PRO:pers:dat:3:pl,47,Prn,Prn,leur,C/V\,PRON,leur,10,,
 229,38,3,puinnan(ai)t,puinnant,VER:impf:3:sg,47,Vfin,Vfin,,C/V\.'C/V\,VERB,UNKNOWN,-10,poindre,DMF
-230,38,4,tierri,tierri,NPR:obj:masc:sg,47,N,N,,C/V\.'C/V\,NOUN,Thiery,2,,
+230,38,4,tierri,tierri,NPR:obj:masc:sg,47,N,N,,C/V\.'C/V\,NOUN,Thiery,2,Thierry,
 231,38,5,de,de,PRE,47,Pre,Pre,de,C/(e)\,ADP,de,10,,
-232,38,6,termes,termes,NPR:obj:masc:sg,47,N,N,,'C/V\.C/e\,NOUN,terme,9,,
+232,38,6,termes,termes,NPR:obj:masc:sg,47,N,N,,'C/V\.C/e\,NOUN,terme,9,Termes,
 233,39,1,sur,sur,PRE,48,PrA,PrA,sur,C/V\,ADP,sur,10,,
 234,39,2,un,un,DET:ndf:obj:masc:sg,48,QIs,QIs,un,/V\,DET,un,10,,
 235,39,3,cheval,cheval,NOM:obj:masc:sg,48,N,N,,C/V\.'C/V\,NOUN,cheval,8,,
 236,39,4,bai,bai,ADJ:obj:masc:sg,48,Adj,Adj,,C/V\,ADJ,bai,9,,
 237,39,5,de,de,PRE,48,Pre,Pre,de,C/(e)\,ADP,de,10,,
-238,39,6,chastele,chastele,NPR:obj:masc:sg,48,N,N,,C/V\.'C/V\.C/(e)\,NOUN,châtelle,-10,château,DMF
+238,39,6,chastele,chastele,NPR:obj:masc:sg,48,N,N,,C/V\.'C/V\.C/(e)\,NOUN,châtelle,-10,Chastele,DMF
 239,40,1,gesques,gesques,ADV,49,PrA,PrA,jusque,'C/V\.C/e\,ADP,jusque,10,,
 240,40,2,al,al,PREDET:a:obj:masc:sg,49,Pre+Det,Pre+Det,à.le,/V\,ADP.DET,à.le,10,,
 241,40,3,rei,rei,NOM:obj:masc:sg,49,N,N,,C/V\,NOUN,roi,8,,
@@ -294,7 +294,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 293,48,3,ad,ad,VER:pres:3:sg,57,Vfin,Vfin,avoir,/V\,VERB,avoir,10,,
 294,48,4,dit,dit,VER:pper:masc:sg,57,Vpp,Vpp,dire,C/V\,VERB,dire,10,,
 295,48,5,une,une,DET:ndf:obj:femi:sg,57,QIs,QIs,un,'/V\.C/(e)\,DET,un,10,,
-296,48,6,nuvele,nuvele,NOM:obj:femi:sg,57,N,N,,C/V\.'C/V\.C/(e)\,NOUN,nouveau,5,,
+296,48,6,nuvele,nuvele,NOM:obj:femi:sg,57,N,N,,C/V\.'C/V\.C/(e)\,NOUN,nouveau,5,nouvelle,
 297,49,1,qui,qui,PROCON,58,Qux,Qux,qui,C/V\,PRON,qui,10,,
 298,49,2,as,as,PREDET:a:obj:masc:pl,58,Pre+Det,Pre+Det,à.le,/V\,ADP.DET,à.le,10,,
 299,49,3,franceis,franceis,NOM:obj:masc:pl,58,Adj,Adj,français,C/V\.'C/V\,ADJ,français,10,,
@@ -305,7 +305,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 304,50,1,"""","""",PON:cit,59,Pnc,Pnc,,,PUNCT,"""",9,,
 305,50,2,le,le,DET:def:suj:masc:sg,59,Det,Det,le,C/(e)\,DET,le,10,,
 306,50,3,vostre,vostre,ADJ:poss:suj:masc:sg,59,Adj,Adj,votre,'C/V\.C/(e)\,ADJ,votre,10,,
-307,50,4,deu,deu,NOM:suj:masc:sg,59,N,N,,C/V\,PROPN,Dieu,3,,
+307,50,4,deu,deu,NOM:suj:masc:sg,59,N,N,,C/V\,PROPN,Dieu,3,dieu,
 308,50,5,n,n,PRO:clit,59,Neg,Neg$$,ne,C/\,ADV,ne,10,,
 309,50,6,est,est,VER:pres:3:sg,59,Vfin,Vfin,être,/V\,VERB,être,10,,
 310,50,7,tant,tant,ADV,59,QIs,QIs,tant,C/V\,ADV,tant,10,,
@@ -339,9 +339,9 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 338,55,4,li,li,PRO:pers:suj:3:masc:sg:bet,64,Prn,Prn$$,li,C/V\,PRON,li,10,,
 339,55,5,baille,baille,VER:pres:3:sg,64,Vfin,Vfin,bailler,'C/V\.C/(e)\,VERB,bailler,10,,
 340,55,6,un,un,DET:ndf:obj:masc:sg,64,QIs,QIs,un,/V\,DET,un,10,,
-341,55,7,toenart,toenart,NOM:obj:masc:sg,64,N,N,,C/V\.C/e\.'C/V\,NOUN,tounard,-10,tonner,DMF
+341,55,7,toenart,toenart,NOM:obj:masc:sg,64,N,N,,C/V\.C/e\.'C/V\,NOUN,tounard,-10,toenart,DMF
 342,56,1,desus,desus,ADV,65,PrA,PrA,dessus,C/V\.'C/V\,ADV,dessus,10,,
-343,56,2,qaiou,qaiou,NPR:obj:masc:sg,65,N,N,,C/V\.'C/V\,PROPN|NOUN,UNKNOWN,-10,?,
+343,56,2,qaiou,qaiou,NPR:obj:masc:sg,65,N,N,,C/V\.'C/V\,PROPN|NOUN,UNKNOWN,-10,Qaiou,
 344,56,3,en,en,PRE,65,Pre,Pre,en,/V\,ADP,en,10,,
 345,56,4,la,la,DET:def:obj:femi:sg,65,Det,Det,le,C/V\,DET,le,10,,
 346,56,5,champaine,champaine,NOM:obj:femi:sg,65,N,N,,C/V\.'C/V\.C/(e)\,NOUN,campane,6,,
@@ -368,7 +368,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 367,60,3,gormund,gormund,NPR:obj:masc:sg,69,N,N,,C/V\.'C/V\,NOUN,gormon,-10,Gormond,Gormond et Isembart - Wikipedia 
 368,60,4,celui,celui,PRO:demo:obj:masc:sg,69,Dem,Dem,cil,C/V\.'C/V\,PRON,cil,10,,
 369,60,5,d,d,PRE,69,Pre,Pre,de,C/\,ADP,de,10,,
-370,60,6,oriente,oriente,NPR:obj:masc:sg,69,N,N,,/V\.'C/V\.C/(e)\,NOUN,orienter,2,,
+370,60,6,oriente,oriente,NPR:obj:masc:sg,69,N,N,,/V\.'C/V\.C/(e)\,NOUN,orienter,2,Oriente,
 371,61,1,sur,sur,PRE,70,PrA,PrA,sur,C/V\,ADP,sur,10,,
 372,61,2,sun,sun,DET:poss:obj:masc:sg,70,Det,Det,son4,C/V\,DET,son,10,,
 373,61,3,escu,escu,NOM:obj:masc:sg,70,N,N,,/V\.'C/V\,NOUN,écu,8,,
@@ -398,13 +398,13 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 397,65,2,li,li,PRO:pers:suj:3:masc:sg:bet,74,Prn,Prn$$,li,C/V\,PRON,li,10,,
 398,65,3,lanca,lanca,VER:simp:3:sg,74,Vfin,Vfin,,C/V\.'C/V\,VERB,lancer,8,,
 399,65,4,une,une,DET:ndf:obj:femi:sg,74,QIs,QIs,un,'/V\.C/(e)\,DET,un,10,,
-400,65,5,tambre,tambre,NOM:obj:femi:sg,74,N,N,,'C/V\.C/(e)\,NOUN,tambre,-10,timbre,DMF
+400,65,5,tambre,tambre,NOM:obj:femi:sg,74,N,N,,'C/V\.C/(e)\,NOUN,tambre,-10,tambre,DMF
 401,66,1,parmi,parmi,PRE,75,PrA,PrA,parmi,C/V\.'C/V\,ADP,parmi,10,,
 402,66,2,le,le,DET:def:obj:masc:sg,75,Det,Det,le,C/(e)\,DET,le,10,,
 403,66,3,cors,cors,NOM:obj:masc:sg,75,N,N,,C/V\,NOUN,corps,3,,
 404,66,4,li,li,PRO:pers:suj:3:masc:sg:bet,75,Prn,Prn$$,li,C/V\,PRON,li,10,,
 405,66,5,vait,vait,VER:pres:3:sg,75,Vfin,Vfin,aller,C/V\,VERB,aller,10,,
-406,66,6,bruiante,bruiante,VER:ppre,75,Vprs,Vprs,,C/V\.'C/V\.C/(e)\,VERB,bruyant,2,,
+406,66,6,bruiante,bruiante,VER:ppre,75,Vprs,Vprs,,C/V\.'C/V\.C/(e)\,VERB,bruyant,2,bruire,
 407,67,1,de,de,PRE,76,Pre,Pre,de,C/(e)\,ADP,de,10,,
 408,67,2,l,l,DET:def:obj:femi:sg,76,Det,Det,le,C/\,DET,le,10,,
 409,67,3,autre,autre,ADJ:obj:femi:sg,76,Adj,Adj,autre,'/V\.C/(e)\,ADJ,autre,10,,
@@ -428,7 +428,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 427,69,3,gormund,gormund,NPR:suj:masc:sg,78,N,N,,C/V\.'C/V\,PROPN|NOUN,UNKNOWN,-10,Gormond,Gormond et Isembart - Wikipedia 
 428,69,4,cist,cist,PRO:demo:suj:masc:sg,78,Dem,Dem,cist,C/V\,PRON,cist,10,,
 429,69,5,d,d,PRE,78,Pre,Pre,de,C/\,ADP,de,10,,
-430,69,6,oriante,oriante,NPR:obj:masc:sg,78,N,N,,/V\.C/V\.'C/V\.C/(e)\,NOUN,oriente,-10,orient,DMF
+430,69,6,oriante,oriante,NPR:obj:masc:sg,78,N,N,,/V\.C/V\.'C/V\.C/(e)\,NOUN,oriente,-10,Oriente,DMF
 431,70,1,"""","""",PON:cit,79,Pnc,Pnc,,,PUNCT,"""",9,,
 432,70,2,icoste,icoste,DET:demo:suj:femi:sg,79,Dem,Dem,cist,/V\.'C/V\.C/(e)\,DET|PRON,cist,10,,
 433,70,3,fole,fole,ADJ:suj:femi:sg,79,Adj,Adj,fou,'C/V\.C/(e)\,ADJ,fou,10,,
@@ -473,7 +473,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 472,76,4,li,li,PRO:pers:suj:3:masc:sg:bet,86,Prn,Prn$$,li,C/V\,PRON,li,10,,
 473,76,5,baille,baille,VER:pres:3:sg,86,Vfin,Vfin,bailler,'C/V\.C/(e)\,VERB,bailler,10,,
 474,76,6,un,un,DET:ndf:obj:masc:sg,86,QIs,QIs,un,/V\,DET,un,10,,
-475,76,7,tuenart,tuenart,NOM:obj:masc:sg,86,N,N,,C/V\.C/e\.'C/V\,NOUN,touand,-10,tonner,DMF
+475,76,7,tuenart,tuenart,NOM:obj:masc:sg,86,N,N,,C/V\.C/e\.'C/V\,NOUN,touand,-10,toenart,DMF
 476,77,1,li,li,DET:def:suj:masc:sg,87,Det,Det,le,C/V\,DET,le,10,,
 477,77,2,estur,estur,NOM:suj:masc:sg,87,N,N,,/V\.'C/V\,NOUN,estour,9,,
 478,77,3,fut,fut,VER:simp:3:sg,87,Vfin,Vfin,être,C/V\,VERB,être,10,,
@@ -482,19 +482,19 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 481,77,6,maneis,maneis,ADV,87,Adv,Adv,,C/V\.'C/V\,ADV,manois,8,,
 482,78,1,eis,eis,ADV,88,NVP,NVP,es2,/V\,ADV,es,10,,
 483,78,2,lur,lur,PRO:pers:dat:3:pl,88,Prn,Prn,leur,C/V\,PRON,leur,10,,
-484,78,3,eodon,eodon,NPR:obj:masc:sg,88,N,N,,/(V)\./V\.'C/V\,NOUN,édon,-10,?,
+484,78,3,eodon,eodon,NPR:obj:masc:sg,88,N,N,,/(V)\./V\.'C/V\,NOUN,édon,-10,Eodon,
 485,78,4,de,de,PRE,88,Pre,Pre,de,C/(e)\,ADP,de,10,,
-486,78,5,campaneis,campaneis,NPR:obj:masc:sg,88,N,N,,C/V\.C/V\.'C/V\,NOUN,campanie,-10,campane,DMF
+486,78,5,campaneis,campaneis,NPR:obj:masc:sg,88,N,N,,C/V\.C/V\.'C/V\,NOUN,campanie,-10,champanois,DMF
 487,79,1,celui,celui,PRO:demo:obj:masc:sg,89,Dem,Dem,cil,C/V\.'C/V\,PRON,cil,10,,
 488,79,2,qui,qui,PROCON,89,Qux,Qux,qui,C/V\,PRON,qui,10,,
 489,79,3,tint,tint,VER:simp:3:sg,89,Vfin,Vfin,tenir,C/V\,VERB,tenir,10,,
-490,79,4,chartres,chartres,NPR:obj:masc:sg,89,N,N,,'C/V\.C/e\,NOUN,charte,3,,
+490,79,4,chartres,chartres,NPR:obj:masc:sg,89,N,N,,'C/V\.C/e\,NOUN,charte,3,Chartes,
 491,79,5,e,e,CON:coord,89,Crd,Crd,et,/V\,CCONJ,et,10,,
-492,79,6,bleis,bleis,NPR:obj:masc:sg,89,N,N,,C/V\,PROPN|NOUN,blé,8,,
-493,80,1,chastel,chastel,NPR:obj:masc:sg,90,N,N,,C/V\.'C/V\,NOUN,château,3,,
-494,80,2,andon,andon,NPR:obj:masc:sg,90,N,N,,/V\.'C/V\,PROPN|NOUN,UNKNOWN,-10,?,
+492,79,6,bleis,bleis,NPR:obj:masc:sg,89,N,N,,C/V\,PROPN|NOUN,blé,8,Blois,
+493,80,1,chastel,chastel,NPR:obj:masc:sg,90,N,N,,C/V\.'C/V\,NOUN,château,3,Château,
+494,80,2,andon,andon,NPR:obj:masc:sg,90,N,N,,/V\.'C/V\,PROPN|NOUN,UNKNOWN,-10,Landon,
 495,80,3,en,en,PRE,90,Pre,Pre,en,/V\,ADP,en,10,,
-496,80,4,gatineis,gatineis,NOM:obj:masc:sg,90,N,N,,C/V\.C/V\.'C/V\,NOUN,gatinet,-10,Gatinet,Gatinet - Google Maps 
+496,80,4,gatineis,gatineis,NOM:obj:masc:sg,90,N,N,,C/V\.C/V\.'C/V\,NOUN,gatinet,-10,Gâtinois,Gatinet - Google Maps 
 497,81,1,e,e,CON:coord,91,Crd,Crd,et,/V\,CCONJ,et,10,,
 498,81,2,sist,sist,VER:simp:3:sg,91,Vfin,Vfin,seoir,C/V\,VERB,seoir,10,,
 499,81,3,sur,sur,PRE,91,PrA,PrA,sur,C/V\,ADP,sur,10,,
@@ -518,7 +518,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 517,84,3,blanc,blanc,ADJ:obj:masc:sg,94,Adj,Adj,blanc,C/V\,ADJ,blanc,10,,
 518,84,4,hauberc,hauberc,NOM:obj:masc:sg,94,N,N,,C/V\.'C/V\,NOUN,haubert,8,,
 519,84,5,les,les,DET:def:obj:masc:pl,94,Det,Det,le,C/V\,DET,le,10,,
-520,84,6,pleis,pleis,NOM:obj:masc:pl,94,N,N,,C/V\,NOUN,plaire,2,,
+520,84,6,pleis,pleis,NOM:obj:masc:pl,94,N,N,,C/V\,NOUN,plaire,2,ploi,
 521,85,1,mais,mais,CON:coord,95,Crd,Crd,mais,C/V\,CCONJ,mais,10,,
 522,85,2,n,n,PRO:clit,95,Neg,Neg$$,ne,C/\,ADV,ne,10,,
 523,85,3,en,en,PRO:clit,95,Prn,Prn$$,en2,/V\,PRON,en,10,,
@@ -532,7 +532,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 531,86,3,le,le,DET:def:obj:masc:sg,96,Det,Det,le,C/(e)\,DET,le,10,,
 532,86,4,brant,brant,NOM:obj:masc:sg,96,N,N,,C/V\,NOUN,brant,9,,
 533,86,5,de,de,PRE,96,Pre,Pre,de,C/(e)\,ADP,de,10,,
-534,86,6,coleneis,coleneis,NPR:obj:masc:sg,96,N,N,,C/V\.C/e\.'C/V\,NOUN,colenais,-10,colonne,DMF
+534,86,6,coleneis,coleneis,NPR:obj:masc:sg,96,N,N,,C/V\.C/e\.'C/V\,NOUN,colenais,-10,UNKNOWN,DMF
 535,87,1,sur,sur,PRE,97,PrA,PrA,sur,C/V\,ADP,sur,10,,
 536,87,2,sun,sun,DET:poss:obj:masc:sg,97,Det,Det,son4,C/V\,DET,son,10,,
 537,87,3,helme,helme,NOM:obj:masc:sg,97,N,N,,'C/V\.C/(e)\,NOUN,heaume,9,,
@@ -551,7 +551,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 550,89,4,mort,mort,VER:pper:masc:sg,99,Vpp,Vpp,mourir,C/V\,VERB,mourir,10,,
 551,89,5,icist,icist,PRO:demo:suj:masc:sg,99,Dem,Dem,cist,/V\.'C/V\,PRON,cist,10,,
 552,89,6,por,por,PRE,99,Pre,Pre,pour,C/V\,ADP,pour,10,,
-553,89,7,veir,veir,ADJ:obj:masc:sg,99,N,N,,C/V\,PROPN|NOUN,voir,8,,
+553,89,7,veir,veir,ADJ:obj:masc:sg,99,N,N,,C/V\,PROPN|NOUN,voir,8,voir2,
 554,90,1,quant,quant,ADV,100,Sub,Sub,quand,C/V\,SCONJ,quand,10,,
 555,90,2,a,a,PRE,100,Pre,Pre,à,/V\,ADP,à,10,,
 556,90,3,lui,lui,PRO:pers:obj:3:masc:sg:bet,100,Prn,Prn,lui,C/V\,PRON,lui,10,,
@@ -572,12 +572,12 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 571,92,6,"""","""",PON:cit,102,Pnc,Pnc,,,PUNCT,"""",9,,
 572,92,7,or,or,ADV,102,Adv,Adv,or2,/V\,ADV,or,10,,
 573,92,8,est,est,VER:pres:3:sg,102,Vfin,Vfin,être,/V\,VERB,être,10,,
-574,92,9,surdeis,surdeis,ADV,102,Adj,Adj,,C/V\.'C/V\,ADJ,sourdois,-10,sourd,DMF
+574,92,9,surdeis,surdeis,ADV,102,N,N,,C/V\.'C/V\,ADJ,sourdois,-10,sourdois,DMF
 575,93,1,vus,vus,PRO:pers:2:pl,103,Prn,Prn$,vous,C/V\,PRON,vous,10,,
 576,93,2,fussiez,fussiez,VER:subi:2:pl,103,Vfin,Vfin,être,C/V\.'C/V\,VERB,être,10,,
 577,93,3,miez,miez,ADV,103,Adv,Adv,mieux,C/V\,ADV,mieux,10,,
 578,93,4,en,en,PRE,103,Pre,Pre,en,/V\,ADP,en,10,,
-579,93,5,estampeiz,estampeiz,NPR:obj:masc:sg,103,N,N,,/V\.C/V\.'C/V\,NOUN,étampes,-10,estampe,DMF
+579,93,5,estampeiz,estampeiz,NPR:obj:masc:sg,103,N,N,,/V\.C/V\.'C/V\,NOUN,étampes,-10,estampeïz,DMF
 580,94,1,perdu,perdu,VER:pper:masc:sg,104,Vpp,Vpp,perdre,C/V\.'C/V\,VERB,perdre,10,,
 581,94,2,avez,avez,VER:pres:2:pl,104,Vfin,Vfin,avoir,/V\.'C/V\,VERB,avoir,10,,
 582,94,3,vostre,vostre,DET:poss:obj:masc:sg,104,Det,Det,votre,'C/V\.C/(e)\,DET,votre,10,,
@@ -586,8 +586,8 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 585,95,2,ne,ne,PRO:clit,105,Neg,Neg$$,ne,C/(e)\,ADV,ne,10,,
 586,95,3,l,l,PRO:pers:obj:3:masc:sg:unb,105,Prn,Prn$$,le,C/\,PRON,le,10,,
 587,95,4,recovrez,recovrez,VER:futu:2:pl,105,Vfin,Vfin,recouvrer,C/V\.C/V\.'C/V\,VERB,recouvrer,10,,
-588,95,5,des,des,PREDET:de:obj:masc:pl,105,Pre+Det,Pre+Det,de.le,C/V\,ADP.DET,de.le,10,,
-589,95,6,meis,meis,NOM:obj:masc:pl,105,N,N,,C/V\,NOUN,mois,8,,
+588,95,5,des,des,PREDET:de:obj:masc:pl,105,Pre,Pre,de.le,C/V\,ADP.DET,de.le,10,dès,
+589,95,6,meis,meis,NOM:obj:masc:pl,105,N,N,,C/V\,NOUN,mois,8,mais,
 590,96,1,ci,ci,ADV,106,Adv,Adv,ci,C/V\,ADV,ci,10,,
 591,96,2,remeindrez,remeindrez,VER:futu:2:pl,106,Vfin,Vfin,remanoir,C/V\.C/V\.'C/V\,VERB,remanoir,10,,
 592,96,3,ensemble,ensemble,ADV,106,Adv,Adv,ensemble,/V\.'C/V\.C/(e)\,ADV,ensemble,10,,
@@ -596,7 +596,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 595,97,1,ostel,ostel,NOM:obj:masc:sg,107,N,N,,/V\.'C/V\,NOUN,hôtel,3,,
 596,97,2,prendrez,prendrez,VER:futu:2:pl,107,Vfin,Vfin,prendre,C/V\.'C/V\,VERB,prendre,10,,
 597,97,3,al,al,PREDET:a:obj:masc:sg,107,Pre+Det,Pre+Det,à.le,/V\,ADP.DET,à.le,10,,
-598,97,4,briuerei,briuerei,NOM:obj:masc:sg,107,N,N,,C/V\.C/e\.'C/V\,NOUN,briveri,-10,brimberie,DMF
+598,97,4,briuerei,briuerei,NOM:obj:masc:sg,107,N,N,,C/V\.C/e\.'C/V\,NOUN,briveri,-10,UNKNOWN,DMF
 599,97,5,"""","""",PON:cit,107,Pnc,Pnc,,,PUNCT,"""",9,,
 600,98,1,il,il,PRO:pers:suj:3:masc:sg:unb,108,Prn,Prn$,il,/V\,PRON,il,10,,
 601,98,2,li,li,PRO:pers:suj:3:masc:sg:bet,108,Prn,Prn$$,li,C/V\,PRON,li,10,,
@@ -605,7 +605,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 604,98,5,dart,dart,NOM:obj:masc:sg,108,N,N,,C/V\,NOUN,dard,9,,
 605,98,6,tut,tut,PRO:ind:obj:masc:sg,108,QIs,QIs,tout,C/V\,ADV,tout,10,,
 606,98,7,dreit,dreit,ADJ:obj:masc:sg,108,Adv,Adv,droit2,C/V\,ADV,droit,10,,
-607,99,1,deu,deu,NOM:suj:masc:sg,109,N,N,,C/V\,PROPN,Dieu,3,,
+607,99,1,deu,deu,NOM:suj:masc:sg,109,N,N,,C/V\,PROPN,Dieu,3,dieu,
 608,99,2,l,l,PRO:pers:obj:3:masc:sg:unb,109,Prn,Prn$$,le,C/\,PRON,le,10,,
 609,99,3,ad,ad,VER:pres:3:sg,109,Vfin,Vfin,avoir,/V\,VERB,avoir,10,,
 610,99,4,guari,guari,VER:pper:masc:sg,109,Vpp,Vpp,guérir,C/V\.'C/V\,VERB,guérir,10,,
@@ -652,7 +652,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 651,106,3,gormund,gormund,NPR:obj:masc:sg,116,N,N,,C/V\.'C/V\,NOUN,gormon,-10,Gormond,Gormond et Isembart - Wikipedia 
 652,106,4,el,el,PREDET:en:obj:masc:sg,116,Pre+Det,Pre+Det,en.le,/V\,ADP.DET,en.le,10,,
 653,106,5,pui,pui,NOM:obj:masc:sg,116,N,N,,C/V\,NOUN,puy,8,,
-654,106,6,ester,ester,VER:infi,116,Vinf,Vinf,être,/V\.'C/V\,VERB,être,10,,
+654,106,6,ester,ester,VER:infi,116,Vinf,Vinf,être,/V\.'C/V\,VERB,être,10,ester,
 655,107,1,si,si,PROCON,117,Sub,Sub,si3,C/V\,SCONJ,si,10,,
 656,107,2,lors,lors,ADV,117,Adv,Adv,lors,C/V\,ADV,lors,10,,
 657,107,3,ne,ne,PRO:clit,117,Neg,Neg$$,ne,C/(e)\,ADV,ne,10,,
@@ -718,7 +718,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 717,116,6,letré,letré,VER:pper:masc:sg,126,Vpp,Vpp,,C/V\.'C/V\,VERB,lettré|litteré,-1,lettré,DMF
 718,117,1,gesqu,gesqu,ADV,128,PrA,PrA,jusque,C/V\,ADP,jusque,10,,
 719,117,2,al,al,PREDET:a:obj:masc:sg,128,Pre+Det,Pre+Det,à.le,/V\,ADP.DET,à.le,10,,
-720,117,3,brael,brael,NOM:obj:masc:sg,128,N,N,,C/(V)\.'/V\,NOUN,brayer,6,,
+720,117,3,brael,brael,NOM:obj:masc:sg,128,N,N,,C/(V)\.'/V\,NOUN,brayer,6,STOP,
 721,117,4,l,l,PRO:pers:obj:3:masc:sg:unb,128,Prn,Prn$$,le,C/\,PRON,le,10,,
 722,117,5,at,at,VER:pres:3:sg,128,Vfin,Vfin,avoir,/V\,VERB,avoir,10,,
 723,117,6,tut,tut,PRO:ind:obj:masc:sg,128,QIs,QIs,tout,C/V\,ADV,tout,10,,
