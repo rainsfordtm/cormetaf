@@ -89,14 +89,13 @@ In general, all forms which inflect for case and gender are lemmatized
 using the oblique (masculine) singular, which in most cases corresponds
 to the contemporary French masculine singular.  Notable exceptions are:
 + the nominative subject pronouns _je_, _tu_, _il_, _elle_ and the disjunctive
-third-person pronouns _lui_, _li_, _eux_, _elles_ which are treated as
+third-person pronouns _lui_, _li_, _eux_, _elles_ which are all treated as
 separate lemmas;
-+ the demonstratives _cil_ and _cist_, which are lemmatized using the
-nominative singular to prevent confusion with the very different syntax
-of their contemporary French descendents;
++ the demonstratives _cil_ and _cist_, which follow the _DMF_ in being
+lemmatized using the nominative singular;
 + a limited number of common nouns where the DMF **only** contains the 
 nominative as the headword, typically because only the nominative survives
-into contemporary French, e.g. _traître_, _prêtre_.
+into contemporary French, e.g. _traître_, _prêtre_;
 + many proper nouns, in particular where the former nominative is
 predominant in contemporary French, e.g. _Charles_ not _Charlon_.
 
@@ -171,3 +170,48 @@ vowel-initial word stressed on the final syllable.
 The `syllabified` annotation has been removed from the compiled corpus.
 
 
+## Appendix: Syntag tagset
+
+The logic behind the `syntag` tagset is to code the underlying
+morphological and syntactic properties of a given lexeme rather than 
+its surface function. It seeks to operate on the principle of "one
+lemma, one tag".
+For example, all forms of the demonstrative *cil* are tagged as `Dem`
+regardless of whether they function as determiners or pronouns. When the
+corpus was created, this had an additional practical advantage, which was
+that these kinds of tags were simpler to check for consistency. 
+
+Some forms have a joint tag, for example `Pre+Det` for preposition plus
+determiner portemanteau forms.
+
+### Lexical classes
+
+| __Tag__ | __Description__                                            |
+| ------- | ---------------------------------------------------------- |
+| `Adj`  | adjective                                                   |
+| `Adv`  | adverb (never prepositional)                                |
+| `Etr`  | foreign word                                                |
+| `Exc`  | exclamation / interjection                                  |
+| `Let`  | letter of the alphabet                                      |
+| `N`    | noun                                                        |
+| `Pnc`  | punctuation                                                 |
+| `PrA`  | preposition--adverbs                                        |
+| `QIs`  | quantifiers and indefinites, incl. numbers                  |
+| `Vfin` | finite verb                                                 |
+| `Vinf` | infinitive                                                  |
+| `Vpp`  | past participle                                             |
+| `Vprs` | present participle                                          |
+
+### Functional classes
+
+| __Tag__ | __Description__                        | __Lemmas__        |
+| ------- | -------------------------------------- | ----------------- |
+| `Crd`   | coordinating conjunction               | _ains, car, et, mais, ne2, ou, que_ |
+| `Dem`   | demonstrative modifiers/pronouns       | _cil, cist, ledit_ |
+| `Det`   | determiner (definite or possessive)    | _le, mon, ton2, son4, notre, votre, leur2_ |
+| `Neg`   | negative marker                        | _ne, non; pas, point, mie3_ |
+| `NVP`   | non-verbal predicate                   | _oui, non, nenni; es2; voici, voilà_ |
+| `Pre`   | preposition (never without complement) | _à, chez, de, dès, en, être4, lez, o, par, pour, (sans), sauf, vers2_ |
+| `Prn`   | pronoun (never modifier)               | _ce, ceci, cela, el, elle, en2, eux, il, je, le, leur, li, lui, me, moi, néant(?), nous, o4, on, se, soi, te, toi, tu, vous, y2_ |
+| `Qux`   | _wh-_ (_qu-_) words                    | _combien, comment, cui, dont, lequel, où, parquoi, pourquoi, quand, quanque, quant, que, quel, quelconque, qui, quiconque, quique, quoi, quoique_ |
+| `Sub`   | subordinating conjunction              | _comme, jusque, quand, que, si3_ |
