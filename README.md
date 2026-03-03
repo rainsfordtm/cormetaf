@@ -188,15 +188,15 @@ determiner portemanteau forms.
 
 | __Tag__ | __Description__                                            |
 | ------- | ---------------------------------------------------------- |
-| `Adj`  | adjective                                                   |
-| `Adv`  | adverb (never prepositional)                                |
+| `Adj`  | adjective in the broadest sense of "noun modifier"          |
+| `Adv`  | adverb without prepositional uses                           |
 | `Etr`  | foreign word                                                |
 | `Exc`  | exclamation / interjection                                  |
 | `Let`  | letter of the alphabet                                      |
 | `N`    | noun                                                        |
 | `Pnc`  | punctuation                                                 |
-| `PrA`  | preposition--adverbs                                        |
-| `QIs`  | quantifiers and indefinites, incl. numbers                  |
+| `PrA`  | "preposition--adverbs", can occur without a nominal         |
+| `QIs`  | quantifiers and indefinites, both modifiers and pronouns    |
 | `Vfin` | finite verb                                                 |
 | `Vinf` | infinitive                                                  |
 | `Vpp`  | past participle                                             |
@@ -211,7 +211,7 @@ determiner portemanteau forms.
 | `Det`   | determiner (definite or possessive)    | _le, mon, ton2, son4, notre, votre, leur2_ |
 | `Neg`   | negative marker                        | _ne, non; pas, point, mie3_ |
 | `NVP`   | non-verbal predicate                   | _oui, non, nenni; es2; voici, voilà_ |
-| `Pre`   | preposition (never without complement) | _à, chez, de, dès, en, être4, lez, o, par, pour, (sans), sauf, vers2_ |
+| `Pre`   | preposition (always with complement)   | _à, chez, de, dès, en, être4, lez, o, par, pour, (sans), sauf, vers2_ |
 | `Prn`   | pronoun (never modifier)               | _ce, ceci, cela, el, elle, en2, eux, il, je, le, leur, li, lui, me, moi, néant(?), nous, o4, on, se, soi, te, toi, tu, vous, y2_ |
 | `Qux`   | _wh-_ (_qu-_) words                    | _combien, comment, cui, dont, lequel, où, parquoi, pourquoi, quand, quanque, quant, que, quel, quelconque, qui, quiconque, quique, quoi, quoique_ |
 | `Sub`   | subordinating conjunction              | _comme, jusque, quand, que, si3_ |
