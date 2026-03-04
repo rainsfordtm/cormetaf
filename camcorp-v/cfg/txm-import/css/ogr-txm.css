@@ -1,0 +1,143 @@
+/*  
+   Stylesheet for OGR corpus in TXM copyright © 2021 T. M. Rainsford, Institut für Linguistik/Romanistik, Universität Stuttgart 
+   Original TXM stylesheet copyright © 2017 ENS de Lyon, CNRS, University of Franche-Comté
+   Licensed under the terms of the GNU General Public License (http://www.gnu.org/licenses)
+   @author cbourdot
+   @author sheiden
+   @author tmr
+
+   OGR CSS 11-2021
+
+*/
+.txmeditionpage {
+	background-color: #fdfdf9; /* use #f8f7ee for book style */
+	font-family: LatinModernRoman, "Times New Roman", Times, serif; /* book style */
+	font-size: 16px;
+	text-align: justify;
+	box-shadow: .3125em .3125em .625em 0 #888;
+	margin: 1.25em auto;
+	padding: 1.25em;
+	width: 600px; /* use 400px for book style */
+	min-height: 90%;
+}
+
+.txmlettrinep:first-letter {
+	float: left;
+	font-size: 6em;
+	line-height: 1;
+	margin-right: 0.2em;
+}
+
+div.secl {
+    border-top: solid;
+    border-bottom: solid;
+}
+
+div.div {
+    border-bottom: solid;
+}
+
+.milestone {
+    font-size: 12px;
+    font-family: monospace;
+    color: DarkGray;
+}
+
+.w:hover {
+    color: DarkGray;
+}
+
+.supplied {
+    color: Maroon;
+}
+
+.supplied:hover {
+    
+    color: LightGray;
+}
+
+p.stage {
+	text-align: right;
+	text-justify: inter-word;
+}
+
+.q {
+    color: DarkBlue;
+}
+
+*:lang(lat) {
+    background-color: LightGray;
+}
+
+*:lang(goh) {
+    background-color: LightGray;    
+}
+
+*:lang(fro) {
+    background-color: transparent
+}
+
+*:lang(pro) {
+    background-color: transparent
+}
+
+body {
+    font-size: 100%;
+}
+
+a {
+	color: #802520;
+}
+
+h1 {
+	font-size: 24px;
+	font-variant: small-caps;
+	text-align: center;
+	color: #802520;
+}
+
+h2 {
+	font-size: 20px;
+	font-variant: small-caps;
+	text-align: center;
+	color: #802520;
+}
+
+h3 {
+	font-size: 18px;
+	font-variant: small-caps;
+	text-align: center;
+	color: #802520;
+}
+
+
+p {
+	text-indent: 0.2cm;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+img {
+	margin: 10px 10px 10px 10px;
+}
+
+td {
+    font-size: 16px;
+}
+
+td.lineno {
+    font-size: 12px;
+    font-family: monospace;
+    text-align: right;
+    width: 20px;
+}
+
+th {
+    text-align: left;
+    color: red;
+    text-indent: 20px;
+}
+
+table {
+    width: 550px; /* fixed width for tables used to typeset verse */
+}
