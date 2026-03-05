@@ -1,0 +1,16 @@
+Rules applied: R1
+Lines correct: 112 of 112
+Pass history:
+Tried rules R1; 112 lines correct.
+Tried rules R11; 102 lines correct.
+Tried rules R2; 97 lines correct.
+Tried rules R30; 102 lines correct.
+Tried rules R8; 101 lines correct.
+Tried rules R1, R11; 110 lines correct.
+Tried rules R1, R2; 107 lines correct.
+Tried rules R1, R30; 112 lines correct.
+Tried rules R1, R8; 111 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES
