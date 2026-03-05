@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE paula SYSTEM "paula_multiFeat.dtd">
-<paula version="1.0">
-<multiFeatList xmlns:xlink="http://www.w3.org/1999/xlink" type="multiFeat" xml:base="mycorpus.delahalle.anno.xml">
-<multiFeat xlink:href="#anno_0">
-<feat name="text" value="delahalle"/>
-</multiFeat>
-</multiFeatList>
-</paula>
