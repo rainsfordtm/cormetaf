@@ -1,0 +1,275 @@
+Lemmas correct (tokens)
+=======================
+
+Condition            Correct  Total Percent
+Total                   6282   6702   93.73
+Text dolopathos_text    2999   3198   93.78
+Text richard_text       3283   3504   93.69
+POS NOUN                 982   1087   90.34
+POS ADP                  644    664   96.99
+POS CCONJ                395    396   99.75
+POS PROPN                 58    116   50.00
+POS NUM                    9      9  100.00
+POS VERB                1149   1220   94.18
+POS DET                  568    591   96.11
+POS PUNCT                734    734  100.00
+POS ADV.PRON               3      3  100.00
+POS ADV                  571    626   91.21
+POS ADP.PRON               0      5    0.00
+POS ADP.DET               52     52  100.00
+POS PRON                 646    695   92.95
+POS SCONJ                187    192   97.40
+POS ADJ                  284    312   91.03
+Score 3                  790    858   92.07
+Score 4                   71     72   98.61
+Score 2                   30     50   60.00
+Score 5                   57    120   47.50
+Score 8                 2934   3012   97.41
+Score 6                   71     84   84.52
+Score 9                 2005   2014   99.55
+Score -10                 10    135    7.41
+Score 7                   12     12  100.00
+Score 0                  243    278   87.41
+Score 11                  59     67   88.06
+
+Common errors
+=============
+pos_auto lemma_auto   correct total percent gold_lemmas
+ADV      sanglement         1      1  100.00 senglement
+NOUN     proprieter         1      1  100.00 propriété
+VERB     enducir            1      1  100.00 endoucir
+ADV      lains              5      5  100.00 léans
+VERB     atournir           1      1  100.00 atourner
+NOUN     vieigne            1      1  100.00 vigne
+PROPN    vide               2      2  100.00 Wyche
+VERB     christ             1      1  100.00 Christ
+NOUN     féaonce            1      1  100.00 faisance
+NOUN     enceineur          1      1  100.00 anciennour
+VERB     davir              1      1  100.00 David
+VERB     sentir             3      3  100.00 sent
+VERB     heuré              1      1  100.00 bienheurer
+VERB     manant             1      1  100.00 manoir
+NOUN     Dolopaton          1      1  100.00 Dolopathos
+PROPN    Dalopaton          2      2  100.00 Dolopathos
+NOUN     nomporcent         1      1  100.00 nonpourquant
+NOUN     aon                1      1  100.00 an
+NOUN     chaître            1      1  100.00 châtier
+VERB     rebouter           1      1  100.00 rebuter
+ADJ      menuis             1      1  100.00 menu
+VERB     pari               1      1  100.00 Paris
+NOUN     prévoire           1      1  100.00 provoire
+NOUN     fellon             3      3  100.00 félon
+VERB     cole               1      1  100.00 Cole
+NOUN     élisée             2      2  100.00 Élisée
+NOUN     inoscent           1      1  100.00 innocent
+NOUN     étodie             1      1  100.00 étudie
+VERB     concilier          2      2  100.00 conseiller
+NOUN     sauter             1      1  100.00 psautier
+NOUN     missaise           1      1  100.00 mésaise
+ADV.PRON si.le              2      2  100.00 cil|sel
+PROPN    Dolopaton          4      4  100.00 Dolopathos
+VERB     lecer              1      1  100.00 lécher
+NOUN     comte              3      3  100.00 conte
+NOUN     pée                1      1  100.00 paix
+DET      uns                4      4  100.00 un
+ADJ      dilitable          1      1  100.00 délitable
+VERB     parlaindre         1      1  100.00 parler
+NOUN     wirecêtre          1      1  100.00 Worcester
+NOUN     terrain            1      1  100.00 terrien
+VERB     démoner            1      1  100.00 démontrer
+NOUN     lecun              1      1  100.00 leçon
+VERB     doutermer          1      1  100.00 douter
+VERB     véer               1      1  100.00 voir
+NOUN     richard           27     27  100.00 Richard
+NOUN     étréche            1      1  100.00 estresce
+NOUN     lachesse           1      1  100.00 lâchesse
+NOUN     Sielve             1      1  100.00 Selve
+ADP      vers               1      1  100.00 voir
+NOUN     livière            1      1  100.00 liveré
+VERB     enromencer         1      1  100.00 enromancer
+NOUN     vacelage           1      1  100.00 vasselage
+NOUN     fauceté            1      1  100.00 fausseté
+NOUN     rectour            1      1  100.00 recteur
+VERB     signer             2      2  100.00 enseigner
+NOUN     raux               1      1  100.00 Raus
+NOUN     subtiveté          1      1  100.00 soutiveté
+VERB     entenduire         1      1  100.00 entendre
+VERB     périssien          1      1  100.00 périr
+VERB     layer              3      3  100.00 laisser
+NOUN     tempe              1      1  100.00 temple
+NOUN     défin              1      1  100.00 définer
+VERB     receveur           1      1  100.00 recevoir
+ADJ      sauf               1      1  100.00 sauver
+NOUN     marc               1      1  100.00 UNKNOWN
+ADV      dont               2      2  100.00 donner|donc
+ADJ      viez               2      2  100.00 vieux
+PROPN    Bélian             1      1  100.00 Bethléem
+VERB     cendroit           1      1  100.00 çaendroit
+NOUN     venin              1      1  100.00 venir
+VERB     perler             1      1  100.00 parler
+ADJ      beu                2      2  100.00 beau
+VERB     alis               1      1  100.00 Alice
+NOUN     boloine            1      1  100.00 Bologne
+NOUN     toutevoir          1      1  100.00 toutevoie
+NOUN     frélesté           1      1  100.00 freleté
+ADV      non                2      2  100.00 nom
+NOUN     prusme             1      1  100.00 proisme
+VERB     désouffrir         1      1  100.00 desouffert
+NOUN     estore             1      1  100.00 histoire
+NOUN     lenier             1      1  100.00 lanier
+NOUN     seü                1      1  100.00 ce
+PROPN    Johan              1      1  100.00 Jean
+NOUN     poussance          2      2  100.00 puissance
+ADJ      duc                4      4  100.00 doux
+VERB     ouvrer             1      1  100.00 oeuvre
+VERB     paroir             5      5  100.00 par.ont
+ADV      aiche              1      1  100.00 auques
+VERB     puplir             1      1  100.00 publier
+NOUN     muisture           1      1  100.00 moiture
+ADV      toujourd           2      2  100.00 toujours
+VERB     craisser           1      1  100.00 croître
+NOUN     veillesse          1      1  100.00 vieillesse
+VERB     gagne              1      1  100.00 gagner
+NOUN     affance            1      1  100.00 enfance
+ADJ      seul               1      1  100.00 cil
+VERB     dépulier           1      1  100.00 dépouiller
+VERB     repeler            1      1  100.00 rappeler
+VERB     saigner            1      1  100.00 sené
+NOUN     forfaire           1      1  100.00 forfait
+VERB     mort               1      1  100.00 mourir
+VERB     déconnaître        2      2  100.00 déconnue
+VERB     cutiver            1      1  100.00 cultiver
+VERB     apparoir           1      1  100.00 apparaître
+VERB     dégarocher         1      1  100.00 desgarrocher
+VERB     vivère             1      1  100.00 vivre
+NOUN     andre              1      1  100.00 André
+NOUN     baison             1      1  100.00 besoin
+ADV      nonporcer          1      1  100.00 nonpourquant
+NOUN     damosselle         1      1  100.00 damoiselle
+VERB     lier               2      2  100.00 louer|lié
+NOUN     muel               2      2  100.00 mieux
+VERB     compter            1      1  100.00 conter
+NOUN     saicrifice         1      1  100.00 sacrifice
+VERB     soudre             1      1  100.00 souef
+NOUN     chivellerie        1      1  100.00 chevalerie
+NOUN     témoine            1      1  100.00 témoin
+VERB     ennuire            1      1  100.00 oindre
+NOUN     nonporcer          1      1  100.00 nonpourquant
+VERB     save               1      1  100.00 sauvage
+NOUN     sein               2      2  100.00 saint
+ADV      honques            1      1  100.00 onques
+NOUN     Kant               1      1  100.00 quand
+NOUN     lairon             1      1  100.00 larron
+VERB     honnir             1      1  100.00 honni
+NOUN     savation           1      1  100.00 salvation
+ADJ      prudhomme          1      1  100.00 preux
+VERB     égardir            1      1  100.00 égarder
+VERB     retroiter          1      1  100.00 retraiter
+PROPN    oxford             2      2  100.00 Oxford
+NOUN     collis             1      1  100.00 coleiz
+VERB     épaudre            1      1  100.00 épandre
+PROPN    Troies             1      1  100.00 Troie
+VERB     aumône             2      2  100.00 amener
+NOUN     universeté         1      1  100.00 université
+VERB     orer               1      1  100.00 ouïr
+NOUN     cerf               2      2  100.00 serf
+PROPN    Lomberdie          1      1  100.00 Lombardie
+NOUN     aubaie             1      1  100.00 abbaye
+NOUN     parler             1      1  100.00 parole
+VERB     fusient            1      1  100.00 être
+NOUN     overaine           1      1  100.00 ouvraigne
+NOUN     valoir             1      1  100.00 valet
+PROPN    Aixe               2      2  100.00 aise
+ADJ      lonime             1      1  100.00 léonin
+ADV.PRON son                1      1  100.00 cil
+NOUN     quant              1      1  100.00 cointe
+VERB     œuvrer             1      1  100.00 oeuvrer
+NOUN     put                1      1  100.00 puits
+NOUN     perreil            1      1  100.00 pareil
+NOUN     servager           1      1  100.00 servagier
+NOUN     péchure            1      1  100.00 pécheur
+VERB     civellier          1      1  100.00 chevalier
+VERB     muivre             1      1  100.00 mouvoir
+NOUN     cueur              3      3  100.00 quérir|coeur
+VERB     vingler            1      1  100.00 veiller
+NOUN     biser              1      1  100.00 baiser
+NOUN     daine              1      1  100.00 devoir
+ADJ      muiste             1      1  100.00 moite
+NOUN     dessolation        1      1  100.00 désolation
+VERB     supprendre         1      1  100.00 surprendre
+VERB     emparenter         1      1  100.00 emparenté
+ADJ      jentif             1      1  100.00 gentil
+ADJ      forcenoil          1      1  100.00 forcené
+VERB     blemer             1      1  100.00 blêmer
+VERB     pleuvoir           1      1  100.00 plaire
+NOUN     ais                1      1  100.00 avoir
+VERB     sembler            1      1  100.00 semblant
+NOUN     cichester          3      3  100.00 Chichester
+VERB     muer               2      2  100.00 mouvoir|mieux
+NOUN     bordis             1      1  100.00 behordis
+ADJ      suatième           1      1  100.00 suatime
+ADJ      vort               1      1  100.00 voir
+VERB     atteindre          1      1  100.00 attendre
+NOUN     moins              1      1  100.00 main
+PRON     icestui            1      1  100.00 cist
+NOUN     cissle             1      1  100.00 siècle
+VERB     user               3      4   75.00 avoir
+NOUN     tort               3      4   75.00 tour
+NOUN     mur                4      6   66.67 moeurs
+PRON     dont              18     28   64.29 donc
+DET      ce                10     17   58.82 son
+PRON     cil               14     27   51.85 celui|ce|cist
+NOUN     chant              1      2   50.00 quant
+VERB     boire              1      2   50.00 beau
+VERB     jouer              1      2   50.00 jusque
+NOUN     garde              1      2   50.00 garder
+NOUN     vouloir            2      4   50.00 voult|veuil
+NOUN     chevelier          1      2   50.00 chevalier
+VERB     déposer            1      2   50.00 disposer
+NOUN     compagnion         1      2   50.00 compagnon
+NOUN     dieu               1      2   50.00 Dieu
+NOUN     main               1      2   50.00 maint
+VERB     aider              2      4   50.00 adonc|aide
+VERB     celer              1      2   50.00 seller
+CCONJ    ou                11     23   47.83 o|où
+PRON     où                 6     13   46.15 o|ou
+NOUN     paix               3      7   42.86 pas
+ADP.DET  en.le              2      6   33.33 o|ou
+NOUN     doutence           1      3   33.33 doutance
+VERB     croire             1      3   33.33 croître
+NUM      deux               1      3   33.33 duire
+VERB     saner              1      3   33.33 sené
+SCONJ    se                 1      4   25.00 ce
+PRON     y                  5     23   21.74 il
+ADV      ains               1      5   20.00 an
+NOUN     parole             1      5   20.00 parler
+VERB     seoir              1      5   20.00 être
+VERB     mouvoir            1      5   20.00 mieux
+NOUN     gent               3     16   18.75 gens
+VERB     perdre             1      6   16.67 paroir
+PRON     se                 7     45   15.56 son|si
+NOUN     peine              1      7   14.29 peiner
+PRON     il                10     78   12.82 eux|le
+VERB     apprendre          1      8   12.50 apprise
+VERB     voir               1      8   12.50 vide
+NOUN     nom                1      9   11.11 non
+DET      votre              1      9   11.11 vous
+PRON     me                 1     10   10.00 mon
+PRON     lui                1     10   10.00 eux
+DET      cil                1     11    9.09 ciel
+SCONJ    quand              2     22    9.09 quant
+PRON     en                 3     40    7.50 on
+VERB     dire               3     44    6.82 dit
+DET      tout               2     31    6.45 tous
+PRON     le                 3     48    6.25 là
+PRON     je                 1     19    5.26 si
+PRON     ce                 2     41    4.88 si|que
+VERB     savoir             1     36    2.78 ce
+VERB     pouvoir            1     38    2.63 puis
+DET      son                3    125    2.40 çà|sans
+VERB     avoir              3    126    2.38 à
+VERB     être               4    232    1.72 son|sum|savoir
+DET      le                 4    250    1.60 là|li
+VERB     faire              1     65    1.54 fait
+PRON     que                1     94    1.06 si
+SCONJ    que                1    169    0.59 si

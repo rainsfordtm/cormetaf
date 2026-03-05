@@ -1,0 +1,89 @@
+/*  
+   Stylesheet for OGR corpus in TXM copyright © 2021 T. M. Rainsford, Institut für Linguistik/Romanistik, Universität Stuttgart 
+   Original TXM stylesheet copyright © 2017 ENS de Lyon, CNRS, University of Franche-Comté
+   Licensed under the terms of the GNU General Public License (http://www.gnu.org/licenses)
+   @author cbourdot
+   @author sheiden
+   @author tmr
+
+   OGR CSS 03-2022
+
+*/
+.txmeditionpage {
+	background-color: #fdfdf9; /* use #f8f7ee for book style */
+	font-family: LatinModernRoman, "Times New Roman", Times, serif; /* book style */
+	font-size: 16px;
+	text-align: justify;
+	box-shadow: .3125em .3125em .625em 0 #888;
+	margin: 1.25em auto;
+	padding: 1.25em;
+	width: 900px; /* use 400px for book style */
+	min-height: 90%;
+}
+
+.txmlettrinep:first-letter {
+	float: left;
+	font-size: 6em;
+	line-height: 1;
+	margin-right: 0.2em;
+}
+
+.abbr {
+    font-style: italic;
+}
+
+.shorthand {
+    font-variant: small-caps;
+}
+
+.corr {
+    color: Maroon;
+    font-size: 12px;
+    font-family: monospace;
+}
+
+.surplus {
+    color: Maroon;
+}
+
+.gap {
+    background-color: LightGray;
+}
+
+.w:hover {
+    color: DarkGray;
+    text-decoration: underline;
+}
+
+.facslink {
+    font-size: 10px;
+    text-align: center;
+    color: #802520;
+}
+
+h1 {
+	font-size: 24px;
+	font-variant: small-caps;
+	text-align: center;
+	color: #802520;
+}
+
+h2 {
+	font-size: 20px;
+	font-variant: small-caps;
+	text-align: center;
+	color: #802520;
+}
+
+h3 {
+	font-size: 18px;
+	font-variant: small-caps;
+	text-align: center;
+	color: #802520;
+}
+
+td {
+    font-size: 16px;
+    vertical-align: top;
+}
+
