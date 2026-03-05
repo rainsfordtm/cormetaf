@@ -1,1 +1,1 @@
-../../camcorp-v/cfg/unstressed_major_cats.txt
+../../camcorp/cfg/unstressed_major_cats.txt
