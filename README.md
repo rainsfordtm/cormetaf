@@ -32,40 +32,37 @@ to the _Old Gallo-Romance Corpus_ (OGR) (Rainsford 2022, 2025).
 1. Open TXM
 1. Click `File > Load > a binary corpus (.txm)` and load the CORMETAF.
 
-### Slow start guide
-
-The main branch of this repository contains the source files for the 
-CorMétAF Corpus:
-* `cormetaf/csv/textcsv`: source texts
-* `cormetaf/cfg`: files necessary for compiling and exporting the corpus
-* `cormetaf/doc`: metadata and documentation
-* `scripts`: scripts to generate XML-TEI, HTML and PAULA-XML versions.
-
-Before the corpus can be used, the source files must be processed and
-exported using the syllabic verse analysis (SylVA) tools available on Sourceforge:  
-[https://sourceforge.net/projects/syllabic-verse-analysis/](https://sourceforge.net/projects/syllabic-verse-analysis/)
-
-The resulting XML files must then be imported into TXM using the 
-TODO importer.
-
 ## Annotation
 
-_This section refers to the annotation available in the compiled TXM 
-version of the CorMétAF. Some fields are coded directly in the source
-texts while others are added by the SylVa scripts when the corpus is compiled._
+The CorMétAF is a metrically annotated corpus with verified lemmatization
+and part-of-speech annotation.
 
-The CorMétAF is metrically annotated and has gold part-of-speech and
-lemma tags.
+| Type           | Properties                                             | Status (v0.9)  | Planned changes for v1.0  |
+| -------------- | ------------------------------------------------------ | -------------- | ------------------------- |
+| metrical       | `counted_syllables, prosody, metpos, soptem, line_met` | gold           | none                      |
+| lemmatization  | `lemma`                                                | gold           | none                      |
+| part-of-speech | `pos, syntag2`                                         | gold (syntags) | replace by Cattex-09 tags |
+| XML markup     | n/a                                                    | n/a            | add major text divisions  |
+| syntactic      | n/a                                                    | n/a            | n/a                       |
+| morphological  | n/a                                                    | n/a            | n/a                       |
 
-### Part-of-speech (syntag)
+The metrical annotation, the lemmas and the part-of-speech tags have been
+manually verified (gold). Text divisions above the level of the line
+are __not__ coded, so there's no information on laisses, stanzas, divisions
+between poems and songs or changes in speech turns in plays.
+This makes some of the texts hard to interpret without the source
+edition. These divisions will be added in the next version of the corpus.
 
-The part-of-speech tags in the CorMétAF use a bespoke system called
-`syntag`. The tagset is given in the appendix. It is envisaged to
-complement the `syntag` annotation with a more standard tagset in 
-future versions of the corpus and for this reason, no `pos` tag is
-given.
+The corpus has no morphological or syntactic annotation and it isn't
+envisaged to add this at the present time.
 
-The `syntag2` tagset provides extra information about clitics and
+### Part-of-speech (`pos`)
+
+The part-of-speech tags (`pos`) in the CorMétAF use a bespoke system
+called "syntag". The tagset is given in the appendix. In version 1.0 of
+the corpus this will be replaced by a Cattex-09 part-of-speech tag.
+
+The `syntag2` tag provides extra information about clitics and
 pronouns by appending the following symbols to the normal syntag:
 + `$$`: preverbal clitic, i.e. `Neg$$` is a preverbal negative clitic.
 + `%%`: postverbal clitic, i.e. `Prn%%` is a postverbal non-subject clitic pronoun.
@@ -167,8 +164,32 @@ Yes, this is "wrong". No, there are no plans to "correct" it because it
 provides all the information that the SylVA scripts need: a two-syllable,
 vowel-initial word stressed on the final syllable.
 
-The `syllabified` annotation has been removed from the compiled corpus.
+## Sources
 
+There are three main sources for the texts and annotation in the CorMétAF:
+
++ the _Nouveau Corpus d'Amsterdam_ (NCA), version 2 (circa 2008) (REF)
++ the _Base de français médiéval_ (BFM) (circa 2008) (REF)
++ manual digitization of the print edition
+
+Texts from the NCA generally reproduce the source edition without
+punctuation and capitalization, and in some cases with manuscript
+variants reinstated. However, they have extremely detailed gold
+part-of-speech tags (`pos_nca`). These were used as the basis for
+the syntag annotation. Texts from the NCA are redistributed under a 
+BLAH license; the latest version of the NCA is available on GitHub.
+
+Texts from the BFM and manually digitized texts generally retain
+the punctuation and capitalization of the source. Syntag part-of-speech
+tags and lemmatization are in some cases based on the gold lemmatization
+provided by the BFM, although this annotation has been removed from the
+final CorMétAF. Texts from the BFM are redistributed under a BLAH
+licence. The latest version of the BFM is available on BLAH.
+
+All source texts in the corpus are in the public domain in the EU since
+the authors died at least five centuries ago. Critical material from the
+source editions may remain under copyright and is excluded from the
+corpus.
 
 ## Appendix: Syntag tagset
 
@@ -215,3 +236,22 @@ determiner portemanteau forms.
 | `Prn`   | pronoun (never modifier)               | _ce, ceci, cela, el, elle, en2, eux, il, je, le, leur, li, lui, me, moi, néant(?), nous, o4, on, se, soi, te, toi, tu, vous, y2_ |
 | `Qux`   | _wh-_ (_qu-_) words                    | _combien, comment, cui, dont, lequel, où, parquoi, pourquoi, quand, quanque, quant, que, quel, quelconque, qui, quiconque, quique, quoi, quoique_ |
 | `Sub`   | subordinating conjunction              | _comme, jusque, quand, que, si3_ |
+
+
+
+
+### Slow start guide
+
+The main branch of this repository contains the source files for the 
+CorMétAF Corpus:
+* `cormetaf/csv/textcsv`: source texts
+* `cormetaf/cfg`: files necessary for compiling and exporting the corpus
+* `cormetaf/doc`: metadata and documentation
+* `scripts`: scripts to generate XML-TEI, HTML and PAULA-XML versions.
+
+Before the corpus can be used, the source files must be processed and
+exported using the syllabic verse analysis (SylVA) tools available on Sourceforge:  
+[https://sourceforge.net/projects/syllabic-verse-analysis/](https://sourceforge.net/projects/syllabic-verse-analysis/)
+
+The resulting XML files must then be imported into TXM using the 
+TODO importer.
