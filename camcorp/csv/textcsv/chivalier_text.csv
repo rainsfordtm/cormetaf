@@ -2949,7 +2949,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2948,438,4,asembler,asembler,438,Vinf,Vinf,assembler,/V\.C/V\.'C/V\
 2949,438,5,.,.,438,Pnc,Pnc,.,
 2950,439,1,-,-,439,Pnc,Pnc,-,
-2951,439,2,allas,allas,439,Exc,Exc,aller,/V\.'C/V\
+2951,439,2,allas,allas,439,Exc,Exc,hélas,/V\.'C/V\
 2952,439,3,",",",",439,Pnc,Pnc,",",
 2953,439,4,le,le,439,Det,Det,le,C/(e)\
 2954,439,5,chivaler,chivaler,439,N,N,chevalier,C/V\.C/V\.'C/V\

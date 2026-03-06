@@ -2012,7 +2012,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2011,286,2,de,de,285,Pre,Pre,de,C/(e)\
 2012,286,3,porter,porter,285,Vinf,Vinf,porter,C/V\.'C/V\
 2013,286,4,cel,cel,285,Dem,Dem,cil,C/V\
-2014,286,5,aversier,aversier,285,Vinf,Vinf,adversier,/V\.C/V\.'C/V\
+2014,286,5,aversier,aversier,285,N,N,adversier,/V\.C/V\.'C/V\
 2015,287,1,sui,sui,286,Vfin,Vfin,être,C/V\
 2016,287,2,touz,touz,286,QIs,QIs,tout,C/V\
 2017,287,3,travilliez,travilliez,286,Vpp,Vpp,travailler,C/V\.C/V\.'C/V\

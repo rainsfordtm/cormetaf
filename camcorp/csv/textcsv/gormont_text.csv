@@ -1863,7 +1863,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1862,306,1,entre,entre,PRE,317,PrA,PrA,entre,'/V\.C/(e)\
 1863,306,2,les,les,DET:def:obj:masc:pl,317,Det,Det,le,C/V\
 1864,306,3,dous,dous,ADJ:card,317,QIs,QIs,deux,C/V\
-1865,306,4,arcuns,arcuns,NOM:obj:masc:pl,317,N,N,arçon ,/V\.'C/V\
+1865,306,4,arcuns,arcuns,NOM:obj:masc:pl,317,N,N,arçon,/V\.'C/V\
 1866,306,5,se,se,PROCON,317,Prn,Prn$$,se,C/(e)\
 1867,306,6,set,set,VER:pres:3:sg,317,Vfin,Vfin,seoir,C/V\
 1868,307,1,en,en,PRO:clit,318,Pre,Pre,en,/V\

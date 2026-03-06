@@ -731,7 +731,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 730,112,5,en,en,112,Prn,Prn$$,en2,/V\
 731,112,6,garnid,garnid,112,Vfin,Vfin,garnir,C/V\.'C/V\
 732,112,7,.,.,112,Pnc,Pnc,.,
-733,113,1,alo,alo,113,Pre+Det,Pre+Det,aluec,/V\.'C/V\
+733,113,1,alo,alo,113,Adv,Adv,aluec,/V\.'C/V\
 734,113,2,sanc,sanc,113,N,N,saint,C/V\
 735,113,3,pedre,pedre,113,N,N,Pierre,'C/V\.C/(e)\
 736,113,4,perchoindad,perchoindad,113,Vfin,Vfin,parconter,C/V\.C/V\.'C/V\

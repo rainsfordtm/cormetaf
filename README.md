@@ -16,7 +16,7 @@ A metrically annotated corpus of Old and Middle French texts.
 
 ## Description
 
-The CorMétAF contains seventy-seven extracts from Old and Middle
+The CorMétAF contains seventy-five extracts from Old and Middle
 French verse texts with manually verified metrical annotation. It
 was initially developed in the course of my doctoral research
 (Rainsford 2011: ch. 2) and has now been published to accompany the
@@ -190,6 +190,11 @@ All source texts in the corpus are in the public domain in the EU since
 the authors died at least five centuries ago. Critical material from the
 source editions may remain under copyright and is excluded from the
 corpus.
+
+| Source | Texts                                                                           |
+| ------ | ------------------------------------------------------------------------------- |
+| NCA    | Adam, AdHaleFeuill, AlexisAlO, AmAm, BodelNic, Charroi, ChevBarAn, Coincy, ComtePoit, Gorm, JPriorat, PassJonglG, RCambr, RenNouv, RoseM, Rou, RutebTheoph, YsLyon |
+
 
 ## Appendix: Syntag tagset
 
