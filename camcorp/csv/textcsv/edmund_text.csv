@@ -906,7 +906,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 905,143,4,sur,sur,143,PrA,PrA,sur,C/V\
 906,143,5,i,i,143,Prn,Prn$$,y2,/V\
 907,143,6,metent,metent,143,Vfin,Vfin,mettre,'C/V\.C/e\
-908,143,7,cleime,cleime,143,N,N,clamer,'C/V\.C/(e)\
+908,143,7,cleime,cleime,143,N,N,claim,'C/V\.C/(e)\
 909,143,8,",",",",143,Pnc,Pnc,",",
 910,144,1,que,que,144,Sub,Sub,que,C/(e)\
 911,144,2,puisset,puisset,144,Vfin,Vfin,pouvoir2,'C/V\.C/e\

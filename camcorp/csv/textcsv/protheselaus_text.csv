@@ -181,7 +181,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 180,30,2,cette,cette,30,Dem,Dem,cist,'C/V\.C/(e)\
 181,30,3,estorie,estorie,30,N,N,histoire,/V\.'C/V\./(e)\
 182,30,4,avant,avant,30,PrA,PrA,avant,/V\.'C/V\
-183,30,5,trailer,trailer,30,Vinf,Vinf,UNKNOWN,C/V\.'C/V\
+183,30,5,traiter,traiter,30,Vinf,Vinf,traiter,C/V\.'C/V\
 184,30,6,.,.,30,Pnc,Pnc,.,
 185,31,1,jo,jo,31,Prn,Prn$,je,C/V\
 186,31,2,vus,vus,31,Prn,Prn$$,vous,C/V\
@@ -575,7 +575,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 574,89,5,la,la,89,Det,Det,le,C/V\
 575,89,6,tere,tere,89,N,N,terre,'C/V\.C/(e)\
 576,89,7,",",",",89,Pnc,Pnc,",",
-577,90,1,fei,fei,90,N,N,UNKNOWN,C/V\
+577,90,1,fel,fel,90,N,N,félon,C/V\
 578,90,2,fu,fu,90,Vfin,Vfin,être,C/V\
 579,90,3,e,e,90,Crd,Crd,et,/V\
 580,90,4,enginnus,enginnus,90,Adj,Adj,engigneux,/V\.C/V\.'C/V\
@@ -2681,7 +2681,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2680,383,4,",",",",383,Pnc,Pnc,",",
 2681,383,5,cruist,cruist,383,Vfin,Vfin,croître,C/V\
 2682,383,6,la,la,383,Det,Det,le,C/V\
-2683,383,7,nét,nét,383,N,N,UNKNOWN,C/V\
+2683,383,7,nef,nef,383,N,N,nef,C/V\
 2684,383,8,",",",",383,Pnc,Pnc,",",
 2685,384,1,cil,cil,384,Dem,Dem,cil,C/V\
 2686,384,2,dedenz,dedenz,384,PrA,PrA,dedans,C/V\.'C/V\
@@ -2951,7 +2951,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2950,421,4,ad,ad,421,Vfin,Vfin,avoir,/V\
 2951,421,5,a,a,421,Pre,Pre,à,/V\
 2952,421,6,els,els,421,Prn,Prn,eux,/V\
-2953,421,7,pailé,pailé,421,Vpp,Vpp,UNKNOWN,C/V\.'C/V\
+2953,421,7,parlé,parlé,421,Vpp,Vpp,parler,C/V\.'C/V\
 2954,421,8,.,.,421,Pnc,Pnc,.,
 2955,422,1,un,un,422,QIs,QIs,un,/V\
 2956,422,2,poi,poi,422,N,N,peu,C/V\

@@ -142,7 +142,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,pos_nca,syntag,syntag2,lemma,syllabi
 141,25,2,comant,comant,25,ADV,Qux,Qux,comment,C/V\.'C/V\
 142,25,3,lon,lon,25,PRO:invar,Prn,Prn$,on,C/V\
 143,25,4,doit,doit,25,VER:pres:3:sg,Vfin,Vfin,devoir2,C/V\
-144,25,5,sant,sant,25,NOM:obj:masc:sg,N,N,UNKNOWN,C/V\
+144,25,5,sant,sant,25,NOM:obj:masc:sg,N,N,sens,C/V\
 145,25,6,doner,doner,25,VER:infi,Vinf,Vinf,donner,C/V\.'C/V\
 146,26,1,as,as,26,PREDET:a:obj:femi:pl,Pre+Det,Pre+Det,à.le,/V\
 147,26,2,janz,janz,26,NOM:obj:femi:pl,N,N,gent,C/V\
@@ -408,7 +408,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,pos_nca,syntag,syntag2,lemma,syllabi
 407,66,3,et,et,66,CON:coord,Crd,Crd,et,/V\
 408,66,4,de,de,66,PRE,Pre,Pre,de,C/(e)\
 409,66,5,l',l',66,DET:def:obj:femi:sg,Det,Det,le,C/\
-410,66,6,astatacon,astatacon,66,NOM:obj:femi:sg,N,N,UNKNOWN,/V\.C/V\.C/V\.'C/V\
+410,66,6,astatacon,astatacon,66,NOM:obj:femi:sg,N,N,estataçon,/V\.C/V\.C/V\.'C/V\
 411,67,1,veoir,veoir,67,VER:infi,Vinf,Vinf,voir,C/(V)\.'/V\
 412,67,2,",",",",67,PON,Pnc,Pnc,",",
 413,67,3,retenir,retenir,67,VER:infi,Vinf,Vinf,retenir,C/V\.C/e\.'C/V\
@@ -452,7 +452,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,pos_nca,syntag,syntag2,lemma,syllabi
 451,74,3,soingnier,soingnier,74,VER:infi,Vinf,Vinf,soigner,C/V\.'C/V\
 452,74,4,por,por,74,PRE,Pre,Pre,pour,C/V\
 453,74,5,estre,estre,74,VER:infi,Vinf,Vinf,être,'/V\.C/(e)\
-454,74,6,aüz,aüz,74,VER:pper:masc:pl,Vpp,Vpp,UNKNOWN,/(V)\.'/V\
+454,74,6,aüz,aüz,74,VER:pper:masc:pl,Vpp,Vpp,avoir,/(V)\.'/V\
 455,74,7,",",",",74,PON,Pnc,Pnc,",",
 456,75,1,meuz,meuz,75,ADV,Adv,Adv,mieux,C/V\
 457,75,2,retenir,retenir,75,VER:infi,Vinf,Vinf,retenir,C/V\.C/e\.'C/V\
@@ -1498,7 +1498,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,pos_nca,syntag,syntag2,lemma,syllabi
 1497,240,5,tot,tot,240,PRO:ind:obj:masc:sg,QIs,QIs,tout,C/V\
 1498,240,6,a,a,240,PRE,Pre,Pre,à,/V\
 1499,240,7,lor,lor,240,DET:poss:obj:femi:sg,Det,Det,leur2,C/V\
-1500,240,8,lite,lite,240,NOM:obj:femi:sg,N,N,UNKNOWN,'C/V\.C/(e)\
+1500,240,8,lite,lite,240,NOM:obj:femi:sg,N,N,élite,'C/V\.C/(e)\
 1501,241,1,et,et,241,CON:coord,Crd,Crd,et,/V\
 1502,241,2,sormontarent,sormontarent,241,VER:simp:3:pl,Vfin,Vfin,surmonter,C/V\.C/V\.'C/V\.C/e\
 1503,241,3,et,et,241,CON:coord,Crd,Crd,et,/V\
@@ -1529,7 +1529,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,pos_nca,syntag,syntag2,lemma,syllabi
 1528,246,1,que,que,246,PROCON,Sub,Sub,que,C/(e)\
 1529,246,2,li,li,246,DET:def:suj:masc:pl,Det,Det,le,C/V\
 1530,246,3,espaignol,espaignol,246,NOM:suj:masc:pl,Adj,Adj,espagnol,/V\.C/V\.'C/V\
-1531,246,4,mennamain,mennamain,246,ADV,Adv,Adv,UNKNOWN,C/V\.C/V\.'C/V\
+1531,246,4,mennamain,mennamain,246,ADV,Adv,Adv,mennamain,C/V\.C/V\.'C/V\
 1532,247,1,vaillent,vaillent,247,VER:pres:3:pl,Vfin,Vfin,valoir,'C/V\.C/e\
 1533,247,2,meuz,meuz,247,ADV,Adv,Adv,mieux,C/V\
 1534,247,3,et,et,247,CON:coord,Crd,Crd,et,/V\
@@ -2353,7 +2353,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,pos_nca,syntag,syntag2,lemma,syllabi
 2352,373,4,m',m',373,PRO:pers:obj:1:sg:unb,Prn,Prn$$,me,C/\
 2353,373,5,an,an,373,PRO:clit,Prn,Prn$$,en2,/V\
 2354,373,6,puet,puet,373,VER:pres:3:sg,Vfin,Vfin,pouvoir2,C/V\
-2355,373,7,dessoter,dessoter,373,VER:infi,Vinf,Vinf,UNKNOWN,C/V\.C/V\.'C/V\
+2355,373,7,dessoter,dessoter,373,VER:infi,Vinf,Vinf,dessuter,C/V\.C/V\.'C/V\
 2356,373,8,",",",",373,PON,Pnc,Pnc,",",
 2357,374,1,ne,ne,374,PROCON,Crd,Crd,ne2,C/(e)\
 2358,374,2,de,de,374,PRE,Pre,Pre,de,C/(e)\
@@ -2999,7 +2999,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,pos_nca,syntag,syntag2,lemma,syllabi
 2998,473,1,cex,cex,473,DET:demo:obj:masc:pl,Dem,Dem,cil,C/V\
 2999,473,2,chevaliers,chevaliers,473,NOM:obj:masc:pl,N,N,chevalier,C/V\.C/V\.'C/V\
 3000,473,3,tot,tot,473,PRO:ind:obj:masc:sg,QIs,QIs,tout,C/V\
-3001,473,4,mennamain,mennamain,473,ADV,Adv,Adv,UNKNOWN,C/V\.C/V\.'C/V\
+3001,473,4,mennamain,mennamain,473,ADV,Adv,Adv,mennamain,C/V\.C/V\.'C/V\
 3002,474,1,et,et,474,CON:coord,Crd,Crd,et,/V\
 3003,474,2,a,a,474,PRE,Pre,Pre,à,/V\
 3004,474,3,corre,corre,474,VER:infi,Vinf,Vinf,courir,'C/V\.C/(e)\

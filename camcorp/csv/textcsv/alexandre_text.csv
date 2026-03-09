@@ -3005,7 +3005,7 @@ wd_id,line_id,linewd,word,lex_id,tag,textlineid,syntag,syntag2,syllabified,lemma
 3004,305,7,rois,rois,NOM,3066,N,N,C/V\,roi
 3005,305,8,de,de,PRE,3066,Pre,Pre,C/(e)\,de
 3006,305,9,bon,bon,ADJ,3066,Adj,Adj,C/V\,bon
-3007,305,10,aire,aire,NOM,3066,N,N,'/V\.C/(e)\,aire
+3007,305,10,aire,aire,NOM,3066,N,N,'/V\.C/(e)\,aire2
 3008,305,11,",",",",PON,3066,Pnc,Pnc,,","
 3009,306,1,qant,qant,ADV,3067,Sub,Sub,C/V\,quand
 3010,306,2,il,il,PRO:pers,3067,Prn,Prn$,/V\,il

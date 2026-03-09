@@ -1784,7 +1784,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,pos_nca,syntag,syntag2,lemma,syllabi
 1783,300,2,li,li,300,PRO:pers:suj:3:masc:sg:bet,Prn,Prn$$,li,C/V\
 1784,300,3,corrent,corrent,300,VER:pres:3:pl,Vfin,Vfin,courir,'C/V\.C/e\
 1785,300,4,sus,sus,300,ADV,PrA,PrA,sus,C/V\
-1786,300,5,mainnemain,mainnemain,300,ADV,Adv,Adv,UNKNOWN,C/V\.C/e\.'C/V\
+1786,300,5,mainnemain,mainnemain,300,ADV,Adv,Adv,mennamain,C/V\.C/e\.'C/V\
 1787,301,1,ensamble,ensamble,301,ADV,Adv,Adv,ensemble,/V\.'C/V\.C/(e)\
 1788,301,2,l',l',301,PRO:pers:obj:3:masc:sg:unb,Prn,Prn$$,le,C/\
 1789,301,3,essaillent,essaillent,301,VER:pres:3:pl,Vfin,Vfin,assaillir,/V\.'C/V\.C/e\

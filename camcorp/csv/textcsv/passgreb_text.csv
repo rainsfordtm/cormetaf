@@ -1727,7 +1727,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1726,292,1,en,en,316,Pre,Pre,en,/V\
 1727,292,2,divers,divers,316,QIs,QIs,divers,C/V\.'C/V\
 1728,292,3,gendres,gendres,316,N,N,genre,'C/V\.C/e\
-1729,292,4,bestiaulx,bestiaulx,316,N,N,bestial,C/V\.C/V\.'C/V\
+1729,292,4,bestiaulx,bestiaulx,316,Adj,Adj,bestial,C/V\.C/V\.'C/V\
 1730,292,5,",",",",316,Pnc,Pnc,",",
 1731,293,1,oueilles,oueilles,317,N,N,ouaille,/V\.'C/V\.C/e\
 1732,293,2,",",",",317,Pnc,Pnc,",",

@@ -583,7 +583,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,textlineid,syntag,syntag2,syllabified
 582,82,5,",",",",",",5600,Pnc,Pnc,
 583,82,6,atot,atot,atout,5600,PrA,PrA,/V\.'C/V\
 584,82,7,son,son,son,5600,Det,Det,C/V\
-585,82,8,cois,cois,coi,5600,N,N,C/V\
+585,82,8,cois,cois,choix,5600,N,N,C/V\
 586,82,9,;,;,;,5600,Pnc,Pnc,
 587,83,1,ses,ses,son,5601,Det,Det,C/V\
 588,83,2,cauces,cauces,chausse,5601,N,N,'C/V\.C/e\

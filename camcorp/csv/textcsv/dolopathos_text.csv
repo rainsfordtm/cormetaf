@@ -270,7 +270,7 @@ wd_id,line_id,linewd,word,lemma,lemma_score,lex_id,textlineid,syntag,syntag2,syl
 269,42,2,bien,bien,9,bien,42,Adv,Adv,C/V\,ADV
 270,42,3,saichiez,savoir,9,saichiez,42,Vfin,Vfin,C/V\.'C/V\,VERB
 271,42,4,tot,tout,3,tot,42,QIs,QIs,C/V\,DET
-272,42,5,sen,son,7,sen,42,Pre,Pre,C/V\,ADP
+272,42,5,sen,son4,7,sen,42,Det,Det,C/V\,ADP
 273,42,6,doutence,doutence,-10,doutence,42,N,N,C/V\.'C/V\.C/(e)\,NOUN
 274,43,1,c',que,8,c',43,Sub,Sub,C/\,SCONJ
 275,43,2,Alixandres,Alexandre,9,alixandres,43,N,N,/V\.C/V\.'C/V\.C/e\,PROPN

@@ -283,7 +283,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 282,47,2,loheraine,loheraine,NPR:obj:femi:sg,627,N,N,Lorraine,C/V\.C/e\.'C/V\.C/(e)\
 283,47,3,et,et,CON:coord,627,Crd,Crd,et,/V\
 284,47,4,tout,tout,DET:ind:obj:masc:sg,627,QIs,QIs,tout,C/V\
-285,47,5,aussai,aussai,NPR:obj:masc:sg,627,N,N,UNKNOWN,/V\.'C/V\
+285,47,5,aussai,aussai,NPR:obj:masc:sg,627,N,N,Alsace,/V\.'C/V\
 286,48,1,par,par,PRE,628,Pre,Pre,par,C/V\
 287,48,2,tout,tout,PRO:ind:obj:masc:sg,628,QIs,QIs,tout,C/V\
 288,48,3,mist,mist,VER:simp:3:sg,628,Vfin,Vfin,mettre,C/V\
@@ -558,7 +558,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 557,89,3,le,le,DET:def:obj:masc:sg,669,Det,Det,le,C/(e)\
 558,89,4,visage,visage,NOM:obj:masc:sg,669,N,N,visage,C/V\.'C/V\.C/(e)\
 559,89,5,le,le,DET:def:obj:femi:sg,669,Det,Det,le,C/(e)\
-560,89,6,kene,kene,NOM:obj:femi:sg,669,N,N,UNKNOWN,'C/V\.C/(e)\
+560,89,6,kene,kene,NOM:obj:femi:sg,669,N,N,quenne,'C/V\.C/(e)\
 561,90,1,ot,ot,VER:simp:3:sg,670,Vfin,Vfin,avoir,/V\
 562,90,2,ausi,ausi,ADV,670,Adv,Adv,aussi,/V\.'C/V\
 563,90,3,noirs,noirs,ADJ:obj:masc:pl,670,Adj,Adj,noir,C/V\
@@ -588,7 +588,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 587,94,3,grans,grans,ADJ:obj:masc:pl,674,Adj,Adj,grand,C/V\
 588,94,4,les,les,DET:def:obj:masc:pl,674,Det,Det,le,C/V\
 589,94,5,iex,iex,NOM:obj:masc:pl,674,N,N,oeil,/V\
-590,94,6,repus,repus,ADJ:obj:masc:pl,674,Adj,Adj,UNKNOWN,C/V\.'C/V\
+590,94,6,repus,repus,ADJ:obj:masc:pl,674,Vpp,Vpp,repondre,C/V\.'C/V\
 591,95,1,les,les,DET:def:obj:masc:pl,675,Det,Det,le,C/V\
 592,95,2,bracelés,bracelés,NOM:obj:masc:pl,675,N,N,bracelet,C/V\.C/e\.'C/V\
 593,95,3,lons,lons,ADJ:obj:masc:pl,675,Adj,Adj,long,C/V\

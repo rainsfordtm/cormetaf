@@ -1374,15 +1374,15 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1373,231,2,remaigne,remaigne,VER:subp:3:sg,231,Vfin,Vfin,remanoir,C/V\.'C/V\.C/(e)\
 1374,231,3,jusques,jusques,ADV,231,PrA,PrA,jusque,'C/V\.C/e\
 1375,231,4,al,al,PREDET:a:obj:masc:sg,231,Pre+Det,Pre+Det,à.le,/V\
-1376,231,5,coine,coine,NPR:obj:masc:sg,231,N,N,UNKNOWN,'C/V\.C/(e)\
+1376,231,5,coine,coine,NPR:obj:masc:sg,231,N,N,Konya,'C/V\.C/(e)\
 1377,232,1,d',d',PRE,232,Pre,Pre,de,C/\
 1378,232,2,alixandre,alixandre,NPR:obj:masc:sg,232,N,N,Alexandre,/V\.C/V\.'C/V\.C/(e)\
 1379,232,3,de,de,PRE,232,Pre,Pre,de,C/(e)\
 1380,232,4,babiloine,babiloine,NPR:obj:masc:sg,232,N,N,Babylone,C/V\.C/V\.'C/V\.C/(e)\
 1381,233,1,li,li,DET:def:suj:masc:pl,233,Det,Det,le,C/V\
-1382,233,2,kenelieu,kenelieu,NPR:suj:masc:pl,233,N,N,UNKNOWN,C/V\.C/e\.'C/V\
+1382,233,2,kenelieu,kenelieu,NPR:suj:masc:pl,233,Adj,Adj,kenelieu,C/V\.C/e\.'C/V\
 1383,233,3,li,li,DET:def:suj:masc:pl,233,Det,Det,le,C/V\
-1384,233,4,achopart,achopart,NPR:suj:masc:pl,233,N,N,UNKNOWN,/V\.C/V\.'C/V\
+1384,233,4,achopart,achopart,NPR:suj:masc:pl,233,Adj,Adj,achopart,/V\.C/V\.'C/V\
 1385,234,1,tout,tout,PRO:ind:suj:masc:pl,234,QIs,QIs,tout,C/V\
 1386,234,2,vegnent,vegnent,VER:subp:3:pl,234,Vfin,Vfin,venir,'C/V\.C/e\
 1387,234,3,garni,garni,VER:pper:masc:sg,234,Vpp,Vpp,garnir,C/V\.'C/V\
@@ -1815,7 +1815,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1814,303,3,l',l',DET:def:obj:masc:sg,315,Det,Det,le,C/\
 1815,303,4,amiral,amiral,NOM:obj:masc:sg,315,N,N,amiral,/V\.C/V\.'C/V\
 1816,303,5,del,del,PREDET:de:obj:masc:sg,315,Pre+Det,Pre+Det,de.le,C/V\
-1817,303,6,coine,coine,NPR:obj:masc:sg,315,N,N,UNKNOWN,'C/V\.C/(e)\
+1817,303,6,coine,coine,NPR:obj:masc:sg,315,N,N,Konya,'C/V\.C/(e)\
 1818,304,1,de,de,PRE,316,Pre,Pre,de,C/(e)\
 1819,304,2,par,par,PRE,316,Pre,Pre,par,C/V\
 1820,304,3,le,le,DET:def:obj:masc:sg,316,Det,Det,le,C/(e)\
@@ -2090,7 +2090,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2089,350,2,d',d',PRE,362,Pre,Pre,de,C/\
 2090,350,3,outre,outre,ADV,362,PrA,PrA,outre2,'/V\.C/(e)\
 2091,350,4,grise,grise,ADJ:obj:femi:sg,362,Adj,Adj,gris,'C/V\.C/(e)\
-2092,350,5,wallangue,wallangue,NPR:obj:femi:sg,362,N,N,UNKNOWN,C/V\.'C/V\.C/(e)\
+2092,350,5,wallangue,wallangue,NPR:obj:femi:sg,362,N,N,Wallangue,C/V\.'C/V\.C/(e)\
 2093,351,1,la,la,ADV,363,Adv,Adv,là,C/V\
 2094,351,2,ou,ou,PROCON,363,Qux,Qux,où,/V\
 2095,351,3,li,li,DET:def:suj:masc:pl,363,Det,Det,le,C/V\
