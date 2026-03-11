@@ -3149,7 +3149,7 @@ wd_id,line_id,linewd,word,lex_id,syntag,syntag2,lemma,syllabified
 3148,483,5,or,or,Adv,Adv,or2,/V\
 3149,483,6,conmanciez,conmanciez,Vfin,Vfin,commencer,C/V\.C/V\.'C/V\
 3150,483,7,:,:,Pnc,Pnc,:,
-3151,484,1,diner,diner,Vinf,Vinf,dîner,C/V\.'C/V\
+3151,484,1,diner,diner,N,N,dîner,C/V\.'C/V\
 3152,484,2,sera,sera,Vfin,Vfin,être,C/V\.'C/V\
 3153,484,3,bien,bien,Adv,Adv,bien,C/V\
 3154,484,4,avanciez,avanciez,Vpp,Vpp,avancer,/V\.C/V\.'C/V\

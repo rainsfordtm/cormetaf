@@ -964,7 +964,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 963,149,3,-,-,149,Pnc,Pnc,-,
 964,149,4,zo,zo,149,Prn,Prn,ce,C/V\
 965,149,5,dis,dis,149,Vfin,Vfin,dire,C/V\
-966,149,6,jesús,jesús,149,N,N,dire,C/V\.'C/V\
+966,149,6,jesús,jesús,149,N,N,Jésus,C/V\.'C/V\
 967,149,7,lo,lo,149,Det,Det,le,C/(e)\
 968,149,8,bons,bons,149,Adj,Adj,bon,C/V\
 969,149,9,-,-,149,Pnc,Pnc,-,
