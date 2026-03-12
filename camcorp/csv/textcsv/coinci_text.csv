@@ -1,5 +1,5 @@
 wd_id,line_id,linewd,word,lex_id,pos_nca,syntag,syntag2,syllabified,lemma,ref,tei_right,tei_left
-1,1,1,se,se,PROCON,Sub,Sub,C/(e)\,si,"Coincy, II Mir 22, v. 1",,<text><body><pb n=&quot;190&quot;/><div type=&quot;chapter&quot; n=&quot;II Mir 22&quot;><head>Les Miracles Nostre Dame de Soissons</head><l n=&quot;1&quot;>
+1,1,1,se,se,PROCON,Sub,Sub,C/(e)\,si,"Coincy, II Mir 22, v. 1",,<text><body><pb n=&quot;190&quot;/><div type=&quot;chapter&quot; n=&quot;II Mir 22&quot;><head>Les Miracles Nostre Dame de Soissons</head><lg><l n=&quot;1&quot;>
 2,1,2,diex,diex,NOM:suj:masc:sg,N,N,C/V\,dieu,"Coincy, II Mir 22, v. 1",,
 3,1,3,m',m',PRO:pers:obj:1:sg:unb,Prn,Prn$$,C/\,me,"Coincy, II Mir 22, v. 1",,
 4,1,4,aït,aït,VER:subp:3:sg,Vfin,Vfin,/V\.'C/V\,aider,"Coincy, II Mir 22, v. 1",,
@@ -1482,8 +1482,8 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,syntag,syntag2,syllabified,lemma,ref,te
 1481,244,2,fine,fine,ADJ:obj:femi:sg,Adj,Adj,'C/V\.C/(e)\,fin,"Coincy, II Mir 22, v. 246",,
 1482,244,3,fin,fin,NOM:obj:femi:sg,N,N,C/V\,fin,"Coincy, II Mir 22, v. 246",,
 1483,244,4,puissent,puissent,VER:subp:3:pl,Vfin,Vfin,'C/V\.C/e\,pouvoir,"Coincy, II Mir 22, v. 246",,
-1484,244,5,finer,finer,VER:infi,Vinf,Vinf,C/V\.'C/V\,finer,"Coincy, II Mir 22, v. 246",</l></div>,
-1485,245,1,ici,ici,ADV,Adv,Adv,/V\.'C/V\,ici,"Coincy, II Mir 23, v. 1",,<pb n=&quot;201&quot;/><div type=&quot;chapter&quot; n=&quot;II Mir 23&quot;><head>Item dou soller</head><l n=&quot;1&quot;>
+1484,244,5,finer,finer,VER:infi,Vinf,Vinf,C/V\.'C/V\,finer,"Coincy, II Mir 22, v. 246",</l></lg></div>,
+1485,245,1,ici,ici,ADV,Adv,Adv,/V\.'C/V\,ici,"Coincy, II Mir 23, v. 1",,<pb n=&quot;201&quot;/><div type=&quot;chapter&quot; n=&quot;II Mir 23&quot;><head>Item dou soller</head><lg><l n=&quot;1&quot;>
 1486,245,2,aprés,aprés,PRE,PrA,PrA,/V\.'C/V\,après,"Coincy, II Mir 23, v. 1",,
 1487,245,3,weil,weil,VER:pres:1:sg,Vfin,Vfin,C/V\,vouloir,"Coincy, II Mir 23, v. 1",,
 1488,245,4,remoller,remoller,VER:infi,Vinf,Vinf,C/V\.C/V\.'C/V\,remouler,"Coincy, II Mir 23, v. 1",</l>,
@@ -2490,7 +2490,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,syntag,syntag2,syllabified,lemma,ref,te
 2489,411,5,doi,doi,VER:pres:1:sg,Vfin,Vfin,C/V\,devoir,"Coincy, II Mir 23, v. 167",,
 2490,411,6,m',m',DET:poss:obj:femi:sg,Det,Det,C/\,mon,"Coincy, II Mir 23, v. 167",,
 2491,411,7,ame,ame,NOM:obj:femi:sg,N,N,'/V\.C/(e)\,âme,"Coincy, II Mir 23, v. 167",</l>,
-2492,412,1,qui,qui,PROCON,Qux,Qux,C/V\,qui,"Coincy, II Mir 23, v. 168",,<pb n=&quot;208&quot;/><l n=&quot;168&quot;
+2492,412,1,qui,qui,PROCON,Qux,Qux,C/V\,qui,"Coincy, II Mir 23, v. 168",,<pb n=&quot;208&quot;/><l n=&quot;168&quot;>
 2493,412,2,coppoie,coppoie,VER:pres:3:sg,Vfin,Vfin,C/V\.'C/V\./(e)\,coupoyer,"Coincy, II Mir 23, v. 168",,
 2494,412,3,seur,seur,PRE,PrA,PrA,C/V\,sur,"Coincy, II Mir 23, v. 168",,
 2495,412,4,nostre,nostre,DET:poss:obj:femi:sg,Det,Det,'C/V\.C/(e)\,notre,"Coincy, II Mir 23, v. 168",,
@@ -3028,4 +3028,4 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,syntag,syntag2,syllabified,lemma,ref,te
 3027,496,4,ne,ne,PROCON,Crd,Crd,C/(e)\,ne,"Coincy, II Mir 23, v. 252",,
 3028,496,5,saint,saint,ADJ:obj:masc:sg,Adj,Adj,C/V\,saint,"Coincy, II Mir 23, v. 252",,
 3029,496,6,ne,ne,PROCON,Crd,Crd,C/(e)\,ne,"Coincy, II Mir 23, v. 252",,
-3030,496,7,sainte,sainte,ADJ:obj:femi:sg,Adj,Adj,'C/V\.C/(e)\,saint,"Coincy, II Mir 23, v. 252",</l><gap reason=&quot;sampling&quot; quantity=&quot;98&quot; unit=&quot;line&quot;/></div></body></text>,
+3030,496,7,sainte,sainte,ADJ:obj:femi:sg,Adj,Adj,'C/V\.C/(e)\,saint,"Coincy, II Mir 23, v. 252",</l><gap reason=&quot;sampling&quot; quantity=&quot;98&quot; unit=&quot;line&quot;/></lg></div></body></text>,

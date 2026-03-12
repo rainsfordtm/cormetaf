@@ -434,7 +434,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 433,76,5,jamais,jamais,XXIV(IIp536)_76,Adv,Adv,jamais,7s,---,C/V\.'C/V\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 76",,
 434,76,6,rice,rice,XXIV(IIp536)_76,Adj,Adj,riche,7s,---,'C/V\.C/(e)\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 76",,
 435,76,7,.,.,XXIV(IIp536)_76,Pnc,Pnc,.,7s,---,,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 76",</l></lg></div>,
-436,77,1,mademoiselle,mademoiselle,XLVI(IIp810)_1,N,N,mademoiselle,7s,---,C/V\.C/e\.C/V\.'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 1",,<pb n=&quot;810&quot;/><div type=&quot;chapter&quot; n=&quot;Poésies familières no 46&quot;><head>Lettres a bonne de Hersin</head><l n=&quot;1&quot;>
+436,77,1,mademoiselle,mademoiselle,XLVI(IIp810)_1,N,N,mademoiselle,7s,---,C/V\.C/e\.C/V\.'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 1",,<pb n=&quot;810&quot;/><div type=&quot;chapter&quot; n=&quot;Poésies familières no 46&quot;><head>Lettres a bonne de Hersin</head><lg><l n=&quot;1&quot;>
 437,77,2,bonnette,bonnette,XLVI(IIp810)_1,Adj,Adj,bonnette,7s,---,C/V\.'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 1",,
 438,77,3,",",",",XLVI(IIp810)_1,Pnc,Pnc,",",7s,---,,"MolinetFaictz, Poésies familières no XLVI, v. 1",</l>,
 439,78,1,propre,propre,XLVI(IIp810)_2,Adj,Adj,propre,7s,---,'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 2",,<l n=&quot;2&quot;>
@@ -595,7 +595,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 594,104,4,ce,ce,XLVI(IIp810)_28,Prn,Prn$,ce,7s,---,C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 28",,
 595,104,5,soit,soit,XLVI(IIp810)_28,Vfin,Vfin,être,7s,---,C/V\,"MolinetFaictz, Poésies familières no XLVI, v. 28",,
 596,104,6,bientos,bientos,XLVI(IIp810)_28,Adv,Adv,bientôt,7s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no XLVI, v. 28",,
-597,104,7,.,.,XLVI(IIp810)_28,Pnc,Pnc,.,7s,---,,"MolinetFaictz, Poésies familières no XLVI, v. 28",</l></div>,
+597,104,7,.,.,XLVI(IIp810)_28,Pnc,Pnc,.,7s,---,,"MolinetFaictz, Poésies familières no XLVI, v. 28",</l></lg></div>,
 598,105,1,dame,dame,LXVIII(2p866)_1,N,N,dame,8s,---,'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 1",,<pb n=&quot;866&quot;/><div type=&quot;chapter&quot; n=&quot;Poésies familières no 68&quot;><head>Ballade figuree</head><lg type=&quot;stanza&quot;><l n=&quot;1&quot;>
 599,105,2,",",",",LXVIII(2p866)_1,Pnc,Pnc,",",8s,---,,"MolinetFaictz, Poésies familières no LXVIII, v. 1",,
 600,105,3,j',j',LXVIII(2p866)_1,Prn,Prn$,je,8s,---,C/\,"MolinetFaictz, Poésies familières no LXVIII, v. 1",,
@@ -1746,7 +1746,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1745,257,7,m',m',LI(2p824)_48,Prn,Prn$$,me,10s,---,C/\,"MolinetFaictz, Poésies familières no LI, v. 48",,
 1746,257,8,appelle,appelle,LI(2p824)_48,Vfin,Vfin,appeler,10s,---,/V\.'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no LI, v. 48",,
 1747,257,9,.,.,LI(2p824)_48,Pnc,Pnc,.,10s,---,,"MolinetFaictz, Poésies familières no LI, v. 48",</l></lg></div>,
-1748,258,1,souffle,souffle,LXI(2p851)_1,Vfin,Vfin,souffler,10s,---,'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no LXI, v. 1",,<pb n=&quot;851&quot;/><div type=&quot;chapter&quot; n=&quot;Poésies familières no 51&quot;><head>Ballade</head><lg type=&quot;stanza&quot;><l n=&quot;1&quot;>
+1748,258,1,souffle,souffle,LXI(2p851)_1,Vfin,Vfin,souffler,10s,---,'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no LXI, v. 1",,<pb n=&quot;851&quot;/><div type=&quot;chapter&quot; n=&quot;Poésies familières no 56&quot;><head>Ballade</head><lg type=&quot;stanza&quot;><l n=&quot;1&quot;>
 1749,258,2,",",",",LXI(2p851)_1,Pnc,Pnc,",",10s,---,,"MolinetFaictz, Poésies familières no LXI, v. 1",,
 1750,258,3,trithon,trithon,LXI(2p851)_1,N,N,Triton,10s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXI, v. 1",,
 1751,258,4,",",",",LXI(2p851)_1,Pnc,Pnc,",",10s,---,,"MolinetFaictz, Poésies familières no LXI, v. 1",,
@@ -1878,7 +1878,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1877,275,6,en,en,LXI(2p851)_18,Pre,Pre,en,10s,---,/V\,"MolinetFaictz, Poésies familières no LXI, v. 18",,
 1878,275,7,la,la,LXI(2p851)_18,Det,Det,le,10s,---,C/V\,"MolinetFaictz, Poésies familières no LXI, v. 18",,
 1879,275,8,champaigne,champaigne,LXI(2p851)_18,N,N,campagne,10s,---,C/V\.'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no LXI, v. 18",,
-1880,275,9,",",",",LXI(2p851)_18,Pnc,Pnc,",",10s,---,,"MolinetFaictz, Poésies familières no LXI, v. 18",,
+1880,275,9,",",",",LXI(2p851)_18,Pnc,Pnc,",",10s,---,,"MolinetFaictz, Poésies familières no LXI, v. 18",</l>,
 1881,276,1,et,et,LXI(2p851)_19,Crd,Crd,et,10s,---,/V\,"MolinetFaictz, Poésies familières no LXI, v. 19",,<pb n=&quot;852&quot;/><l n=&quot;19&quot;>
 1882,276,2,veult,veult,LXI(2p851)_19,Vfin,Vfin,vouloir,10s,---,C/V\,"MolinetFaictz, Poésies familières no LXI, v. 19",,
 1883,276,3,que,que,LXI(2p851)_19,Sub,Sub,que,10s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXI, v. 19",,

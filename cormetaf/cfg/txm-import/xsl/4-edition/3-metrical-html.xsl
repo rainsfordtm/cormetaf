@@ -62,13 +62,19 @@
     </xsl:template>
     
 <xsl:template match="tei:text">
+    
+    <!-- Pass 0: convert <l/> to <lb/> -->
+    
+    <xsl:variable name="stage0" as="node()*">
+        <xsl:apply-templates select="." mode="l-to-lb"/>
+    </xsl:variable>
 
     <!-- Pass 1: add lb attributes -->
     <xsl:variable name="stage1" as="node()*">
-        <xsl:apply-templates select="." mode="add-lb"/>
+        <xsl:apply-templates select="$stage0" mode="add-lb"/>
     </xsl:variable>
 
-    <!-- Pass 2: convert txm:ana → attributes -->
+    <!-- Pass 2: convert txm:ana to attributes -->
     <xsl:variable name="stage2" as="node()*">
         <xsl:apply-templates select="$stage1" mode="ana2attr"/>
     </xsl:variable>
@@ -95,12 +101,29 @@
             </table>
         </div>
         <div class="txmeditionpage">
-            <xsl:apply-templates select="$stage2//tei:lb[@type='sylvaline']"
-                                 mode="render-line"/>
+            <table>
+                <xsl:apply-templates select="$stage2//tei:lb[@type='sylvaline']"
+                        mode="render-line"/>
+            </table>
         </div>
     </body>
 
 </xsl:template>
+
+<xsl:template match="tei:l" mode="l-to-lb">
+    <xsl:element name="tei:lb">
+        <xsl:attribute name="type">sylvaline</xsl:attribute>
+        <xsl:attribute name="n" select="count(preceding::tei:l)"/>
+    </xsl:element>
+    <xsl:apply-templates select="*" mode="l-to-lb"/>
+</xsl:template>
+
+<xsl:template match="*" mode="l-to-lb">
+    <xsl:copy>
+        <xsl:apply-templates select="@*, node()" mode="l-to-lb"/>
+    </xsl:copy>
+</xsl:template>
+
 
 <xsl:template match="*" mode="add-lb">
     <xsl:copy>
@@ -110,7 +133,7 @@
     </xsl:copy>
 </xsl:template>
 
-<xsl:template match="@*|text()" mode="add-lb">
+<xsl:template match="@*|text()" mode="add-lb l-to-lb">
     <xsl:copy/>
 </xsl:template>
 
@@ -145,24 +168,28 @@
 
     <xsl:variable name="line" select="@n"/>
     
-    <xsl:element name="span">
-        <xsl:attribute name="type">texttt</xsl:attribute>
-        <xsl:apply-templates
-            select="following::tei:w[@tei-lb=$line]"
-            mode="render-word"/>
-    </xsl:element>
+    <tr>
     
-    <xsl:text> </xsl:text>
+        <xsl:element name="td">
+            <xsl:attribute name="class">texttt</xsl:attribute>
+            <xsl:apply-templates
+                select="following::tei:w[@tei-lb=$line]"
+                mode="render-word"/>
+        </xsl:element>
+        
+        <xsl:element name="td">
+            <xsl:attribute name="class">linemet</xsl:attribute>
+            <xsl:value-of select="following::tei:w[1]/@line_met"/>
+        </xsl:element>
+        
+        <xsl:element name="td">
+            <xsl:value-of select="following::tei:w[1]/@ref"/>
+        </xsl:element>
     
-    <xsl:element name="span">
-        <xsl:attribute name="type">lineno</xsl:attribute>
-        <xsl:value-of select="$line"/>
-    </xsl:element>
-    
-    <br/>
+    </tr>
     <xsl:text>&#x0a;</xsl:text>
 
-</xsl:template>    
+</xsl:template>
        
 <xsl:template match="tei:w" mode="render-word">
 
@@ -173,7 +200,7 @@
     <xsl:variable name="pad-left">
         <xsl:choose>
             <xsl:when test="$last-w/@counted_syllables = '0'">
-                <xsl:value-of select="$width - string-length(txm:form/text()) - string-length($last-w/txm:form/text()) - 2"/>
+                <xsl:value-of select="$width - string-length(txm:form/text()) - string-length($last-w/txm:form/text()) - 1"/>
             </xsl:when>
             <xsl:otherwise>
                 <xsl:value-of select="$width - string-length(txm:form/text()) - 1"/>
@@ -187,7 +214,6 @@
         <!-- Proclitics -->
         <xsl:if test="$last-w/@counted_syllables = '0'">
             <xsl:value-of select="$last-w/txm:form"/>
-            <xsl:text>&#xa0;</xsl:text>
         </xsl:if>
         <!-- Main word -->
         <xsl:value-of select="txm:form"/>

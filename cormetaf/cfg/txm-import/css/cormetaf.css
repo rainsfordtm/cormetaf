@@ -1,12 +1,10 @@
 /*  
-   Stylesheet for OGR corpus in TXM copyright © 2021 T. M. Rainsford, Institut für Linguistik/Romanistik, Universität Stuttgart 
+   Stylesheet for CorMetAF corpus in TXM copyright © 2026 T. M. Rainsford, Institut für Linguistik/Romanistik, Universität Stuttgart 
    Original TXM stylesheet copyright © 2017 ENS de Lyon, CNRS, University of Franche-Comté
    Licensed under the terms of the GNU General Public License (http://www.gnu.org/licenses)
    @author cbourdot
    @author sheiden
    @author tmr
-
-   OGR CSS 11-2021
 
 */
 .txmeditionpage {
@@ -17,8 +15,8 @@
 	box-shadow: .3125em .3125em .625em 0 #888;
 	margin: 1.25em auto;
 	padding: 1.25em;
-	width: 600px; /* use 400px for book style */
 	min-height: 90%;
+	max-width: 1000px;  /* increase this value */
 }
 
 .txmlettrinep:first-letter {
@@ -121,26 +119,23 @@ img {
 	margin: 10px 10px 10px 10px;
 }
 
-td {
-    font-size: 16px;
-}
-
-lineno {
-    font-size: 12px;
-    font-family: monospace;
+.lineno {
+    font-size: 50%;
+    font-family: Courier New, monospace;
     width: 20px;
 }
 
-texttt {
-    font-family: monospace;
+.linemet {
+    font-weight: bold;
+}
+
+.texttt {
+    font-size: 65%;
+    font-family: Courier New, monospace;
 }
 
 th {
     text-align: left;
     color: red;
     text-indent: 20px;
-}
-
-table {
-    width: 550px; /* fixed width for tables used to typeset verse */
 }

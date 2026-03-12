@@ -54,7 +54,7 @@
                 <meta name="description" content="{//tei:text/descendant::tei:w[1]/@id}"/>
                 <meta name="txm:first-word-id" content="{//tei:text/descendant::tei:w[1]/@id}"/>
                 <!-- As required by TXM docs -->
-                <link rel="stylesheet" media="all" type="text/css" href="css/ogr-txm.css"/>
+                <link rel="stylesheet" media="all" type="text/css" href="css/cormetaf.css"/>
             </head>
             <xsl:apply-templates select="descendant::tei:text"/>
         </html>
@@ -90,6 +90,17 @@
         </body>
     </xsl:template>
     
+    <xsl:template match="tei:div">
+        <!-- The CorMetAF uses div type="chapter" to split up different
+        pieces in a text. Use h2 if there's a heading. -->
+        <xsl:if test="@type = 'chapter' and tei:head">
+            <h2>
+                <xsl:apply-templates select="tei:head"/>
+            </h2>
+        </xsl:if>
+        <xsl:apply-templates select="node()[not(self::tei:head)]"/>
+    </xsl:template>
+    
     <xsl:template match="tei:docTitle">
         <!-- Used in Sponsus, use <h1> -->
         <h1>
@@ -106,7 +117,7 @@
         </h3>
     </xsl:template>
     
-    <xsl:template match="tei:ab | tei:lg">
+    <xsl:template match="tei:lg">
         <xsl:variable name="this-ab" select="."/>
         <!-- Add language attribute and class from parent element to table -->
         <xsl:element name="table">
@@ -287,8 +298,8 @@
         <xsl:text>]</xsl:text>
     </xsl:template>
 
-    <xsl:template match="tei:p">
-        <!-- Turn ps into an HTML p; add xml:lang if present; class inherited from parent element -->
+    <xsl:template match="tei:ab|tei:p">
+        <!-- Turn ps and abs into an HTML p; add xml:lang if present; class inherited from parent element -->
         <xsl:element name="p">
             <xsl:if test="@lang">
                 <xsl:attribute name="lang" select="@lang"/>
