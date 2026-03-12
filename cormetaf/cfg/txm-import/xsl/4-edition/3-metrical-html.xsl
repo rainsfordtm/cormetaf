@@ -213,14 +213,37 @@
         <xsl:value-of select="substring('&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;', 1, number($pad-left))"/>
         <!-- Proclitics -->
         <xsl:if test="$last-w/@counted_syllables = '0'">
-            <xsl:value-of select="$last-w/txm:form"/>
+            <xsl:element name="span">
+                <xsl:attribute name="class">w</xsl:attribute>
+                <xsl:attribute name="title">
+                    <xsl:apply-templates select="$last-w/@*[name() = ('pos', 'lemma', 'prosody', 'metpos', 'soptem', 'counted_syllables')]"
+                     mode="title-string"/>
+                </xsl:attribute>
+                <xsl:value-of select="$last-w/txm:form"/>
+            </xsl:element>
         </xsl:if>
         <!-- Main word -->
-        <xsl:value-of select="txm:form"/>
+        <xsl:element name="span">
+            <xsl:attribute name="class">w</xsl:attribute>
+            <xsl:attribute name="title">
+                <xsl:apply-templates select="@*[name() = ('pos', 'lemma', 'prosody', 'metpos', 'soptem', 'counted_syllables')]"
+                     mode="title-string"/>
+            </xsl:attribute>
+            <xsl:value-of select="txm:form"/>
+        </xsl:element>
         <!-- Following space -->
         <xsl:text>&#xa0;</xsl:text>
     </xsl:if>
 
-</xsl:template>   
+</xsl:template>
+
+    <xsl:template match="@*" mode="title-string">
+        <xsl:value-of select="name()"/>
+        <xsl:text>:</xsl:text>
+        <xsl:value-of select="."/>
+        <xsl:if test="not(position() = last())">
+            <xsl:text> </xsl:text>
+        </xsl:if>
+    </xsl:template>
 
 </xsl:stylesheet>
