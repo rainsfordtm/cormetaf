@@ -166,35 +166,53 @@ vowel-initial word stressed on the final syllable.
 
 ## Sources
 
-There are three main sources for the texts and annotation in the CorMétAF:
+There are two main sources for the texts and annotation in the CorMétAF:
 
-+ the _Nouveau Corpus d'Amsterdam_ (NCA), version 2 (circa 2008) (REF)
-+ the _Base de français médiéval_ (BFM) (circa 2008) (REF)
-+ manual digitization of the print edition
-
-Texts from the NCA generally reproduce the source edition without
-punctuation and capitalization, and in some cases with manuscript
-variants reinstated. However, they have extremely detailed gold
-part-of-speech tags (`pos_nca`). These were used as the basis for
-the syntag annotation. Texts from the NCA are redistributed under a 
-BLAH license; the latest version of the NCA is available on GitHub.
-
-Texts from the BFM and manually digitized texts generally retain
-the punctuation and capitalization of the source. Syntag part-of-speech
-tags and lemmatization are in some cases based on the gold lemmatization
-provided by the BFM, although this annotation has been removed from the
-final CorMétAF. Texts from the BFM are redistributed under a BLAH
-licence. The latest version of the BFM is available on BLAH.
++ the _Nouveau Corpus d'Amsterdam_ (NCA), version 2 (circa 2008) (Stein et al. 2006)
++ digitized print editions
 
 All source texts in the corpus are in the public domain in the EU since
 the authors died at least five centuries ago. Critical material from the
 source editions may remain under copyright and is excluded from the
 corpus.
 
-| Source | Texts                                                                           |
-| ------ | ------------------------------------------------------------------------------- |
-| NCA    | Adam, AdHaleFeuill, AlexisAlO, AmAm, BodelNic, Charroi, ChevBarAn, Coincy, ComtePoit, Gorm, JPriorat, PassJonglG, RCambr, RenNouv, RoseM, Rou, RutebTheoph, YsLyon |
+### Texts from the NCA
 
+| CorMétAF      | NCA         |
+| ---------     | ----------- |
+| Adam          | myst        |
+| AdHaleFeuill  | feu         |
+| AlexisAlO     | alexo       |
+| AmAm          | amile       |
+| BodelNic      | nic         |
+| Charroi       | nima2       |
+| ChevBarAn     | bar         |
+| Coincy        | coinci      |
+| ComtePoit     | compoit     |
+| Gorm          | gorm        |
+| JPriorat      | abreja      |
+| PassJonglG    | jongl       |
+| RCambr        | raou        |
+| RenNouv       | nouvel      |
+| RoseM         | meun        |
+| Rou           | rou2        |
+| RutebTheoph   | the         |
+| YsLyon        | yzop        |
+
+Texts from the NCA generally reproduce the source edition without
+punctuation and capitalization, and in some cases with manuscript
+variants reinstated. However, they have extremely detailed gold
+part-of-speech tags (`pos_nca`). These were used as the basis for
+the syntag annotation. Texts from the NCA are redistributed under a 
+[CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en);
+the latest version of the NCA is 
+[available on GitHub](https://github.com/michaniets/NCA).
+
+### Other texts
+
+All other texts are sourced from digitized print editions and were 
+annotated by me. I'm grateful for the support of the BFM team for their
+continued support during the development of this corpus.
 
 ## Appendix: Syntag tagset
 
