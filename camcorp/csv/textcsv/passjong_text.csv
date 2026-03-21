@@ -88,7 +88,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 87,16,4,estoit,estoit,VER:impf:3:sg,16,Vfin,Vfin,être,/V\.'C/V\,"PassJonglG, v. 16"
 88,16,5,gardee,gardee,VER:pper:femi:sg,16,Vpp,Vpp,garder,C/V\.'C/V\./(e)\,"PassJonglG, v. 16"
 89,17,1,li,li,DET:def:suj:masc:pl,17,Det,Det,le,C/V\,"PassJonglG, v. 17"
-90,17,2,mestre,mestre,NOM:suj:masc:pl,17,N,N,maître,'C/V\.C/(e)\,"PassJonglG, v. 17"
+90,17,2,mestre,mestre,NOM:suj:masc:pl,17,Adj,Adj,maître,'C/V\.C/(e)\,"PassJonglG, v. 17"
 91,17,3,prince,prince,NOM:suj:masc:pl,17,N,N,prince,'C/V\.C/(e)\,"PassJonglG, v. 17"
 92,17,4,de,de,PRE,17,Pre,Pre,de,C/(e)\,"PassJonglG, v. 17"
 93,17,5,la,la,DET:def:obj:femi:sg,17,Det,Det,le,C/V\,"PassJonglG, v. 17"

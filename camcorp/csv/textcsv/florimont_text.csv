@@ -1022,7 +1022,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1021,162,6,folie,folie,1126,N,N,folie,C/V\.'C/V\./(e)\,"AimonFl, v. 1126"
 1022,163,1,Qui,qui,1127,Qux,Qux,qui,C/V\,"AimonFl, v. 1127"
 1023,163,2,s',s',1127,Prn,Prn$$,se,C/\,"AimonFl, v. 1127"
-1024,163,3,orgoille,orgoille,1127,N,N,orgueiller,/V\.'C/V\.C/(e)\,"AimonFl, v. 1127"
+1024,163,3,orgoille,orgoille,1127,Vfin,Vfin,orgueiller,/V\.'C/V\.C/(e)\,"AimonFl, v. 1127"
 1025,163,4,por,por,1127,Pre,Pre,pour,C/V\,"AimonFl, v. 1127"
 1026,163,5,bone,bone,1127,Adj,Adj,bon,'C/V\.C/(e)\,"AimonFl, v. 1127"
 1027,163,6,estance,estance,1127,N,N,estance,/V\.'C/V\.C/(e)\,"AimonFl, v. 1127"

@@ -49,7 +49,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 48,9,2,cligni,cligni,9,N,N,Cluny,C/V\.'C/V\,"SegrMoine3, v. 9"
 49,9,3,",",",",9,Pnc,Pnc,",",,"SegrMoine3, v. 9"
 50,9,4,la,la,9,Det,Det,le,C/V\,"SegrMoine3, v. 9"
-51,9,5,maistre,maistre,9,N,N,maître,'C/V\.C/(e)\,"SegrMoine3, v. 9"
+51,9,5,maistre,maistre,9,Adj,Adj,maître,'C/V\.C/(e)\,"SegrMoine3, v. 9"
 52,9,6,abaie,abaie,9,N,N,abbaye,/V\.C/V\.'C/V\./(e)\,"SegrMoine3, v. 9"
 53,9,7,",",",",9,Pnc,Pnc,",",,"SegrMoine3, v. 9"
 54,10,1,qui,qui,10,Qux,Qux,qui,C/V\,"SegrMoine3, v. 10"

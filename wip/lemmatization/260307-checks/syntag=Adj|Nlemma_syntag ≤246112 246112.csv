@@ -2948,7 +2948,7 @@ luxurieux_Adj	1
 Luxurieux_Adj	1	
 lyonnaise_Adj	1	
 lyre_N	1	
-Mabon_N	1	STOP
+Mabon_N	1	
 Maccabée_N	1	
 Macédoine_N	2	
 macédonien_N	2	
@@ -3588,7 +3588,7 @@ ouvrier_N	4
 Ovide_N	1	
 Oxford_N	3	
 oyance_N	1	
-pacter_N	1	
+pacter_N	1	STOP
 page_N	1	
 Pagorant_N	1	
 pagosse_N	1	

@@ -2471,7 +2471,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 2470,369,2,en,en,383,Pre,Pre,en,/V\,"LFortunae, v. 383"
 2471,369,3,hault,hault,383,Adj,Adj,haut,C/V\,"LFortunae, v. 383"
 2472,369,4,ou,ou,383,Pre+Det,Pre+Det,en.le,/V\,"LFortunae, v. 383"
-2473,369,5,maistre,maistre,383,N,N,maître,'C/V\.C/(e)\,"LFortunae, v. 383"
+2473,369,5,maistre,maistre,383,Adj,Adj,maître,'C/V\.C/(e)\,"LFortunae, v. 383"
 2474,369,6,estaige,estaige,383,N,N,étage,/V\.'C/V\.C/(e)\,"LFortunae, v. 383"
 2475,369,7,",",",",383,Pnc,Pnc,",",,"LFortunae, v. 383"
 2476,370,1,Lors,lors,384,Adv,Adv,lors,C/V\,"LFortunae, v. 384"

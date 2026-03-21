@@ -2611,7 +2611,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 2610,399,5,",",",",399,Pnc,Pnc,",",,"ImMondeOct3, v. 399"
 2611,400,1,A,a,400,Pre,Pre,à,/V\,"ImMondeOct3, v. 400"
 2612,400,2,la,la,400,Det,Det,le,C/V\,"ImMondeOct3, v. 400"
-2613,400,3,maistre,maistre,400,N,N,maître,'C/V\.C/(e)\,"ImMondeOct3, v. 400"
+2613,400,3,maistre,maistre,400,Adj,Adj,maître,'C/V\.C/(e)\,"ImMondeOct3, v. 400"
 2614,400,4,eglise,eglise,400,N,N,église,/V\.'C/V\.C/(e)\,"ImMondeOct3, v. 400"
 2615,400,5,en,en,400,Prn,Prn$$,en2,/V\,"ImMondeOct3, v. 400"
 2616,400,6,ala,ala,400,Vfin,Vfin,aller,/V\.'C/V\,"ImMondeOct3, v. 400"
