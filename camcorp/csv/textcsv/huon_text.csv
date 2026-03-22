@@ -3459,7 +3459,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 3458,390,6,por,por,390,Pre,Pre,pour,C/V\,"Huon, v. 390"
 3459,390,7,noient,noient,390,Prn,Prn,nïent,C/V\.'C/V\,"Huon, v. 390"
 3460,390,8,em,em,390,Prn,Prn$$,en2,/V\,"Huon, v. 390"
-3461,390,9,plaidiés,plaidiés,390,N,N,plaider,C/V\.'C/V\,"Huon, v. 390"
+3461,390,9,plaidiés,plaidiés,390,Vfin,Vfin,plaider,C/V\.'C/V\,"Huon, v. 390"
 3462,390,10,",",",",390,Pnc,Pnc,",",,"Huon, v. 390"
 3463,391,1,nous,nous,391,Prn,Prn$,nous,C/V\,"Huon, v. 391"
 3464,391,2,ne,ne,391,Neg,Neg$$,ne,C/(e)\,"Huon, v. 391"

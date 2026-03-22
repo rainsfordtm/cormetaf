@@ -2585,7 +2585,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,pos,lemma
 2584,381,3,escole,escole,381,N,N,/V\.'C/V\.C/(e)\,NOUN,école,"PAbernRich, v. 381"
 2585,381,4,",",",",381,Pnc,Pnc,,PUNCT,",","PAbernRich, v. 381"
 2586,381,5,en,en,381,Pre,Pre,/V\,ADP,en,"PAbernRich, v. 381"
-2587,381,6,quer,quer,381,N,N,C/V\,NOUN,quérir,"PAbernRich, v. 381"
+2587,381,6,quer,quer,381,N,N,C/V\,NOUN,coeur,"PAbernRich, v. 381"
 2588,381,7,ensement,ensement,381,Adv,Adv,/V\.C/e\.'C/V\,ADV,ensement,"PAbernRich, v. 381"
 2589,382,1,de,de,382,Pre,Pre,C/(e)\,ADP,de,"PAbernRich, v. 382"
 2590,382,2,eloquence,eloquence,382,N,N,/V\.C/V\.'C/V\.C/(e)\,NOUN,éloquence,"PAbernRich, v. 382"
