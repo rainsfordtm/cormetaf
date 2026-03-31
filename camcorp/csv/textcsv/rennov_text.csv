@@ -1778,7 +1778,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1777,302,5,de,de,PRE,302,Pre,Pre,de,C/(e)\,"RenNouv, v. 302"
 1778,302,6,cruauté,cruauté,NOM:obj:femi:sg,302,N,N,cruauté,C/V\.C/V\.'C/V\,"RenNouv, v. 302"
 1779,303,1,en,en,PRE,303,Pre,Pre,en,/V\,"RenNouv, v. 303"
-1780,303,2,son,son,NOM:obj:masc:sg,303,N,N,son,C/V\,"RenNouv, v. 303"
+1780,303,2,son,son,NOM:obj:masc:sg,303,N,N,son3,C/V\,"RenNouv, v. 303"
 1781,303,3,se,se,DET:poss:obj:femi:sg,303,Det,Det,son4,C/(e)\,"RenNouv, v. 303"
 1782,303,4,lanche,lanche,NOM:obj:femi:sg,303,N,N,lance,'C/V\.C/(e)\,"RenNouv, v. 303"
 1783,303,5,ot,ot,VER:simp:3:sg,303,Vfin,Vfin,avoir,/V\,"RenNouv, v. 303"

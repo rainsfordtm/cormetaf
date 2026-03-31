@@ -1253,7 +1253,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1252,128,6,s',s',128,Prn,Prn$$,se,C/\,"Berte, v. 128"
 1253,128,7,assisent,assisent,128,Vfin,Vfin,asseoir,/V\.'C/V\.C/e\,"Berte, v. 128"
 1254,128,8,au,au,128,Pre+Det,Pre+Det,à.le,/V\,"Berte, v. 128"
-1255,128,9,souper,souper,128,Vinf,Vinf,souper,C/V\.'C/V\,"Berte, v. 128"
+1255,128,9,souper,souper,128,N,N,souper,C/V\.'C/V\,"Berte, v. 128"
 1256,128,10,.,.,128,Pnc,Pnc,.,,"Berte, v. 128"
 1257,129,1,tant,tant,129,QIs,QIs,tant,C/V\,"Berte, v. 129"
 1258,129,2,com,com,129,Sub,Sub,comme,C/V\,"Berte, v. 129"

@@ -705,7 +705,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 704,108,8,.,.,108,Pnc,Pnc,.,,"Passion, v. 108"
 705,109,1,a,a,109,Pre,Pre,à,/V\,"Passion, v. 109"
 706,109,2,cel,cel,109,Dem,Dem,cil,C/V\,"Passion, v. 109"
-707,109,3,sopar,sopar,109,Vinf,Vinf,souper,C/V\.'C/V\,"Passion, v. 109"
+707,109,3,sopar,sopar,109,N,N,souper,C/V\.'C/V\,"Passion, v. 109"
 708,109,4,un,un,109,QIs,QIs,un,/V\,"Passion, v. 109"
 709,109,5,sermon,sermon,109,N,N,sermon,C/V\.'C/V\,"Passion, v. 109"
 710,109,6,fiz,fiz,109,Vfin,Vfin,faire,C/V\,"Passion, v. 109"

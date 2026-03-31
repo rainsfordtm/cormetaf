@@ -4124,7 +4124,7 @@ quintaine_N	10
 Quinte_N	1	
 quitte_Adj	16	
 quittement_N	1	
-rachat_N	1	STOP
+rachat_N	1	
 racine_N	5	
 raclure_N	1	
 raconte_N	1	
@@ -4720,7 +4720,7 @@ sûrtance_N	1
 sustentement_N	1	
 syllogisme_N	1	
 Syrie_N	3	
-tabard_N	2	
+tabard_N	2	STOP
 table_N	26	
 tableau_N	1	
 tablier_N	2	

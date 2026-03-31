@@ -1452,7 +1452,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1451,221,2,part,part,1185,Vfin,Vfin,partir,C/V\,"AimonFl, v. 1185"
 1452,221,3,et,et,1185,Crd,Crd,et,/V\,"AimonFl, v. 1185"
 1453,221,4,les,les,1185,Det,Det,le,C/V\,"AimonFl, v. 1185"
-1454,221,5,Grezois,grezois,1185,N,N,STOP,C/V\.'C/V\,"AimonFl, v. 1185"
+1454,221,5,Grezois,grezois,1185,Adj,Adj,grégeois,C/V\.'C/V\,"AimonFl, v. 1185"
 1455,221,6,.,.,1185,Pnc,Pnc,.,,"AimonFl, v. 1185"
 1456,222,1,Qamdiobras,qamdiobras,1186,N,N,Camdiobras,C/V\.C/V\.C/V\.'C/V\,"AimonFl, v. 1186"
 1457,222,2,en,en,1186,Prn,Prn$$,en2,/V\,"AimonFl, v. 1186"

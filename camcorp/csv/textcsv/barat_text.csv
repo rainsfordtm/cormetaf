@@ -250,7 +250,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 249,36,3,amont,amont,36,PrA,PrA,amont,/V\.'C/V\,"HaimBar, v. 36"
 250,36,4,s',s',36,Prn,Prn$$,se,C/\,"HaimBar, v. 36"
 251,36,5,en,en,36,Prn,Prn$$,en2,/V\,"HaimBar, v. 36"
-252,36,6,ranpe,ranpe,36,N,N,ramper,'C/V\.C/(e)\,"HaimBar, v. 36"
+252,36,6,ranpe,ranpe,36,Vfin,Vfin,ramper,'C/V\.C/(e)\,"HaimBar, v. 36"
 253,36,7,",",",",36,Pnc,Pnc,",",,"HaimBar, v. 36"
 254,37,1,com,com,37,Sub,Sub,comme,C/V\,"HaimBar, v. 37"
 255,37,2,cil,cil,37,Dem,Dem,cil,C/V\,"HaimBar, v. 37"

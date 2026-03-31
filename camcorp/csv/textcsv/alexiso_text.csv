@@ -1336,7 +1336,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1335,149,6,soir,soir,NOM:obj:masc:sg,160,N,N,soir,C/V\,"AlexisAlO, v. 160"
 1336,149,7,receüt,receüt,VER:pper:masc:sg,160,Vpp,Vpp,recevoir,C/V\.C/(V)\.'/V\,"AlexisAlO, v. 160"
 1337,149,8,lo,lo,DET:def:obj:masc:sg,160,Det,Det,le,C/(e)\,"AlexisAlO, v. 160"
-1338,149,9,sopeir,sopeir,VER:infi,160,Vinf,Vinf,souper,C/V\.'C/V\,"AlexisAlO, v. 160"
+1338,149,9,sopeir,sopeir,VER:infi,160,N,N,souper,C/V\.'C/V\,"AlexisAlO, v. 160"
 1339,150,1,mais,mais,CON:coord,161,Crd,Crd,mais,C/V\,"AlexisAlO, v. 161"
 1340,150,2,asseiz,asseiz,ADV,161,Adv,Adv,assez,/V\.'C/V\,"AlexisAlO, v. 161"
 1341,150,3,avront,avront,VER:futu:3:pl,161,Vfin,Vfin,avoir,/V\.'C/V\,"AlexisAlO, v. 161"
