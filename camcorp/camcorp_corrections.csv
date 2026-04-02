@@ -384,3 +384,12 @@ adam,*,veisine,N,voisin,,,voisine
 *,*,*,Vfin,blâme,N,N,
 *,*,*,*,blamer,,,blâmer
 *,*,*,Vprs,boban,N,N,
+*,*,*,Vfin,challenge,,,challenger
+*,*,*,Vfin,chausse,,,chausser
+*,*,*,*,comparer2,,,comparer
+*,*,*,*,consecrer,,,consacrer
+*,*,*,*,conseiller2,,,conseiller
+*,*,*,Vpp,couronne,,,couronner
+*,*,*,*,crémir,,,craindre
+*,*,*,*,criembre,,,craindre
+*,*,*,Vpp,crêté,Adj,Adj,
