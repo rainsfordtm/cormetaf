@@ -1826,7 +1826,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1825,269,8,"""","""",269,Pnc,Pnc,"""",,"MarieLanv, v. 269"
 1826,269,9,lessez,lessez,269,Vfin,Vfin,laisser,C/V\.'C/V\,"MarieLanv, v. 269"
 1827,269,10,m',m',269,Prn,Prn%$,me,C/\,"MarieLanv, v. 269"
-1828,269,11,ester,ester,269,Vinf,Vinf,être,/V\.'C/V\,"MarieLanv, v. 269"
+1828,269,11,ester,ester,269,Vinf,Vinf,ester,/V\.'C/V\,"MarieLanv, v. 269"
 1829,269,12,!,!,269,Pnc,Pnc,!,,"MarieLanv, v. 269"
 1830,270,1,jeo,jeo,270,Prn,Prn$,je,C/V\,"MarieLanv, v. 270"
 1831,270,2,n',n',270,Neg,Neg$$,ne,C/\,"MarieLanv, v. 270"

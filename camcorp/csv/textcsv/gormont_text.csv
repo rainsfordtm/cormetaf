@@ -27,7 +27,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 26,5,3,gormund,gormund,NPR:obj:masc:sg,13,N,N,Gormont,C/V\.'C/V\,"Gorm, v. 13"
 27,5,4,el,el,PREDET:en:obj:masc:sg,13,Pre+Det,Pre+Det,en.le,/V\,"Gorm, v. 13"
 28,5,5,pui,pui,NOM:obj:masc:sg,13,N,N,puy,C/V\,"Gorm, v. 13"
-29,5,6,estant,estant,VER:ppre,13,Vprs,Vprs,être,/V\.'C/V\,"Gorm, v. 13"
+29,5,6,estant,estant,VER:ppre,13,Vprs,Vprs,ester,/V\.'C/V\,"Gorm, v. 13"
 30,6,1,s,s,PROCON,14,Sub,Sub,si3,C/\,"Gorm, v. 14"
 31,6,2,il,il,PRO:pers:suj:3:masc:sg:unb,14,Prn,Prn$,il,/V\,"Gorm, v. 14"
 32,6,3,lores,lores,ADV,14,Adv,Adv,lors,'C/V\.C/e\,"Gorm, v. 14"

@@ -2206,7 +2206,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2205,358,6,semer,semer,VER:infi,427,Vinf,Vinf,semer,C/V\.'C/V\,"Adam, v. 427"
 2206,359,1,il,il,PRO:pers:suj:3:masc:sg:unb,428,Prn,Prn$,il,/V\,"Adam, v. 428"
 2207,359,2,te,te,PRO:pers:obj:2:sg:unb,428,Prn,Prn$$,te,C/(e)\,"Adam, v. 428"
-2208,359,3,faldrat,faldrat,VER:futu:3:sg,428,Vfin,Vfin,faillir,C/V\.'C/V\,"Adam, v. 428"
+2208,359,3,faldrat,faldrat,VER:futu:3:sg,428,Vfin,Vfin,falloir,C/V\.'C/V\,"Adam, v. 428"
 2209,359,4,al,al,PREDET:a:obj:masc:sg,428,Pre+Det,Pre+Det,à.le,/V\,"Adam, v. 428"
 2210,359,5,fruit,fruit,NOM:obj:masc:sg,428,N,N,fruit,C/V\,"Adam, v. 428"
 2211,359,6,porter,porter,VER:infi,428,Vinf,Vinf,porter,C/V\.'C/V\,"Adam, v. 428"

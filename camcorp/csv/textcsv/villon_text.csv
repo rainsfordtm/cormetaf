@@ -3047,7 +3047,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 3046,396,7,;,;,12023,Pnc,Pnc,;,10s,---,,"VillonLais, Poèmes variés no 12, v. 23"
 3047,397,1,jeuner,jeuner,12024,Vinf,Vinf,jeûner,10s,---,C/(V)\./V\.'C/V\,"VillonLais, Poèmes variés no 12, v. 24"
 3048,397,2,lui,lui,12024,Prn,Prn$$,lui,10s,---,C/V\,"VillonLais, Poèmes variés no 12, v. 24"
-3049,397,3,fault,fault,12024,Vfin,Vfin,faillir,10s,---,C/V\,"VillonLais, Poèmes variés no 12, v. 24"
+3049,397,3,fault,fault,12024,Vfin,Vfin,falloir,10s,---,C/V\,"VillonLais, Poèmes variés no 12, v. 24"
 3050,397,4,dimenches,dimenches,12024,N,N,dimanche,10s,---,C/V\.'C/V\.C/e\,"VillonLais, Poèmes variés no 12, v. 24"
 3051,397,5,et,et,12024,Crd,Crd,et,10s,---,/V\,"VillonLais, Poèmes variés no 12, v. 24"
 3052,397,6,merdiz,merdiz,12024,N,N,mardi,10s,---,C/V\.'C/V\,"VillonLais, Poèmes variés no 12, v. 24"

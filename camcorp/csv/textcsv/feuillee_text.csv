@@ -1665,7 +1665,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1664,276,2,gentiex,gentiex,ADJ:suj:masc:sg,288,Adj,Adj,gentil,C/V\.'C/V\,"AdHaleFeuill, v. 288"
 1665,276,3,hom,hom,NOM:suj:masc:sg,288,N,N,homme,/V\,"AdHaleFeuill, v. 288"
 1666,276,4,laissiés,laissiés,VER:impe:2:pl,288,Vfin,Vfin,laisser,C/V\.'C/V\,"AdHaleFeuill, v. 288"
-1667,276,5,ester,ester,VER:infi,288,Vinf,Vinf,être,/V\.'C/V\,"AdHaleFeuill, v. 288"
+1667,276,5,ester,ester,VER:infi,288,Vinf,Vinf,ester,/V\.'C/V\,"AdHaleFeuill, v. 288"
 1668,277,1,pour,pour,PRE,289,Pre,Pre,pour,C/V\,"AdHaleFeuill, v. 289"
 1669,277,2,dieu,dieu,NOM:obj:masc:sg,289,N,N,dieu,C/V\,"AdHaleFeuill, v. 289"
 1670,277,3,n,n,PRO:clit,289,Neg,Neg$$,ne,C/\,"AdHaleFeuill, v. 289"

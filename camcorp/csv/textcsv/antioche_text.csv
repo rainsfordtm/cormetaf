@@ -117,7 +117,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 116,13,4,en,en,13,Prn,Prn$$,en2,/V\,"Antioche, v. 13"
 117,13,5,ont,ont,13,Vfin,Vfin,avoir,/V\,"Antioche, v. 13"
 118,13,6,laisié,laisié,13,Vpp,Vpp,laisser,C/V\.'C/V\,"Antioche, v. 13"
-119,13,7,ester,ester,13,Vinf,Vinf,être,/V\.'C/V\,"Antioche, v. 13"
+119,13,7,ester,ester,13,Vinf,Vinf,ester,/V\.'C/V\,"Antioche, v. 13"
 120,13,8,",",",",13,Pnc,Pnc,",",,"Antioche, v. 13"
 121,14,1,mais,mais,14,Crd,Crd,mais,C/V\,"Antioche, v. 14"
 122,14,2,grainsdor,grainsdor,14,N,N,Graindor,C/V\.'C/V\,"Antioche, v. 14"

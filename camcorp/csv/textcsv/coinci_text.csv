@@ -2149,7 +2149,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,syntag,syntag2,syllabified,lemma,ref,te
 2148,355,3,seoir,seoir,VER:infi,Vinf,Vinf,C/(V)\.'/V\,seoir,"Coincy, II Mir 23, v. 111",,
 2149,355,4,ne,ne,PRO:clit,Neg,Neg$$,C/(e)\,ne,"Coincy, II Mir 23, v. 111",,
 2150,355,5,puet,puet,VER:pres:3:sg,Vfin,Vfin,C/V\,pouvoir,"Coincy, II Mir 23, v. 111",,
-2151,355,6,ester,ester,VER:infi,Vinf,Vinf,/V\.'C/V\,être,"Coincy, II Mir 23, v. 111",</l>,
+2151,355,6,ester,ester,VER:infi,Vinf,Vinf,/V\.'C/V\,ester,"Coincy, II Mir 23, v. 111",</l>,
 2152,356,1,ne,ne,PRO:clit,Neg,Neg$$,C/(e)\,ne,"Coincy, II Mir 23, v. 112",,<l n=&quot;112&quot;>
 2153,356,2,puet,puet,VER:pres:3:sg,Vfin,Vfin,C/V\,pouvoir,"Coincy, II Mir 23, v. 112",,
 2154,356,3,en,en,PRO:clit,Pre,Pre,/V\,en,"Coincy, II Mir 23, v. 112",,

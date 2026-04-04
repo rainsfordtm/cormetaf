@@ -1901,7 +1901,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1900,266,1,toz,toz,768,QIs,QIs,tout,C/V\,"Lanc, v. 768"
 1901,266,2,estormiz,estormiz,768,Vpp,Vpp,estourmir,/V\.C/V\.'C/V\,"Lanc, v. 768"
 1902,266,3,an,an,768,Pre,Pre,en,/V\,"Lanc, v. 768"
-1903,266,4,estant,estant,768,Vprs,Vprs,être,/V\.'C/V\,"Lanc, v. 768"
+1903,266,4,estant,estant,768,Vprs,Vprs,ester,/V\.'C/V\,"Lanc, v. 768"
 1904,266,5,saut,saut,768,Vfin,Vfin,saillir,C/V\,"Lanc, v. 768"
 1905,266,6,",",",",768,Pnc,Pnc,",",,"Lanc, v. 768"
 1906,267,1,ausi,ausi,769,Adv,Adv,aussi,/V\.'C/V\,"Lanc, v. 769"

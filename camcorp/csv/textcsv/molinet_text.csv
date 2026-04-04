@@ -827,7 +827,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 826,138,7,",",",",LXIX(2p868)_6,Pnc,Pnc,",",8s,---,,"MolinetFaictz, Poésies familières no LXIX, v. 6",</l>,
 827,139,1,souvent,souvent,LXIX(2p868)_7,Adv,Adv,souvent,8s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXIX, v. 7",,<l n=&quot;7&quot;>
 828,139,2,te,te,LXIX(2p868)_7,Prn,Prn$$,te,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXIX, v. 7",,
-829,139,3,fault,fault,LXIX(2p868)_7,Vfin,Vfin,faillir,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXIX, v. 7",,
+829,139,3,fault,fault,LXIX(2p868)_7,Vfin,Vfin,falloir,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXIX, v. 7",,
 830,139,4,escaillier,escaillier,LXIX(2p868)_7,Vinf,Vinf,écailler,8s,---,/V\.C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXIX, v. 7",,
 831,139,5,nois,nois,LXIX(2p868)_7,N,N,noix,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXIX, v. 7",</l>,
 832,140,1,sur,sur,LXIX(2p868)_8,PrA,PrA,sur,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXIX, v. 8",,<l n=&quot;8&quot;>

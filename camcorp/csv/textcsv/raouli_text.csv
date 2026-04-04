@@ -501,7 +501,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 500,68,1,une,une,DET:ndf:obj:femi:sg,363,QIs,QIs,un,'/V\.C/(e)\,"RCambr, v. 363"
 501,68,2,grant,grant,ADJ:obj:femi:sg,363,Adj,Adj,grand,C/V\,"RCambr, v. 363"
 502,68,3,piece,piece,NOM:obj:femi:sg,363,N,N,pièce,'C/V\.C/(e)\,"RCambr, v. 363"
-503,68,4,estut,estut,VER:simp:3:sg,363,Vfin,Vfin,être,/V\.'C/V\,"RCambr, v. 363"
+503,68,4,estut,estut,VER:simp:3:sg,363,Vfin,Vfin,estovoir,/V\.'C/V\,"RCambr, v. 363"
 504,68,5,puis,puis,ADV,363,PrA,PrA,puis,C/V\,"RCambr, v. 363"
 505,68,6,demorer,demorer,VER:infi,363,Vinf,Vinf,demeurer,C/V\.C/V\.'C/V\,"RCambr, v. 363"
 506,69,1,desc,desc,CON:subord,364,PrA,PrA,dèsque,C/V\,"RCambr, v. 364"

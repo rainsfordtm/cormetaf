@@ -2643,7 +2643,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2642,362,5,ce,ce,CCXXII_1,Prn,Prn,ce,mix,---,C/(e)\,"GuilMachLou, CCXXII, v. 1"
 2643,362,6,qu',qu',CCXXII_1,Qux,Qux,que,mix,---,C/\,"GuilMachLou, CCXXII, v. 1"
 2644,362,7,il,il,CCXXII_1,Prn,Prn$,il,mix,---,/V\,"GuilMachLou, CCXXII, v. 1"
-2645,362,8,faut,faut,CCXXII_1,Vfin,Vfin,faillir,mix,---,C/V\,"GuilMachLou, CCXXII, v. 1"
+2645,362,8,faut,faut,CCXXII_1,Vfin,Vfin,falloir,mix,---,C/V\,"GuilMachLou, CCXXII, v. 1"
 2646,363,1,a,a,CCXXII_2,Pre,Pre,à,mix,---,/V\,"GuilMachLou, CCXXII, v. 2"
 2647,363,2,dame,dame,CCXXII_2,N,N,dame,mix,---,'C/V\.C/(e)\,"GuilMachLou, CCXXII, v. 2"
 2648,363,3,de,de,CCXXII_2,Pre,Pre,de,mix,---,C/(e)\,"GuilMachLou, CCXXII, v. 2"
