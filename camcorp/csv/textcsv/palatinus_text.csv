@@ -2213,7 +2213,7 @@ wd_id,line_id,linewd,word,lemma,pos,lemma_score,lex_id,textlineid,syntag,syntag2
 2212,318,2,si,si,ADV,8,si,416,Adv,Adv,C/V\,"PassPal, v. 416"
 2213,318,3,ne,ne,ADV,8,ne,416,Neg,Neg$$,C/(e)\,"PassPal, v. 416"
 2214,318,4,le,le,PRON,7,le,416,Prn,Prn$$,C/(e)\,"PassPal, v. 416"
-2215,318,5,lesse,laisser,VERB,3,lesse,416,Vfin,Vfin,'C/V\.C/(e)\,"PassPal, v. 416"
+2215,318,5,lesse,layer,VERB,3,lesse,416,Vfin,Vfin,'C/V\.C/(e)\,"PassPal, v. 416"
 2216,318,6,plus,plus,ADV,8,plus,416,Adv,Adv,C/V\,"PassPal, v. 416"
 2217,318,7,regner,régner,VERB,9,regner,416,Vinf,Vinf,C/V\.'C/V\,"PassPal, v. 416"
 2218,318,8,",",",",PUNCT,9,",",416,Pnc,Pnc,,"PassPal, v. 416"

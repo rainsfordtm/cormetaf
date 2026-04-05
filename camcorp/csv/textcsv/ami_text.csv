@@ -2566,7 +2566,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2565,352,3,di,di,VER:impe:2:sg,352,Vfin,Vfin,dire,C/V\,"AmAm, v. 352"
 2566,352,4,frere,frere,NOM:suj:masc:sg,352,N,N,frère,'C/V\.C/(e)\,"AmAm, v. 352"
 2567,352,5,ne,ne,PRO:clit,352,Neg,Neg$$,ne,C/(e)\,"AmAm, v. 352"
-2568,352,6,laist,laist,VER:subp:3:sg,352,Vfin,Vfin,laisser,C/V\,"AmAm, v. 352"
+2568,352,6,laist,laist,VER:subp:3:sg,352,Vfin,Vfin,layer,C/V\,"AmAm, v. 352"
 2569,352,7,pas,pas,NOM:obj:masc:pl,352,Neg,Neg,pas,C/V\,"AmAm, v. 352"
 2570,352,8,eschaper,eschaper,VER:infi,352,Vinf,Vinf,échapper,/V\.C/V\.'C/V\,"AmAm, v. 352"
 2571,352,9,"""","""",PON:cit,352,Pnc,Pnc,"""",,"AmAm, v. 352"

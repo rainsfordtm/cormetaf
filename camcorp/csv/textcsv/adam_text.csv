@@ -1403,7 +1403,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1402,228,1,j,j,PRO:pers:suj:1:sg:unb,297,Prn,Prn$,je,C/\,"Adam, v. 297"
 1403,228,2,en,en,PRO:clit,297,Prn,Prn$$,en2,/V\,"Adam, v. 297"
 1404,228,3,duit,duit,VER:pres:1:sg,297,Vfin,Vfin,duire,C/V\,"Adam, v. 297"
-1405,228,4,lai,lai,VER:impe:2:sg,297,Vfin,Vfin,laisser,C/V\,"Adam, v. 297"
+1405,228,4,lai,lai,VER:impe:2:sg,297,Vfin,Vfin,layer,C/V\,"Adam, v. 297"
 1406,228,5,le,le,PRO:pers:obj:3:masc:sg:unb,297,Prn,Prn$$,le,C/(e)\,"Adam, v. 297"
 1407,228,6,nen,nen,PROCON,297,Neg,Neg$$,ne,C/V\,"Adam, v. 297"
 1408,228,7,frai,frai,VER:futu:1:sg,297,Vfin,Vfin,faire,C/V\,"Adam, v. 297"

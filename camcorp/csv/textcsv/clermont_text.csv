@@ -3323,7 +3323,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 3322,506,7,;,;,506,Pnc,Pnc,;,,"Passion, v. 506"
 3323,507,1,dontre,dontre,507,Qux,Qux,dontre,'C/V\.C/(e)\,"Passion, v. 507"
 3324,507,2,nos,nos,507,Prn,Prn$,nous,C/V\,"Passion, v. 507"
-3325,507,3,lez,lez,507,Vfin,Vfin,loisir2,C/V\,"Passion, v. 507"
+3325,507,3,lez,lez,507,Vfin,Vfin,loisir,C/V\,"Passion, v. 507"
 3326,507,4,facam,facam,507,Vfin,Vfin,faire,C/V\.'C/V\,"Passion, v. 507"
 3327,507,5,lo,lo,507,Det,Det,le,C/(e)\,"Passion, v. 507"
 3328,507,6,ben,ben,507,N,N,bien,C/V\,"Passion, v. 507"

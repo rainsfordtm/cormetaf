@@ -2260,7 +2260,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 2259,339,1,si,si,339,Sub,Sub,si3,C/V\,"ChevDame, v. 339"
 2260,339,2,cist,cist,339,Dem,Dem,cist,C/V\,"ChevDame, v. 339"
 2261,339,3,se,se,339,Prn,Prn$$,se,C/(e)\,"ChevDame, v. 339"
-2262,339,4,lest,lest,339,Vfin,Vfin,laier,C/V\,"ChevDame, v. 339"
+2262,339,4,lest,lest,339,Vfin,Vfin,loisir,C/V\,"ChevDame, v. 339"
 2263,339,5,pur,pur,339,Pre,Pre,pour,C/V\,"ChevDame, v. 339"
 2264,339,6,moi,moi,339,Prn,Prn,moi,C/V\,"ChevDame, v. 339"
 2265,339,7,morir,morir,339,Vinf,Vinf,mourir,C/V\.'C/V\,"ChevDame, v. 339"

@@ -2549,7 +2549,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2548,283,5,son,son,DET:poss:obj:masc:sg,396,Det,Det,son4,C/V\,"AlexisAlO, v. 396"
 2549,283,6,pere,pere,NOM:obj:masc:sg,396,N,N,père,'C/V\.C/(e)\,"AlexisAlO, v. 396"
 2550,283,7,li,li,PRO:pers:suj:3:masc:sg:bet,396,Prn,Prn$$,li,C/V\,"AlexisAlO, v. 396"
-2551,283,8,lait,lait,VER:pres:3:sg,396,Vfin,Vfin,laisser,C/V\,"AlexisAlO, v. 396"
+2551,283,8,lait,lait,VER:pres:3:sg,396,Vfin,Vfin,laire,C/V\,"AlexisAlO, v. 396"
 2552,283,9,lo,lo,DET:def:obj:masc:sg,396,Det,Det,le,C/(e)\,"AlexisAlO, v. 396"
 2553,283,10,pain,pain,NOM:obj:masc:sg,396,N,N,pain,C/V\,"AlexisAlO, v. 396"
 2554,283,11,proier,proier,VER:infi,396,Vinf,Vinf,prier,C/V\.'C/V\,"AlexisAlO, v. 396"

@@ -1879,7 +1879,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,textlineid,syntag,syntag2,syllabified,ref
 1878,269,3,gietast,gietast,jeter,5787,Vfin,Vfin,C/V\.'C/V\,"GautArrEr, v. 5787"
 1879,269,4,se,se,si,5787,Sub,Sub,C/(e)\,"GautArrEr, v. 5787"
 1880,269,5,lui,lui,lui,5787,Prn,Prn$$,C/V\,"GautArrEr, v. 5787"
-1881,269,6,leust,leust,laier,5787,Vfin,Vfin,C/(V)\.'/V\,"GautArrEr, v. 5787"
+1881,269,6,leust,leust,loisir,5787,Vfin,Vfin,C/(V)\.'/V\,"GautArrEr, v. 5787"
 1882,270,1,et,et,et,5788,Crd,Crd,/V\,"GautArrEr, v. 5788"
 1883,270,2,s',s',si,5788,Sub,Sub,C/\,"GautArrEr, v. 5788"
 1884,270,3,un,un,un,5788,QIs,QIs,/V\,"GautArrEr, v. 5788"

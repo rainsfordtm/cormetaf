@@ -474,7 +474,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 473,79,2,moy,moy,CI_3,Prn,Prn,moi,7s,---,C/V\,"GuilMachLou, CI, v. 3"
 474,79,3,nelui,nelui,CI_3,QIs,QIs,nul,7s,---,C/V\.'C/V\,"GuilMachLou, CI, v. 3"
 475,79,4,ne,ne,CI_3,Neg,Neg,ne,7s,---,C/(e)\,"GuilMachLou, CI, v. 3"
-476,79,5,lairay,lairay,CI_3,Vfin,Vfin,laisser,7s,---,C/V\.'C/V\,"GuilMachLou, CI, v. 3"
+476,79,5,lairay,lairay,CI_3,Vfin,Vfin,layer,7s,---,C/V\.'C/V\,"GuilMachLou, CI, v. 3"
 477,80,1,qui,qui,CI_4,Qux,Qux,qui,7s,---,C/V\,"GuilMachLou, CI, v. 4"
 478,80,2,ramentevoir,ramentevoir,CI_4,Vinf,Vinf,ramentevoir,7s,---,C/V\.C/V\.C/e\.'C/V\,"GuilMachLou, CI, v. 4"
 479,80,3,me,me,CI_4,Prn,Prn$$,me,7s,---,C/(e)\,"GuilMachLou, CI, v. 4"

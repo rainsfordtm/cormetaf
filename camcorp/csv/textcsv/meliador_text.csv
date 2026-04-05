@@ -3075,7 +3075,7 @@ wd_id,line_id,linewd,word,lex_id,page_id,folio_id,textlineid,lemma,syntag,syntag
 3074,446,10,.,.,14,4c,446,.,Pnc,Pnc,,"FroissMel, v. 446"
 3075,447,1,«,«,14,4c,447,«,Pnc,Pnc,,"FroissMel, v. 447"
 3076,447,2,Le,le,14,4c,447,le,Prn,Prn$$,C/(e)\,"FroissMel, v. 447"
-3077,447,3,lairons,lairons,14,4c,447,laisser,Vfin,Vfin,C/V\.'C/V\,"FroissMel, v. 447"
+3077,447,3,lairons,lairons,14,4c,447,layer,Vfin,Vfin,C/V\.'C/V\,"FroissMel, v. 447"
 3078,447,4,nous,nous,14,4c,447,nous,Prn,Prn%,C/V\,"FroissMel, v. 447"
 3079,447,5,ceens,ceens,14,4c,447,céans,Adv,Adv,C/(V)\.'/V\,"FroissMel, v. 447"
 3080,447,6,entrer,entrer,14,4c,447,entrer,Vinf,Vinf,/V\.'C/V\,"FroissMel, v. 447"

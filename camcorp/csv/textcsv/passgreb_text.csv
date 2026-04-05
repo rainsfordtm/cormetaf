@@ -2490,7 +2490,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 2489,413,1,et,et,439,Crd,Crd,et,/V\,"Greban, v. 439"
 2490,413,2,qui,qui,439,Qux,Qux,qui,C/V\,"Greban, v. 439"
 2491,413,3,la,la,439,Prn,Prn$$,le,C/V\,"Greban, v. 439"
-2492,413,4,lairra,lairra,439,Vfin,Vfin,laisser,C/V\.'C/V\,"Greban, v. 439"
+2492,413,4,lairra,lairra,439,Vfin,Vfin,layer,C/V\.'C/V\,"Greban, v. 439"
 2493,413,5,pervenir,pervenir,439,Vinf,Vinf,parvenir,C/V\.C/e\.'C/V\,"Greban, v. 439"
 2494,413,6,",",",",439,Pnc,Pnc,",",,"Greban, v. 439"
 2495,414,1,nous,nous,440,Prn,Prn$,nous,C/V\,"Greban, v. 440"

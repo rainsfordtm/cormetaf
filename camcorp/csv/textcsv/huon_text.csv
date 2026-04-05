@@ -1300,7 +1300,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1299,151,10,",",",",151,Pnc,Pnc,",",,"Huon, v. 151"
 1300,152,1,il,il,152,Prn,Prn$,il,/V\,"Huon, v. 152"
 1301,152,2,me,me,152,Prn,Prn$$,me,C/(e)\,"Huon, v. 152"
-1302,152,3,lairoit,lairoit,152,Vfin,Vfin,laisser,C/V\.'C/V\,"Huon, v. 152"
+1302,152,3,lairoit,lairoit,152,Vfin,Vfin,layer,C/V\.'C/V\,"Huon, v. 152"
 1303,152,4,em,em,152,Pre,Pre,en,/V\,"Huon, v. 152"
 1304,152,5,pais,pais,152,N,N,paix,C/V\,"Huon, v. 152"
 1305,152,6,mes,mes,152,Det,Det,mon,C/V\,"Huon, v. 152"

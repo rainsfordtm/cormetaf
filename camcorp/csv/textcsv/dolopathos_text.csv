@@ -3041,7 +3041,7 @@ wd_id,line_id,linewd,word,lemma,lemma_score,lex_id,textlineid,syntag,syntag2,syl
 3040,477,1,et,et,8,et,477,Crd,Crd,/V\,CCONJ,"Dolop, v. 477"
 3041,477,2,tant,tant,8,tant,477,QIs,QIs,C/V\,ADV,"Dolop, v. 477"
 3042,477,3,lou,le,5,lou,477,Prn,Prn$$,C/V\,PRON,"Dolop, v. 477"
-3043,477,4,lait,laisser,3,lait,477,Vfin,Vfin,C/V\,VERB,"Dolop, v. 477"
+3043,477,4,lait,layer,3,lait,477,Vfin,Vfin,C/V\,VERB,"Dolop, v. 477"
 3044,477,5,an,en,8,an,477,Pre,Pre,/V\,ADP,"Dolop, v. 477"
 3045,477,6,halt,haut,9,halt,477,Adj,Adj,C/V\,ADJ,"Dolop, v. 477"
 3046,477,7,monteir,monter,9,monteir,477,Vinf,Vinf,C/V\.'C/V\,VERB,"Dolop, v. 477"

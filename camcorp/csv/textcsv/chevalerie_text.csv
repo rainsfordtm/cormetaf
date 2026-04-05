@@ -2417,7 +2417,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,pos_nca,syntag,syntag2,lemma,syllabi
 2416,382,3,aise,aise,382,NOM:obj:femi:sg,N,N,aise,'/V\.C/(e)\,"JPriorat, v. 382"
 2417,382,4,et,et,382,CON:coord,Crd,Crd,et,/V\,"JPriorat, v. 382"
 2418,382,5,de,de,382,PRE,Pre,Pre,de,C/(e)\,"JPriorat, v. 382"
-2419,382,6,lesir,lesir,382,VER:infi,Vinf,Vinf,loisir,C/V\.'C/V\,"JPriorat, v. 382"
+2419,382,6,lesir,lesir,382,VER:infi,N,N,loisir,C/V\.'C/V\,"JPriorat, v. 382"
 2420,382,7,se,se,382,PROCON,Prn,Prn$$,se,C/(e)\,"JPriorat, v. 382"
 2421,382,8,donent,donent,382,VER:pres:3:pl,Vfin,Vfin,donner,'C/V\.C/e\,"JPriorat, v. 382"
 2422,383,1,et,et,383,CON:coord,Crd,Crd,et,/V\,"JPriorat, v. 383"
