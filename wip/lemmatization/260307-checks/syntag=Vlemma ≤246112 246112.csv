@@ -1213,7 +1213,7 @@ loyer	1
 luire	14	
 luisant	1	
 lutter	1	
-mâcher	2	STOP
+mâcher	2	
 maigrir	2	
 mailler	4	
 maintenir	37	
@@ -1470,7 +1470,7 @@ promettre	64
 prononcer	2	
 proposer	3	
 proscrire	1	
-prouver	22	
+prouver	22	STOP
 puant	1	
 publier	1	
 pugner	1	

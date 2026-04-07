@@ -2653,7 +2653,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2652,456,3,li,li,PRO:pers:suj:3:masc:sg:bet,456,Prn,Prn$$,li,C/V\,"PassJonglG, v. 456"
 2653,456,4,erent,erent,VER:impf:3:pl,456,Vfin,Vfin,être,'/V\.C/e\,"PassJonglG, v. 456"
 2654,456,5,plus,plus,ADV,456,Adv,Adv,plus,C/V\,"PassJonglG, v. 456"
-2655,456,6,privez,privez,VER:pper:masc:pl,456,Vpp,Vpp,priver,C/V\.'C/V\,"PassJonglG, v. 456"
+2655,456,6,privez,privez,VER:pper:masc:pl,456,Adj,Adj,privé,C/V\.'C/V\,"PassJonglG, v. 456"
 2656,457,1,li,li,DET:def:suj:masc:sg,457,Det,Det,le,C/V\,"PassJonglG, v. 457"
 2657,457,2,uns,uns,DET:ndf:suj:masc:sg,457,QIs,QIs,un,/V\,"PassJonglG, v. 457"
 2658,457,3,de,de,PRE,457,Pre,Pre,de,C/(e)\,"PassJonglG, v. 457"

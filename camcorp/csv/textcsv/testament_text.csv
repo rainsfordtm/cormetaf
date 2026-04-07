@@ -1729,7 +1729,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1728,244,7,",",",",1269,Pnc,Pnc,",",,"VillonTest, v. 1269"
 1729,245,1,soit,soit,1270,Vfin,Vfin,être,C/V\,"VillonTest, v. 1270"
 1730,245,2,a,a,1270,Pre,Pre,à,/V\,"VillonTest, v. 1270"
-1731,245,3,privé,privé,1270,Vpp,Vpp,priver,C/V\.'C/V\,"VillonTest, v. 1270"
+1731,245,3,privé,privé,1270,Adj,Adj,privé,C/V\.'C/V\,"VillonTest, v. 1270"
 1732,245,4,ou,ou,1270,Crd,Crd,ou,/V\,"VillonTest, v. 1270"
 1733,245,5,a,a,1270,Pre,Pre,à,/V\,"VillonTest, v. 1270"
 1734,245,6,estrange,estrange,1270,Adj,Adj,étrange,/V\.'C/V\.C/(e)\,"VillonTest, v. 1270"

@@ -2390,7 +2390,7 @@ wd_id,line_id,linewd,word,lex_id,lemma,textlineid,syntag,syntag2,syllabified,ref
 2389,340,4,el,el,en.le,5858,Pre+Det,Pre+Det,/V\,"GautArrEr, v. 5858"
 2390,340,5,monde,monde,monde,5858,N,N,'C/V\.C/(e)\,"GautArrEr, v. 5858"
 2391,340,6,si,si,si,5858,Adv,Adv,C/V\,"GautArrEr, v. 5858"
-2392,340,7,privé,privé,priver,5858,Vpp,Vpp,C/V\.'C/V\,"GautArrEr, v. 5858"
+2392,340,7,privé,privé,privé,5858,Adj,Adj,C/V\.'C/V\,"GautArrEr, v. 5858"
 2393,341,1,qui,qui,qui,5859,Qux,Qux,C/V\,"GautArrEr, v. 5859"
 2394,341,2,li,li,li,5859,Prn,Prn$$,C/V\,"GautArrEr, v. 5859"
 2395,341,3,ost,ost,oser,5859,Vfin,Vfin,/V\,"GautArrEr, v. 5859"

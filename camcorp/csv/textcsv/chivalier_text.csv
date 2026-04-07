@@ -3124,7 +3124,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 3123,462,8,.,.,462,Pnc,Pnc,.,,"ChevDame, v. 462"
 3124,463,1,par,par,463,Pre,Pre,par,C/V\,"ChevDame, v. 463"
 3125,463,2,une,une,463,QIs,QIs,un,'/V\.C/(e)\,"ChevDame, v. 463"
-3126,463,3,privee,privee,463,Vpp,Vpp,priver,C/V\.'C/V\./(e)\,"ChevDame, v. 463"
+3126,463,3,privee,privee,463,Adj,Adj,privé,C/V\.'C/V\./(e)\,"ChevDame, v. 463"
 3127,463,4,posterne,posterne,463,N,N,poterne,C/V\.'C/V\.C/(e)\,"ChevDame, v. 463"
 3128,463,5,entra,entra,463,Vfin,Vfin,entrer,/V\.'C/V\,"ChevDame, v. 463"
 3129,463,6,;,;,463,Pnc,Pnc,;,,"ChevDame, v. 463"

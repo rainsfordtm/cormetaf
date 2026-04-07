@@ -2325,7 +2325,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2324,258,6,ne,ne,PROCON,363,Crd,Crd,ne2,C/(e)\,"AlexisAlO, v. 363"
 2325,258,7,a,a,PRE,363,Pre,Pre,à,/V\,"AlexisAlO, v. 363"
 2326,258,8,serjant,serjant,NOM:obj:masc:sg,363,N,N,sergent,C/V\.'C/V\,"AlexisAlO, v. 363"
-2327,258,9,priveit,priveit,VER:pper:masc:sg,363,Vpp,Vpp,privé,C/V\.'C/V\,"AlexisAlO, v. 363"
+2327,258,9,priveit,priveit,VER:pper:masc:sg,363,Adj,Adj,privé,C/V\.'C/V\,"AlexisAlO, v. 363"
 2328,259,1,frescike,frescike,CON:subord,363.1,PrA,PrA,frescique,C/V\.'C/V\.C/(e)\,"AlexisAlO, v. 363.1"
 2329,259,2,en,en,PRE,363.1,Pre,Pre,en,/V\,"AlexisAlO, v. 363.1"
 2330,259,3,son,son,DET:poss:obj:masc:sg,363.1,Det,Det,son4,C/V\,"AlexisAlO, v. 363.1"

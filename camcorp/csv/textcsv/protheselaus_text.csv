@@ -3304,7 +3304,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 3303,470,3,chamberlenc,chamberlenc,470,N,N,chambellan,C/V\.C/V\.'C/V\,"Prot, v. 470"
 3304,470,4,apela,apela,470,Vfin,Vfin,appeler,/V\.C/e\.'C/V\,"Prot, v. 470"
 3305,470,5,",",",",470,Pnc,Pnc,",",,"Prot, v. 470"
-3306,471,1,privé,privé,471,Vpp,Vpp,priver,C/V\.'C/V\,"Prot, v. 471"
+3306,471,1,privé,privé,471,Adj,Adj,privé,C/V\.'C/V\,"Prot, v. 471"
 3307,471,2,de,de,471,Pre,Pre,de,C/(e)\,"Prot, v. 471"
 3308,471,3,li,li,471,Prn,Prn,li,C/V\,"Prot, v. 471"
 3309,471,4,",",",",471,Pnc,Pnc,",",,"Prot, v. 471"

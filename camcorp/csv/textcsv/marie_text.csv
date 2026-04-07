@@ -1447,7 +1447,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1446,213,3,ot,ot,213,Vfin,Vfin,avoir,/V\,"MarieLanv, v. 213"
 1447,213,4,estrange,estrange,213,Adj,Adj,étrange,/V\.'C/V\.C/(e)\,"MarieLanv, v. 213"
 1448,213,5,ne,ne,213,Crd,Crd,ne2,C/(e)\,"MarieLanv, v. 213"
-1449,213,6,privé,privé,213,Vpp,Vpp,priver,C/V\.'C/V\,"MarieLanv, v. 213"
+1449,213,6,privé,privé,213,Adj,Adj,privé,C/V\.'C/V\,"MarieLanv, v. 213"
 1450,214,1,a,a,214,Pre,Pre,à,/V\,"MarieLanv, v. 214"
 1451,214,2,ki,ki,214,Qux,Qux,qui,C/V\,"MarieLanv, v. 214"
 1452,214,3,lanval,lanval,214,N,N,Lanval,C/V\.'C/V\,"MarieLanv, v. 214"

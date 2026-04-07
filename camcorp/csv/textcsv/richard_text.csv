@@ -495,7 +495,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,pos,lemma
 494,74,1,e,e,74,Crd,Crd,/V\,CCONJ,et,"PAbernRich, v. 74"
 495,74,2,pur,pur,74,Pre,Pre,C/V\,ADP,pour,"PAbernRich, v. 74"
 496,74,3,ceo,ceo,74,Prn,Prn,C/V\,PRON,ce,"PAbernRich, v. 74"
-497,74,4,nun,nun,74,Vfin,Vfin,C/V\,NOUN,nom,"PAbernRich, v. 74"
+497,74,4,nun,nun,74,N,N,C/V\,NOUN,nom,"PAbernRich, v. 74"
 498,74,5,richard,richard,74,N,N,C/V\.'C/V\,PROPN,Richard,"PAbernRich, v. 74"
 499,74,6,de,de,74,Pre,Pre,C/(e)\,ADP,de,"PAbernRich, v. 74"
 500,74,7,wiz,wiz,74,N,N,C/V\,PROPN,Wyche,"PAbernRich, v. 74"

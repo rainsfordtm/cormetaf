@@ -387,7 +387,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 386,58,4,tout,tout,58,QIs,QIs,tout,C/V\,"AChartBelleDame, v. 58"
 387,58,5,coy,coy,58,Adj,Adj,coi,C/V\,"AChartBelleDame, v. 58"
 388,58,6,et,et,58,Crd,Crd,et,/V\,"AChartBelleDame, v. 58"
-389,58,7,privé,privé,58,Vpp,Vpp,priver,C/V\.'C/V\,"AChartBelleDame, v. 58"
+389,58,7,privé,privé,58,Adj,Adj,privé,C/V\.'C/V\,"AChartBelleDame, v. 58"
 390,58,8,",",",",58,Pnc,Pnc,",",,"AChartBelleDame, v. 58"
 391,59,1,Mais,mais,59,Crd,Crd,mais,C/V\,"AChartBelleDame, v. 59"
 392,59,2,quant,quant,59,Sub,Sub,quand,C/V\,"AChartBelleDame, v. 59"
