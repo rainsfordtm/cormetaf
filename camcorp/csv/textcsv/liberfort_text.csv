@@ -1807,7 +1807,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1806,271,5,touz,touz,279,QIs,QIs,tout,C/V\,"LFortunae, v. 279"
 1807,271,6,entachiéz,entachiez,279,Vpp,Vpp,entacher,/V\.C/V\.'C/V\,"LFortunae, v. 279"
 1808,272,1,De,de,280,Pre,Pre,de,C/(e)\,"LFortunae, v. 280"
-1809,272,2,ce,ce,280,Dem,Dem,cist,C/(e)\,"LFortunae, v. 280"
+1809,272,2,ce,ce,280,Dem,Dem,ce,C/(e)\,"LFortunae, v. 280"
 1810,272,3,monde,monde,280,N,N,monde,'C/V\.C/(e)\,"LFortunae, v. 280"
 1811,272,4,les,les,280,Prn,Prn,le,C/V\,"LFortunae, v. 280"
 1812,272,5,plus,plus,280,Adv,Adv,plus,C/V\,"LFortunae, v. 280"

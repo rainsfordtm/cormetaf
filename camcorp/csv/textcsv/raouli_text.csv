@@ -2471,7 +2471,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2470,326,6,la,la,DET:def:obj:femi:sg,621,Det,Det,le,C/V\,"RCambr, v. 621"
 2471,326,7,samblance,samblance,NOM:obj:femi:sg,621,N,N,semblance,C/V\.'C/V\.C/(e)\,"RCambr, v. 621"
 2472,327,1,qe,qe,PROCON,622,Sub,Sub,que,C/(e)\,"RCambr, v. 622"
-2473,327,2,ce,ce,PROCON,622,Dem,Dem,cist,C/(e)\,"RCambr, v. 622"
+2473,327,2,ce,ce,PROCON,622,Dem,Dem,ce,C/(e)\,"RCambr, v. 622"
 2474,327,3,quens,quens,NOM:suj:masc:sg,622,N,N,comte,C/V\,"RCambr, v. 622"
 2475,327,4,muert,muert,VER:pres:3:sg,622,Vfin,Vfin,mourir,C/V\,"RCambr, v. 622"
 2476,327,5,en,en,PRO:clit,622,Pre,Pre,en,/V\,"RCambr, v. 622"

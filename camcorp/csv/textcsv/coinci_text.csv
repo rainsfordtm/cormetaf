@@ -713,7 +713,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,syntag,syntag2,syllabified,lemma,ref,te
 712,115,4,ceste,ceste,DET:demo:obj:femi:sg,Dem,Dem,'C/V\.C/(e)\,cist,"Coincy, II Mir 22, v. 115",,
 713,115,5,grief,grief,ADJ:obj:femi:sg,Adj,Adj,C/V\,grief,"Coincy, II Mir 22, v. 115",,
 714,115,6,plaie,plaie,NOM:obj:femi:sg,N,N,'C/V\./(e)\,plaie,"Coincy, II Mir 22, v. 115",</l>,
-715,116,1,ce,ce,DET:def:obj:masc:sg,Dem,Dem,C/(e)\,cist,"Coincy, II Mir 22, v. 116",,<pb n=&quot;195&quot;/><l n=&quot;116&quot;>
+715,116,1,ce,ce,DET:def:obj:masc:sg,Dem,Dem,C/(e)\,ce,"Coincy, II Mir 22, v. 116",,<pb n=&quot;195&quot;/><l n=&quot;116&quot;>
 716,116,2,feu,feu,NOM:obj:masc:sg,N,N,C/V\,feu,"Coincy, II Mir 22, v. 116",,
 717,116,3,d',d',PRE,Pre,Pre,C/\,de,"Coincy, II Mir 22, v. 116",,
 718,116,4,enfer,enfer,NOM:obj:masc:sg,N,N,/V\.'C/V\,enfer,"Coincy, II Mir 22, v. 116",,
@@ -1161,7 +1161,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,syntag,syntag2,syllabified,lemma,ref,te
 1160,188,2,et,et,CON:coord,Crd,Crd,/V\,et,"Coincy, II Mir 22, v. 190",,
 1161,188,3,fist,fist,VER:simp:3:sg,Vfin,Vfin,C/V\,faire,"Coincy, II Mir 22, v. 190",,
 1162,188,4,adons,adons,ADV,Adv,Adv,/V\.'C/V\,adonc,"Coincy, II Mir 22, v. 190",</l>,
-1163,189,1,ce,ce,DET:demo:obj:masc:sg,Dem,Dem,C/(e)\,cist,"Coincy, II Mir 22, v. 191",,<l n=&quot;191&quot;>
+1163,189,1,ce,ce,DET:demo:obj:masc:sg,Dem,Dem,C/(e)\,ce,"Coincy, II Mir 22, v. 191",,<l n=&quot;191&quot;>
 1164,189,2,myracle,myracle,NOM:obj:masc:sg,N,N,C/V\.'C/V\.C/(e)\,miracle,"Coincy, II Mir 22, v. 191",,
 1165,189,3,tieng,tieng,VER:pres:1:sg,Vfin,Vfin,C/V\,tenir,"Coincy, II Mir 22, v. 191",,
 1166,189,4,a,a,PRE,Pre,Pre,/V\,à,"Coincy, II Mir 22, v. 191",,
@@ -1709,7 +1709,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,syntag,syntag2,syllabified,lemma,ref,te
 1708,282,5,oef,oef,NOM:obj:masc:sg,N,N,/V\,oeuf,"Coincy, II Mir 23, v. 38",,
 1709,282,6,de,de,PRE,Pre,Pre,C/(e)\,de,"Coincy, II Mir 23, v. 38",,
 1710,282,7,blarie,blarie,NOM:obj:femi:sg,N,N,C/V\.'C/V\./(e)\,blarie,"Coincy, II Mir 23, v. 38",</l>,
-1711,283,1,ce,ce,DET:demo:obj:masc:sg,Dem,Dem,C/(e)\,cist,"Coincy, II Mir 23, v. 39",,<l n=&quot;39&quot;>
+1711,283,1,ce,ce,DET:demo:obj:masc:sg,Dem,Dem,C/(e)\,ce,"Coincy, II Mir 23, v. 39",,<l n=&quot;39&quot;>
 1712,283,2,soller,soller,NOM:obj:masc:sg,N,N,C/V\.'C/V\,soulier,"Coincy, II Mir 23, v. 39",,
 1713,283,3,dont,dont,PRO:invar,Qux,Qux,C/V\,dont,"Coincy, II Mir 23, v. 39",,
 1714,283,4,alez,alez,VER:pres:2:pl,Vfin,Vfin,/V\.'C/V\,aller,"Coincy, II Mir 23, v. 39",,
@@ -2222,7 +2222,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,syntag,syntag2,syllabified,lemma,ref,te
 2221,366,5,mehauz,mehauz,NPR:suj:femi:sg,N,N,C/V\.'C/V\,Mehaut,"Coincy, II Mir 23, v. 122",</l>,
 2222,367,1,qui,qui,PROCON,Qux,Qux,C/V\,qui,"Coincy, II Mir 23, v. 123",,<l n=&quot;123&quot;>
 2223,367,2,a,a,PRE,Pre,Pre,/V\,à,"Coincy, II Mir 23, v. 123",,
-2224,367,3,ce,ce,DET:demo:obj:masc:sg,Dem,Dem,C/(e)\,cist,"Coincy, II Mir 23, v. 123",,
+2224,367,3,ce,ce,DET:demo:obj:masc:sg,Dem,Dem,C/(e)\,ce,"Coincy, II Mir 23, v. 123",,
 2225,367,4,jor,jor,NOM:obj:masc:sg,N,N,C/V\,jour,"Coincy, II Mir 23, v. 123",,
 2226,367,5,ert,ert,VER:impf:3:sg,Vfin,Vfin,/V\,être,"Coincy, II Mir 23, v. 123",,
 2227,367,6,abbeesse,abbeesse,NOM:suj:femi:sg,N,N,/V\.C/(V)\.'/V\.C/(e)\,abbesse,"Coincy, II Mir 23, v. 123",</l>,
@@ -2248,7 +2248,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,syntag,syntag2,syllabified,lemma,ref,te
 2247,371,2,la,la,DET:def:obj:femi:sg,Det,Det,C/V\,le,"Coincy, II Mir 23, v. 127",,
 2248,371,3,santé,santé,NOM:obj:femi:sg,N,N,C/V\.'C/V\,santé,"Coincy, II Mir 23, v. 127",,
 2249,371,4,a,a,PRE,Pre,Pre,/V\,à,"Coincy, II Mir 23, v. 127",,
-2250,371,5,ce,ce,DET:demo:obj:masc:sg,Dem,Dem,C/(e)\,cist,"Coincy, II Mir 23, v. 127",,
+2250,371,5,ce,ce,DET:demo:obj:masc:sg,Dem,Dem,C/(e)\,ce,"Coincy, II Mir 23, v. 127",,
 2251,371,6,malade,malade,ADJ:obj:masc:sg,Adj,Adj,C/V\.'C/V\.C/(e)\,malade,"Coincy, II Mir 23, v. 127",</l>,
 2252,372,1,dou,dou,PREDET:de:obj:masc:sg,Pre+Det,Pre+Det,C/V\,de.le,"Coincy, II Mir 23, v. 128",,<l n=&quot;128&quot;>
 2253,372,2,saint,saint,ADJ:obj:masc:sg,Adj,Adj,C/V\,saint,"Coincy, II Mir 23, v. 128",,

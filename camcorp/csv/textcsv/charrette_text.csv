@@ -3197,7 +3197,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 3196,444,2,sont,sont,946,Vfin,Vfin,être,C/V\,"Lanc, v. 946"
 3197,444,3,qui,qui,946,Qux,Qux,qui,C/V\,"Lanc, v. 946"
 3198,444,4,de,de,946,Pre,Pre,de,C/(e)\,"Lanc, v. 946"
-3199,444,5,ce,ce,946,Dem,Dem,cist,C/(e)\,"Lanc, v. 946"
+3199,444,5,ce,ce,946,Dem,Dem,ce,C/(e)\,"Lanc, v. 946"
 3200,444,6,presant,presant,946,N,N,présent,C/V\.'C/V\,"Lanc, v. 946"
 3201,445,1,li,li,947,Prn,Prn$$,li,C/V\,"Lanc, v. 947"
 3202,445,2,randissent,randissent,947,Vfin,Vfin,rendre,C/V\.'C/V\.C/e\,"Lanc, v. 947"

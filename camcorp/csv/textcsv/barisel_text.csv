@@ -2343,7 +2343,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2342,368,4,grant,grant,ADJ:obj:masc:sg,948,Adj,Adj,grand,C/V\,"ChevBarAn, v. 948"
 2343,368,5,avoir,avoir,VER:infi,948,N,N,avoir2,/V\.'C/V\,"ChevBarAn, v. 948"
 2344,368,6,li,li,PRO:pers:suj:3:masc:sg:bet,948,Prn,Prn$$,li,C/V\,"ChevBarAn, v. 948"
-2345,368,7,saut,saut,VER:pres:3:sg,948,Vfin,Vfin,sauter,C/V\,"ChevBarAn, v. 948"
+2345,368,7,saut,saut,VER:pres:3:sg,948,Vfin,Vfin,saillir,C/V\,"ChevBarAn, v. 948"
 2346,369,1,com,com,CON:subord,949,Sub,Sub,comme,C/V\,"ChevBarAn, v. 949"
 2347,369,2,tout,tout,DET:ind:obj:masc:sg,949,QIs,QIs,tout,C/V\,"ChevBarAn, v. 949"
 2348,369,3,le,le,DET:def:obj:masc:sg,949,Det,Det,le,C/(e)\,"ChevBarAn, v. 949"

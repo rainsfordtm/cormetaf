@@ -1076,7 +1076,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1075,174,6,le,le,LXX(2p870)_14,Prn,Prn$$,le,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXX, v. 14",,
 1076,174,7,sçachiés,sçachiés,LXX(2p870)_14,Vfin,Vfin,savoir,8s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXX, v. 14",,
 1077,174,8,:,:,LXX(2p870)_14,Pnc,Pnc,:,8s,---,,"MolinetFaictz, Poésies familières no LXX, v. 14",</l>,
-1078,175,1,ce,ce,LXX(2p870)_15,Dem,Dem,cist,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXX, v. 15",,<l n=&quot;15&quot;>
+1078,175,1,ce,ce,LXX(2p870)_15,Dem,Dem,ce,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXX, v. 15",,<l n=&quot;15&quot;>
 1079,175,2,cop,cop,LXX(2p870)_15,N,N,coup,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXX, v. 15",,
 1080,175,3,avés,avés,LXX(2p870)_15,Vfin,Vfin,avoir,8s,---,/V\.'C/V\,"MolinetFaictz, Poésies familières no LXX, v. 15",,
 1081,175,4,faict,faict,LXX(2p870)_15,Vpp,Vpp,faire,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXX, v. 15",,
@@ -2294,7 +2294,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2293,337,1,tu,tu,???(2p528)_36,Prn,Prn$,tu,mix,---,C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 140",,<l n=&quot;140&quot;>
 2294,337,2,as,as,???(2p528)_36,Vfin,Vfin,avoir,mix,---,/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 140",,
 2295,337,3,par,par,???(2p528)_36,Pre,Pre,par,mix,---,C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 140",,
-2296,337,4,ce,ce,???(2p528)_36,Dem,Dem,cist,mix,---,C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 140",,
+2296,337,4,ce,ce,???(2p528)_36,Dem,Dem,ce,mix,---,C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 140",,
 2297,337,5,grief,grief,???(2p528)_36,Adj,Adj,grief,mix,---,C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 140",,
 2298,337,6,martire,martire,???(2p528)_36,N,N,martyre,mix,---,C/V\.'C/V\.C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 140",</l>,
 2299,338,1,qui,qui,???(2p528)_37,Qux,Qux,qui,mix,---,C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 141",,<l n=&quot;141&quot;>
