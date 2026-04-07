@@ -3023,7 +3023,7 @@ wd_id,line_id,linewd,word,lex_id,page_id,folio_id,textlineid,lemma,syntag,syntag
 3022,440,6,.,.,14,4c,440,.,Pnc,Pnc,,"FroissMel, v. 440"
 3023,440,7,»,»,14,4c,440,»,Pnc,Pnc,,"FroissMel, v. 440"
 3024,441,1,Il,il,14,4c,441,il,Prn,Prn$,/V\,"FroissMel, v. 441"
-3025,441,2,repondi,repondi,14,4c,441,repondre,Vfin,Vfin,C/V\.C/V\.'C/V\,"FroissMel, v. 441"
+3025,441,2,repondi,repondi,14,4c,441,répondre,Vfin,Vfin,C/V\.C/V\.'C/V\,"FroissMel, v. 441"
 3026,441,3,:,:,14,4c,441,:,Pnc,Pnc,,"FroissMel, v. 441"
 3027,441,4,«,«,14,4c,441,«,Pnc,Pnc,,"FroissMel, v. 441"
 3028,441,5,Alés,alés,14,4c,441,aller,Vfin,Vfin,/V\.'C/V\,"FroissMel, v. 441"

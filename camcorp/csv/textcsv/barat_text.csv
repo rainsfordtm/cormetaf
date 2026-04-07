@@ -258,7 +258,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 257,37,4,bien,bien,37,Adv,Adv,bien,C/V\,"HaimBar, v. 37"
 258,37,5,se,se,37,Prn,Prn$$,se,C/(e)\,"HaimBar, v. 37"
 259,37,6,sot,sot,37,Vfin,Vfin,savoir,C/V\,"HaimBar, v. 37"
-260,37,7,repondre,repondre,37,Vinf,Vinf,répondre,C/V\.'C/V\.C/(e)\,"HaimBar, v. 37"
+260,37,7,repondre,repondre,37,Vinf,Vinf,repondre,C/V\.'C/V\.C/(e)\,"HaimBar, v. 37"
 261,37,8,;,;,37,Pnc,Pnc,;,,"HaimBar, v. 37"
 262,38,1,et,et,38,Crd,Crd,et,/V\,"HaimBar, v. 38"
 263,38,2,vint,vint,38,Vfin,Vfin,venir,C/V\,"HaimBar, v. 38"
