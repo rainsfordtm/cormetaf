@@ -2216,7 +2216,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2215,362,6,de,de,PRE,362,Pre,Pre,de,C/(e)\,"ComtePoit, v. 362"
 2216,362,7,poitiers,poitiers,NPR:obj:masc:sg,362,N,N,Poitiers,C/V\.'C/V\,"ComtePoit, v. 362"
 2217,363,1,por,por,PRE,363,Pre,Pre,pour,C/V\,"ComtePoit, v. 363"
-2218,363,2,coi,coi,PRO:invar,363,Qux,Qux,que,C/V\,"ComtePoit, v. 363"
+2218,363,2,coi,coi,PRO:invar,363,Qux,Qux,quoi,C/V\,"ComtePoit, v. 363"
 2219,363,3,avés,avés,VER:pres:2:pl,363,Vfin,Vfin,avoir,/V\.'C/V\,"ComtePoit, v. 363"
 2220,363,4,mon,mon,DET:poss:obj:masc:sg,363,Det,Det,mon,C/V\,"ComtePoit, v. 363"
 2221,363,5,duc,duc,NOM:obj:masc:sg,363,N,N,duc,C/V\,"ComtePoit, v. 363"

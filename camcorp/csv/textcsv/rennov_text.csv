@@ -92,7 +92,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 91,15,2,che,che,DET:demo:obj:masc:sg,15,Dem,Dem,ce,C/(e)\,"RenNouv, v. 15"
 92,15,3,monde,monde,NOM:obj:masc:sg,15,N,N,monde,'C/V\.C/(e)\,"RenNouv, v. 15"
 93,15,4,seur,seur,PRE,15,PrA,PrA,sur,C/V\,"RenNouv, v. 15"
-94,15,5,coi,coi,PRO:invar,15,Qux,Qux,que,C/V\,"RenNouv, v. 15"
+94,15,5,coi,coi,PRO:invar,15,Qux,Qux,quoi,C/V\,"RenNouv, v. 15"
 95,15,6,monter,monter,VER:infi,15,Vinf,Vinf,monter,C/V\.'C/V\,"RenNouv, v. 15"
 96,16,1,fait,fait,VER:pres:3:sg,16,Vfin,Vfin,faire,C/V\,"RenNouv, v. 16"
 97,16,2,les,les,DET:def:obj:masc:pl,16,Det,Det,le,C/V\,"RenNouv, v. 16"

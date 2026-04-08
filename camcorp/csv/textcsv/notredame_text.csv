@@ -3751,7 +3751,7 @@ wd_id,line_id,linewd,word,lex_id,syntag,syntag2,lemma,syllabified,ref
 3750,575,5,une,une,QIs,QIs,un,'/V\.C/(e)\,"MirNDPers, Miracle de la nonne, v. 575"
 3751,575,6,essoine,essoine,N,N,essoine,/V\.'C/V\.C/(e)\,"MirNDPers, Miracle de la nonne, v. 575"
 3752,576,1,par,par,Pre,Pre,par,C/V\,"MirNDPers, Miracle de la nonne, v. 576"
-3753,576,2,quoy,quoy,Qux,Qux,que,C/V\,"MirNDPers, Miracle de la nonne, v. 576"
+3753,576,2,quoy,quoy,Qux,Qux,quoi,C/V\,"MirNDPers, Miracle de la nonne, v. 576"
 3754,576,3,a,a,Pre,Pre,à,/V\,"MirNDPers, Miracle de la nonne, v. 576"
 3755,576,4,moy,moy,Prn,Prn,moi,C/V\,"MirNDPers, Miracle de la nonne, v. 576"
 3756,576,5,ne,ne,Neg,Neg$$,ne,C/(e)\,"MirNDPers, Miracle de la nonne, v. 576"

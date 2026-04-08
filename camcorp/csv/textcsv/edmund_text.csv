@@ -3161,7 +3161,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 3160,489,4,ses,ses,490,Det,Det,son4,C/V\,"SEdmPass, v. 490"
 3161,489,5,enemis,enemis,490,N,N,ennemi,/V\.C/e\.'C/V\,"SEdmPass, v. 490"
 3162,490,1,pur,pur,491,Pre,Pre,pour,C/V\,"SEdmPass, v. 491"
-3163,490,2,quei,quei,491,Qux,Qux,que,C/V\,"SEdmPass, v. 491"
+3163,490,2,quei,quei,491,Qux,Qux,quoi,C/V\,"SEdmPass, v. 491"
 3164,490,3,sereie,sereie,491,Vfin,Vfin,être,C/V\.'C/V\./(e)\,"SEdmPass, v. 491"
 3165,490,4,d',d',491,Pre,Pre,de,C/\,"SEdmPass, v. 491"
 3166,490,5,als,als,491,Prn,Prn,eux,/V\,"SEdmPass, v. 491"

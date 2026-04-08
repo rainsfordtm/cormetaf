@@ -3399,7 +3399,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma,ref
 3398,459,1,diva,diva,459,Exc,Exc,C/V\.'C/V\,diva,"BouchAbev, v. 459"
 3399,459,2,",",",",459,Pnc,Pnc,,",","BouchAbev, v. 459"
 3400,459,3,por,por,459,Pre,Pre,C/V\,pour,"BouchAbev, v. 459"
-3401,459,4,quoi,quoi,459,Qux,Qux,C/V\,que,"BouchAbev, v. 459"
+3401,459,4,quoi,quoi,459,Qux,Qux,C/V\,quoi,"BouchAbev, v. 459"
 3402,459,5,ne,ne,459,Neg,Neg$$,C/(e)\,ne,"BouchAbev, v. 459"
 3403,459,6,crias,crias,459,Vfin,Vfin,C/V\.'C/V\,crier,"BouchAbev, v. 459"
 3404,459,7,tu,tu,459,Prn,Prn%,C/V\,tu,"BouchAbev, v. 459"

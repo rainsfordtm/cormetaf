@@ -75,13 +75,13 @@ moi_Prn%%	51
 ton_Det	50	
 vous_Prn%%	47	
 ce_Dem	42	
-plusieurs_QIs	41	STOP
+plusieurs_QIs	41	
 quant_Qux	41	
 ambedeux_QIs	39	
 nïent_Prn	36	
 mille_QIs	35	
 quoi_Qux	34	
-tous_QIs	31	
+tous_QIs	31	STOP
 tu_Prn	31	
 combien_Qux	30	
 néant_Prn	28	
