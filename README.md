@@ -64,11 +64,19 @@ the corpus this will be replaced by a Cattex-09 part-of-speech tag.
 
 The `syntag2` tag provides extra information about clitics and
 pronouns by appending the following symbols to the normal syntag:
-+ `$$`: preverbal clitic, i.e. `Neg$$` is a preverbal negative clitic.
-+ `%%`: postverbal clitic, i.e. `Prn%%` is a postverbal non-subject clitic pronoun.
-+ `$`: directly preverbal subject pronoun (`Prn$`)
-+ `%`: directly postverbal subject pronoun (`Prn%`)
-+ `$%`: TODO
++ `$$`: clitic (not subject), definitely unstressed
+	+ attached to a finite verb
+	+ not final in the verb group
++ `$`: preverbal weak pronoun, possibly unstressed:
+	+ subject pronoun directly before the finite verb and clitics
+	+ object pronoun before a non-finite verb.
++ `%`: postverbal weak pronoun, possibly unstressed:
+	+ the final pronoun, object or subject, in a postverbal clitic group.
++ `%$': ambiguous attachment
+	+ used for non-subject pronouns between the finite verb and an
+	infinite, e.g. _lessez **m'**ester_, which could be enclitic on the
+	finite verb or proclitic on the infinitive and whose attachment
+	shifts diachronically.
 
 For the texts extracted from the _Nouveau Corpus d'Amsterdam_ (NCA),
 which also has gold part-of-speech annotation, the NCA tag is given

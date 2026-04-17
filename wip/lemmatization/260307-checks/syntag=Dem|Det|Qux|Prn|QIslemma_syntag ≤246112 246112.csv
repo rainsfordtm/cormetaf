@@ -81,7 +81,7 @@ ambedeux_QIs	39
 nïent_Prn	36	
 mille_QIs	35	
 quoi_Qux	34	
-tous_QIs	31	STOP
+tous_QIs	31	
 tu_Prn	31	
 combien_Qux	30	
 néant_Prn	28	
@@ -94,7 +94,7 @@ dix_QIs	25
 trente_QIs	25	
 cinq_QIs	24	
 en2_Prn	23	
-lequel_Qux	23	
+lequel_Qux	23	STOP
 six_QIs	22	
 divers_QIs	20	
 leur_Prn	20	

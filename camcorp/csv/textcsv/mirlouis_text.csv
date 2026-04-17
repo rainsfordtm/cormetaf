@@ -354,7 +354,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 353,loys,loys,NPR:suj:masc:sg,5,159,N,N,Louis,C/V\
 354,",",",",PON,5,159,Pnc,Pnc,",",
 355,ayde,ayde,VER:impe:2:sg,5,159,Vfin,Vfin,aider,'/V\.C/(e)\
-356,moi,moi,PRO:pers:obj:1:sg:bet,5,159,Prn,Prn%%,moi,C/V\
+356,moi,moi,PRO:pers:obj:1:sg:bet,5,159,Prn,Prn%,moi,C/V\
 357,et,et,CON:coord,5,159,Crd,Crd,et,/V\
 358,me,me,PRO:pers:obj:1:sg:unb,5,159,Prn,Prn$$,me,C/(e)\
 359,rent,rent,VER:impe:2:sg,5,159,Vfin,Vfin,rendre,C/V\

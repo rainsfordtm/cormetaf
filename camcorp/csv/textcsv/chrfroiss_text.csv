@@ -2809,7 +2809,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2808,soer,soer,904,N,N,,C/V\
 2809,",",",",904,Pnc,Pnc,,
 2810,apaisiez,apaisiez,904,Vfin,Vfin,,/V\.C/V\.'C/V\
-2811,vous,vous,904,Prn,Prn%%,vous,C/V\
+2811,vous,vous,904,Prn,Prn%,vous,C/V\
 2812,et,et,904,Crd,Crd,et,/V\
 2813,vous,vous,904,Prn,Prn$$,vous,C/V\
 2814,confortés,confortés,904,Vfin,Vfin,,C/V\.C/V\.'C/V\

@@ -833,7 +833,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 832,l,l,DET:def:obj:masc:sg,24,Det,Det,le,C/\
 833,endemain,endemain,NOM:obj:masc:sg,24,N,N,endemain,/V\.C/e\.'C/V\
 834,conseillierent,conseillierent,VER:simp:3:pl,24,Vfin,Vfin,conseiller2,C/V\.C/V\.'C/V\.C/e\
-835,soi,soi,PRO:pers:obj:3:masc:sg:bet,24,Prn,Prn%%,soi,C/V\
+835,soi,soi,PRO:pers:obj:3:masc:sg:bet,24,Prn,Prn%,soi,C/V\
 836,et,et,CON:coord,24,Crd,Crd,et,/V\
 837,parlerent,parlerent,VER:simp:3:pl,24,Vfin,Vfin,parler,C/V\.'C/V\.C/e\
 838,ensemble,ensemble,ADV,24,Adv,Adv,ensemble,/V\.'C/V\.C/(e)\
@@ -2186,7 +2186,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 2185,com,com,CON:subord,38,Sub,Sub,comme,C/V\
 2186,nos,nos,PRO:pers:1:pl,38,Prn,Prn$,nous,C/V\
 2187,feissiens,feissiens,VER:subi:1:pl,38,Vfin,Vfin,faire,C/(V)\./V\.'C/V\
-2188,lui,lui,PRO:pers:obj:3:masc:sg:bet,38,Prn,Prn%%,lui,C/V\
+2188,lui,lui,PRO:pers:obj:3:masc:sg:bet,38,Prn,Prn,lui,C/V\
 2189,"""","""",PON:cit,38,Pnc,Pnc,"""",
 2190,telx,telx,ADJ:suj:femi:sg,39,Adj,Adj,tel,C/V\
 2191,fu,fu,VER:simp:3:sg,39,Vfin,Vfin,être,C/V\
@@ -2226,7 +2226,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 2225,estoit,estoit,VER:impf:3:sg,39,Vfin,Vfin,être,/V\.'C/V\
 2226,et,et,CON:coord,39,Crd,Crd,et,/V\
 2227,refusa,refusa,VER:simp:3:sg,39,Vfin,Vfin,refuser,C/V\.C/V\.'C/V\
-2228,le,le,PRO:pers:obj:3:masc:sg:unb,39,Prn,Prn%%,le,C/(e)\
+2228,le,le,PRO:pers:obj:3:masc:sg:unb,39,Prn,Prn%,le,C/(e)\
 2229,autresi,autresi,ADV,39,Adv,Adv,autresi,/V\.C/e\.'C/V\
 2230,mult,mult,ADV,40,QIs,QIs,moult,C/V\
 2231,fu,fu,VER:simp:3:sg,40,Vfin,Vfin,être,C/V\

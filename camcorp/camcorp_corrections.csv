@@ -455,11 +455,10 @@ berte|3jugemens,*,*,V.*,rayer,,,rayer2
 *,*,*,Det,son4,,,son
 *,*,*,Prn.*,en2,,,en
 *,*,*,Prn.*,y2,,,y
-*,*,*,Prn.*,me,,,moi
-*,*,*,Prn.*,te,,,toi
-*,*,*,Prn.*,se,,,soi
-*,*,*,Prn\$\$,li,,,le
+*,*,*,(Prn\$\$|Prn\$|Prn\%),li,,,le
 *,*,*,*,leur2,,,leur
 *,*,*,Det,ton2,,,ton
 *,*,*,Qux,cui,,,qui
 *,*,*,*,nïent,,,néant
+*,*,*,*,tous,,,tout
+*,*,*,Prn%%,*,Prn,Prn$$,

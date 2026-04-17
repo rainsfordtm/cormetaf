@@ -1605,7 +1605,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1604,245,2,ce,ce,245,Prn,Prn$$,se,C/(e)\,"ImMondeOct3, v. 245"
 1605,245,3,painent,painent,245,Vfin,Vfin,peiner,'C/V\.C/e\,"ImMondeOct3, v. 245"
 1606,245,4,d',d',245,Pre,Pre,de,C/\,"ImMondeOct3, v. 245"
-1607,245,5,els,els,245,Prn,Prn,eux,/V\,"ImMondeOct3, v. 245"
+1607,245,5,els,els,245,Prn,Prn$,eux,/V\,"ImMondeOct3, v. 245"
 1608,245,6,enrechir,enrechir,245,Vinf,Vinf,enrichir,/V\.C/e\.'C/V\,"ImMondeOct3, v. 245"
 1609,245,7,",",",",245,Pnc,Pnc,",",,"ImMondeOct3, v. 245"
 1610,246,1,Por,por,246,Pre,Pre,pour,C/V\,"ImMondeOct3, v. 246"

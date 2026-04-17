@@ -1468,7 +1468,7 @@ wd_id,word,lex_id,page_id,syntag,syntag2,lemma,syllabified
 1467,«,«,1027,Pnc,Pnc,«,
 1468,Allez,allez,1027,Vfin,Vfin,aller,/V\.'C/V\
 1469,vous,vous,1027,Prn,Prn%%,vous,C/V\
-1470,en,en,1027,Prn,Prn,en2,/V\
+1470,en,en,1027,Prn,Prn%,en2,/V\
 1471,",",",",1027,Pnc,Pnc,",",
 1472,entre,entre,1027,PrA,PrA,entre,'/V\.C/(e)\
 1473,vous,vous,1027,Prn,Prn,vous,C/V\
@@ -1648,7 +1648,7 @@ wd_id,word,lex_id,page_id,syntag,syntag2,lemma,syllabified
 1647,vous,vous,1029,Prn,Prn,vous,C/V\
 1648,",",",",1029,Pnc,Pnc,",",
 1649,dittes,dittes,1029,Vfin,Vfin,dire,'C/V\.C/e\
-1650,moy,moy,1029,Prn,Prn%%,moi,C/V\
+1650,moy,moy,1029,Prn,Prn%,moi,C/V\
 1651,",",",",1029,Pnc,Pnc,",",
 1652,tout,tout,1029,QIs,QIs,tout,C/V\
 1653,premier,premier,1029,Adv,Adv,premier,C/V\.C/<V>\.'/V\
@@ -2711,7 +2711,7 @@ wd_id,word,lex_id,page_id,syntag,syntag2,lemma,syllabified
 2710,:,:,1032,Pnc,Pnc,:,
 2711,«,«,1032,Pnc,Pnc,«,
 2712,Souviengne,souviengne,1032,Vfin,Vfin,souvenir,C/V\.'C/V\.C/(e)\
-2713,vous,vous,1032,Prn,Prn%%,vous,C/V\
+2713,vous,vous,1032,Prn,Prn%,vous,C/V\
 2714,de,de,1032,Pre,Pre,de,C/(e)\
 2715,la,la,1032,Det,Det,le,C/V\
 2716,promesse,promesse,1032,N,N,promesse,C/V\.'C/V\.C/(e)\
@@ -3130,7 +3130,7 @@ wd_id,word,lex_id,page_id,syntag,syntag2,lemma,syllabified
 3129,",",",",1034,Pnc,Pnc,",",
 3130,allez,allez,1034,Vfin,Vfin,aller,/V\.'C/V\
 3131,vous,vous,1034,Prn,Prn%%,vous,C/V\
-3132,ent,ent,1034,Prn,Prn,en2,/V\
+3132,ent,ent,1034,Prn,Prn%,en2,/V\
 3133,aux,aux,1034,Pre+Det,Pre+Det,à.le,/V\
 3134,galleries,galleries,1034,N,N,galerie,C/V\.C/V\.'C/V\./e\
 3135,et,et,1034,Crd,Crd,et,/V\
@@ -3884,7 +3884,7 @@ wd_id,word,lex_id,page_id,syntag,syntag2,lemma,syllabified
 3883,Madame,madame,1037,N,N,madame,C/V\.'C/V\.C/(e)\
 3884,",",",",1037,Pnc,Pnc,",",
 3885,pardonnez,pardonnez,1037,Vfin,Vfin,pardonner,C/V\.C/V\.'C/V\
-3886,moy,moy,1037,Prn,Prn%%,moi,C/V\
+3886,moy,moy,1037,Prn,Prn%,moi,C/V\
 3887,",",",",1037,Pnc,Pnc,",",
 3888,que,que,1037,Crd,Crd,que,C/(e)\
 3889,il,il,1037,Prn,Prn$,il,/V\

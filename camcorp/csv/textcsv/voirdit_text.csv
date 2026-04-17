@@ -2208,7 +2208,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 2207,325,7,.,.,338,Pnc,Pnc,.,,"GuilMachVoir, v. 338"
 2208,326,1,mais,mais,339,Crd,Crd,mais,C/V\,"GuilMachVoir, v. 339"
 2209,326,2,dites,dites,339,Vfin,Vfin,dire,'C/V\.C/e\,"GuilMachVoir, v. 339"
-2210,326,3,moy,moy,339,Prn,Prn%%,moi,C/V\,"GuilMachVoir, v. 339"
+2210,326,3,moy,moy,339,Prn,Prn%,moi,C/V\,"GuilMachVoir, v. 339"
 2211,326,4,:,:,339,Pnc,Pnc,:,,"GuilMachVoir, v. 339"
 2212,326,5,quel,quel,339,Qux,Qux,quel,C/V\,"GuilMachVoir, v. 339"
 2213,326,6,part,part,339,N,N,part,C/V\,"GuilMachVoir, v. 339"

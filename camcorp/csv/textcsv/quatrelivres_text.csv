@@ -652,7 +652,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 651,.,.,3,1,9,Pnc,Pnc,.,
 652,Vint,vint,3,1,9,Vfin,Vfin,venir,C/V\
 653,s',s',3,1,9,Prn,Prn%%,se,C/\
-654,en,en,3,1,9,Prn,Prn,en2,/V\
+654,en,en,3,1,9,Prn,Prn%,en2,/V\
 655,al,al,3,1,9,Pre+Det,Pre+Det,à.le,/V\
 656,tabernacle,tabernacle,3,1,9,N,N,tabernacle,C/V\.C/e\.'C/V\.C/(e)\
 657,;,;,3,1,9,Pnc,Pnc,;,
@@ -750,7 +750,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 749,:,:,3,1,11,Pnc,Pnc,:,
 750,durreie,durreie,3,1,11,Vfin,Vfin,donner,C/V\.'C/V\./(e)\
 751,le,le,3,1,11,Prn,Prn%%,le,C/(e)\
-752,tei,tei,3,1,11,Prn,Prn%%,toi,C/V\
+752,tei,tei,3,1,11,Prn,Prn%,toi,C/V\
 753,á,a,3,1,11,Pre,Pre,à,/V\
 754,tun,tun,3,1,11,Det,Det,ton2,C/V\
 755,servise,servise,3,1,11,N,N,service,C/V\.'C/V\.C/(e)\
@@ -2121,7 +2121,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2120,.,.,8,2,28,Pnc,Pnc,.,
 2121,É,e,8,2,28,Crd,Crd,et,/V\
 2122,dunai,dunai,8,2,28,Vfin,Vfin,donner,C/V\.'C/V\
-2123,li,li,8,2,28,Prn,Prn%%,li,C/V\
+2123,li,li,8,2,28,Prn,Prn%,li,C/V\
 2124,tutes,tutes,8,2,28,QIs,QIs,tout,'C/V\.C/e\
 2125,les,les,8,2,28,Det,Det,le,C/V\
 2126,choses,choses,8,2,28,N,N,chose,'C/V\.C/e\
@@ -2632,7 +2632,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2631,",",",",9,3,5,Pnc,Pnc,",",
 2632,vá,va,9,3,5,Vfin,Vfin,aller,C/V\
 2633,t',t',9,3,5,Prn,Prn%%,te,C/\
-2634,en,en,9,3,5,Prn,Prn%%,en2,/V\
+2634,en,en,9,3,5,Prn,Prn%,en2,/V\
 2635,dormir,dormir,9,3,5,Vinf,Vinf,dormir,C/V\.'C/V\
 2636,!,!,9,3,5,Pnc,Pnc,!,
 2637,’,’,9,3,5,Pnc,Pnc,’,
@@ -2712,7 +2712,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2711,Sire,sire,9,3,9,N,N,sire,'C/V\.C/(e)\
 2712,",",",",9,3,9,Pnc,Pnc,",",
 2713,vééz,veez,9,3,9,Vfin,Vfin,voir,C/(V)\.'/V\
-2714,mei,mei,9,3,9,Prn,Prn%%,moi,C/V\
+2714,mei,mei,9,3,9,Prn,Prn%,moi,C/V\
 2715,ící,ici,9,3,9,Adv,Adv,ici,/V\.'C/V\
 2716,",",",",9,3,9,Pnc,Pnc,",",
 2717,kar,kar,9,3,9,Crd,Crd,car,C/V\
@@ -2819,7 +2819,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2818,serra,serra,9,3,11,Vfin,Vfin,être,C/V\.'C/V\
 2819,ke,ke,9,3,11,Sub,Sub,que,C/(e)\
 2820,cornerunt,cornerunt,9,3,11,Vfin,Vfin,corner,C/V\.C/e\.'C/V\
-2821,li,li,9,3,11,Prn,Prn%%,li,C/V\
+2821,li,li,9,3,11,Prn,Prn%,li,C/V\
 2822,les,les,9,3,11,Det,Det,le,C/V\
 2823,orilles,orilles,9,3,11,N,N,oreille,/V\.'C/V\.C/e\
 2824,",",",",9,3,11,Pnc,Pnc,",",

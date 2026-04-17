@@ -3081,7 +3081,7 @@ wd_id,word,lex_id,tag,textlineid,syntag,syntag2,lemma,syllabified
 3080,.,.,PON,925,Pnc,Pnc,,
 3081,Ce,ce,PRO:invar,925,Prn,Prn,ce,C/(e)\
 3082,poise,poise,VER,925,Vfin,Vfin,peser,'C/V\.C/(e)\
-3083,moi,moi,PRO:pers,925,Prn,Prn%%,moi,C/V\
+3083,moi,moi,PRO:pers,925,Prn,Prn,moi,C/V\
 3084,mout,mout,ADV,926,QIs,QIs,moult,C/V\
 3085,durement,durement,ADV,926,Adv,Adv,,C/V\.C/e\.'C/V\
 3086,",",",",PON,926,Pnc,Pnc,,

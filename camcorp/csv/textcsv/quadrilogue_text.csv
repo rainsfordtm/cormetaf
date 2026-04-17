@@ -3130,7 +3130,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 3129,feminins,feminins,1411,Adj,Adj,,C/V\.C/V\.'C/V\
 3130,!,!,1411,Pnc,Pnc,,
 3131,Endormez,endormez,1411,Vfin,Vfin,,/V\.C/V\.'C/V\
-3132,vous,vous,1411,Prn,Prn%%,vous,C/V\
+3132,vous,vous,1411,Prn,Prn%,vous,C/V\
 3133,comme,comme,1411,Sub,Sub,comme,'C/V\.C/(e)\
 3134,pourceaux,pourceaux,1411,N,N,,C/V\.'C/V\
 3135,en,en,1411,Pre,Pre,en,/V\
