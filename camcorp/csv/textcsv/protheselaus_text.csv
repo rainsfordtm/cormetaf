@@ -2073,7 +2073,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 2072,303,7,?,?,303,Pnc,Pnc,?,,"Prot, v. 303"
 2073,303,8,"""","""",303,Pnc,Pnc,"""",,"Prot, v. 303"
 2074,304,1,"""","""",304,Pnc,Pnc,"""",,"Prot, v. 304"
-2075,304,2,nun,nun,304,Neg,Neg,ne,C/V\,"Prot, v. 304"
+2075,304,2,nun,nun,304,Neg,Neg,non,C/V\,"Prot, v. 304"
 2076,304,3,ver,ver,304,Adv,Adv,voir2,C/V\,"Prot, v. 304"
 2077,304,4,.,.,304,Pnc,Pnc,.,,"Prot, v. 304"
 2078,304,5,"""","""",304,Pnc,Pnc,"""",,"Prot, v. 304"

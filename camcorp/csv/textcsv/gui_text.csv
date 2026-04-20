@@ -1469,7 +1469,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1468,219,8,nul,nul,219,QIs,QIs,nul,C/V\,"GuiWar, v. 219"
 1469,219,9,jur,jur,219,N,N,jour,C/V\,"GuiWar, v. 219"
 1470,219,10,",",",",219,Pnc,Pnc,",",,"GuiWar, v. 219"
-1471,220,1,tant,tant,220,QIs,QIs,désores,C/V\,"GuiWar, v. 220"
+1471,220,1,tant,tant,220,QIs,QIs,tant,C/V\,"GuiWar, v. 220"
 1472,220,2,par,par,220,Adv,Adv,par2,C/V\,"GuiWar, v. 220"
 1473,220,3,est,est,220,Vfin,Vfin,être,/V\,"GuiWar, v. 220"
 1474,220,4,suppris,suppris,220,Vpp,Vpp,sousprendre,C/V\.'C/V\,"GuiWar, v. 220"

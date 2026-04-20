@@ -1261,7 +1261,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,syntag,syntag2,syllabified,lemma,ref,te
 1260,206,6,autres,autres,ADJ:obj:masc:pl,Adj,Adj,'/V\.C/e\,autre,"Coincy, II Mir 22, v. 208",,
 1261,206,7,tant,tant,ADV,QIs,QIs,C/V\,tant,"Coincy, II Mir 22, v. 208",,
 1262,206,8,esprist,esprist,VER:simp:3:sg,Vfin,Vfin,/V\.'C/V\,éprendre,"Coincy, II Mir 22, v. 208",</l>,
-1263,207,1,non,non,ADV,Neg,Neg,C/V\,ne,"Coincy, II Mir 22, v. 209",,<l n=&quot;209&quot;>
+1263,207,1,non,non,ADV,Neg,Neg,C/V\,non,"Coincy, II Mir 22, v. 209",,<l n=&quot;209&quot;>
 1264,207,2,a,a,PRE,Pre,Pre,/V\,à,"Coincy, II Mir 22, v. 209",,
 1265,207,3,soissonz,soissonz,NPR:obj:masc:sg,N,N,C/V\.'C/V\,Soissons,"Coincy, II Mir 22, v. 209",,
 1266,207,4,tant,tant,ADV,QIs,QIs,C/V\,tant,"Coincy, II Mir 22, v. 209",,
@@ -1357,7 +1357,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,syntag,syntag2,syllabified,lemma,ref,te
 1356,222,3,dames,dames,NOM:obj:femi:pl,N,N,'C/V\.C/e\,dame,"Coincy, II Mir 22, v. 224",,
 1357,222,4,qui,qui,PROCON,Qux,Qux,C/V\,qui,"Coincy, II Mir 22, v. 224",,
 1358,222,5,souvent,souvent,ADV,Adv,Adv,C/V\.'C/V\,souvent,"Coincy, II Mir 22, v. 224",</l>,
-1359,223,1,non,non,ADV,Neg,Neg,C/V\,ne,"Coincy, II Mir 22, v. 225",,<l n=&quot;225&quot;>
+1359,223,1,non,non,ADV,Neg,Neg,C/V\,non,"Coincy, II Mir 22, v. 225",,<l n=&quot;225&quot;>
 1360,223,2,pas,pas,NOM:obj:masc:pl,Neg,Neg,C/V\,pas,"Coincy, II Mir 22, v. 225",,
 1361,223,3,souvent,souvent,ADV,Adv,Adv,C/V\.'C/V\,souvent,"Coincy, II Mir 22, v. 225",,
 1362,223,4,mais,mais,CON:coord,Crd,Crd,C/V\,mais,"Coincy, II Mir 22, v. 225",,

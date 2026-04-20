@@ -1355,7 +1355,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1354,164,6,et,et,164,Crd,Crd,et,/V\,"FroissOrl, v. 164"
 1355,164,7,contenance,contenance,164,N,N,contenance,C/V\.C/e\.'C/V\.C/(e)\,"FroissOrl, v. 164"
 1356,164,8,",",",",164,Pnc,Pnc,",",,"FroissOrl, v. 164"
-1357,165,1,non,non,165,Neg,Neg,ne,C/V\,"FroissOrl, v. 165"
+1357,165,1,non,non,165,Neg,Neg,non,C/V\,"FroissOrl, v. 165"
 1358,165,2,seulement,seulement,165,Adv,Adv,seulement,C/V\.C/e\.'C/V\,"FroissOrl, v. 165"
 1359,165,3,",",",",165,Pnc,Pnc,",",,"FroissOrl, v. 165"
 1360,165,4,ma,ma,165,Det,Det,mon,C/V\,"FroissOrl, v. 165"

@@ -1737,7 +1737,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1736,241,5,ame,ame,241,N,N,âme,'/V\.C/(e)\,"HaimBar, v. 241"
 1737,241,6,.,.,241,Pnc,Pnc,.,,"HaimBar, v. 241"
 1738,242,1,-,-,242,Pnc,Pnc,-,,"HaimBar, v. 242"
-1739,242,2,non,non,242,Neg,Neg$$,ne,C/V\,"HaimBar, v. 242"
+1739,242,2,non,non,242,Neg,Neg,non,C/V\,"HaimBar, v. 242"
 1740,242,3,ferai,ferai,242,Vfin,Vfin,faire,C/V\.'C/V\,"HaimBar, v. 242"
 1741,242,4,ge,ge,242,Prn,Prn%,je,C/(e)\,"HaimBar, v. 242"
 1742,242,5,ça,ça,242,Adv,Adv,çà,C/V\,"HaimBar, v. 242"

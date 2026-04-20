@@ -226,7 +226,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 225,41,2,en,en,XXIV(IIp536)_41,Prn,Prn$$,en2,7s,---,/V\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 41",,
 226,41,3,venga,venga,XXIV(IIp536)_41,Vfin,Vfin,venger,7s,---,C/V\.'C/V\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 41",,
 227,41,4,",",",",XXIV(IIp536)_41,Pnc,Pnc,",",7s,---,,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 41",,
-228,41,5,n',n',XXIV(IIp536)_41,Neg,Neg,ne,7s,---,C/\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 41",,
+228,41,5,n',n',XXIV(IIp536)_41,Neg,Neg$$,ne,7s,---,C/\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 41",,
 229,41,6,est,est,XXIV(IIp536)_41,Vfin,Vfin,être,7s,---,/V\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 41",,
 230,41,7,riens,riens,XXIV(IIp536)_41,N,N,rien,7s,---,C/V\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 41",,
 231,41,8,plus,plus,XXIV(IIp536)_41,Adv,Adv,plus,7s,---,C/V\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 41",,
@@ -429,7 +429,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 428,75,5,:,:,XXIV(IIp536)_75,Pnc,Pnc,:,7s,---,,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 75",</l>,
 429,76,1,grand,grand,XXIV(IIp536)_76,Adj,Adj,grand,7s,---,C/V\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 76",,<l n=&quot;76&quot;>
 430,76,2,buveur,buveur,XXIV(IIp536)_76,N,N,buveur,7s,---,C/V\.'C/V\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 76",,
-431,76,3,n',n',XXIV(IIp536)_76,Neg,Neg,ne,7s,---,C/\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 76",,
+431,76,3,n',n',XXIV(IIp536)_76,Neg,Neg$$,ne,7s,---,C/\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 76",,
 432,76,4,est,est,XXIV(IIp536)_76,Vfin,Vfin,être,7s,---,/V\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 76",,
 433,76,5,jamais,jamais,XXIV(IIp536)_76,Adv,Adv,jamais,7s,---,C/V\.'C/V\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 76",,
 434,76,6,rice,rice,XXIV(IIp536)_76,Adj,Adj,riche,7s,---,'C/V\.C/(e)\,"MolinetFaictz, Poésies religieuses et parodies no XXIV, v. 76",,
@@ -481,7 +481,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 480,85,4,orisonnette,orisonnette,XLVI(IIp810)_9,N,N,oraison,7s,---,/V\.C/V\.C/V\.'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 9",</l>,
 481,86,1,a,a,XLVI(IIp810)_10,Pre,Pre,à,7s,---,/V\,"MolinetFaictz, Poésies familières no XLVI, v. 10",,<l n=&quot;10&quot;>
 482,86,2,dieu,dieu,XLVI(IIp810)_10,N,N,dieu,7s,---,C/V\,"MolinetFaictz, Poésies familières no XLVI, v. 10",,
-483,86,3,n',n',XLVI(IIp810)_10,Neg,Neg,ne,7s,---,C/\,"MolinetFaictz, Poésies familières no XLVI, v. 10",,
+483,86,3,n',n',XLVI(IIp810)_10,Neg,Neg$$,ne,7s,---,C/\,"MolinetFaictz, Poésies familières no XLVI, v. 10",,
 484,86,4,a,a,XLVI(IIp810)_10,Vfin,Vfin,avoir,7s,---,/V\,"MolinetFaictz, Poésies familières no XLVI, v. 10",,
 485,86,5,marionnette,marionnette,XLVI(IIp810)_10,N,N,marionnette,7s,---,C/V\.C/V\.C/V\.'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 10",,
 486,86,6,",",",",XLVI(IIp810)_10,Pnc,Pnc,",",7s,---,,"MolinetFaictz, Poésies familières no XLVI, v. 10",</l>,
@@ -495,7 +495,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 494,88,4,de,de,XLVI(IIp810)_12,Pre,Pre,de,7s,---,C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 12",,
 495,88,5,ranchicourt,ranchicourt,XLVI(IIp810)_12,N,N,Ranchicourt,7s,---,C/V\.C/V\.'C/V\,"MolinetFaictz, Poésies familières no XLVI, v. 12",,
 496,88,6,.,.,XLVI(IIp810)_12,Pnc,Pnc,.,7s,---,,"MolinetFaictz, Poésies familières no XLVI, v. 12",</l>,
-497,89,1,ne,ne,XLVI(IIp810)_13,Neg,Neg,ne,7s,---,C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 13",,<l n=&quot;13&quot;>
+497,89,1,ne,ne,XLVI(IIp810)_13,Neg,Neg$$,ne,7s,---,C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 13",,<l n=&quot;13&quot;>
 498,89,2,tenés,tenés,XLVI(IIp810)_13,Vfin,Vfin,tenir,7s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no XLVI, v. 13",,
 499,89,3,le,le,XLVI(IIp810)_13,Det,Det,le,7s,---,C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 13",,
 500,89,4,ran,ran,XLVI(IIp810)_13,N,N,ran,7s,---,C/V\,"MolinetFaictz, Poésies familières no XLVI, v. 13",,
@@ -515,7 +515,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 514,91,5,;,;,XLVI(IIp810)_15,Pnc,Pnc,;,7s,---,,"MolinetFaictz, Poésies familières no XLVI, v. 15",</l>,
 515,92,1,qu',qu',XLVI(IIp810)_16,Sub,Sub,que,7s,---,C/\,"MolinetFaictz, Poésies familières no XLVI, v. 16",,<l n=&quot;16&quot;>
 516,92,2,il,il,XLVI(IIp810)_16,Prn,Prn$,il,7s,---,/V\,"MolinetFaictz, Poésies familières no XLVI, v. 16",,
-517,92,3,ne,ne,XLVI(IIp810)_16,Neg,Neg,ne,7s,---,C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 16",,
+517,92,3,ne,ne,XLVI(IIp810)_16,Neg,Neg$$,ne,7s,---,C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 16",,
 518,92,4,chiee,chiee,XLVI(IIp810)_16,Vfin,Vfin,choir,7s,---,'C/V\./(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 16",,
 519,92,5,jus,jus,XLVI(IIp810)_16,PrA,PrA,jus,7s,---,C/V\,"MolinetFaictz, Poésies familières no XLVI, v. 16",,
 520,92,6,du,du,XLVI(IIp810)_16,Pre+Det,Pre+Det,de.le,7s,---,C/V\,"MolinetFaictz, Poésies familières no XLVI, v. 16",,
@@ -572,7 +572,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 571,101,2,le,le,XLVI(IIp810)_25,Det,Det,le,7s,---,C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 25",,
 572,101,3,vie,vie,XLVI(IIp810)_25,N,N,vie,7s,---,'C/V\./(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 25",,
 573,101,4,on,on,XLVI(IIp810)_25,Prn,Prn$,on,7s,---,/V\,"MolinetFaictz, Poésies familières no XLVI, v. 25",,
-574,101,5,ne,ne,XLVI(IIp810)_25,Neg,Neg,ne,7s,---,C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 25",,
+574,101,5,ne,ne,XLVI(IIp810)_25,Neg,Neg$$,ne,7s,---,C/(e)\,"MolinetFaictz, Poésies familières no XLVI, v. 25",,
 575,101,6,vous,vous,XLVI(IIp810)_25,Prn,Prn$$,vous,7s,---,C/V\,"MolinetFaictz, Poésies familières no XLVI, v. 25",,
 576,101,7,tolt,tolt,XLVI(IIp810)_25,Vfin,Vfin,tolir,7s,---,C/V\,"MolinetFaictz, Poésies familières no XLVI, v. 25",,
 577,101,8,",",",",XLVI(IIp810)_25,Pnc,Pnc,",",7s,---,,"MolinetFaictz, Poésies familières no XLVI, v. 25",</l>,
@@ -639,7 +639,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 638,110,6,cocus,cocus,LXVIII(2p866)_6,N,N,cocu,8s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 6",</l>,
 639,111,1,que,que,LXVIII(2p866)_7,Sub,Sub,que,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 7",,<l n=&quot;7&quot;>
 640,111,2,mieux,mieux,LXVIII(2p866)_7,Adv,Adv,mieux,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 7",,
-641,111,3,n',n',LXVIII(2p866)_7,Neg,Neg,ne,8s,---,C/\,"MolinetFaictz, Poésies familières no LXVIII, v. 7",,
+641,111,3,n',n',LXVIII(2p866)_7,Neg,Neg$$,ne,8s,---,C/\,"MolinetFaictz, Poésies familières no LXVIII, v. 7",,
 642,111,4,aroie,aroie,LXVIII(2p866)_7,Vfin,Vfin,avoir,8s,---,/V\.'C/V\./(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 7",,
 643,111,5,a,a,LXVIII(2p866)_7,Pre,Pre,à,8s,---,/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 7",,
 644,111,6,mon,mon,LXVIII(2p866)_7,Det,Det,mon,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 7",,
@@ -679,7 +679,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 678,116,5,clovis,clovis,LXVIII(2p866)_12,N,N,Clovis,8s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 12",,
 679,116,6,",",",",LXVIII(2p866)_12,Pnc,Pnc,",",8s,---,,"MolinetFaictz, Poésies familières no LXVIII, v. 12",</l>,
 680,117,1,mais,mais,LXVIII(2p866)_13,Crd,Crd,mais,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 13",,<l n=&quot;13&quot;>
-681,117,2,ne,ne,LXVIII(2p866)_13,Neg,Neg,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 13",,
+681,117,2,ne,ne,LXVIII(2p866)_13,Neg,Neg$$,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 13",,
 682,117,3,me,me,LXVIII(2p866)_13,Prn,Prn$$,me,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 13",,
 683,117,4,donnés,donnés,LXVIII(2p866)_13,Vfin,Vfin,donner,8s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 13",,
 684,117,5,le,le,LXVIII(2p866)_13,Det,Det,le,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 13",,
@@ -693,7 +693,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 692,118,6,locus,locus,LXVIII(2p866)_14,N,N,locu,8s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 14",,
 693,118,7,;,;,LXVIII(2p866)_14,Pnc,Pnc,;,8s,---,,"MolinetFaictz, Poésies familières no LXVIII, v. 14",</l>,
 694,119,1,je,je,LXVIII(2p866)_15,Prn,Prn$,je,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 15",,<l n=&quot;15&quot;>
-695,119,2,n',n',LXVIII(2p866)_15,Neg,Neg,ne,8s,---,C/\,"MolinetFaictz, Poésies familières no LXVIII, v. 15",,
+695,119,2,n',n',LXVIII(2p866)_15,Neg,Neg$$,ne,8s,---,C/\,"MolinetFaictz, Poésies familières no LXVIII, v. 15",,
 696,119,3,en,en,LXVIII(2p866)_15,Prn,Prn$$,en2,8s,---,/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 15",,
 697,119,4,volroie,volroie,LXVIII(2p866)_15,Vfin,Vfin,vouloir,8s,---,C/V\.'C/V\./(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 15",,
 698,119,5,estre,estre,LXVIII(2p866)_15,Vinf,Vinf,être,8s,---,'/V\.C/(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 15",,
@@ -720,7 +720,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 719,122,6,vis,vis,LXVIII(2p866)_18,Vfin,Vfin,voir,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 18",,
 720,122,7,",",",",LXVIII(2p866)_18,Pnc,Pnc,",",8s,---,,"MolinetFaictz, Poésies familières no LXVIII, v. 18",</l>,
 721,123,1,je,je,LXVIII(2p866)_19,Prn,Prn$,je,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 19",,<l n=&quot;19&quot;>
-722,123,2,ne,ne,LXVIII(2p866)_19,Neg,Neg,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 19",,
+722,123,2,ne,ne,LXVIII(2p866)_19,Neg,Neg$$,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 19",,
 723,123,3,seray,seray,LXVIII(2p866)_19,Vfin,Vfin,être,8s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 19",,
 724,123,4,pas,pas,LXVIII(2p866)_19,Neg,Neg,pas,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 19",,
 725,123,5,des,des,LXVIII(2p866)_19,Pre+Det,Pre+Det,de.le,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 19",,
@@ -748,7 +748,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 747,126,6,",",",",LXVIII(2p866)_22,Pnc,Pnc,",",8s,---,,"MolinetFaictz, Poésies familières no LXVIII, v. 22",</l>,
 748,127,1,car,car,LXVIII(2p866)_23,Crd,Crd,car,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 23",,<l n=&quot;23&quot;>
 749,127,2,mieux,mieux,LXVIII(2p866)_23,Adv,Adv,mieux,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 23",,
-750,127,3,ne,ne,LXVIII(2p866)_23,Neg,Neg,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 23",,
+750,127,3,ne,ne,LXVIII(2p866)_23,Neg,Neg$$,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 23",,
 751,127,4,seroye,seroye,LXVIII(2p866)_23,Vfin,Vfin,être,8s,---,C/V\.'C/V\./(e)\,"MolinetFaictz, Poésies familières no LXVIII, v. 23",,
 752,127,5,assouvis,assouvis,LXVIII(2p866)_23,Vpp,Vpp,assouvir,8s,---,/V\.C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXVIII, v. 23",,
 753,127,6,",",",",LXVIII(2p866)_23,Pnc,Pnc,",",8s,---,,"MolinetFaictz, Poésies familières no LXVIII, v. 23",</l>,
@@ -1013,13 +1013,13 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1012,166,2,allés,allés,LXX(2p870)_6,Vfin,Vfin,aller,8s,---,/V\.'C/V\,"MolinetFaictz, Poésies familières no LXX, v. 6",,
 1013,166,3,arriere,arriere,LXX(2p870)_6,PrA,PrA,arrière,8s,---,/V\.'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no LXX, v. 6",,
 1014,166,4,",",",",LXX(2p870)_6,Pnc,Pnc,",",8s,---,,"MolinetFaictz, Poésies familières no LXX, v. 6",,
-1015,166,5,n',n',LXX(2p870)_6,Neg,Neg,ne,8s,---,C/\,"MolinetFaictz, Poésies familières no LXX, v. 6",,
+1015,166,5,n',n',LXX(2p870)_6,Neg,Neg$$,ne,8s,---,C/\,"MolinetFaictz, Poésies familières no LXX, v. 6",,
 1016,166,6,y,y,LXX(2p870)_6,Prn,Prn$$,y2,8s,---,/V\,"MolinetFaictz, Poésies familières no LXX, v. 6",,
 1017,166,7,touchiés,touchiés,LXX(2p870)_6,Vfin,Vfin,toucher,8s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXX, v. 6",,
 1018,166,8,;,;,LXX(2p870)_6,Pnc,Pnc,;,8s,---,,"MolinetFaictz, Poésies familières no LXX, v. 6",</l>,
 1019,167,1,par,par,LXX(2p870)_7,Pre,Pre,par,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXX, v. 7",,<l n=&quot;7&quot;>
 1020,167,2,ainsy,ainsy,LXX(2p870)_7,Adv,Adv,ainsi,8s,---,/V\.'C/V\,"MolinetFaictz, Poésies familières no LXX, v. 7",,
-1021,167,3,ne,ne,LXX(2p870)_7,Neg,Neg,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXX, v. 7",,
+1021,167,3,ne,ne,LXX(2p870)_7,Neg,Neg$$,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXX, v. 7",,
 1022,167,4,m',m',LXX(2p870)_7,Prn,Prn$$,me,8s,---,C/\,"MolinetFaictz, Poésies familières no LXX, v. 7",,
 1023,167,5,avés,avés,LXX(2p870)_7,Vfin,Vfin,avoir,8s,---,/V\.'C/V\,"MolinetFaictz, Poésies familières no LXX, v. 7",,
 1024,167,6,vous,vous,LXX(2p870)_7,Prn,Prn%,vous,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXX, v. 7",,
@@ -1180,7 +1180,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1179,188,1,car,car,LXX(2p870)_28,Crd,Crd,car,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXX, v. 28",,<l n=&quot;28&quot;>
 1180,188,2,huy,huy,LXX(2p870)_28,Adv,Adv,hui,8s,---,/V\,"MolinetFaictz, Poésies familières no LXX, v. 28",,
 1181,188,3,mais,mais,LXX(2p870)_28,Adv,Adv,mais,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXX, v. 28",,
-1182,188,4,ne,ne,LXX(2p870)_28,Neg,Neg,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXX, v. 28",,
+1182,188,4,ne,ne,LXX(2p870)_28,Neg,Neg$$,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXX, v. 28",,
 1183,188,5,l',l',LXX(2p870)_28,Prn,Prn$$,le,8s,---,C/\,"MolinetFaictz, Poésies familières no LXX, v. 28",,
 1184,188,6,arés,arés,LXX(2p870)_28,Vfin,Vfin,avoir,8s,---,/V\.'C/V\,"MolinetFaictz, Poésies familières no LXX, v. 28",,
 1185,188,7,vous,vous,LXX(2p870)_28,Prn,Prn%,vous,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXX, v. 28",,
@@ -1244,7 +1244,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1243,196,6,juste,juste,LXXI(2p872)_7,Adj,Adj,juste,8s,---,'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no LXXI, v. 8",,
 1244,196,7,point,point,LXXI(2p872)_7,N,N,point,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXXI, v. 8",</l>,
 1245,197,1,il,il,LXXI(2p872)_8,Prn,Prn$,il,8s,---,/V\,"MolinetFaictz, Poésies familières no LXXI, v. 9",,<l n=&quot;9&quot;>
-1246,197,2,n',n',LXXI(2p872)_8,Neg,Neg,ne,8s,---,C/\,"MolinetFaictz, Poésies familières no LXXI, v. 9",,
+1246,197,2,n',n',LXXI(2p872)_8,Neg,Neg$$,ne,8s,---,C/\,"MolinetFaictz, Poésies familières no LXXI, v. 9",,
 1247,197,3,y,y,LXXI(2p872)_8,Prn,Prn$$,y2,8s,---,/V\,"MolinetFaictz, Poésies familières no LXXI, v. 9",,
 1248,197,4,fauldra,fauldra,LXXI(2p872)_8,Vfin,Vfin,faillir,8s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXXI, v. 9",,
 1249,197,5,que,que,LXXI(2p872)_8,Sub,Sub,que,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXXI, v. 9",,
@@ -1255,7 +1255,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1254,198,1,afin,afin,LXXI(2p872)_9,Adv,Adv,afin,8s,---,/V\.'C/V\,"MolinetFaictz, Poésies familières no LXXI, v. 10",,<l n=&quot;10&quot;>
 1255,198,2,que,que,LXXI(2p872)_9,Sub,Sub,que,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXXI, v. 10",,
 1256,198,3,personne,personne,LXXI(2p872)_9,N,N,personne,8s,---,C/V\.'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no LXXI, v. 10",,
-1257,198,4,ne,ne,LXXI(2p872)_9,Neg,Neg,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXXI, v. 10",,
+1257,198,4,ne,ne,LXXI(2p872)_9,Neg,Neg$$,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXXI, v. 10",,
 1258,198,5,croie,croie,LXXI(2p872)_9,Vfin,Vfin,croire,8s,---,'C/V\./(e)\,"MolinetFaictz, Poésies familières no LXXI, v. 10",</l>,
 1259,199,1,qu',qu',LXXI(2p872)_10,Sub,Sub,que,8s,---,C/\,"MolinetFaictz, Poésies familières no LXXI, v. 11",,<l n=&quot;11&quot;>
 1260,199,2,on,on,LXXI(2p872)_10,Prn,Prn$,on,8s,---,/V\,"MolinetFaictz, Poésies familières no LXXI, v. 11",,
@@ -1296,11 +1296,11 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1295,204,1,a,a,LXXII(2p873)_5,Pre,Pre,à,8s,---,/V\,"MolinetFaictz, Poésies familières no LXXII, v. 5",,<lg type=&quot;stanza&quot;><l n=&quot;5&quot;>
 1296,204,2,prester,prester,LXXII(2p873)_5,Vinf,Vinf,prêter,8s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXXII, v. 5",,
 1297,204,3,dommage,dommage,LXXII(2p873)_5,N,N,dommage,8s,---,C/V\.'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no LXXII, v. 5",,
-1298,204,4,n',n',LXXII(2p873)_5,Neg,Neg,ne,8s,---,C/\,"MolinetFaictz, Poésies familières no LXXII, v. 5",,
+1298,204,4,n',n',LXXII(2p873)_5,Neg,Neg$$,ne,8s,---,C/\,"MolinetFaictz, Poésies familières no LXXII, v. 5",,
 1299,204,5,aurez,aurez,LXXII(2p873)_5,Vfin,Vfin,avoir,8s,---,/V\.'C/V\,"MolinetFaictz, Poésies familières no LXXII, v. 5",,
 1300,204,6,",",",",LXXII(2p873)_5,Pnc,Pnc,",",8s,---,,"MolinetFaictz, Poésies familières no LXXII, v. 5",</l>,
 1301,205,1,je,je,LXXII(2p873)_6,Prn,Prn$,je,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXXII, v. 6",,<l n=&quot;6&quot;>
-1302,205,2,ne,ne,LXXII(2p873)_6,Neg,Neg,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXXII, v. 6",,
+1302,205,2,ne,ne,LXXII(2p873)_6,Neg,Neg$$,ne,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXXII, v. 6",,
 1303,205,3,le,le,LXXII(2p873)_6,Prn,Prn$$,le,8s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXXII, v. 6",,
 1304,205,4,veulx,veulx,LXXII(2p873)_6,Vfin,Vfin,vouloir,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXXII, v. 6",,
 1305,205,5,pas,pas,LXXII(2p873)_6,Neg,Neg,pas,8s,---,C/V\,"MolinetFaictz, Poésies familières no LXXII, v. 6",,
@@ -1529,7 +1529,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1528,231,4,nul,nul,LI(2p824)_22,QIs,QIs,nul,10s,---,C/V\,"MolinetFaictz, Poésies familières no LI, v. 22",,
 1529,231,5,bruit,bruit,LI(2p824)_22,N,N,bruit,10s,---,C/V\,"MolinetFaictz, Poésies familières no LI, v. 22",,
 1530,231,6,je,je,LI(2p824)_22,Prn,Prn$,je,10s,---,C/(e)\,"MolinetFaictz, Poésies familières no LI, v. 22",,
-1531,231,7,n',n',LI(2p824)_22,Neg,Neg,ne,10s,---,C/\,"MolinetFaictz, Poésies familières no LI, v. 22",,
+1531,231,7,n',n',LI(2p824)_22,Neg,Neg$$,ne,10s,---,C/\,"MolinetFaictz, Poésies familières no LI, v. 22",,
 1532,231,8,y,y,LI(2p824)_22,Prn,Prn$$,y2,10s,---,/V\,"MolinetFaictz, Poésies familières no LI, v. 22",,
 1533,231,9,pers,pers,LI(2p824)_22,Vfin,Vfin,perdre,10s,---,C/V\,"MolinetFaictz, Poésies familières no LI, v. 22",,
 1534,231,10,",",",",LI(2p824)_22,Pnc,Pnc,",",10s,---,,"MolinetFaictz, Poésies familières no LI, v. 22",</l>,
@@ -1547,7 +1547,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1546,233,3,semble,semble,LI(2p824)_24,Vfin,Vfin,sembler,10s,---,'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no LI, v. 24",,
 1547,233,4,vif,vif,LI(2p824)_24,Adj,Adj,vif,10s,---,C/V\,"MolinetFaictz, Poésies familières no LI, v. 24",,
 1548,233,5,et,et,LI(2p824)_24,Crd,Crd,et,10s,---,/V\,"MolinetFaictz, Poésies familières no LI, v. 24",,
-1549,233,6,ne,ne,LI(2p824)_24,Neg,Neg,ne,10s,---,C/(e)\,"MolinetFaictz, Poésies familières no LI, v. 24",,
+1549,233,6,ne,ne,LI(2p824)_24,Neg,Neg$$,ne,10s,---,C/(e)\,"MolinetFaictz, Poésies familières no LI, v. 24",,
 1550,233,7,reste,reste,LI(2p824)_24,Vfin,Vfin,rester,10s,---,'C/V\.C/(e)\,"MolinetFaictz, Poésies familières no LI, v. 24",,
 1551,233,8,que,que,LI(2p824)_24,Sub,Sub,que,10s,---,C/(e)\,"MolinetFaictz, Poésies familières no LI, v. 24",,
 1552,233,9,l',l',LI(2p824)_24,Det,Det,le,10s,---,C/\,"MolinetFaictz, Poésies familières no LI, v. 24",,
@@ -1608,7 +1608,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1607,241,2,que,que,LI(2p824)_32,Sub,Sub,que,10s,---,C/(e)\,"MolinetFaictz, Poésies familières no LI, v. 32",,
 1608,241,3,pour,pour,LI(2p824)_32,Pre,Pre,pour,10s,---,C/V\,"MolinetFaictz, Poésies familières no LI, v. 32",,
 1609,241,4,lors,lors,LI(2p824)_32,Adv,Adv,lors,10s,---,C/V\,"MolinetFaictz, Poésies familières no LI, v. 32",,
-1610,241,5,n',n',LI(2p824)_32,Neg,Neg,ne,10s,---,C/\,"MolinetFaictz, Poésies familières no LI, v. 32",,
+1610,241,5,n',n',LI(2p824)_32,Neg,Neg$$,ne,10s,---,C/\,"MolinetFaictz, Poésies familières no LI, v. 32",,
 1611,241,6,estoient,estoient,LI(2p824)_32,Vfin,Vfin,être,10s,---,/V\.'C/V\./e\,"MolinetFaictz, Poésies familières no LI, v. 32",,
 1612,241,7,gueres,gueres,LI(2p824)_32,Adv,Adv,guère,10s,---,'C/V\.C/e\,"MolinetFaictz, Poésies familières no LI, v. 32",,
 1613,241,8,de,de,LI(2p824)_32,Pre,Pre,de,10s,---,C/(e)\,"MolinetFaictz, Poésies familières no LI, v. 32",,
@@ -1930,7 +1930,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 1929,282,1,tant,tant,LXI(2p851)_25,QIs,QIs,tant,10s,---,C/V\,"MolinetFaictz, Poésies familières no LXI, v. 25",,<l n=&quot;25&quot;>
 1930,282,2,qu',qu',LXI(2p851)_25,Sub,Sub,que,10s,---,C/\,"MolinetFaictz, Poésies familières no LXI, v. 25",,
 1931,282,3,il,il,LXI(2p851)_25,Prn,Prn$,il,10s,---,/V\,"MolinetFaictz, Poésies familières no LXI, v. 25",,
-1932,282,4,n',n',LXI(2p851)_25,Neg,Neg,ne,10s,---,C/\,"MolinetFaictz, Poésies familières no LXI, v. 25",,
+1932,282,4,n',n',LXI(2p851)_25,Neg,Neg$$,ne,10s,---,C/\,"MolinetFaictz, Poésies familières no LXI, v. 25",,
 1933,282,5,y,y,LXI(2p851)_25,Prn,Prn$$,y2,10s,---,/V\,"MolinetFaictz, Poésies familières no LXI, v. 25",,
 1934,282,6,a,a,LXI(2p851)_25,Vfin,Vfin,avoir,10s,---,/V\,"MolinetFaictz, Poésies familières no LXI, v. 25",,
 1935,282,7,homme,homme,LXI(2p851)_25,N,N,homme,10s,---,'/V\.C/(e)\,"MolinetFaictz, Poésies familières no LXI, v. 25",,
@@ -2029,7 +2029,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2028,293,9,si,si,LXXIV(2p875)_2,Adv,Adv,si4,10s,---,C/V\,"MolinetFaictz, Poésies familières no LXXIV, v. 2",,
 2029,293,10,vers,vers,LXXIV(2p875)_2,Adj,Adj,vert,10s,---,C/V\,"MolinetFaictz, Poésies familières no LXXIV, v. 2",,
 2030,293,11,",",",",LXXIV(2p875)_2,Pnc,Pnc,",",10s,---,,"MolinetFaictz, Poésies familières no LXXIV, v. 2",</l>,
-2031,294,1,ne,ne,LXXIV(2p875)_3,Neg,Neg,ne,10s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXXIV, v. 3",,<l n=&quot;3&quot;>
+2031,294,1,ne,ne,LXXIV(2p875)_3,Neg,Neg$$,ne,10s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXXIV, v. 3",,<l n=&quot;3&quot;>
 2032,294,2,luy,luy,LXXIV(2p875)_3,Prn,Prn$$,lui,10s,---,C/V\,"MolinetFaictz, Poésies familières no LXXIV, v. 3",,
 2033,294,3,soyez,soyez,LXXIV(2p875)_3,Vfin,Vfin,être,10s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXXIV, v. 3",,
 2034,294,4,ne,ne,LXXIV(2p875)_3,Crd,Crd,ne2,10s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXXIV, v. 3",,
@@ -2091,7 +2091,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2090,301,1,donnés,donnés,LXXIV(2p875)_10,Vpp,Vpp,donner,10s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXXIV, v. 11",,<l n=&quot;11&quot;>
 2091,301,2,dedens,dedens,LXXIV(2p875)_10,PrA,PrA,dedans,10s,---,C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXXIV, v. 11",,
 2092,301,3,et,et,LXXIV(2p875)_10,Crd,Crd,et,10s,---,/V\,"MolinetFaictz, Poésies familières no LXXIV, v. 11",,
-2093,301,4,ne,ne,LXXIV(2p875)_10,Neg,Neg,ne,10s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXXIV, v. 11",,
+2093,301,4,ne,ne,LXXIV(2p875)_10,Neg,Neg$$,ne,10s,---,C/(e)\,"MolinetFaictz, Poésies familières no LXXIV, v. 11",,
 2094,301,5,l',l',LXXIV(2p875)_10,Prn,Prn$$,le,10s,---,C/\,"MolinetFaictz, Poésies familières no LXXIV, v. 11",,
 2095,301,6,espargnez,espargnez,LXXIV(2p875)_10,Vfin,Vfin,épargner,10s,---,/V\.C/V\.'C/V\,"MolinetFaictz, Poésies familières no LXXIV, v. 11",,
 2096,301,7,point,point,LXXIV(2p875)_10,Neg,Neg,point2,10s,---,C/V\,"MolinetFaictz, Poésies familières no LXXIV, v. 11",,
@@ -2264,7 +2264,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2263,331,6,.,.,???(2p528)_30,Pnc,Pnc,.,mix,---,,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 134",</l></lg>,
 2264,332,1,hellas,hellas,???(2p528)_31,Exc,Exc,hélas,mix,---,C/V\.'C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 135",,<lg type=&quot;stanza&quot;><l n=&quot;135&quot;>
 2265,332,2,!,!,???(2p528)_31,Pnc,Pnc,!,mix,---,,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 135",,
-2266,332,3,ne,ne,???(2p528)_31,Neg,Neg,ne,mix,---,C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 135",,
+2266,332,3,ne,ne,???(2p528)_31,Neg,Neg$$,ne,mix,---,C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 135",,
 2267,332,4,sçavois,sçavois,???(2p528)_31,Vfin,Vfin,savoir,mix,---,C/V\.'C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 135",,
 2268,332,5,tu,tu,???(2p528)_31,Prn,Prn%,tu,mix,---,C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 135",,
 2269,332,6,dire,dire,???(2p528)_31,Vinf,Vinf,dire,mix,---,'C/V\.C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 135",</l>,
@@ -2337,7 +2337,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2336,344,3,facteur,facteur,???(2p528)_43,N,N,fauteur,mix,---,C/V\.'C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 147",,
 2337,344,4,tres,tres,???(2p528)_43,Adv,Adv,très,mix,---,C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 147",,
 2338,344,5,parfait,parfait,???(2p528)_43,Vpp,Vpp,parfaire,mix,---,C/V\.'C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 147",</l>,
-2339,345,1,n',n',???(2p528)_44,Neg,Neg,ne,mix,---,C/\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 148",,<l n=&quot;148&quot;>
+2339,345,1,n',n',???(2p528)_44,Neg,Neg$$,ne,mix,---,C/\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 148",,<l n=&quot;148&quot;>
 2340,345,2,est,est,???(2p528)_44,Vfin,Vfin,être,mix,---,/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 148",,
 2341,345,3,refait,refait,???(2p528)_44,Vpp,Vpp,refaire,mix,---,C/V\.'C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 148",,
 2342,345,4,",",",",???(2p528)_44,Pnc,Pnc,",",mix,---,,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 148",</l>,
@@ -2364,7 +2364,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2363,349,3,de,de,???(2p528)_48,Pre,Pre,de,mix,---,C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 152",,
 2364,349,4,joieux,joieux,???(2p528)_48,Adj,Adj,joyeux,mix,---,C/V\.'C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 152",,
 2365,349,5,plait,plait,???(2p528)_48,N,N,plaid,mix,---,C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 152",</l>,
-2366,350,1,ne,ne,???(2p528)_49,Neg,Neg,ne,mix,---,C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 153",,<l n=&quot;153&quot;>
+2366,350,1,ne,ne,???(2p528)_49,Neg,Neg$$,ne,mix,---,C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 153",,<l n=&quot;153&quot;>
 2367,350,2,me,me,???(2p528)_49,Prn,Prn$$,me,mix,---,C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 153",,
 2368,350,3,plait,plait,???(2p528)_49,Vfin,Vfin,plaire,mix,---,C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 153",,
 2369,350,4,",",",",???(2p528)_49,Pnc,Pnc,",",mix,---,,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 153",</l>,
@@ -2452,7 +2452,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2451,366,7,a,a,???(2p528)_65,Pre,Pre,à,mix,---,/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 169",,
 2452,366,8,net,net,???(2p528)_65,Adj,Adj,net,mix,---,C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 169",,
 2453,366,9,",",",",???(2p528)_65,Pnc,Pnc,",",mix,---,,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 169",</l>,
-2454,367,1,ne,ne,???(2p528)_66,Neg,Neg,ne,mix,---,C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 170",,<l n=&quot;170&quot;>
+2454,367,1,ne,ne,???(2p528)_66,Neg,Neg$$,ne,mix,---,C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 170",,<l n=&quot;170&quot;>
 2455,367,2,souffira,souffira,???(2p528)_66,Vfin,Vfin,suffire,mix,---,C/V\.C/V\.'C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 170",,
 2456,367,3,la,la,???(2p528)_66,Det,Det,le,mix,---,C/V\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 170",,
 2457,367,4,facture,facture,???(2p528)_66,N,N,facture,mix,---,C/V\.'C/V\.C/(e)\,"MolinetFaictz, Poésies religeuses et parodies no XXII, v. 170",,
@@ -2513,7 +2513,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2512,377,1,que,que,XVIII(2p725)_6,Sub,Sub,que,mix,---,C/(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 6",,<l n=&quot;6&quot;>
 2513,377,2,le,le,XVIII(2p725)_6,Det,Det,le,mix,---,C/(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 6",,
 2514,377,3,vent,vent,XVIII(2p725)_6,N,N,vent,mix,---,C/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 6",,
-2515,377,4,ne,ne,XVIII(2p725)_6,Neg,Neg,ne,mix,---,C/(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 6",,
+2515,377,4,ne,ne,XVIII(2p725)_6,Neg,Neg$$,ne,mix,---,C/(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 6",,
 2516,377,5,s',s',XVIII(2p725)_6,Prn,Prn$$,se,mix,---,C/\,"MolinetFaictz, Poèmes familières no XVIII, v. 6",,
 2517,377,6,y,y,XVIII(2p725)_6,Prn,Prn$$,y2,mix,---,/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 6",,
 2518,377,7,fiere,fiere,XVIII(2p725)_6,Vfin,Vfin,férir,mix,---,'C/V\.C/(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 6",,
@@ -2549,7 +2549,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2548,382,6,mendians,mendians,XVIII(2p725)_11,Vprs,Vprs,mendier,mix,---,C/V\.C/V\.'C/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 11",,
 2549,382,7,",",",",XVIII(2p725)_11,Pnc,Pnc,",",mix,---,,"MolinetFaictz, Poèmes familières no XVIII, v. 11",</l>,
 2550,383,1,qui,qui,XVIII(2p725)_12,Qux,Qux,qui,mix,---,C/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 12",,<l n=&quot;12&quot;>
-2551,383,2,n',n',XVIII(2p725)_12,Neg,Neg,ne,mix,---,C/\,"MolinetFaictz, Poèmes familières no XVIII, v. 12",,
+2551,383,2,n',n',XVIII(2p725)_12,Neg,Neg$$,ne,mix,---,C/\,"MolinetFaictz, Poèmes familières no XVIII, v. 12",,
 2552,383,3,avons,avons,XVIII(2p725)_12,Vfin,Vfin,avoir,mix,---,/V\.'C/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 12",,
 2553,383,4,locque,locque,XVIII(2p725)_12,N,N,loque,mix,---,'C/V\.C/(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 12",,
 2554,383,5,entiere,entiere,XVIII(2p725)_12,Adj,Adj,entier,mix,---,/V\.'C/V\.C/(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 12",,
@@ -2574,7 +2574,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2573,386,5,belistre,belistre,XVIII(2p725)_15,N,N,bélître,mix,---,C/V\.'C/V\.C/(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 15",,
 2574,386,6,",",",",XVIII(2p725)_15,Pnc,Pnc,",",mix,---,,"MolinetFaictz, Poèmes familières no XVIII, v. 15",</l>,
 2575,387,1,qui,qui,XVIII(2p725)_16,Qux,Qux,qui,mix,---,C/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 16",,<l n=&quot;16&quot;>
-2576,387,2,n',n',XVIII(2p725)_16,Neg,Neg,ne,mix,---,C/\,"MolinetFaictz, Poèmes familières no XVIII, v. 16",,
+2576,387,2,n',n',XVIII(2p725)_16,Neg,Neg$$,ne,mix,---,C/\,"MolinetFaictz, Poèmes familières no XVIII, v. 16",,
 2577,387,3,avons,avons,XVIII(2p725)_16,Vfin,Vfin,avoir,mix,---,/V\.'C/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 16",,
 2578,387,4,braye,braye,XVIII(2p725)_16,N,N,braie,mix,---,'C/V\./(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 16",,
 2579,387,5,en,en,XVIII(2p725)_16,Pre,Pre,en,mix,---,/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 16",,
@@ -2713,7 +2713,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2712,411,1,aussy,aussy,XVIII(2p725)_40,Adv,Adv,aussi,mix,---,/V\.'C/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 40",,<l n=&quot;40&quot;>
 2713,411,2,nos,nos,XVIII(2p725)_40,Det,Det,notre,mix,---,C/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 40",,
 2714,411,3,benedictions,benedictions,XVIII(2p725)_40,N,N,bénédiction,mix,---,C/V\.C/e\.C/V\.C/{V}\.'/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 40",</l>,
-2715,412,1,ne,ne,XVIII(2p725)_41,Neg,Neg,ne,mix,---,C/(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 41",,<l n=&quot;41&quot;>
+2715,412,1,ne,ne,XVIII(2p725)_41,Neg,Neg$$,ne,mix,---,C/(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 41",,<l n=&quot;41&quot;>
 2716,412,2,sont,sont,XVIII(2p725)_41,Vfin,Vfin,être,mix,---,C/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 41",,
 2717,412,3,que,que,XVIII(2p725)_41,Sub,Sub,que,mix,---,C/(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 41",,
 2718,412,4,maledictions,maledictions,XVIII(2p725)_41,N,N,malédiction,mix,---,C/V\.C/e\.C/V\.C/{V}\.'/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 41",</l>,
@@ -2750,7 +2750,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,versetype,subty
 2749,418,6,",",",",XVIII(2p725)_47,Pnc,Pnc,",",mix,---,,"MolinetFaictz, Poèmes familières no XVIII, v. 47",</l>,
 2750,419,1,qui,qui,XVIII(2p725)_48,Qux,Qux,qui,mix,---,C/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 48",,<l n=&quot;48&quot;>
 2751,419,2,jamés,jamés,XVIII(2p725)_48,Adv,Adv,jamais,mix,---,C/V\.'C/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 48",,
-2752,419,3,ne,ne,XVIII(2p725)_48,Neg,Neg,ne,mix,---,C/(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 48",,
+2752,419,3,ne,ne,XVIII(2p725)_48,Neg,Neg$$,ne,mix,---,C/(e)\,"MolinetFaictz, Poèmes familières no XVIII, v. 48",,
 2753,419,4,sont,sont,XVIII(2p725)_48,Vfin,Vfin,être,mix,---,C/V\,"MolinetFaictz, Poèmes familières no XVIII, v. 48",,
 2754,419,5,saines,saines,XVIII(2p725)_48,Adj,Adj,sain,mix,---,'C/V\.C/e\,"MolinetFaictz, Poèmes familières no XVIII, v. 48",,
 2755,419,6,.,.,XVIII(2p725)_48,Pnc,Pnc,.,mix,---,,"MolinetFaictz, Poèmes familières no XVIII, v. 48",</l></lg><gap reason=&quot;sampling&quot; quantity=&quot;60&quot; unit=&quot;line&quot;/></div></body></text>,

@@ -2506,7 +2506,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 2505,384,5,ceste,ceste,384,Dem,Dem,cist,'C/V\.C/(e)\,"GriseldisEst, v. 384"
 2506,384,6,pratique,pratique,384,N,N,pratique,C/V\.'C/V\.C/(e)\,"GriseldisEst, v. 384"
 2507,385,1,de,de,385,Pre,Pre,de,C/(e)\,"GriseldisEst, v. 385"
-2508,385,2,non,non,385,Neg,Neg,ne,C/V\,"GriseldisEst, v. 385"
+2508,385,2,non,non,385,Neg,Neg,non,C/V\,"GriseldisEst, v. 385"
 2509,385,3,marier,marier,385,Vinf,Vinf,marier,C/V\.C/{V}\.'/V\,"GriseldisEst, v. 385"
 2510,385,4,moult,moult,385,QIs,QIs,moult,C/V\,"GriseldisEst, v. 385"
 2511,385,5,appreuvent,appreuvent,385,Vfin,Vfin,approuver,/V\.'C/V\.C/e\,"GriseldisEst, v. 385"

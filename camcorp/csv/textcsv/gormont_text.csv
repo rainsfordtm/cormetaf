@@ -151,7 +151,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 150,25,2,ces,ces,DET:demo:suj:masc:pl,33,Dem,Dem,cist,C/V\,"Gorm, v. 33"
 151,25,3,crestiens,crestiens,NOM:suj:masc:pl,33,Adj,Adj,chrétien,C/V\.C/{V}\.'/V\,"Gorm, v. 33"
 152,25,4,sunt,sunt,VER:pres:3:pl,33,Vfin,Vfin,être,C/V\,"Gorm, v. 33"
-153,25,5,nun,nun,ADV,33,Neg,Neg,ne,C/V\,"Gorm, v. 33"
+153,25,5,nun,nun,ADV,33,Neg,Neg,non,C/V\,"Gorm, v. 33"
 154,25,6,savant,savant,VER:ppre,33,Vprs,Vprs,savoir,C/V\.'C/V\,"Gorm, v. 33"
 155,26,1,qui,qui,PROCON,34,Qux,Qux,qui,C/V\,"Gorm, v. 34"
 156,26,2,de,de,PRE,34,Pre,Pre,de,C/(e)\,"Gorm, v. 34"

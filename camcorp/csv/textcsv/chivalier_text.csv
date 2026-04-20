@@ -1966,7 +1966,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 1965,295,7,folie,folie,295,N,N,folie,C/V\.'C/V\./(e)\,"ChevDame, v. 295"
 1966,295,8,!,!,295,Pnc,Pnc,!,,"ChevDame, v. 295"
 1967,296,1,-,-,296,Pnc,Pnc,-,,"ChevDame, v. 296"
-1968,296,2,nun,nun,296,Neg,Neg$$,ne,C/V\,"ChevDame, v. 296"
+1968,296,2,nun,nun,296,Neg,Neg,non,C/V\,"ChevDame, v. 296"
 1969,296,3,faz,faz,296,Vfin,Vfin,faire,C/V\,"ChevDame, v. 296"
 1970,296,4,",",",",296,Pnc,Pnc,",",,"ChevDame, v. 296"
 1971,296,5,par,par,296,Pre,Pre,par,C/V\,"ChevDame, v. 296"

@@ -1744,7 +1744,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1743,194,6,ne,ne,PROCON,209,Crd,Crd,ne2,C/(e)\,"AlexisAlO, v. 209"
 1744,194,7,mon,mon,DET:poss:obj:masc:sg,209,Det,Det,mon,C/V\,"AlexisAlO, v. 209"
 1745,194,8,commandement,commandement,NOM:obj:masc:sg,209,N,N,commandement,C/V\.C/V\.C/e\.'C/V\,"AlexisAlO, v. 209"
-1746,195,1,non,non,ADV,210,Neg,Neg$$,ne,C/V\,"AlexisAlO, v. 210"
+1746,195,1,non,non,ADV,210,Neg,Neg,non,C/V\,"AlexisAlO, v. 210"
 1747,195,2,est,est,VER:pres:3:sg,210,Vfin,Vfin,être,/V\,"AlexisAlO, v. 210"
 1748,195,3,dignes,dignes,ADJ:suj:masc:sg,210,Adj,Adj,digne,'C/V\.C/e\,"AlexisAlO, v. 210"
 1749,195,4,de,de,PRE,210,Pre,Pre,de,C/(e)\,"AlexisAlO, v. 210"

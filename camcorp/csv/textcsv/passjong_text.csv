@@ -1790,7 +1790,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1789,311,4,li,li,DET:def:suj:masc:pl,311,Det,Det,le,C/V\,"PassJonglG, v. 311"
 1790,311,5,plus,plus,ADV,311,Adv,Adv,plus,C/V\,"PassJonglG, v. 311"
 1791,311,6,haut,haut,ADJ:suj:masc:pl,311,Adj,Adj,haut,C/V\,"PassJonglG, v. 311"
-1792,312,1,non,non,ADV,312,Neg,Neg$$,ne,C/V\,"PassJonglG, v. 312"
+1792,312,1,non,non,ADV,312,Neg,Neg,non,C/V\,"PassJonglG, v. 312"
 1793,312,2,sont,sont,VER:pres:3:pl,312,Vfin,Vfin,être,C/V\,"PassJonglG, v. 312"
 1794,312,3,certes,certes,ADV,312,Adv,Adv,certes,'C/V\.C/e\,"PassJonglG, v. 312"
 1795,312,4,assez,assez,ADV,312,Adv,Adv,assez,/V\.'C/V\,"PassJonglG, v. 312"

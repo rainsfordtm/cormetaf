@@ -2832,7 +2832,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 2831,480,1,il,il,PRO:pers:suj:3:masc:sg:unb,524,Prn,Prn$,il,/V\,"BodelNic, v. 524"
 2832,480,2,ralume,ralume,VER:pres:3:sg,524,Vfin,Vfin,rallumer,C/V\.'C/V\.C/(e)\,"BodelNic, v. 524"
 2833,480,3,les,les,DET:def:obj:masc:pl,524,Det,Det,le,C/V\,"BodelNic, v. 524"
-2834,480,4,non,non,ADV,524,Neg,Neg,ne,C/V\,"BodelNic, v. 524"
+2834,480,4,non,non,ADV,524,Neg,Neg,non,C/V\,"BodelNic, v. 524"
 2835,480,5,voians,voians,VER:ppre:pl,524,Vprs,Vprs,voir,C/V\.'C/V\,"BodelNic, v. 524"
 2836,481,1,il,il,PRO:pers:suj:3:masc:sg:unb,525,Prn,Prn$,il,/V\,"BodelNic, v. 525"
 2837,481,2,resuscite,resuscite,VER:pres:3:sg,525,Vfin,Vfin,ressusciter,C/V\.C/V\.'C/V\.C/(e)\,"BodelNic, v. 525"

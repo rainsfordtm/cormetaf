@@ -2008,7 +2008,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 2007,293,7,de,de,343,Pre,Pre,de,C/(e)\,"ChrPisMut, v. 343"
 2008,293,8,pris,pris,343,N,N,prix,C/V\,"ChrPisMut, v. 343"
 2009,293,9,",",",",343,Pnc,Pnc,",",,"ChrPisMut, v. 343"
-2010,294,1,Non,non,344,Neg,Neg,ne,C/V\,"ChrPisMut, v. 344"
+2010,294,1,Non,non,344,Neg,Neg,non,C/V\,"ChrPisMut, v. 344"
 2011,294,2,obstant,obstant,344,Adv,Adv,obstant,/V\.'C/V\,"ChrPisMut, v. 344"
 2012,294,3,eust,eust,344,Vfin,Vfin,avoir,/(V)\.'/V\,"ChrPisMut, v. 344"
 2013,294,4,il,il,344,Prn,Prn%,il,/V\,"ChrPisMut, v. 344"

@@ -132,7 +132,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,syllabified,lemma,ref
 131,20,7,entendent,entendent,20,Vfin,Vfin,/V\.'C/V\.C/e\,entendre,"Maillart, v. 20"
 132,20,8,;,;,20,Pnc,Pnc,,;,"Maillart, v. 20"
 133,21,1,Et,et,21,Crd,Crd,/V\,et,"Maillart, v. 21"
-134,21,2,non,non,21,Neg,Neg,C/V\,ne,"Maillart, v. 21"
+134,21,2,non,non,21,Neg,Neg,C/V\,non,"Maillart, v. 21"
 135,21,3,pour,pour,21,Pre,Pre,C/V\,pour,"Maillart, v. 21"
 136,21,4,quant,quant,21,Qux,Qux,C/V\,quant,"Maillart, v. 21"
 137,21,5,sont,sont,21,Vfin,Vfin,C/V\,être,"Maillart, v. 21"
