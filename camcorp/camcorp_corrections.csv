@@ -347,7 +347,7 @@ imagemonde,*,*,N,son,,,son3
 *,*,*,Adj,terrienne,,,terrien
 *,*,*,Adj,ton,,,tien
 *,*,*,Adj,ton2,,,tien
-*,*,*,N,ton2,,,tien
+*,*,*,N,ton2,Adj,Adj,tien
 *,*,*,N,traiteur,,,traître
 *,*,*,Adj,traître,N,N,
 *,*,*,N,truande,Adj,Adj,truand
@@ -454,13 +454,13 @@ berte|3jugemens,*,*,V.*,rayer,,,rayer2
 *,*,*,Det,son4,,,son
 *,*,*,Prn.*,en2,,,en
 *,*,*,Prn.*,y2,,,y
-*,*,*,(Prn\$\$|Prn\$|Prn\%),li,,,le
+*,*,*,Prn\$\$|Prn\$|Prn\%,li,,,le
 *,*,*,*,leur2,,,leur
 *,*,*,Det,ton2,,,ton
 *,*,*,Qux,cui,,,qui
 *,*,*,*,nïent,,,néant
 *,*,*,*,tous,,,tout
-*,*,*,Prn%%,*,Prn,Prn$$,
+*,*,*,Prn\%\%,*,Prn,Prn$$,
 *,*,*,*,nului,,,nul
 alexandre,*,*,*,negun,,,nesun
 *,*,*,*,nulom,,,nul.homme
