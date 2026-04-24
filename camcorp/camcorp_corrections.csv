@@ -1,2 +1,3 @@
 text,wd_id,word,syntag2,lemma,syntag_out,syntag2_out,lemma_out
 *,*,*,*,sire,,,seigneur
+*,*,*,Adj,frais,,,frais2
