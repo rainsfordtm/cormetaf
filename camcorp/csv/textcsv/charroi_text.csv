@@ -1515,7 +1515,7 @@ wd_id,line_id,linewd,word,lex_id,pos_nca,textlineid,syntag,syntag2,lemma,syllabi
 1514,201,5,vos,vos,PRO:pers:2:pl,201,Prn,Prn$$,vous,C/V\,"Charroi, v. 201"
 1515,201,6,remenbre,remenbre,VER:pres:3:sg,201,Vfin,Vfin,remembrer,C/V\.'C/V\.C/(e)\,"Charroi, v. 201"
 1516,201,7,il,il,PRO:pers:suj:3:masc:sg:unb,201,Prn,Prn%,il,/V\,"Charroi, v. 201"
-1517,201,8,prou,prou,ADV,201,Neg,Neg,preu,C/V\,"Charroi, v. 201"
+1517,201,8,prou,prou,ADV,201,Adv,Adv,prou,C/V\,"Charroi, v. 201"
 1518,202,1,quant,quant,ADV,202,Sub,Sub,quand,C/V\,"Charroi, v. 202"
 1519,202,2,vos,vos,PRO:pers:2:pl,202,Prn,Prn,vous,C/V\,"Charroi, v. 202"
 1520,202,3,sanz,sanz,PRE,202,Pre,Pre,sans,C/V\,"Charroi, v. 202"
