@@ -84,7 +84,7 @@
         <!-- a class="txm-page" title="1" next-word-id="w_0"/ -->
         <div class="txmeditionpage">
             <h1>
-                <xsl:value-of select="@id"/>
+                <xsl:value-of select="@id-cormetaf"/>
             </h1>
             <br/>
             <table>

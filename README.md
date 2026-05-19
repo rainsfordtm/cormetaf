@@ -72,11 +72,13 @@ envisaged to add this at the present time.
 ### 3.1 Part-of-speech (`pos`)
 
 The part-of-speech tags (`pos`) in the CorMétAF use a bespoke system
-called "syntag". The tagset is given in the appendix. In version 1.0 of
-the corpus this will be replaced by a Cattex-09 part-of-speech tag.
+called `syntag`. The tagset is given in the [appendix](#appendix-1-syntag-tagset).
+In version 1.0 of the corpus this will be replaced by a Cattex-09
+part-of-speech tag.
 
-The `syntag2` tag provides extra information about clitics and
-pronouns by appending the following symbols to the normal syntag:
+The `pos` tag uses a version of `syntag` containing extra information
+about clitics and pronouns by appending the following symbols to the
+normal `syntag`:
 + `$$`: clitic (not subject), definitely unstressed
 	+ attached to a finite verb
 	+ not final in the verb group
@@ -90,6 +92,9 @@ pronouns by appending the following symbols to the normal syntag:
 	infinite, e.g. _lessez **m'**ester_, which could be enclitic on the
 	finite verb or proclitic on the infinitive and whose attachment
 	shifts diachronically.
+
+If this more detailed information isn't required, it's recommended to
+search the `syntag` rather than the `pos` property.
 
 For the texts extracted from the _Nouveau Corpus d'Amsterdam_ (NCA),
 which also has gold part-of-speech annotation, the NCA tag is given
@@ -323,10 +328,17 @@ exported using the syllabic verse analysis (SylVA) tools available on Sourceforg
 [https://sourceforge.net/projects/syllabic-verse-analysis/](https://sourceforge.net/projects/syllabic-verse-analysis/)
 
 The shell script which I use for the compilation is found in the repo
-at [scripts/camcorp_scan.sh](./scripts/camcorp_scan.sh).
+at [scripts/camcorp_scan.sh](./scripts/camcorp_scan.sh). This
+produces XML-TEI output, which is also included in releases of the
+corpus.
 
-The resulting XML files must then be imported into TXM using the 
-`XML TEI-Zero + CSV` importer.
+The resulting XML-TEI files must then be imported into TXM using the 
+`XML TEI-Zero + CSV` importer. The XSLT and CSS files in the
+[cormetaf/cfg/txm-import](./cormetaf/cfg/txm-import) folder 
+must be added to the directory containing the XML files.
+For metadata, the [camcorp/doc/metadata_full.ods](./camcorp/doc/metadata_full.ods)
+spreadsheet has to be converted to a CSV file called `metadata.csv`,
+which is also added to the directory containing the XML files.
 
 ## References
 
