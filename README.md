@@ -203,25 +203,28 @@ In the TXM release of the corpus, the following subcorpora are pre-defined:
 **Table 2**: Predefined subcorpora in the CorMétAF for TXM
 | Subcorpus      | Extracts | Description                            |  
 | ---------      |--------- | -------------------------------------- |                          
-| octosyllabes   |          | octosyllabic verse                     |
-| decasyllabes   |          | decasyllabic verse (all narrative)     |
-| alexandrins    |          | alexandrine verse (all narrative)      |
-| anisosyllabique|          | Anglo-Norman anisosyllabic verse       |
-| lyrique        |          | lyric verse (mixed line lengths)       |
-| récit          |          | narrative verse (all line lengths)     |
-| théâtre        |          | drama (all extracts octosyllabic)      |
-| noyau          |          | narrative octosyllabic verse 1175-1300 |
-| anglo-normand  |          | Anglo-Norman texts                     |
-| continental    |          | continental Old French                 |
-| avant 1175     |          | texts composed before 1175             |
-| 1175-1299      |          | texts composed 1175-1299               |
-| XIVs           |          | texts composed in the 14th century     |
-| XVs            |          | texts composed in the 15th century     |
+| XIIe s.        | 20       | texts composed in the 12th century     |
+| XIIIe s.       | 25       | texts composed in the 13th century     |
+| XIVe s.        | 13       | texts composed in the 14th century     |
+| XVe s.         | 14       | texts composed in the 15th century     |
+| alexandrin     |  7       | alexandrine verse (all narrative)      |
+| anglo-normand  |  8       | Anglo-Norman texts*                    |
+| avant 1100     |  3       | texts composed before 1100             |
+| continental    | 65       | continental Old French*                |
+| decasyllabe    |  9       | decasyllabic verse (all narrative)     |
+| lyrique        | 13       | lyric verse (mixed line lengths)       |
+| noyau          | 23       | narrative octosyllabic verse 1160-1299 |
+| octosyllabe    | 46       | octosyllabic verse                     |
+| récit          | 54       | narrative verse (all line lengths)     |
+| théâtre        | 11       | drama (all extracts octosyllabic)      |
 
 The prototypical text in the corpus is a narrative, octosyllabic verse
-text composed between 1175 and 1300. All such texts are included in
+text composed between 1160 and 1299. All such texts are included in
 the `noyau` subcorpus, and this is the only subcorpus which provides
 balanced coverage of a range of continental scripta. 
+
+*As Norman texts copied in England, _Alexis_ and _Rol_ are not included
+in either the continental or the Anglo-Norman subcorpora.
 
 ## 5. Sources
 
