@@ -42,7 +42,7 @@ to the _Old Gallo-Romance Corpus_ (OGR) (Rainsford 2022, 2025).
 The CorMétAF is a metrically annotated corpus with verified lemmatization
 and part-of-speech annotation.
 
-```{table} Annotation in the CorMétAF
+
 | Type           | Properties                                             | Status (v0.9)  | Planned changes for v1.0  |
 | -------------- | ------------------------------------------------------ | -------------- | ------------------------- |
 | metrical       | `counted_syllables, prosody, metpos, soptem, line_met` | gold           | none                      |
@@ -51,7 +51,7 @@ and part-of-speech annotation.
 | XML markup     | n/a                                                    | n/a            | add major text divisions  |
 | syntactic      | n/a                                                    | n/a            | n/a                       |
 | morphological  | n/a                                                    | n/a            | n/a                       |
-```
+**Table 1**: Annotation in the CorMétAF
 
 The metrical annotation, the lemmas and the part-of-speech tags have been
 manually verified (gold). Text divisions above the level of the line
@@ -126,19 +126,18 @@ give the stress pattern, which is either:
 + `po`: a paroxytone, i.e. stressed on the penultimate syllable
 + `pp`: a proparoxytone, i.e. stressed on the antepenultimate syllable
 
-For example for _parler_ `prosody="2ox"` (a two-syllable oxytone), for 
-_femme_ `prosody="2po"` (a two-syllable paroxytone) and for _le_ `prosody="1cl"`
+For example for _parler_ `[prosody="2ox"]` (a two-syllable oxytone), for 
+_femme_ `[prosody="2po"]` (a two-syllable paroxytone) and for _le_ `[prosody="1cl"]`
 (a monosyllabic clitic).
 
-The tags `metpos` and `soptem` are strings representing the metrical position of all the syllables in the word. The
-principle is similar to [`syll_metpos`](#31-syll_metpos) but applied to the whole word.
+The tags `metpos` and `soptem` are strings representing the metrical position of all the syllables in the word.
 + The metrical position of each syllable is represented by two digits
 	+ `metpos` counts forwards from the start of the line, `soptem` backwards from the end of the line. 
 + Different metrical positions are separated by dots
 + The final character of the string is either `r` (rhyme), `c` (caesura) or `-` (neither)
 
 For example, the word _ancienur_ (_Alexis_, l. 1) occupies the last four metrical positions
-of a decasyllabic line. It therefore has `metpos="07.08.09.10.r"` and `soptem="04.03.02.01.r`.
+of a decasyllabic line. It therefore has `[metpos="07.08.09.10.r"]` and `[soptem="04.03.02.01.r]`.
 
 __Tip__: `soptem` is `metpos` backwards, to help remember which is which!
 
@@ -154,8 +153,8 @@ standard positions, so for a decasyllable the cæsura will be either `4` or `-`.
 
 `line_met` can be queried with a simple regex, e.g.:
 
-+ decasyllable with epic cæsura: `line_met=/10.e./`
-+ octosyllable with feminine rhyme: `line_met=/08f../`
++ decasyllable with epic cæsura: `[line_met="10.e."]`
++ octosyllable with feminine rhyme: `[line_met="08f.."]`
 
 There is also a `line_correct` tag, with values `True` if the line could be scanned and `False` if not.
 
@@ -190,7 +189,7 @@ Rainsford (2026: 154-169).
 
 In the TXM release of the corpus, the following subcorpora are pre-defined:
 
-```{table} Predefined subcorpora in the CorMétAF for TXM
+**Table 2**: Predefined subcorpora in the CorMétAF for TXM
 | Subcorpus      | Extracts | Description                            |  
 | ---------      |--------- | -------------------------------------- |                          
 | octosyllabes   |          | octosyllabic verse                     |
@@ -207,7 +206,6 @@ In the TXM release of the corpus, the following subcorpora are pre-defined:
 | 1175-1299      |          | texts composed 1175-1299               |
 | XIVs           |          | texts composed in the 14th century     |
 | XVs            |          | texts composed in the 15th century     |
-```
 
 The prototypical text in the corpus is a narrative, octosyllabic verse
 text composed between 1175 and 1300. All such texts are included in
@@ -226,7 +224,7 @@ the authors died at least five centuries ago. Critical material from the
 source editions may remain under copyright and is excluded from the
 corpus.
 
-```{table} Texts from the NCA
+**Table 3**: Texts from the NCA
 | CorMétAF      | NCA         |
 | ---------     | ----------- |
 | Adam          | myst        |
@@ -247,7 +245,6 @@ corpus.
 | Rou           | rou2        |
 | RutebTheoph   | the         |
 | YsLyon        | yzop        |
-```
 
 Texts from the NCA generally reproduce the source edition without
 punctuation and capitalization, and in some cases with manuscript
@@ -276,7 +273,7 @@ that these kinds of tags were simpler to check for consistency.
 Some forms have a joint tag, for example `Pre+Det` for preposition plus
 determiner portemanteau forms.
 
-```{table} Lexical classes
+**Table A1**: Lexical classes
 | __Tag__ | __Description__                                            |
 | ------- | ---------------------------------------------------------- |
 | `Adj`  | adjective in the broadest sense of "noun modifier"          |
@@ -292,9 +289,8 @@ determiner portemanteau forms.
 | `Vinf` | infinitive                                                  |
 | `Vpp`  | past participle                                             |
 | `Vprs` | present participle                                          |
-```
 
-```{table} Functional classes
+**Table A2**: Functional classes
 | __Tag__ | __Description__                        | __Lemmas__        |
 | ------- | -------------------------------------- | ----------------- |
 | `Crd`   | coordinating conjunction               | _ains, car, et, mais, ne2, ou, que_ |
@@ -306,7 +302,6 @@ determiner portemanteau forms.
 | `Prn`   | pronoun (never modifier)               | _ce, ceci, cela, el, elle, en2, eux, il, je, le, leur, li, lui, me, moi, néant(?), nous, o4, on, se, soi, te, toi, tu, vous, y2_ |
 | `Qux`   | _wh-_ (_qu-_) words                    | _combien, comment, cui, dont, lequel, où, parquoi, pourquoi, quand, quanque, quant, que, quel, quelconque, qui, quiconque, quique, quoi, quoique_ |
 | `Sub`   | subordinating conjunction              | _comme, jusque, quand, que, si3_ |
-```
 
 ## Appendix 2: Slow start guide
 
