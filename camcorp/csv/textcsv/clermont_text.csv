@@ -765,7 +765,7 @@ wd_id,line_id,linewd,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified,ref
 764,118,3,vil',vil',118,N,N,ville,C/V\,"Passion, v. 118"
 765,118,4,es,es,118,Vfin,Vfin,être,/V\,"Passion, v. 118"
 766,118,5,-,-,118,Pnc,Pnc,-,,"Passion, v. 118"
-767,118,6,n',n',118,Neg,Neg$$,en2,C/\,"Passion, v. 118"
+767,118,6,n',n',118,Prn,Prn$$,en,C/\,"Passion, v. 118"
 768,118,7,anez,anez,118,Vfin,Vfin,aner,/V\.'C/V\,"Passion, v. 118"
 769,118,8,.,.,118,Pnc,Pnc,.,,"Passion, v. 118"
 770,119,1,toz,toz,119,QIs,QIs,tout,C/V\,"Passion, v. 119"

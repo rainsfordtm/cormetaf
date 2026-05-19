@@ -2829,7 +2829,7 @@ wd_id,line_id,linewd,word,lemma,lex_id,textlineid,syntag,syntag2,syllabified,ref
 2828,413,8,.,.,.,413,Pnc,Pnc,,"Brendan, v. 413"
 2829,414,1,Ne,ne,ne,414,Neg,Neg$$,C/(e)\,"Brendan, v. 414"
 2830,414,2,sai,savoir,sai,414,Vfin,Vfin,C/V\,"Brendan, v. 414"
-2831,414,3,s',se,s',414,Sub,Sub,C/\,"Brendan, v. 414"
+2831,414,3,s',si,s',414,Sub,Sub,C/\,"Brendan, v. 414"
 2832,414,4,osat,oser,osat,414,Vfin,Vfin,/V\.'C/V\,"Brendan, v. 414"
 2833,414,5,",",",",",",414,Pnc,Pnc,,"Brendan, v. 414"
 2834,414,6,mais,mais,mais,414,Crd,Crd,C/V\,"Brendan, v. 414"

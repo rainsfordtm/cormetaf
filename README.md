@@ -28,14 +28,21 @@ French verse texts with manually verified metrical annotation. It
 was initially developed in the course of my doctoral research
 (Rainsford 2011: ch. 2) and has now been published to accompany the
 publication of my monograph (Rainsford 2026). It is a forerunner
-to the _Old Gallo-Romance Corpus_ (OGR) (Rainsford 2022, 2025).
+to the [_Old Gallo-Romance Corpus_](http://ogr-corpus.org) (OGR)
+(Rainsford 2022, 2025). Releases of the corpus are designed to be used
+with the [TXM](https://txm.gitpages.huma-num.fr/textometrie/en/) software
+(Heiden 2010).
 
 ## 2. Quick start guide
 
-1. Download and install the [TXM](https://txm.gitpages.huma-num.fr/textometrie/en/) software
-1. Download the `.txm` file included in the latest [release](https://github.com/rainsfordtm/cormetaf/releases) of the CorMétAF
-1. Open TXM
+1. Download and install the [TXM](https://txm.gitpages.huma-num.fr/textometrie/en/) software.
+1. Download the `.txm` file included in the latest [release](https://github.com/rainsfordtm/cormetaf/releases) of the CorMétAF.
+1. Open TXM.
 1. Click `File > Load > a binary corpus (.txm)` and load the CORMETAF.
+
+**Tip:** Check out the metrically aligned editions!
+Open the edition (`CORMETAF090 (right-click) > Edition`),
+click `default` (bottom left) and change to `metrical`.
 
 ## 3. Annotation
 
@@ -283,7 +290,7 @@ determiner portemanteau forms.
 | `N`    | noun                                                        |
 | `Pnc`  | punctuation                                                 |
 | `PrA`  | "preposition--adverbs", can occur without a nominal         |
-| `QIs`  | quantifiers and indefinites, both modifiers and pronouns    |
+| `QIs`  | quantifiers and indefinites, modifiers and pronouns         |
 | `Vfin` | finite verb                                                 |
 | `Vinf` | infinitive                                                  |
 | `Vpp`  | past participle                                             |
@@ -292,15 +299,15 @@ determiner portemanteau forms.
 **Table A2**: Functional classes
 | __Tag__ | __Description__                        | __Lemmas__        |
 | ------- | -------------------------------------- | ----------------- |
-| `Crd`   | coordinating conjunction               | _ains, car, et, mais, ne2, ou, que_ |
-| `Dem`   | demonstrative modifiers/pronouns       | _cil, cist, ledit_ |
-| `Det`   | determiner (definite or possessive)    | _le, mon, ton2, son4, notre, votre, leur2_ |
-| `Neg`   | negative marker                        | _ne, non; pas, point, mie3_ |
-| `NVP`   | non-verbal predicate                   | _oui, non, nenni; es2; voici, voilà_ |
-| `Pre`   | preposition (always with complement)   | _à, chez, de, dès, en, être4, lez, o, par, pour, (sans), sauf, vers2_ |
-| `Prn`   | pronoun (never modifier)               | _ce, ceci, cela, el, elle, en2, eux, il, je, le, leur, li, lui, me, moi, néant(?), nous, o4, on, se, soi, te, toi, tu, vous, y2_ |
-| `Qux`   | _wh-_ (_qu-_) words                    | _combien, comment, cui, dont, lequel, où, parquoi, pourquoi, quand, quanque, quant, que, quel, quelconque, qui, quiconque, quique, quoi, quoique_ |
-| `Sub`   | subordinating conjunction              | _comme, jusque, quand, que, si3_ |
+| `Crd`   | coordinating conjunction               | _ains, car, et, mais, ne, ou, que_ |
+| `Dem`   | demonstrative modifiers/pronouns       | _ce, cil, cist, ledit_ |
+| `Det`   | determiner (definite or possessive)    | _le, mon, ton, son, notre, votre, leur_ |
+| `Neg`   | negative marker                        | _ne, non; pas, point, preu, mie_ |
+| `NVP`   | non-verbal predicate                   | _oui, non, nenni; es; voici, voilà_ |
+| `Pre`   | preposition (always with complement)   | _à, chez, de, dès, en, être, lez, o, par, pour, sans, sauf, vers_ |
+| `Prn`   | pronoun (never modifier)               | _ce, ceci, cela, el, elle, en, eux, il, je, le, leur, li, lui, me, moi, néant, nous, o4, on, se, soi, te, toi, tu, vous, y_ |
+| `Qux`   | _wh-_ (_qu-_) words                    | _combien, comment, dont, lequel, où, parquoi, pourquoi, quand, quanque, quant, que, quel, quelconque, qui, quiconque, quique, quoi, quoique_ |
+| `Sub`   | subordinating conjunction              | _comme, desque, lorsque, puisque, quand, que, si, tresque, usque_ |
 
 ## Appendix 2: Slow start guide
 
@@ -315,9 +322,27 @@ Before the corpus can be used, the source files must be processed and
 exported using the syllabic verse analysis (SylVA) tools available on Sourceforge:  
 [https://sourceforge.net/projects/syllabic-verse-analysis/](https://sourceforge.net/projects/syllabic-verse-analysis/)
 
+The shell script which I use for the compilation is found in the repo
+at [scripts/camcorp_scan.sh](./scripts/camcorp_scan.sh).
+
 The resulting XML files must then be imported into TXM using the 
-TODO importer.
+`XML TEI-Zero + CSV` importer.
 
 ## References
 
-TODO
++ Heiden, Serge. 2010. 'The TXM Platform: Building open-source textual
+analysis software compatible with the TEI encoding scheme'.
+_24th Pacific Asia Conference on Language, Information and Computation (Sendai, Japan)_,
+2010, 389-98. [http://halshs.archives-ouvertes.fr/docs/00/54/97/64/PDF/paclic24_sheiden.pdf](http://halshs.archives-ouvertes.fr/docs/00/54/97/64/PDF/paclic24_sheiden.pdf).
++ Rainsford, Thomas. 2011. 'The Emergence of Group Stress in Medieval
+French'. PhD Thesis, University of Cambridge. [https://doi.org/10.17863/CAM.16503](https://doi.org/10.17863/CAM.16503).
++ Rainsford, Thomas. 2022. '_Old Gallo-Romance (OGR) Corpus_ : annotation
+phonologique et métrique des plus anciens textes gallo-romans'. _SHS Web of Conferences_
+138 (2022): 02007. [https://doi.org/10.1051/shsconf/202213802007](https://doi.org/10.1051/shsconf/202213802007).
++ Rainsford, Thomas. 2025. _Old Gallo-Romance Corpus_, version 1.0.
+Stuttgart: Institut für Linguistik/Romanistik. [https://www.ogr-corpus.org](https://www.ogr-corpus.org).
++ Rainsford, Thomas. 2026. _La Disparition de l'accent de mot : Étude de la prosodie du français en diachronie_.
+Paris: Garnier.
++ Stein, Achim, Pierre Kunstmann, and Martin-Dietrich Gleßgen, eds. 2006.
+_Nouveau Corpus d'Amsterdam. Corpus informatique de textes littéraires d'ancien français (ca 1150-1350), établi par Anthonij Dees (Amsterdam 1987)_.
+Stuttgart: Institut für Linguistik/Romanistik.

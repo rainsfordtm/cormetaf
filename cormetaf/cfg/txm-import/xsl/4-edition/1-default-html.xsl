@@ -42,8 +42,8 @@
             <head>
                 <title>
                     <xsl:choose>
-                        <xsl:when test="//tei:text/@id">
-                            <xsl:value-of select="//tei:text[1]/@id"/>
+                        <xsl:when test="//tei:text/@id-cormetaf">
+                            <xsl:value-of select="//tei:text[1]/@id-cormetaf"/>
                         </xsl:when>
                         <xsl:otherwise>
                             <xsl:value-of select="$current-file-name"/>

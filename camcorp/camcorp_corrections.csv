@@ -1,3 +1,13 @@
 text,wd_id,word,syntag2,lemma,syntag_out,syntag2_out,lemma_out
 *,*,*,*,sire,,,seigneur
 *,*,*,Adj,frais,,,frais2
+*,*,*,Crd,ne2,,,ne
+*,*,*,Sub,si3,,,si
+*,*,*,Sub,ainsque,,,ains.que
+*,*,*,Sub,sicomme,,,si.comme
+*,*,*,Sub,tantque,,,tant.que
+*,*,*,Sub,dèsque,,,desque
+*,*,*,Sub,si4.que,,,si.que
+*,*,*,Neg,nompas,,,non.pas
+*,*,*,*,ançois.que,,,ainçois.que
+*,*,[Dd]e.*,PrA,jusque,,,desque
