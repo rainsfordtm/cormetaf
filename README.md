@@ -42,7 +42,7 @@ to the _Old Gallo-Romance Corpus_ (OGR) (Rainsford 2022, 2025).
 The CorMétAF is a metrically annotated corpus with verified lemmatization
 and part-of-speech annotation.
 
-
+**Table 1**: Annotation in the CorMétAF
 | Type           | Properties                                             | Status (v0.9)  | Planned changes for v1.0  |
 | -------------- | ------------------------------------------------------ | -------------- | ------------------------- |
 | metrical       | `counted_syllables, prosody, metpos, soptem, line_met` | gold           | none                      |
@@ -51,7 +51,6 @@ and part-of-speech annotation.
 | XML markup     | n/a                                                    | n/a            | add major text divisions  |
 | syntactic      | n/a                                                    | n/a            | n/a                       |
 | morphological  | n/a                                                    | n/a            | n/a                       |
-**Table 1**: Annotation in the CorMétAF
 
 The metrical annotation, the lemmas and the part-of-speech tags have been
 manually verified (gold). Text divisions above the level of the line
