@@ -303,7 +303,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 302,message,message,NOM:suj:masc:pl,17,N,N,message,C/V\.'C/V\.C/(e)\
 303,respondirent,respondirent,VER:simp:3:pl,17,Vfin,Vfin,répondre,C/V\.C/V\.'C/V\.C/e\
 304,"""","""",PON:cit,17,Pnc,Pnc,"""",
-305,sire,sire,NOM:suj:masc:sg,17,N,N,sire,'C/V\.C/(e)\
+305,sire,sire,NOM:suj:masc:sg,17,N,N,seigneur,'C/V\.C/(e)\
 306,nos,nos,PRO:pers:1:pl,17,Prn,Prn$,nous,C/V\
 307,volons,volons,VER:pres:1:pl,17,Vfin,Vfin,vouloir,C/V\.'C/V\
 308,que,que,PROCON,17,Sub,Sub,que,C/(e)\
@@ -325,7 +325,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 324,vos,vos,PRO:pers:2:pl,17,Prn,Prn$$,vous,C/V\
 325,mandent,mandent,VER:pres:3:pl,17,Vfin,Vfin,mander,'C/V\.C/e\
 326,demain,demain,ADV,17,Adv,Adv,demain,C/V\.'C/V\
-327,se,se,PROCON,17,Sub,Sub,si3,C/(e)\
+327,se,se,PROCON,17,Sub,Sub,si,C/(e)\
 328,il,il,PRO:pers:suj:3:masc:sg:unb,17,Prn,Prn$,il,/V\
 329,vos,vos,PRO:pers:2:pl,17,Prn,Prn$$,vous,C/V\
 330,plaist,plaist,VER:pres:3:sg,17,Vfin,Vfin,plaire,C/V\
@@ -394,7 +394,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 393,tel,tel,ADJ:obj:femi:sg,18,Adj,Adj,tel,C/V\
 394,maniere,maniere,NOM:obj:femi:sg,18,N,N,manière,C/V\.'C/V\.C/(e)\
 395,"""","""",PON:cit,18,Pnc,Pnc,"""",
-396,sire,sire,NOM:suj:masc:sg,18,N,N,sire,'C/V\.C/(e)\
+396,sire,sire,NOM:suj:masc:sg,18,N,N,seigneur,'C/V\.C/(e)\
 397,nos,nos,PRO:pers:1:pl,18,Prn,Prn$,nous,C/V\
 398,somes,somes,VER:pres:1:pl,18,Vfin,Vfin,être,'C/V\.C/e\
 399,a,a,PRE,18,Pre,Pre,à,/V\
@@ -425,7 +425,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 424,por,por,PRE,18,Pre,Pre,pour,C/V\
 425,jerusalem,jerusalem,NPR:obj:masc:sg,18,N,N,Jérusalem,C/V\.C/V\.C/V\.'C/V\
 426,conquerre,conquerre,VER:infi,18,Vinf,Vinf,conquérir,C/V\.'C/V\.C/(e)\
-427,se,se,PROCON,18,Sub,Sub,si3,C/(e)\
+427,se,se,PROCON,18,Sub,Sub,si,C/(e)\
 428,diex,diex,NOM:suj:masc:sg,18,N,N,dieu,C/V\
 429,le,le,PRO:pers:obj:3:masc:sg:unb,18,Prn,Prn$$,le,C/(e)\
 430,vuelt,vuelt,VER:pres:3:sg,18,Vfin,Vfin,vouloir,C/V\
@@ -500,12 +500,12 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 499,lor,lor,PRO:pers:dat:3:pl,19,Prn,Prn$$,leur,C/V\
 500,savrez,savrez,VER:futu:2:pl,19,Vfin,Vfin,savoir,C/V\.'C/V\
 501,loer,loer,VER:infi,19,Vinf,Vinf,louer,C/V\.'C/V\
-502,ne,ne,PROCON,19,Crd,Crd,ne2,C/(e)\
+502,ne,ne,PROCON,19,Crd,Crd,ne,C/(e)\
 503,conseilier,conseilier,VER:infi,19,Vinf,Vinf,conseiller,C/V\.C/V\.'C/V\
 504,que,que,PROCON,19,Qux,Qux,que,C/(e)\
 505,il,il,PRO:pers:suj:3:masc:pl,19,Prn,Prn,il,/V\
 506,faire,faire,VER:infi,19,Vinf,Vinf,faire,'C/V\.C/(e)\
-507,ne,ne,PROCON,19,Crd,Crd,ne2,C/(e)\
+507,ne,ne,PROCON,19,Crd,Crd,ne,C/(e)\
 508,soffrir,soffrir,VER:infi,19,Vinf,Vinf,souffrir,C/V\.'C/V\
 509,puissent,puissent,VER:subp:3:pl,19,Vfin,Vfin,pouvoir,'C/V\.C/e\
 510,certes,certes,ADV,19,Adv,Adv,certes,'C/V\.C/e\
@@ -543,7 +543,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 542,vos,vos,PRO:pers:2:pl,19,Prn,Prn$$,vous,C/V\
 543,merveilliés,merveilliés,VER:impe:2:pl,19,Vfin,Vfin,merveiller,C/V\.C/V\.'C/V\
 544,mie,mie,ADV,19,Neg,Neg,mie,'C/V\./(e)\
-545,se,se,PROCON,19,Sub,Sub,si3,C/(e)\
+545,se,se,PROCON,19,Sub,Sub,si,C/(e)\
 546,li,li,DET:def:suj:masc:sg,19,Det,Det,le,C/V\
 547,termes,termes,NOM:suj:masc:sg,19,N,N,terme,'C/V\.C/e\
 548,est,est,VER:pres:3:sg,19,Vfin,Vfin,être,/V\
@@ -608,7 +608,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 607,pris,pris,VER:pper:masc:sg,20,Vpp,Vpp,prendre,C/V\
 608,a,a,PRE,20,Pre,Pre,à,/V\
 609,conseil,conseil,NOM:obj:masc:sg,20,N,N,conseil,C/V\.'C/V\
-610,se,se,PROCON,20,Sub,Sub,si3,C/(e)\
+610,se,se,PROCON,20,Sub,Sub,si,C/(e)\
 611,nos,nos,PRO:pers:1:pl,20,Prn,Prn$,nous,C/V\
 612,i,i,PRO:clit,20,Prn,Prn$$,y,/V\
 613,poons,poons,VER:pres:1:pl,20,Vfin,Vfin,pouvoir,C/V\.'C/V\
@@ -630,12 +630,12 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 629,vos,vos,PRO:pers:2:pl,20,Prn,Prn$,vous,C/V\
 630,vos,vos,PRO:pers:2:pl,20,Prn,Prn$$,vous,C/V\
 631,conseilleroiz,conseilleroiz,VER:futu:2:pl,20,Vfin,Vfin,conseiller,C/V\.C/V\.C/e\.'C/V\
-632,se,se,PROCON,20,Sub,Sub,si3,C/(e)\
+632,se,se,PROCON,20,Sub,Sub,si,C/(e)\
 633,vos,vos,PRO:pers:2:pl,20,Prn,Prn$,vous,C/V\
 634,le,le,PRO:pers:obj:3:masc:sg:unb,20,Prn,Prn$$,le,C/(e)\
 635,porroiz,porroiz,VER:futu:2:pl,20,Vfin,Vfin,pouvoir,C/V\.'C/V\
 636,faire,faire,VER:infi,20,Vinf,Vinf,faire,'C/V\.C/(e)\
-637,ne,ne,PROCON,20,Crd,Crd,ne2,C/(e)\
+637,ne,ne,PROCON,20,Crd,Crd,ne,C/(e)\
 638,soffrir,soffrir,VER:infi,20,Vinf,Vinf,souffrir,C/V\.'C/V\
 639,nos,nos,PRO:pers:1:pl,21,Prn,Prn$,nous,C/V\
 640,ferons,ferons,VER:futu:1:pl,21,Vfin,Vfin,faire,C/V\.'C/V\
@@ -807,12 +807,12 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 806,si,si,PROCON,23,Adv,Adv,si,C/V\
 807,vos,vos,PRO:pers:2:pl,23,Prn,Prn$,vous,C/V\
 808,conseilliez,conseilliez,VER:impe:2:pl,23,Vfin,Vfin,conseiller,C/V\.C/V\.'C/V\
-809,se,se,PROCON,23,Sub,Sub,si3,C/(e)\
+809,se,se,PROCON,23,Sub,Sub,si,C/(e)\
 810,vos,vos,PRO:pers:2:pl,23,Prn,Prn$,vous,C/V\
 811,le,le,PRO:pers:obj:3:masc:sg:unb,23,Prn,Prn$$,le,C/(e)\
 812,porroiz,porroiz,VER:futu:2:pl,23,Vfin,Vfin,pouvoir,C/V\.'C/V\
 813,faire,faire,VER:infi,23,Vinf,Vinf,faire,'C/V\.C/(e)\
-814,ne,ne,PROCON,23,Crd,Crd,ne2,C/(e)\
+814,ne,ne,PROCON,23,Crd,Crd,ne,C/(e)\
 815,soffrir,soffrir,VER:infi,23,Vinf,Vinf,souffrir,C/V\.'C/V\
 816,"""","""",PON:cit,23,Pnc,Pnc,"""",
 817,li,li,DET:def:suj:masc:pl,24,Det,Det,le,C/V\
@@ -854,7 +854,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 853,et,et,CON:coord,24,Crd,Crd,et,/V\
 854,distrent,distrent,VER:simp:3:pl,24,Vfin,Vfin,dire,'C/V\.C/e\
 855,"""","""",PON:cit,24,Pnc,Pnc,"""",
-856,sire,sire,NOM:suj:masc:sg,24,N,N,sire,'C/V\.C/(e)\
+856,sire,sire,NOM:suj:masc:sg,24,N,N,seigneur,'C/V\.C/(e)\
 857,nos,nos,PRO:pers:1:pl,24,Prn,Prn$,nous,C/V\
 858,somes,somes,VER:pres:1:pl,24,Vfin,Vfin,être,'C/V\.C/e\
 859,prest,prest,ADJ:suj:masc:pl,24,Adj,Adj,prêt,C/V\
@@ -1750,7 +1750,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 1749,con,con,CON:subord,34,Sub,Sub,comme,C/V\
 1750,dieu,dieu,NOM:obj:masc:sg,34,N,N,dieu,C/V\
 1751,plaist,plaist,VER:pres:3:sg,34,Vfin,Vfin,plaire,C/V\
-1752,ne,ne,PRO:clit,34,Crd,Crd,ne2,C/(e)\
+1752,ne,ne,PRO:clit,34,Crd,Crd,ne,C/(e)\
 1753,n,n,PRO:clit,34,Neg,Neg$$,ne,C/\
 1754,orent,orent,VER:simp:3:pl,34,Vfin,Vfin,avoir,'/V\.C/e\
 1755,nul,nul,DET:ind:obj:masc:sg,34,QIs,QIs,nul,C/V\
@@ -2123,7 +2123,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 2122,li,li,PRO:pers:suj:3:masc:sg:bet,38,Prn,Prn$$,le,C/V\
 2123,distrent,distrent,VER:simp:3:pl,38,Vfin,Vfin,dire,'C/V\.C/e\
 2124,"""","""",PON:cit,38,Pnc,Pnc,"""",
-2125,sire,sire,NOM:suj:masc:sg,38,N,N,sire,'C/V\.C/(e)\
+2125,sire,sire,NOM:suj:masc:sg,38,N,N,seigneur,'C/V\.C/(e)\
 2126,tu,tu,PRO:pers:suj:2:sg:unb,38,Prn,Prn$,tu,C/V\
 2127,voiz,voiz,VER:pres:2:sg,38,Vfin,Vfin,voir,C/V\
 2128,le,le,DET:def:obj:masc:sg,38,Det,Det,le,C/(e)\
@@ -2342,7 +2342,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 2341,loeroie,loeroie,VER:cond:1:sg,41,Vfin,Vfin,louer2,C/V\.C/e\.'C/V\./(e)\
 2342,une,une,DET:ndf:obj:femi:sg,41,QIs,QIs,un,'/V\.C/(e)\
 2343,chose,chose,NOM:obj:femi:sg,41,N,N,chose,'C/V\.C/(e)\
-2344,se,se,PROCON,41,Sub,Sub,si3,C/(e)\
+2344,se,se,PROCON,41,Sub,Sub,si,C/(e)\
 2345,vos,vos,PRO:pers:2:pl,41,Prn,Prn$$,vous,C/V\
 2346,i,i,PRO:clit,41,Prn,Prn$$,y,/V\
 2347,acordez,acordez,VER:pres:2:pl,41,Vfin,Vfin,accorder,/V\.C/V\.'C/V\
@@ -2364,7 +2364,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 2363,cest,cest,DET:demo:obj:masc:sg,41,Dem,Dem,cist,C/V\
 2364,jor,jor,NOM:obj:masc:sg,41,N,N,jour,C/V\
 2365,vive,vive,VER:subp:3:sg,41,Vfin,Vfin,vivre,'C/V\.C/(e)\
-2366,se,se,PROCON,41,Sub,Sub,si3,C/(e)\
+2366,se,se,PROCON,41,Sub,Sub,si,C/(e)\
 2367,vos,vos,PRO:pers:2:pl,41,Prn,Prn$,vous,C/V\
 2368,le,le,PRO:pers:obj:3:masc:sg:unb,41,Prn,Prn$$,le,C/(e)\
 2369,mandiez,mandiez,VER:impf:2:pl,41,Vfin,Vfin,mander,C/V\.'C/V\
@@ -2608,7 +2608,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 2607,soisons,soisons,NPR:obj:masc:sg,44,N,N,Soissons,C/V\.'C/V\
 2608,et,et,CON:coord,44,Crd,Crd,et,/V\
 2609,mis,mis,DET:poss:suj:masc:sg,44,Det,Det,mon,C/V\
-2610,sire,sire,NOM:suj:masc:sg,44,N,N,sire,'C/V\.C/(e)\
+2610,sire,sire,NOM:suj:masc:sg,44,N,N,seigneur,'C/V\.C/(e)\
 2611,folques,folques,NPR:suj:masc:sg,44,N,N,Foulques,'C/V\.C/e\
 2612,li,li,DET:def:suj:masc:sg,44,Det,Det,le,C/V\
 2613,bons,bons,ADJ:suj:masc:sg,44,Adj,Adj,bon,C/V\
@@ -2707,7 +2707,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 2706,genz,genz,NOM:obj:femi:pl,45,N,N,gent,C/V\
 2707,et,et,CON:coord,45,Crd,Crd,et,/V\
 2708,mis,mis,DET:poss:suj:masc:sg,45,Det,Det,mon,C/V\
-2709,sire,sire,NOM:suj:masc:sg,45,N,N,sire,'C/V\.C/(e)\
+2709,sire,sire,NOM:suj:masc:sg,45,N,N,seigneur,'C/V\.C/(e)\
 2710,folques,folques,NPR:suj:masc:sg,45,N,N,Foulques,'C/V\.C/e\
 2711,i,i,PRO:clit,45,Prn,Prn$$,y,/V\
 2712,ala,ala,VER:simp:3:sg,45,Vfin,Vfin,aller,/V\.'C/V\
@@ -2865,7 +2865,7 @@ wd_id,word,lex_id,pos_nca,para_id,syntag,syntag2,lemma,syllabified
 2864,bien,bien,ADV,46,Adv,Adv,bien,C/V\
 2865,li,li,DET:def:suj:masc:pl,46,Det,Det,le,C/V\
 2866,pelerin,pelerin,NOM:suj:masc:pl,46,N,N,pèlerin,C/V\.C/e\.'C/V\
-2867,se,se,PROCON,46,Sub,Sub,si3,C/(e)\
+2867,se,se,PROCON,46,Sub,Sub,si,C/(e)\
 2868,diex,diex,NOM:suj:masc:sg,46,N,N,dieu,C/V\
 2869,volsist,volsist,VER:subi:3:sg,46,Vfin,Vfin,vouloir,C/V\.'C/V\
 2870,ensi,ensi,ADV,46,Adv,Adv,ainsi,/V\.'C/V\

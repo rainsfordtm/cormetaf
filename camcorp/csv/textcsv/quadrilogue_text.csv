@@ -511,7 +511,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 510,je,je,633,Prn,Prn%,je,C/(e)\
 511,pas,pas,633,Neg,Neg,pas,C/V\
 512,passer,passer,633,Vinf,Vinf,passer,C/V\.'C/V\
-513,ne,ne,633,Crd,Crd,ne2,C/(e)\
+513,ne,ne,633,Crd,Crd,ne,C/(e)\
 514,taire,taire,633,Vinf,Vinf,taire,'C/V\.C/(e)\
 515,",",",",633,Pnc,Pnc,,
 516,et,et,701,Crd,Crd,et,/V\
@@ -716,7 +716,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 715,le,le,719,Det,Det,le,C/(e)\
 716,pareil,pareil,719,Adj,Adj,pareil,C/V\.'C/V\
 717,",",",",719,Pnc,Pnc,,
-718,se,se,719,Sub,Sub,si3,C/(e)\
+718,se,se,719,Sub,Sub,si,C/(e)\
 719,Fortune,fortune,719,N,N,,C/V\.'C/V\.C/(e)\
 720,",",",",719,Pnc,Pnc,,
 721,envieuse,envieuse,720,Adj,Adj,,/V\.C/V\.'C/V\.C/(e)\
@@ -808,7 +808,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 807,Ne,ne,728,Neg,Neg$$,ne,C/(e)\
 808,demande,demande,728,Vfin,Vfin,demander,C/V\.'C/V\.C/(e)\
 809,nul,nul,728,QIs,QIs,nul,C/V\
-810,se,se,728,Sub,Sub,si3,C/(e)\
+810,se,se,728,Sub,Sub,si,C/(e)\
 811,la,la,728,Det,Det,le,C/V\
 812,partie,partie,728,N,N,,C/V\.'C/V\./(e)\
 813,moyenne,moyenne,728,Adj,Adj,,C/V\.'C/V\.C/(e)\
@@ -816,7 +816,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 815,neantmoins,neantmoins,728,Adv,Adv,néanmoins,C/(V)\./V\.'C/V\
 816,demouree,demouree,729,Vpp,Vpp,demeurer,C/V\.C/V\.'C/V\./(e)\
 817,entiere,entiere,729,Adj,Adj,,/V\.'C/V\.C/(e)\
-818,ne,ne,729,Crd,Crd,ne2,C/(e)\
+818,ne,ne,729,Crd,Crd,ne,C/(e)\
 819,conjointe,conjointe,729,Vpp,Vpp,conjoindre,C/V\.'C/V\.C/(e)\
 820,",",",",729,Pnc,Pnc,,
 821,et,et,729,Crd,Crd,et,/V\
@@ -849,7 +849,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 848,sentence,sentence,732,N,N,,C/V\.'C/V\.C/(e)\
 849,.,.,732,Pnc,Pnc,,
 850,Mais,mais,732,Crd,Crd,mais,C/V\
-851,se,se,732,Sub,Sub,si3,C/(e)\
+851,se,se,732,Sub,Sub,si,C/(e)\
 852,nous,nous,732,Prn,Prn$,nous,C/V\
 853,venons,venons,732,Vfin,Vfin,venir,C/V\.'C/V\
 854,a,a,732,Pre,Pre,à,/V\
@@ -923,7 +923,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 922,peust,peust,805,Vfin,Vfin,pouvoir,C/(V)\.'/V\
 923,cognoistre,cognoistre,805,Vinf,Vinf,connaître,C/V\.'C/V\.C/(e)\
 924,ordonnance,ordonnance,805,N,N,,/V\.C/V\.'C/V\.C/(e)\
-925,ne,ne,805,Crd,Crd,ne2,C/(e)\
+925,ne,ne,805,Crd,Crd,ne,C/(e)\
 926,esperer,esperer,805,Vinf,Vinf,espérer,/V\.C/e\.'C/V\
 927,fruit,fruit,806,N,N,,C/V\
 928,.,.,806,Pnc,Pnc,,
@@ -973,7 +973,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 972,description,description,810,N,N,,C/V\.C/V\.C/{V}\.'/V\
 973,demourer,demourer,810,Vinf,Vinf,demeurer,C/V\.C/V\.'C/V\
 974,",",",",810,Pnc,Pnc,,
-975,ne,ne,810,Crd,Crd,ne2,C/(e)\
+975,ne,ne,810,Crd,Crd,ne,C/(e)\
 976,ce,ce,810,Prn,Prn,ce,C/(e)\
 977,n',n',810,Neg,Neg$$,ne,C/\
 978,est,est,810,Vfin,Vfin,être,/V\
@@ -1527,7 +1527,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 1526,voulez,voulez,929,Vfin,Vfin,vouloir,C/V\.'C/V\
 1527,envieillir,envieillir,929,Vinf,Vinf,,/V\.C/V\.'C/V\
 1528,",",",",929,Pnc,Pnc,,
-1529,ne,ne,929,Crd,Crd,ne2,C/(e)\
+1529,ne,ne,929,Crd,Crd,ne,C/(e)\
 1530,quelles,quelles,929,Qux,Qux,quel,'C/V\.C/e\
 1531,assez,assez,929,Adv,Adv,assez,/V\.'C/V\
 1532,aspres,aspres,929,Adj,Adj,,'/V\.C/e\
@@ -2395,7 +2395,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 2394,aide,aide,1210,N,N,,'/V\.C/(e)\
 2395,de,de,1210,Pre,Pre,de,C/(e)\
 2396,Dieu,dieu,1210,N,N,,C/V\
-2397,ne,ne,1210,Crd,Crd,ne2,C/(e)\
+2397,ne,ne,1210,Crd,Crd,ne,C/(e)\
 2398,l',l',1210,Prn,Prn,le,C/\
 2399,accomplissement,accomplissement,1210,Vfin,Vfin,,/V\.C/V\.C/V\.C/e\.'C/V\
 2400,de,de,1210,Pre,Pre,de,C/(e)\
@@ -3067,7 +3067,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 3066,d',d',1405,Pre,Pre,de,C/\
 3067,une,une,1405,QIs,QIs,un,'/V\.C/(e)\
 3068,nuit,nuit,1405,N,N,,C/V\
-3069,ne,ne,1405,Crd,Crd,ne2,C/(e)\
+3069,ne,ne,1405,Crd,Crd,ne,C/(e)\
 3070,ne,ne,1405,Neg,Neg$$,ne,C/(e)\
 3071,souffreroient,souffreroient,1405,Vfin,Vfin,souffrir,C/V\.C/e\.'C/V\./e\
 3072,le,le,1405,Det,Det,le,C/(e)\
@@ -3113,7 +3113,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 3112,difference,difference,1409,N,N,,C/V\.C/e\.'C/V\.C/(e)\
 3113,des,des,1409,Pre+Det,Pre+Det,de.le,C/V\
 3114,estaz,estaz,1409,N,N,,/V\.'C/V\
-3115,ne,ne,1409,Crd,Crd,ne2,C/(e)\
+3115,ne,ne,1409,Crd,Crd,ne,C/(e)\
 3116,des,des,1410,Pre+Det,Pre+Det,de.le,C/V\
 3117,degrez,degrez,1410,N,N,,C/V\.'C/V\
 3118,a,a,1410,Pre,Pre,à,/V\
@@ -3323,7 +3323,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 3322,estes,estes,1428,Vfin,Vfin,être,'/V\.C/e\
 3323,vous,vous,1428,Prn,Prn%,vous,C/V\
 3324,",",",",1428,Pnc,Pnc,,
-3325,ne,ne,1428,Crd,Crd,ne2,C/(e)\
+3325,ne,ne,1428,Crd,Crd,ne,C/(e)\
 3326,quelles,quelles,1428,Qux,Qux,quel,'C/V\.C/e\
 3327,durtez,durtez,1428,N,N,,C/V\.'C/V\
 3328,avez,avez,1428,Vfin,Vfin,avoir,/V\.'C/V\
@@ -3382,7 +3382,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 3381,d',d',1501,Pre,Pre,de,C/\
 3382,yver,yver,1501,N,N,,/V\.'C/V\
 3383,",",",",1501,Pnc,Pnc,,
-3384,ne,ne,1501,Crd,Crd,ne2,C/(e)\
+3384,ne,ne,1501,Crd,Crd,ne,C/(e)\
 3385,la,la,1501,Det,Det,le,C/V\
 3386,diminucion,diminucion,1501,N,N,,C/V\.C/V\.C/V\.C/{V}\.'/V\
 3387,du,du,1501,Pre+Det,Pre+Det,de.le,C/V\
@@ -3393,7 +3393,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 3392,des,des,1501,Pre+Det,Pre+Det,de.le,C/V\
 3393,maladies,maladies,1501,N,N,,C/V\.C/V\.'C/V\./e\
 3394,contagieuses,contagieuses,1502,Adj,Adj,,C/V\.C/V\.C/V\.'C/V\.C/e\
-3395,ne,ne,1502,Crd,Crd,ne2,C/(e)\
+3395,ne,ne,1502,Crd,Crd,ne,C/(e)\
 3396,le,le,1502,Det,Det,le,C/(e)\
 3397,long,long,1502,Adj,Adj,long,C/V\
 3398,travail,travail,1502,N,N,,C/V\.'C/V\
@@ -3413,7 +3413,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 3412,fortes,fortes,1503,Adj,Adj,fort,'C/V\.C/e\
 3413,entreprises,entreprises,1503,N,N,,/V\.C/e\.'C/V\.C/e\
 3414,",",",",1503,Pnc,Pnc,,
-3415,ne,ne,1503,Crd,Crd,ne2,C/(e)\
+3415,ne,ne,1503,Crd,Crd,ne,C/(e)\
 3416,ilz,ilz,1503,Prn,Prn$,il,/V\
 3417,n',n',1504,Neg,Neg$$,ne,C/\
 3418,en,en,1504,Prn,Prn$$,en,/V\
@@ -3422,7 +3422,7 @@ wd_id,word,lex_id,textlineid,syntag,syntag2,lemma,syllabified
 3421,a,a,1504,Pre,Pre,à,/V\
 3422,mectre,mectre,1504,Vinf,Vinf,mettre,'C/V\.C/(e)\
 3423,",",",",1504,Pnc,Pnc,,
-3424,ne,ne,1504,Crd,Crd,ne2,C/(e)\
+3424,ne,ne,1504,Crd,Crd,ne,C/(e)\
 3425,champs,champs,1504,N,N,,C/V\
 3426,a,a,1504,Pre,Pre,à,/V\
 3427,tenir,tenir,1504,Vinf,Vinf,tenir,C/V\.'C/V\

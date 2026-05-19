@@ -734,7 +734,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 733,rouge,rouge,ADJ:suj:femi:sg,6,167,Adj,Adj,rouge,'C/V\.C/(e)\
 734,ausi,ausi,ADV,6,167,Adv,Adv,aussi,/V\.'C/V\
 735,comme,comme,CON:subord,6,167,Sub,Sub,comme,'C/V\.C/(e)\
-736,se,se,PROCON,6,167,Sub,Sub,si3,C/(e)\
+736,se,se,PROCON,6,167,Sub,Sub,si,C/(e)\
 737,une,une,DET:ndf:suj:femi:sg,6,167,QIs,QIs,un,'/V\.C/(e)\
 738,puce,puce,NOM:suj:femi:sg,6,167,N,N,puce,'C/V\.C/(e)\
 739,l,l',PRO:pers:obj:3:masc:sg:unb,6,167,Prn,Prn$$,le,C/\
@@ -805,7 +805,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 804,celui,celui,DET:demo:obj:masc:sg,6,169,Dem,Dem,cil,C/V\.'C/V\
 805,oil,oil,NOM:obj:masc:sg,6,169,N,N,oeil,/V\
 806,",",",",PON,6,169,Pnc,Pnc,",",
-807,se,se,PROCON,6,169,Sub,Sub,si3,C/(e)\
+807,se,se,PROCON,6,169,Sub,Sub,si,C/(e)\
 808,cele,cele,DET:demo:suj:femi:sg,6,169,Dem,Dem,cil,'C/V\.C/(e)\
 809,bocete,bocete,NOM:suj:femi:sg,6,169,N,N,bossette,C/V\.'C/V\.C/(e)\
 810,ne,ne,PRO:clit,6,169,Neg,Neg$$,ne,C/(e)\
@@ -833,7 +833,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 832,maniere,maniere,NOM:obj:femi:sg,6,170,N,N,manière,C/V\.'C/V\.C/(e)\
 833,de,de,PRE,6,170,Pre,Pre,de,C/(e)\
 834,char,char,NOM:obj:femi:sg,6,170,N,N,chair,C/V\
-835,ne,ne,PRO:clit,6,170,Crd,Crd,ne2,C/(e)\
+835,ne,ne,PRO:clit,6,170,Crd,Crd,ne,C/(e)\
 836,ne,ne,PRO:clit,6,170,Neg,Neg$$,ne,C/(e)\
 837,metoit,metoit,VER:impf:3:sg,6,170,Vfin,Vfin,mettre,C/V\.'C/V\
 838,hors,hors,ADV,6,170,PrA,PrA,hors,C/V\
@@ -903,7 +903,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 902,leur,leur,PRO:pers:dat:3:pl,6,172,Prn,Prn$$,leur,C/V\
 903,distrent,distrent,VER:simp:3:pl,6,172,Vfin,Vfin,dire,'C/V\.C/e\
 904,que,que,PROCON,6,172,Sub,Sub,que,C/(e)\
-905,se,se,PROCON,6,172,Sub,Sub,si3,C/(e)\
+905,se,se,PROCON,6,172,Sub,Sub,si,C/(e)\
 906,cele,cele,DET:demo:suj:femi:sg,6,172,Dem,Dem,cil,'C/V\.C/(e)\
 907,piece,piece,NOM:suj:femi:sg,6,172,N,N,pièce,'C/V\.C/(e)\
 908,de,de,PRE,6,172,Pre,Pre,de,C/(e)\
@@ -1004,7 +1004,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 1003,:,:,PON,6,174,Pnc,Pnc,:,
 1004,"""","""",PON:cit,6,174,Pnc,Pnc,"""",
 1005,biau,biau,ADJ:suj:masc:sg,6,174,Adj,Adj,beau,C/V\
-1006,sire,sire,NOM:suj:masc:sg,6,174,N,N,sire,'C/V\.C/(e)\
+1006,sire,sire,NOM:suj:masc:sg,6,174,N,N,seigneur,'C/V\.C/(e)\
 1007,diex,diex,NOM:suj:masc:sg,6,174,N,N,dieu,C/V\
 1008,et,et,CON:coord,6,174,Crd,Crd,et,/V\
 1009,le,le,DET:def:suj:masc:sg,6,174,Det,Det,le,C/(e)\
@@ -1137,7 +1137,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 1136,soviegne,soviegne,VER:subp:3:sg,6,176,Vfin,Vfin,souvenir,C/V\.'C/V\.C/(e)\
 1137,.,.,PON,6,176,Pnc,Pnc,.,
 1138,et,et,CON:coord,6,177,Crd,Crd,et,/V\
-1139,se,se,PROCON,6,177,Sub,Sub,si3,C/(e)\
+1139,se,se,PROCON,6,177,Sub,Sub,si,C/(e)\
 1140,je,je,PRO:pers:suj:1:sg:unb,6,177,Prn,Prn$,je,C/(e)\
 1141,l,l',PRO:pers:obj:3:masc:sg:unb,6,177,Prn,Prn$$,le,C/\
 1142,oublie,oublie,VER:pres:1:sg,6,177,Vfin,Vfin,oublier,/V\.'C/V\./(e)\
@@ -1211,7 +1211,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 1210,et,et,CON:coord,6,179,Crd,Crd,et,/V\
 1211,disoit,disoit,VER:impf:3:sg,6,179,Vfin,Vfin,dire,C/V\.'C/V\
 1212,que,que,PROCON,6,179,Sub,Sub,que,C/(e)\
-1213,se,se,PROCON,6,179,Sub,Sub,si3,C/(e)\
+1213,se,se,PROCON,6,179,Sub,Sub,si,C/(e)\
 1214,diex,diex,NOM:suj:masc:sg,6,179,N,N,dieu,C/V\
 1215,et,et,CON:coord,6,179,Crd,Crd,et,/V\
 1216,le,le,DET:def:suj:masc:sg,6,179,Det,Det,le,C/(e)\
@@ -1254,7 +1254,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 1253,pucele,pucele,NOM:obj:femi:sg,6,179,N,N,pucelle,C/V\.'C/V\.C/(e)\
 1254,",",",",PON,6,179,Pnc,Pnc,",",
 1255,et,et,CON:coord,6,179,Crd,Crd,et,/V\
-1256,se,se,PROCON,6,179,Sub,Sub,si3,C/(e)\
+1256,se,se,PROCON,6,179,Sub,Sub,si,C/(e)\
 1257,il,il,PRO:pers:suj:3:masc:sg:unb,6,179,Prn,Prn$,il,/V\
 1258,avenoit,avenoit,VER:impf:3:sg,6,179,Vfin,Vfin,advenir,/V\.C/e\.'C/V\
 1259,en,en,PRO:clit,6,179,Pre,Pre,en,/V\
@@ -1445,7 +1445,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 1444,cria,cria,VER:simp:3:sg,6,184,Vfin,Vfin,crier,C/V\.'C/V\
 1445,ausi,ausi,ADV,6,184,Adv,Adv,aussi,/V\.'C/V\
 1446,comme,comme,CON:subord,6,184,Sub,Sub,comme,'C/V\.C/(e)\
-1447,se,se,PROCON,6,184,Sub,Sub,si3,C/(e)\
+1447,se,se,PROCON,6,184,Sub,Sub,si,C/(e)\
 1448,ele,ele,PRO:pers:suj:3:femi:sg,6,184,Prn,Prn$,elle,'/V\.C/(e)\
 1449,fust,fust,VER:subi:3:sg,6,184,Vfin,Vfin,être,C/V\
 1450,pointe,pointe,VER:pper:femi:sg,6,184,Vpp,Vpp,poindre,'C/V\.C/(e)\
@@ -2186,7 +2186,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 2185,fust,fust,VER:subi:3:sg,7,203,Vfin,Vfin,être,C/V\
 2186,malade,malade,ADJ:suj:masc:sg,7,203,Adj,Adj,malade,C/V\.'C/V\.C/(e)\
 2187,",",",",PON,7,203,Pnc,Pnc,",",
-2188,ne,ne,PRO:clit,7,203,Crd,Crd,ne2,C/(e)\
+2188,ne,ne,PRO:clit,7,203,Crd,Crd,ne,C/(e)\
 2189,il,il,PRO:pers:suj:3:masc:sg:unb,7,203,Prn,Prn$,il,/V\
 2190,ne,ne,PRO:clit,7,203,Neg,Neg$$,ne,C/(e)\
 2191,se,se,PROCON,7,203,Prn,Prn$$,se,C/(e)\
@@ -2430,7 +2430,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 2429,l,l',DET:def:obj:masc:sg,7,211,Det,Det,le,C/\
 2430,autre,autre,ADJ:obj:masc:sg,7,211,Adj,Adj,autre,'/V\.C/(e)\
 2431,",",",",PON,7,211,Pnc,Pnc,",",
-2432,se,se,PROCON,7,211,Sub,Sub,si3,C/(e)\
+2432,se,se,PROCON,7,211,Sub,Sub,si,C/(e)\
 2433,ce,ce,PRO:invar,7,211,Prn,Prn,ce,C/(e)\
 2434,fust,fust,VER:subi:3:sg,7,211,Vfin,Vfin,être,C/V\
 2435,festu,festu,NOM:suj:masc:sg,7,211,N,N,fétu,C/V\.'C/V\
@@ -2521,7 +2521,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 2520,a,a,PRE,7,213,Pre,Pre,à,/V\
 2521,terre,terre,NOM:obj:femi:sg,7,213,N,N,terre,'C/V\.C/(e)\
 2522,",",",",PON,7,213,Pnc,Pnc,",",
-2523,ne,ne,PROCON,7,213,Crd,Crd,ne2,C/(e)\
+2523,ne,ne,PROCON,7,213,Crd,Crd,ne,C/(e)\
 2524,le,le,DET:def:obj:masc:sg,7,213,Det,Det,le,C/(e)\
 2525,pie,pié,NOM:obj:masc:sg,7,213,N,N,pied,C/V\
 2526,.,.,PON,7,213,Pnc,Pnc,.,
@@ -2999,7 +2999,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 2998,il,il,PRO:pers:suj:3:masc:sg:unb,7,227,Prn,Prn$,il,/V\
 2999,les,les,PRO:pers:acc:3:masc:pl,7,227,Prn,Prn$$,le,C/V\
 3000,lessa,lessa,VER:simp:3:sg,7,227,Vfin,Vfin,laisser,C/V\.'C/V\
-3001,ne,ne,PRO:clit,7,227,Crd,Crd,ne2,C/(e)\
+3001,ne,ne,PRO:clit,7,227,Crd,Crd,ne,C/(e)\
 3002,onques,onques,ADV,7,227,Adv,Adv,onques,'/V\.C/e\
 3003,puis,puis,ADV,7,227,PrA,PrA,puis,C/V\
 3004,ne,ne,PRO:clit,7,227,Neg,Neg$$,ne,C/(e)\
@@ -3068,7 +3068,7 @@ wd_id,word,lex_id,pos_nca,chapter_id,textlineid,syntag,syntag2,lemma,syllabified
 3067,alé,alé,VER:pper:masc:sg,7,228,Vpp,Vpp,aller,/V\.'C/V\
 3068,sanz,sanz,PRE,7,228,Pre,Pre,sans,C/V\
 3069,baston,baston,NOM:obj:masc:sg,7,228,N,N,bâton,C/V\.'C/V\
-3070,se,se,PROCON,7,228,Sub,Sub,si3,C/(e)\
+3070,se,se,PROCON,7,228,Sub,Sub,si,C/(e)\
 3071,il,il,PRO:pers:suj:3:masc:sg:unb,7,228,Prn,Prn$,il,/V\
 3072,eust,eust,VER:subi:3:sg,7,228,Vfin,Vfin,avoir,/(V)\.'/V\
 3073,voulu,voulu,VER:pper:masc:sg,7,228,Vpp,Vpp,vouloir,C/V\.'C/V\

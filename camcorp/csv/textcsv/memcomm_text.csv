@@ -470,7 +470,7 @@ wd_id,word,lex_id,chapter_id,syntag,syntag2,lemma,syllabified
 469,",",",",1.5,Pnc,Pnc,",",
 470,pour,pour,1.5,Pre,Pre,pour,C/V\
 471,veoir,veoir,1.5,Vinf,Vinf,voir,C/(V)\.'/V\
-472,s',s',1.5,Sub,Sub,si3,C/\
+472,s',s',1.5,Sub,Sub,si,C/\
 473,ilz,ilz,1.5,Prn,Prn$,il,/V\
 474,rencontreroient,rencontreroient,1.5,Vfin,Vfin,rencontrer,C/V\.C/V\.C/e\.'C/V\./e\
 475,riens,riens,1.5,N,N,rien,C/V\
@@ -551,7 +551,7 @@ wd_id,word,lex_id,chapter_id,syntag,syntag2,lemma,syllabified
 550,leur,leur,1.5,Prn,Prn$$,leur,C/V\
 551,fussent,fussent,1.5,Vfin,Vfin,être,'C/V\.C/e\
 552,advenuz,advenuz,1.5,Vpp,Vpp,advenir,/V\.C/e\.'C/V\
-553,si,si,1.5,Sub,Sub,si3,C/V\
+553,si,si,1.5,Sub,Sub,si,C/V\
 554,ledict,ledict,1.5,Dem,Dem,ledit,C/e\.'C/V\
 555,monsr,monsr,1.5,N,N,monsieur,C/V\.'C/V\
 556,Charles,charles,1.5,N,N,Charles,'C/V\.C/e\
@@ -1195,7 +1195,7 @@ wd_id,word,lex_id,chapter_id,syntag,syntag2,lemma,syllabified
 1194,",",",",1.5,Pnc,Pnc,",",
 1195,pour,pour,1.5,Pre,Pre,pour,C/V\
 1196,essayer,essayer,1.5,Vinf,Vinf,essayer,/V\.C/V\.'C/V\
-1197,se,se,1.5,Sub,Sub,si3,C/(e)\
+1197,se,se,1.5,Sub,Sub,si,C/(e)\
 1198,on,on,1.5,Prn,Prn$,on,/V\
 1199,pourroit,pourroit,1.5,Vfin,Vfin,pouvoir,C/V\.'C/V\
 1200,reduyre,reduyre,1.5,Vinf,Vinf,reduire,C/V\.'C/V\.C/(e)\
@@ -1225,7 +1225,7 @@ wd_id,word,lex_id,chapter_id,syntag,syntag2,lemma,syllabified
 1224,sembloit,sembloit,1.5,Vfin,Vfin,sembler,C/V\.'C/V\
 1225,bien,bien,1.5,Adv,Adv,bien,C/V\
 1226,que,que,1.5,Sub,Sub,que,C/(e)\
-1227,si,si,1.5,Sub,Sub,si3,C/V\
+1227,si,si,1.5,Sub,Sub,si,C/V\
 1228,ceulx,ceulx,1.5,Dem,Dem,cil,C/V\
 1229,-,-,1.5,Pnc,Pnc,-,
 1230,là,la,1.5,Adv,Adv,là,C/V\
@@ -1309,7 +1309,7 @@ wd_id,word,lex_id,chapter_id,syntag,syntag2,lemma,syllabified
 1308,luy,luy,1.5,Prn,Prn$$,lui,C/V\
 1309,sont,sont,1.5,Vfin,Vfin,être,C/V\
 1310,riens,riens,1.5,N,N,rien,C/V\
-1311,ne,ne,1.5,Crd,Crd,ne2,C/(e)\
+1311,ne,ne,1.5,Crd,Crd,ne,C/(e)\
 1312,qu',qu',1.5,Qux,Qux,que,C/\
 1313,il,il,1.5,Prn,Prn$,il,/V\
 1314,ne,ne,1.5,Neg,Neg$$,ne,C/(e)\
@@ -1320,7 +1320,7 @@ wd_id,word,lex_id,chapter_id,syntag,syntag2,lemma,syllabified
 1319,esbahyroit,esbahyroit,1.5,Vfin,Vfin,ébahir,/V\.C/V\.C/V\.'C/V\
 1320,bien,bien,1.5,Adv,Adv,bien,C/V\
 1321,tost,tost,1.5,Adv,Adv,tôt,C/V\
-1322,si,si,1.5,Sub,Sub,si3,C/V\
+1322,si,si,1.5,Sub,Sub,si,C/V\
 1323,le,le,1.5,Det,Det,le,C/(e)\
 1324,cas,cas,1.5,N,N,cas,C/V\
 1325,luy,luy,1.5,Prn,Prn$$,lui,C/V\
@@ -1515,7 +1515,7 @@ wd_id,word,lex_id,chapter_id,syntag,syntag2,lemma,syllabified
 1514,et,et,1.5,Crd,Crd,et,/V\
 1515,que,que,1.5,Sub,Sub,que,C/(e)\
 1516,",",",",1.5,Pnc,Pnc,",",
-1517,s',s',1.5,Sub,Sub,si3,C/\
+1517,s',s',1.5,Sub,Sub,si,C/\
 1518,il,il,1.5,Prn,Prn$,il,/V\
 1519,en,en,1.5,Prn,Prn$$,en,/V\
 1520,avoit,avoit,1.5,Vfin,Vfin,avoir,/V\.'C/V\
@@ -2272,7 +2272,7 @@ wd_id,word,lex_id,chapter_id,syntag,syntag2,lemma,syllabified
 2271,si,si,1.6,Adv,Adv,si,C/V\
 2272,belle,belle,1.6,Adj,Adj,beau,'C/V\.C/(e)\
 2273,compaignie,compaignie,1.6,N,N,compagnie,C/V\.C/V\.'C/V\./(e)\
-2274,ne,ne,1.6,Crd,Crd,ne2,C/(e)\
+2274,ne,ne,1.6,Crd,Crd,ne,C/(e)\
 2275,qui,qui,1.6,Qux,Qux,qui,C/V\
 2276,semblassent,semblassent,1.6,Vfin,Vfin,sembler,C/V\.'C/V\.C/e\
 2277,myeulx,myeulx,1.6,Adv,Adv,mieux,C/V\

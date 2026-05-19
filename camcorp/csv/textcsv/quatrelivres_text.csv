@@ -625,7 +625,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 624,te,te,3,1,8,Prn,Prn$$,te,C/(e)\
 625,valt,valt,3,1,8,Vfin,Vfin,valoir,C/V\
 626,que,que,3,1,8,Sub,Sub,que,C/(e)\
-627,si,si,3,1,8,Sub,Sub,si3,C/V\
+627,si,si,3,1,8,Sub,Sub,si,C/V\
 628,oüsses,ousses,3,1,8,Vfin,Vfin,avoir,/(V)\.'/V\.C/e\
 629,dis,dis,3,1,8,QIs,QIs,dix,C/V\
 630,enfanz,enfanz,3,1,8,N,N,enfant,/V\.'C/V\
@@ -705,10 +705,10 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 704,baillie,baillie,3,1,10,Vfin,Vfin,bailler,C/V\.'C/V\./(e)\
 705,:,:,3,1,10,Pnc,Pnc,:,
 706,‘,‘,3,1,11,Pnc,Pnc,‘,
-707,Sire,sire,3,1,11,N,N,sire,'C/V\.C/(e)\
+707,Sire,sire,3,1,11,N,N,seigneur,'C/V\.C/(e)\
 708,merciable,merciable,3,1,11,Adj,Adj,merciable,C/V\.C/V\.'C/V\.C/(e)\
 709,",",",",3,1,11,Pnc,Pnc,",",
-710,Sire,sire,3,1,11,N,N,sire,'C/V\.C/(e)\
+710,Sire,sire,3,1,11,N,N,seigneur,'C/V\.C/(e)\
 711,Deus,deus,3,1,11,N,N,dieu,C/V\
 712,puissanz,puissanz,3,1,11,Adj,Adj,puissant,C/V\.'C/V\
 713,des,des,3,1,11,Pre+Det,Pre+Det,de.le,C/V\
@@ -778,7 +778,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 777,cele,cele,3,1,11,Dem,Dem,cil,'C/V\.C/(e)\
 778,lei,lei,3,1,11,N,N,loi,C/V\
 779,",",",",3,1,11,Pnc,Pnc,",",
-780,se,se,3,1,11,Sub,Sub,si3,C/(e)\
+780,se,se,3,1,11,Sub,Sub,si,C/(e)\
 781,alcuns,alcuns,3,1,11,QIs,QIs,aucun,/V\.'C/V\
 782,par,par,3,1,11,Pre,Pre,par,C/V\
 783,vud,vud,3,1,11,N,N,voeu,C/V\
@@ -864,9 +864,9 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 863,N',n',4,1,15,Neg,Neg$$,ne,C/\
 864,ai,ai,4,1,15,Vfin,Vfin,avoir,/V\
 865,beü,beü,4,1,15,Vpp,Vpp,boire,C/(V)\.'/V\
-866,ne,ne,4,1,15,Crd,Crd,ne2,C/(e)\
+866,ne,ne,4,1,15,Crd,Crd,ne,C/(e)\
 867,vin,vin,4,1,15,N,N,vin,C/V\
-868,ne,ne,4,1,15,Crd,Crd,ne2,C/(e)\
+868,ne,ne,4,1,15,Crd,Crd,ne,C/(e)\
 869,él,él,4,1,15,Prn,Prn,el,/V\
 870,par,par,4,1,15,Pre,Pre,par,C/V\
 871,unt,unt,4,1,15,Qux,Qux,où,/V\
@@ -1361,9 +1361,9 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 1360,dist,dist,5,1,24,Vfin,Vfin,dire,C/V\
 1361,:,:,5,1,24,Pnc,Pnc,:,
 1362,‘,‘,5,1,26,Pnc,Pnc,‘,
-1363,Sire,sire,5,1,26,N,N,sire,'C/V\.C/(e)\
+1363,Sire,sire,5,1,26,N,N,seigneur,'C/V\.C/(e)\
 1364,",",",",5,1,26,Pnc,Pnc,",",
-1365,sire,sire,5,1,26,N,N,sire,'C/V\.C/(e)\
+1365,sire,sire,5,1,26,N,N,seigneur,'C/V\.C/(e)\
 1366,",",",",5,1,26,Pnc,Pnc,",",
 1367,entent,entent,5,1,26,Vfin,Vfin,entendre,/V\.'C/V\
 1368,á,a,5,1,26,Pre,Pre,à,/V\
@@ -1404,7 +1404,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 1403,lui,lui,5,1,28,Prn,Prn$,lui,C/V\
 1404,servir,servir,5,1,28,Vinf,Vinf,servir,C/V\.'C/V\
 1405,.,.,5,1,28,Pnc,Pnc,.,
-1406,Se,se,5,1,28,Sub,Sub,si3,C/(e)\
+1406,Se,se,5,1,28,Sub,Sub,si,C/(e)\
 1407,il,il,5,1,28,Prn,Prn$,il,/V\
 1408,te,te,5,1,28,Prn,Prn$$,te,C/(e)\
 1409,plaist,plaist,5,1,28,Vfin,Vfin,plaire,C/V\
@@ -1462,7 +1462,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 1461,sainz,sainz,5,2,2,Adj,Adj,saint,C/V\
 1462,cume,cume,5,2,2,Sub,Sub,comme,'C/V\.C/(e)\
 1463,li,li,5,2,2,Det,Det,le,C/V\
-1464,Sires,sires,5,2,2,N,N,sire,'C/V\.C/e\
+1464,Sires,sires,5,2,2,N,N,seigneur,'C/V\.C/e\
 1465,",",",",5,2,2,Pnc,Pnc,",",
 1466,é,e,5,2,2,Crd,Crd,et,/V\
 1467,nuls,nuls,5,2,2,QIs,QIs,nul,C/V\
@@ -1507,7 +1507,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 1506,est,est,5,2,3,Vfin,Vfin,être,/V\
 1507,de,de,5,2,3,Pre,Pre,de,C/(e)\
 1508,science,science,5,2,3,N,N,science,C/V\.'C/V\.C/(e)\
-1509,sires,sires,5,2,3,N,N,sire,'C/V\.C/e\
+1509,sires,sires,5,2,3,N,N,seigneur,'C/V\.C/e\
 1510,",",",",5,2,3,Pnc,Pnc,",",
 1511,é,e,5,2,3,Crd,Crd,et,/V\
 1512,a,a,5,2,3,Pre,Pre,à,/V\
@@ -1599,7 +1599,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 1598,.,.,5,2,5,Pnc,Pnc,.,
 1599,__,],5,2,5,Pnc,Pnc,_,
 1600,Li,li,5,2,6,Det,Det,le,C/V\
-1601,Sires,sires,5,2,6,N,N,sire,'C/V\.C/e\
+1601,Sires,sires,5,2,6,N,N,seigneur,'C/V\.C/e\
 1602,mortifie,mortifie,5,2,6,Vfin,Vfin,mortifier,C/V\.C/V\.'C/V\./(e)\
 1603,é,e,5,2,6,Crd,Crd,et,/V\
 1604,vivifie,vivifie,5,2,6,Vfin,Vfin,vivifier,C/V\.C/V\.'C/V\./(e)\
@@ -1611,7 +1611,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 1610,remeine,remeine,5,2,6,Vfin,Vfin,remener,C/V\.'C/V\.C/(e)\
 1611,.,.,5,2,6,Pnc,Pnc,.,
 1612,Li,li,5,2,7,Det,Det,le,C/V\
-1613,Sires,sires,5,2,7,N,N,sire,'C/V\.C/e\
+1613,Sires,sires,5,2,7,N,N,seigneur,'C/V\.C/e\
 1614,fait,fait,5,2,7,Vfin,Vfin,faire,C/V\
 1615,póvre,povre,5,2,7,Adj,Adj,pauvre,'C/V\.C/(e)\
 1616,é,e,5,2,7,Crd,Crd,et,/V\
@@ -1949,7 +1949,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 1948,sacrefise,sacrefise,7,2,24,N,N,sacrifice,C/V\.C/e\.'C/V\.C/(e)\
 1949,remaigne,remaigne,7,2,24,Vfin,Vfin,remanoir,C/V\.'C/V\.C/(e)\
 1950,.,.,7,2,24,Pnc,Pnc,.,
-1951,Si,si,7,2,25,Sub,Sub,si3,C/V\
+1951,Si,si,7,2,25,Sub,Sub,si,C/V\
 1952,hom,hom,7,2,25,N,N,homme,/V\
 1953,peche,peche,7,2,25,Vfin,Vfin,pécher,'C/V\.C/(e)\
 1954,vers,vers,7,2,25,Pre,Pre,vers,C/V\
@@ -1962,7 +1962,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 1961,acorder,acorder,7,2,25,Vinf,Vinf,accorder,/V\.C/V\.'C/V\
 1962,",",",",7,2,25,Pnc,Pnc,",",
 1963,é,e,7,2,25,Crd,Crd,et,/V\
-1964,s',s',7,2,25,Sub,Sub,si3,C/\
+1964,s',s',7,2,25,Sub,Sub,si,C/\
 1965,il,il,7,2,25,Prn,Prn$,il,/V\
 1966,peche,peche,7,2,25,Vfin,Vfin,pécher,'C/V\.C/(e)\
 1967,vers,vers,7,2,25,Pre,Pre,vers,C/V\
@@ -1996,7 +1996,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 1995,nient,nient,7,2,25,Prn,Prn,néant,C/{V}\.'/V\
 1996,par,par,7,2,25,Pre,Pre,par,C/V\
 1997,destresce,destresce,7,2,25,N,N,détresse,C/V\.'C/V\.C/(e)\
-1998,ne,ne,7,2,25,Crd,Crd,ne2,C/(e)\
+1998,ne,ne,7,2,25,Crd,Crd,ne,C/(e)\
 1999,par,par,7,2,25,Pre,Pre,par,C/V\
 2000,reddur,reddur,7,2,25,N,N,roideur,C/V\.'C/V\
 2001,",",",",7,2,25,Pnc,Pnc,",",
@@ -2566,7 +2566,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2565,de,de,9,3,2,Pre,Pre,de,C/(e)\
 2566,veillesce,veillesce,9,3,2,N,N,vieillesse,C/V\.'C/V\.C/(e)\
 2567,",",",",9,3,2,Pnc,Pnc,",",
-2568,ne,ne,9,3,2,Crd,Crd,ne2,C/(e)\
+2568,ne,ne,9,3,2,Crd,Crd,ne,C/(e)\
 2569,véér,veer,9,3,2,Vinf,Vinf,voir,C/(V)\.'/V\
 2570,ne,ne,9,3,2,Neg,Neg$$,ne,C/(e)\
 2571,pout,pout,9,3,2,Vfin,Vfin,pouvoir,C/V\
@@ -2666,7 +2666,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2665,Deu,deu,9,3,7,N,N,dieu,C/V\
 2666,ácuintez,acuintez,9,3,7,Vpp,Vpp,accointer,/V\.C/V\.'C/V\
 2667,",",",",9,3,7,Pnc,Pnc,",",
-2668,ne,ne,9,3,7,Crd,Crd,ne2,C/(e)\
+2668,ne,ne,9,3,7,Crd,Crd,ne,C/(e)\
 2669,la,la,9,3,7,Det,Det,le,C/V\
 2670,parole,parole,9,3,7,N,N,parole,C/V\.'C/V\.C/(e)\
 2671,Deu,deu,9,3,7,N,N,dieu,C/V\
@@ -2709,7 +2709,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2708,dist,dist,9,3,9,Vfin,Vfin,dire,C/V\
 2709,:,:,9,3,9,Pnc,Pnc,:,
 2710,‘,‘,9,3,9,Pnc,Pnc,‘,
-2711,Sire,sire,9,3,9,N,N,sire,'C/V\.C/(e)\
+2711,Sire,sire,9,3,9,N,N,seigneur,'C/V\.C/(e)\
 2712,",",",",9,3,9,Pnc,Pnc,",",
 2713,vééz,veez,9,3,9,Vfin,Vfin,voir,C/(V)\.'/V\
 2714,mei,mei,9,3,9,Prn,Prn%,moi,C/V\
@@ -2741,7 +2741,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2740,lit,lit,9,3,9,N,N,lit,C/V\
 2741,",",",",9,3,9,Pnc,Pnc,",",
 2742,é,e,9,3,9,Crd,Crd,et,/V\
-2743,se,se,9,3,9,Sub,Sub,si3,C/(e)\
+2743,se,se,9,3,9,Sub,Sub,si,C/(e)\
 2744,l',l',9,3,9,Det,Det,le,C/\
 2745,um,um,9,3,9,Prn,Prn$,on,/V\
 2746,t',t',9,3,9,Prn,Prn$$,te,C/\
@@ -2753,7 +2753,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2752,«,«,9,3,9,Pnc,Pnc,«,
 2753,Parole,parole,9,3,9,Vfin,Vfin,parler,C/V\.'C/V\.C/(e)\
 2754,",",",",9,3,9,Pnc,Pnc,",",
-2755,Sire,sire,9,3,9,N,N,sire,'C/V\.C/(e)\
+2755,Sire,sire,9,3,9,N,N,seigneur,'C/V\.C/(e)\
 2756,",",",",9,3,9,Pnc,Pnc,",",
 2757,kar,kar,9,3,9,Crd,Crd,car,C/V\
 2758,tis,tis,9,3,9,Det,Det,ton,C/V\
@@ -2791,7 +2791,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2790,‘,‘,9,3,10,Pnc,Pnc,‘,
 2791,Parole,parole,9,3,10,Vfin,Vfin,parler,C/V\.'C/V\.C/(e)\
 2792,",",",",9,3,10,Pnc,Pnc,",",
-2793,Sire,sire,9,3,10,N,N,sire,'C/V\.C/(e)\
+2793,Sire,sire,9,3,10,N,N,seigneur,'C/V\.C/(e)\
 2794,",",",",9,3,10,Pnc,Pnc,",",
 2795,kar,kar,9,3,10,Crd,Crd,car,C/V\
 2796,tis,tis,9,3,10,Det,Det,ton,C/V\
@@ -2803,7 +2803,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2802,dunc,dunc,9,3,11,Adv,Adv,donc,C/V\
 2803,dist,dist,9,3,11,Vfin,Vfin,dire,C/V\
 2804,li,li,9,3,11,Det,Det,le,C/V\
-2805,Sires,sires,9,3,11,N,N,sire,'C/V\.C/e\
+2805,Sires,sires,9,3,11,N,N,seigneur,'C/V\.C/e\
 2806,á,a,9,3,11,Pre,Pre,à,/V\
 2807,Samuel,samuel,9,3,11,N,N,Samuel,C/V\.C/V\.'C/V\
 2808,:,:,9,3,11,Pnc,Pnc,:,
@@ -2903,10 +2903,10 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2902,iert,iert,9,3,14,Vfin,Vfin,être,/V\
 2903,ja,ja,9,3,14,Adv,Adv,jà,C/V\
 2904,espurgéé,espurgee,9,3,14,Vpp,Vpp,expurger,/V\.C/V\.'C/V\./(e)\
-2905,ne,ne,9,3,14,Crd,Crd,ne2,C/(e)\
+2905,ne,ne,9,3,14,Crd,Crd,ne,C/(e)\
 2906,par,par,9,3,14,Pre,Pre,par,C/V\
 2907,duns,duns,9,3,14,N,N,don,C/V\
-2908,ne,ne,9,3,14,Crd,Crd,ne2,C/(e)\
+2908,ne,ne,9,3,14,Crd,Crd,ne,C/(e)\
 2909,par,par,9,3,14,Pre,Pre,par,C/V\
 2910,sacrefises,sacrefises,9,3,14,N,N,sacrifice,C/V\.C/e\.'C/V\.C/e\
 2911,.,.,9,3,14,Pnc,Pnc,.,
@@ -2960,7 +2960,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2959,céiles,ceiles,9,3,16,Vfin,Vfin,celer,'C/V\.C/e\
 2960,.,.,9,3,16,Pnc,Pnc,.,
 2961,É,e,9,3,16,Crd,Crd,et,/V\
-2962,si,si,9,3,16,Sub,Sub,si3,C/V\
+2962,si,si,9,3,16,Sub,Sub,si,C/V\
 2963,tu,tu,9,3,16,Prn,Prn$,tu,C/V\
 2964,le,le,9,3,16,Prn,Prn$$,le,C/(e)\
 2965,me,me,9,3,16,Prn,Prn$$,me,C/(e)\
@@ -2995,7 +2995,7 @@ wd_id,word,lex_id,para_id,ch_id,verse_id,syntag,syntag2,lemma,syllabified
 2994,respundi,respundi,9,3,18,Vfin,Vfin,répondre,C/V\.C/V\.'C/V\
 2995,:,:,9,3,18,Pnc,Pnc,:,
 2996,‘,‘,9,3,18,Pnc,Pnc,‘,
-2997,Sires,sires,9,3,18,N,N,sire,'C/V\.C/e\
+2997,Sires,sires,9,3,18,N,N,seigneur,'C/V\.C/e\
 2998,est,est,9,3,18,Vfin,Vfin,être,/V\
 2999,.,.,9,3,18,Pnc,Pnc,.,
 3000,Il,il,9,3,18,Prn,Prn$,il,/V\

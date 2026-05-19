@@ -2531,7 +2531,7 @@ wd_id,word,lemma,lemma_score,lex_id,textlineid,pos,syntag,syntag2,syllabified
 2530,appere,apparoir,9,appere,107015,VERB,Vfin,Vfin,/V\.'C/V\.C/(e)\
 2531,jeune,jeune,3,jeune,107016,ADJ,Adj,Adj,'C/V\.C/(e)\
 2532,",",",",9,",",107016,PUNCT,Pnc,Pnc,
-2533,fresche,frais,8,fresche,107016,ADJ,Adj,Adj,'C/V\.C/(e)\
+2533,fresche,frais2,8,fresche,107016,ADJ,Adj,Adj,'C/V\.C/(e)\
 2534,",",",",9,",",107016,PUNCT,Pnc,Pnc,
 2535,nouvelle,nouveau,8,nouvelle,107016,ADJ,Adj,Adj,C/V\.'C/V\.C/(e)\
 2536,",",",",9,",",107016,PUNCT,Pnc,Pnc,
