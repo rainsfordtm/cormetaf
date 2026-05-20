@@ -1,6 +1,6 @@
 # Corpus métrique de l'ancien français (CorMétAF)
 
-![DOI: 10.5281/zenodo.20312260](https://zenodo.org/badge/DOI/10.5281/zenodo.20312260.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20312260.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.20312260.svg)
 A metrically annotated corpus of Old and Middle French texts.
 
 © Tom Rainsford, Institut für Linguistik/Romanistik, University of Stuttgart, 2008-2026
