@@ -1,11 +1,12 @@
 #!/bin/bash
 
 #Global variables
-scan_file="$HOME/git/syllabic-verse-analysis-code/scan_text.py"
+scan_file="$HOME/git/sylva/scan_text.py"
 corpdir="$HOME/git/camcorp/cormetaf"
 phonemes="${corpdir}/cfg/cv-phonemes.cfg"
 unstressed="${corpdir}/cfg/unstressed_major_cats.txt"
-output="scaneval tei"
+#output="scaneval tei bin"
+output="conllu"
 
 # Alexandrines
 echo "Alexandrines"

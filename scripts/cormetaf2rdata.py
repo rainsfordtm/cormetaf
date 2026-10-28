@@ -13,9 +13,9 @@
 
 import argparse, csv, pickle, os.path, sys, textwrap
 
-CORPDIR = '/home/tmr/git/camcorp/camcorp-v'
+CORPDIR = '/home/tmr/git/camcorp/cormetaf'
 CORPDIR_PV = '/home/tmr/git/camcorp/camcorp-pv'
-METADATA = '/home/tmr/git/camcorp/camcorp-v/doc/metadata_r.csv'
+METADATA = '/home/tmr/git/camcorp/cormetaf/doc/metadata_r.csv'
 METADATA_PV = '/home/tmr/git/camcorp/camcorp-pv/doc/metadata_r.csv'
 
 TEXTS_8S = [
@@ -83,7 +83,7 @@ def _get_datapoint(syllable, textname):
     d['REF'] = '{}, l. {}, s. {}'.format(
         textname, syllable.line.d.get('line_id'), syllable.d.get('syll_in_line')
     )
-    d['LEXSTR'] = 'true' if syllable.lex_stress() else 'false'
+    d['LEXSTR'] = 'true' if syllable._lex_stress() else 'false'
     d['METPOS'] = syllable.d.get('syll_in_line')
     #d['ISRHYME'] = 'true' if syllable.is_rhyme_syll() else 'false'
     #d['ISCES'] = 'true' if syllable.is_at_cesura() else 'false'
@@ -108,7 +108,7 @@ def _get_datapoint(syllable, textname):
     # Calculate paroxytone
     d['PAROXYTONE'] = 'false'
     for word in syllable.words:
-        if word.get_prosody()[1:] == 'po' and word.syllables[-1].is_counted():
+        if word.to_dict()['prosody'][1:] == 'po' and word.syllables[-1].to_dict()['in_line'] != 'el':
             d['PAROXYTONE'] = 'true'
     # Calculate "score" according to the original stress clash
     # principles: 1 if no stress class, 0.5 if one of the
@@ -161,7 +161,8 @@ def get_datapoints(textname, text, md, export='8s'):
     else:
         line_lengths = [8]
     for syllable in text.syllables:
-        if not syllable.is_counted() or \
+        syll_d = syllable.to_dict()
+        if syll_d['in_line'] == 'el' or \
         not syllable.line.d.get('scan_ok') or \
         len(syllable.line.d['counted_sylls']) not in line_lengths or \
         (len(syllable.line.d['counted_sylls']) == 10 and syllable.line.d['cespos'] == 6): # exclude coupe italienne
@@ -206,7 +207,7 @@ def get_datapoints_an(textname, text, md):
                 print(units)
             d['METPOS'] = i+1 # Reset METPOS to the unit number
             # Reset LEXSTR to read 'true' if ANY syllable contains a LEXSTR
-            d['LEXSTR'] = 'true' if sum([x.lex_stress() for x in unit]) > 0 else 'false'
+            d['LEXSTR'] = 'true' if sum([x._lex_stress() for x in unit]) > 0 else 'false'
             d['REF'] = d['REF'][:-1] + str(i+1) # update REF
             d['ID'] = d['ID'][:-1] + str(i+1) # update ID
             # Extra properties can be added here too
@@ -238,9 +239,9 @@ def split_line(line, iterations=2):
             l1 = syllables[:n//2] # first part
             midsyll = syllables[n//2] # mid syllable
             l2 = syllables[n//2 + 1:] # second part
-            if midsyll.lex_stress(): # stress mid syllable
-                l1_stress = sum([x.lex_stress() for x in l1])
-                l2_stress = sum([x.lex_stress() for x in l2])
+            if midsyll._lex_stress(): # stress mid syllable
+                l1_stress = sum([x._lex_stress() for x in l1])
+                l2_stress = sum([x._lex_stress() for x in l2])
                 if l1_stress < l2_stress: # override default to distribute stress
                     l1.append(midsyll)
                 else:
